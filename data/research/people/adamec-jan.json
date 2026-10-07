@@ -1,0 +1,39 @@
+{
+  "slug": "adamec-jan",
+  "name_key": "adamec-jan",
+  "cele_jmeno": "Mgr. Jan Adamec",
+  "rok_narozeni": 1978,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": null, "poradi": 32},
+    {"assembly_id": "mc-praha-12", "list_cislo": 9, "poradi": 1}
+  ],
+  "role": "inkumbent",
+  "profil": "Jan Adamec je programátor a zastupitel MČ Praha 12 za Piráty, zvolen i v roce 2022 (pozice č. 1, 3835 preferenčních hlasů). V letech 2018–2022 byl starostou MČ Praha 12, po volbách 2022 ale vedení MČ nezískal a Piráti (se 8 mandáty) zůstali v opozici. Pro volby 2026 opět vede listinu Piráti Praha 12 a kandiduje i na celopražské kandidátce.",
+  "vzdelani": null,
+  "profese": "programátor",
+  "politicka_historie": [
+    {"od": "2018", "do": "2022", "funkce": "starosta MČ Praha 12", "organizace": "Piráti", "zdroj_url": null},
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel MČ Praha 12 (opozice)", "organizace": "Piráti", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako starosta v letech 2018–2022 vykonával exekutivní funkci, ale konkrétní zdrojovaný přehled jeho prosazených opatření se v rámci této rešerše nepodařilo dohledat. Jako opoziční zastupitel od 2022 nelze bilanci plnění slibů hodnotit stejnou metrikou.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 12 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "Piráti Praha 12 – web", "url": "https://praha12.pirati.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Konkrétní výsledky jeho čtyřletého starostování (2018–2022) nebyly dohledány.",
+    "Důvod, proč Piráti po volbách 2022 s 8 mandáty nebyli přizváni do koalice, nebyl dohledán.",
+    "Vzdělání (obor) a přesný rok narození nejsou nezávisle potvrzeny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

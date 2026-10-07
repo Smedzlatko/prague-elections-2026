@@ -1,0 +1,82 @@
+{
+  "cele_jmeno": "Ing. arch. Martin Valovič",
+  "rok_narozeni": 1963,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 9,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Martin Valovič je starosta MČ Praha 10 od listopadu 2022, architekt a dlouholetý podnikatel. V roce 2006 neuspěl v komunálních volbách na Praze 10, v roce 2018 byl zvolen zastupitelem (2. místo na listině ODS) a stal se místostarostou; ve volbách do ZHMP 2018 neuspěl. Ve volbách 2022 vedl koaliční listinu Společně pro Prahu 10 (ODS a TOP 09), obhájil mandát a byl zvolen starostou. Jako starosta má na starosti územní rozvoj, urbanismus, podporu podnikání a vnější vztahy, včetně koordinace rozvojového projektu Nový Eden. Je dlouholetým členem ODS a předsedou oblastního sdružení strany.",
+  "vzdelani": "Ing. arch. - architektura",
+  "profese": "architekt, podnikatel, starosta MČ Praha 10",
+  "politicka_historie": [
+    {
+      "od": "2006",
+      "do": null,
+      "funkce": "neúspěšná kandidatura do zastupitelstva MČ Praha 10",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Martin_Valovi%C4%8D"
+    },
+    {
+      "od": "2018",
+      "do": "2022",
+      "funkce": "zastupitel a místostarosta MČ Praha 10",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Martin_Valovi%C4%8D"
+    },
+    {
+      "od": "2022-11",
+      "do": null,
+      "funkce": "starosta MČ Praha 10",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Martin_Valovi%C4%8D"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Projekt Nový Eden",
+      "popis": "Jako starosta koordinuje rozvojový projekt Nový Eden a související vnější vztahy MČ.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Zdrojovaný popis rozsahu a harmonogramu projektu nebyl dohledán.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Martin Valovič",
+          "url": "https://cs.wikipedia.org/wiki/Martin_Valovi%C4%8D",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Valovič je starostou od listopadu 2022, ale zdrojovaný přehled jeho konkrétních volebních slibů z roku 2022 a jejich plnění (mimo obecně zmíněný projekt Nový Eden) nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Martin Valovič",
+      "url": "https://cs.wikipedia.org/wiki/Martin_Valovi%C4%8D",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Zdrojovaný přehled konkrétních volebních slibů z roku 2022 a jejich plnění nebyl dohledán.",
+    "Podrobnosti o projektu Nový Eden (rozsah, náklady, harmonogram) nebyly dohledány.",
+    "Cílená rešerše (WebSearch, říjen 2026) po doložené kauze, konfliktu zájmů nebo vyšetřování vztahujícím se přímo k Valovičovi nenašla nic konkrétního - jen obecnou zmínku, že je angažován v soukromých firmách se smlouvami se státem (hlidacstatu.cz), bez dokladu o konkrétním pochybení. Žádný doložený případ se tedy do dat nezaznamenává."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "valovic-martin",
+  "name_key": "valovic-martin"
+}

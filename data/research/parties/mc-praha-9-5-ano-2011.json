@@ -1,0 +1,51 @@
+{
+  "assembly_id": "mc-praha-9",
+  "list_cislo": 5,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz dohledán. ANO (s podporou ČSSD) bylo v letech 2022-2026 na Praze 9 koaličním partnerem s 6 mandáty po volbách 2022.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0.0,
+    "oduvodneni": "ANO se celostátně profiluje jako pragmaticky-centristické hnutí s populistickými prvky. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Menší koaliční partner v koalici vedené ODS/TOP 09.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "ANO bylo menším koaličním partnerem. Zdrojovaný přehled konkrétních resortů a jejich plnění za období 2022-2026 se nepodařilo dohledat – z inkumbentů na listině 2026 má exekutivní funkci z let 2022-2026 pouze nejasně doložen.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program nedohledán (0). Doveryhodnost plnění: ANO (s podporou ČSSD) bylo celé období 2022-2026 koaličním partnerem s 6 mandáty, ale v dostupných zdrojích (web MČ, tisk, Hlídač státu) se nepodařilo dohledat konkrétní resort ani samostatně připsatelné prosazené priority hnutí za toto období. Koalice podle dostupných informací vydržela celé funkční období bez zdokumentovaného rozpadu. Skóre 2 odráží chybějící doložený vlastní programový přínos, ne prokázané pochybení.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "brojirova-michaela"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 nebyl dohledán.",
+    "Nebyl dohledán přesný resort, který ANO v radě MČ Praha 9 2022-2026 zastávalo, ani konkrétní prosazené priority hnutí."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-9-5-ano-2011"
+}

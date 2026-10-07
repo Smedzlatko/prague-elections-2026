@@ -1,0 +1,46 @@
+{
+  "slug": "kozeluh-karel",
+  "name_key": "kozeluh-karel",
+  "cele_jmeno": "Mgr. Karel Koželuh",
+  "rok_narozeni": null,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-2",
+      "list_cislo": 7,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Vedoucí odboru pro právní věci Národního technického muzea, člen zastupitelstva MČ Praha 2. Dle dat ČSÚ nebyl v roce 2022 inkumbentem (nekandidoval nebo nebyl zvolen) – pro rok 2026 je lídrem samostatné listiny STAROSTOVÉ A NEZÁVISLÍ. Věk podle briefu 50 let.",
+  "vzdelani": "Právnické vzdělání (Mgr.).",
+  "profese": "Vedoucí právního odboru NTM; zastupitel MČ Praha 2.",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Nebyla dohledána exekutivní funkce v radě MČ; bez výkonné funkce nemá podle metodiky přiřazené skóre.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: STAROSTOVÉ A NEZÁVISLÍ Praha 2 - kandidáti",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165114",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození nebyl dohledán nad rámec briefu.",
+    "Přesná role a případná funkce v zastupitelstvu MČ Praha 2 2022-2026 (výbor, komise) nebyla ověřena.",
+    "Program listiny pro 2026 se nepodařilo dohledat."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

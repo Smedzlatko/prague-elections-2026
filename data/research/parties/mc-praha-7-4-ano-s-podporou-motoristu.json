@@ -1,0 +1,57 @@
+{
+  "slug": "mc-praha-7-4-ano-s-podporou-motoristu",
+  "assembly_id": "mc-praha-7",
+  "list_cislo": 4,
+  "nazev": "ANO s podporou Motoristů",
+  "zkratka": "ANO",
+  "typ": "koalice",
+  "slozeni": [
+    "ANO 2011",
+    "Motoristé sobě"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Programy do voleb - ANO s podporou Motoristů",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165145",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "ANO 2011 získalo v Praze 7 ve volbách 2022 13,62 % a 4 mandáty; pro rok 2026 kandiduje s podporou hnutí Motoristé sobě. Vlastní lokální program nebyl dohledán – web i facebookové stránky místní organizace nebyly přes dostupné zdroje nalezeny.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1,
+    "hodnotova_osa": 1,
+    "oduvodneni": "ANO 2011 je na celostátní úrovni obtížně zařaditelné na klasické ose (populistické hnutí s prvky etatismu i podnikatelské rétoriky), podpora Motoristů sobě (liberálně-konzervativní, proti regulaci automobilové dopravy) posouvá odhad k mírně pravostředovým/konzervativním pozicím. Odvozeno ze složení, ne z lokálního programu.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub ANO 2011 (4 ze 29 mandátů) vůči většině PRAHA 7 SOBĚ. Podle webu MČ jsou členy klubu Radek Mikšík, Jana Machová a Adam Kalous – oproti volbám 2022 má klub jen 3 zastupitele místo zvolených 4 (jeden mandát patrně nebyl v průběhu období obhájen nebo zastupitel odešel).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční klub bez účasti v radě MČ nemá přímou výkonnou odpovědnost; lokální program 2022 ani jeho plnění nebyly dohledány."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "konkretnost_programu = 0, program nebyl dohledán. doveryhodnost_plneni je null – opoziční klub bez exekutivní odpovědnosti.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "miksik-radek"
+  ],
+  "mezery_v_datech": [
+    "Vlastní volební program listiny pro rok 2026 nebyl dohledán.",
+    "Nebylo ověřeno, proč klub ANO 2011 v zastupitelstvu Prahy 7 v průběhu období klesl ze 4 na 3 zastupitele."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

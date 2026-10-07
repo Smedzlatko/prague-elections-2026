@@ -1,0 +1,105 @@
+{
+  "cele_jmeno": "Mgr. Ivana Cabrnochová",
+  "rok_narozeni": 1974,
+  "strana": "HNP (dříve Zelení)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 6,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Ivana Cabrnochová je ředitelka inovativní základní školy a jednatelka České asociace paraplegiků, bývalá senátorka a místostarostka/radní Prahy 10. Vystudovala Fakultu tělesné výchovy a sportu UK (2000-2006), dříve pracovala jako laboratorní technička. Od října 2006 byla zastupitelkou Prahy 10 za Zelené, v letech 2012-2014 místostarostkou pro územní rozvoj a cyklistickou infrastrukturu. V doplňovacích volbách 2014 se stala senátorkou za obvod č. 22 (Praha 10) s 15,83 % hlasů v prvním kole, mandát zastávala do roku 2016. Volby senátorky v roce 2014 byly napadeny pro umístění volebních plakátů ve školách a údajné nesrovnalosti při hlasování, soud ale výsledek potvrdil. Po roce 2018 kandidovala jako nezávislá za hnutí Pro Prahu a později SNK ED; pro volby 2026 vede listinu Naše Praha 10 (hnutí Naše Praha).",
+  "vzdelani": "Mgr. - Fakulta tělesné výchovy a sportu, Univerzita Karlova (2000-2006)",
+  "profese": "ředitelka základní školy, jednatelka České asociace paraplegiků",
+  "politicka_historie": [
+    {
+      "od": "2006-10",
+      "do": "2018",
+      "funkce": "zastupitelka MČ Praha 10 (Zelení)",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ivana_Cabrnochov%C3%A1"
+    },
+    {
+      "od": "2012",
+      "do": "2014",
+      "funkce": "místostarostka MČ Praha 10 (územní rozvoj, cyklistická infrastruktura)",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ivana_Cabrnochov%C3%A1"
+    },
+    {
+      "od": "2014",
+      "do": "2016",
+      "funkce": "senátorka za obvod č. 22 (Praha 10)",
+      "organizace": "Senát PČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ivana_Cabrnochov%C3%A1"
+    },
+    {
+      "od": "2018",
+      "do": null,
+      "funkce": "zastupitelka MČ Praha 10 (nezávislá, Pro Prahu, poté SNK ED)",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ivana_Cabrnochov%C3%A1"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Zavedení participačních rozpočtů/mikrograntů pro občanské iniciativy",
+      "popis": "Jako místostarostka prosazovala zapojení veřejnosti do velkých projektů a zavedla systém mikrograntů pro občanské iniciativy, podporovala i zachování kulturního dědictví.",
+      "stav": "dokonceno",
+      "hodnoceni": "Doložený, ale bez detailního zdroje o rozsahu a dopadu.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Ivana Cabrnochová",
+          "url": "https://cs.wikipedia.org/wiki/Ivana_Cabrnochov%C3%A1",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [
+    {
+      "nazev": "Napadení výsledku doplňovacích senátních voleb 2014",
+      "typ": "soudni",
+      "obdobi": "2014",
+      "popis": "Výsledek jejího zvolení senátorkou byl napaden pro umístění volebních plakátů v prostorách škol a údajné nesrovnalosti při hlasování.",
+      "stav": "zprosten",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Ivana Cabrnochová",
+          "url": "https://cs.wikipedia.org/wiki/Ivana_Cabrnochov%C3%A1",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako místostarostka (2012-2014) a senátorka (2014-2016) měla výkonné/zákonodárné funkce, ale zdrojovaný přehled jejích konkrétních slibů z tehdejších voleb a jejich plnění nebyl dohledán. Od roku 2026 kandiduje s novým subjektem bez mandátu z roku 2022.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Ivana Cabrnochová",
+      "url": "https://cs.wikipedia.org/wiki/Ivana_Cabrnochov%C3%A1",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán zdrojovaný přehled jejích konkrétních slibů a jejich plnění z let 2012-2016.",
+    "Nebyl dohledán přesný důvod a výsledek soudního napadení senátních voleb 2014 - kvalifikace 'zprosten' je odvozena z toho, že Wikipedia uvádí, že soud výsledek potvrdil, ne detail rozsudku."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "cabrnochova-ivana",
+  "name_key": "cabrnochova-ivana"
+}

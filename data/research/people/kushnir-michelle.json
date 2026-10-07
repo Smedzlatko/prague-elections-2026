@@ -1,0 +1,45 @@
+{
+  "slug": "kushnir-michelle",
+  "name_key": "kushnir-michelle",
+  "cele_jmeno": "Bc. Michelle Kushnir",
+  "rok_narozeni": 2000,
+  "strana": "AUTO",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 4,
+      "poradi": 3
+    }
+  ],
+  "role": "top5",
+  "profil": "Michelle Kushnir je výzkumná a vývojová pracovnice, kandiduje za hnutí Motoristé sobě na 3. místě listiny ANO s podporou Motoristů v Praze 7. Žádný další veřejný politický záznam nebyl dohledán – jde o nového kandidáta bez historie v komunální politice.",
+  "vzdelani": "Bc. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "výzkumná a vývojová pracovnice",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez historického záznamu z výkonné funkce.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 26 let v brífu k říjnu 2026 (2000), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o nového kandidáta."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

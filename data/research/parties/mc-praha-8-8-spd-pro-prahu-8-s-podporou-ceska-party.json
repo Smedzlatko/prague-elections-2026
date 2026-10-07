@@ -1,0 +1,59 @@
+{
+  "assembly_id": "mc-praha-8",
+  "list_cislo": 8,
+  "nazev": "SPD pro Prahu 8 s podporou Česká párty, PRO a Svobodní",
+  "zkratka": "SPD",
+  "typ": "koalice",
+  "slozeni": [
+    "SPD",
+    "Česká párty",
+    "PRO",
+    "Svobodní"
+  ],
+  "web": "https://www.spdpraha8.cz/",
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "spdpraha8.cz",
+        "url": "https://www.spdpraha8.cz/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "SPD byla v letech 2022-2026 na Praze 8 v opozici (jako SPD a Trikolora pro Osmičku, 3 mandáty). Web strany byl dohledán, ale konkrétní text programu pro rok 2026 se z něj nepodařilo přes WebFetch získat.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.0,
+    "hodnotova_osa": 2.5,
+    "oduvodneni": "SPD se celostátně profiluje jako národně-konzervativní, protiimigrační strana. Odhad bez lokální citace k Praze 8.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (3 mandáty po volbách 2022 jako SPD a Trikolora pro Osmičku).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční strana s malým počtem mandátů měla SPD omezený vliv na prosazení vlastních priorit. Zdrojovaný přehled konkrétních iniciativ z let 2022-2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Vlastní web existuje, ale konkrétní program se nepodařilo z něj získat. Plnění slibů nelze hodnotit – strana byla v opozici.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "novak-vitezslav"
+  ],
+  "mezery_v_datech": [
+    "Konkrétní text programu z webu spdpraha8.cz nebyl získán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-8-8-spd-pro-prahu-8-s-podporou-ceska-party"
+}

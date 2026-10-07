@@ -1,0 +1,49 @@
+{
+  "slug": "mc-praha-17-8-repsti-sousede",
+  "assembly_id": "mc-praha-17",
+  "list_cislo": 8,
+  "nazev": "Řepští sousedé",
+  "zkratka": "ŘS",
+  "typ": "strana",
+  "slozeni": [
+    "ŘS"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Nejsilnější listina z voleb 2022 (26,05 %, 7 mandátů), vedená Lukášem Pokorným, předsedou spolku Řepští sousedé a Komunitního spolku Řepy. Samostatný program pro volby 2026 nebyl dohledán – stránka na programydovoleb.cz odkazuje jen na sociální sítě (Facebook, Instagram, YouTube) bez programového webu.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "pokorny-lukas"
+  ],
+  "mezery_v_datech": [
+    "Program listiny Řepští sousedé nebyl dohledán - k dispozici jsou jen odkazy na sociální sítě, ne program."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

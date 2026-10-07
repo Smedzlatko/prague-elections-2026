@@ -1,0 +1,28 @@
+{
+  "slug": "repa-pavel",
+  "name_key": "repa-pavel",
+  "cele_jmeno": "RNDr. Pavel Řepa",
+  "rok_narozeni": 1951,
+  "strana": "BEZPP",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 1, "poradi": 27}],
+  "role": "inkumbent",
+  "profil": "Pavel Řepa je geolog, bez politické příslušnosti kandiduje za hnutí PRAHA 7 SOBĚ. V roce 2022 získal mandát zastupitele MČ Praha 7 (6841 preferenčních hlasů) v relativně vysokém věku (75 let v roce 2026). Pro rok 2026 kandiduje na 27. místě listiny. Konkrétní agenda v zastupitelstvu nebyla v dostupných zdrojích dohledána.",
+  "vzdelani": "geologie, RNDr. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "geolog, zastupitel MČ Praha 7",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 7", "organizace": "MČ Praha 7", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez exekutivní funkce, podrobné hodnocení jeho práce v zastupitelstvu nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

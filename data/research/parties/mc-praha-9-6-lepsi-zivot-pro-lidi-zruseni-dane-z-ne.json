@@ -1,0 +1,63 @@
+{
+  "assembly_id": "mc-praha-9",
+  "list_cislo": 6,
+  "nazev": "LEPŠÍ ŽIVOT PRO LIDI – zrušení daně z nemovitostí, min. mzda 50.000 Kč, min. důchod 30.000 Kč, návrat cen energií na ceny z roku 2019",
+  "zkratka": "LŽPL",
+  "typ": "strana",
+  "slozeni": [
+    "LŽPL"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Název kandidátní listiny (ČSÚ)",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500216",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Program je obsažen přímo v názvu listiny: zrušení daně z nemovitostí, minimální mzda 50 000 Kč, minimální důchod 30 000 Kč, návrat cen energií na úroveň roku 2019 a dostupné zboží v obchodech. Jde o celostátně laděné populistické požadavky bez vztahu ke konkrétní komunální agendě Prahy 9 a bez rozpočtového krytí. Kandiduje jen se 2 lidmi z 33 možných míst.",
+    "priority": [
+      {
+        "oblas": "hospodareni",
+        "oblast": "hospodareni",
+        "nazev": "Zrušení daně z nemovitostí",
+        "popis": "Zrušit daň z nemovitostí.",
+        "citace": "zrušení daně z nemovitostí",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Daň z nemovitostí je celostátní, obec ji nemůže sama zrušit – MČ ani magistrát na to nemá pravomoc; jde o celostátní požadavek nerealizovatelný na komunální úrovni."
+        },
+        "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500216"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "Požadavky na vyšší minimální mzdu a důchod a nižší daně ukazují na populistickou, sociálně orientovanou platformu bez jasné pravolevé kotvy. Odhad jen z názvu listiny.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Požadavky jsou formulované, ale bez rozpočtového krytí a bez vztahu ke komunální agendě MČ, která o dani z nemovitostí ani minimální mzdě nerozhoduje – konkrétnost nízká. Nový subjekt bez historie.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "opl-pavel"
+  ],
+  "mezery_v_datech": [
+    "Žádný vlastní web ani rozšířený program mimo název listiny nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-9-6-lepsi-zivot-pro-lidi-zruseni-dane-z-ne"
+}

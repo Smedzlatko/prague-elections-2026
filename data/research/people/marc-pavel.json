@@ -1,0 +1,36 @@
+{
+  "slug": "marc-pavel",
+  "name_key": "marc-pavel",
+  "cele_jmeno": "JUDr. Pavel Marc, LL.M.",
+  "rok_narozeni": null,
+  "strana": "Strana zelených (kandidátka PRAHA SOBĚ)",
+  "kandidatury_2026": [
+    {"assembly_id": "mc-praha-1", "list_cislo": 3, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Advokát, od voleb 2022 zastupitel MČ Praha 1 jako nezávislý kandidát na listině PRAHA 1 SOBĚ (6. místo v roce 2022), člen Finančního výboru. Pro rok 2026 vede listinu PRAHA 1 SOBĚ, která byla v roce 2022 nejsilnější listinou (22,86 %, 7 mandátů), ale skončila v opozici, protože starostku zvolila koalice TOP 09+ODS+Piráti+ANO+REZIDENTI 1. Je také předsedou SVJ. Věk podle briefu 52 let.",
+  "vzdelani": "Právnické vzdělání (JUDr., LL.M.).",
+  "profese": "Advokát; předseda SVJ; zastupitel MČ Praha 1.",
+  "politicka_historie": [
+    {"od": "2022-11", "do": "2026-10", "funkce": "zastupitel MČ Praha 1, člen Finančního výboru (opozice)", "organizace": "MČ Praha 1", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitel a člen Finančního výboru bez exekutivní funkce v radě MČ nemá podle metodiky přiřazené skóre plnění slibů (null je správná odpověď pro opozici bez výkonné funkce).",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "programydovoleb.cz: PRAHA 1 SOBĚ - kandidáti", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164100", "datum": "2026-10-03"},
+    {"nazev": "praha1sobe.cz: Volební program 2026", "url": "https://www.praha1sobe.cz/program/", "datum": "2026-10-03"}
+  ],
+  "mezery_v_datech": [
+    "Rok narození a detaily vzdělání (konkrétní fakulta) nebyly ověřeny nad rámec briefu.",
+    "Detailní bilance jeho práce ve Finančním výboru 2022-2026 (co konkrétně prosadil/odhalil) nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

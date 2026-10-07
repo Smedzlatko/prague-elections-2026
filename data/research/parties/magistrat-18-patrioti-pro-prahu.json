@@ -1,0 +1,121 @@
+{
+  "slug": "magistrat-18-patrioti-pro-prahu",
+  "assembly_id": "magistrat",
+  "list_cislo": 18,
+  "nazev": "PATRIOTI PRO PRAHU",
+  "zkratka": "Patrioti",
+  "typ": "koalice",
+  "slozeni": ["Patrioti ČR", "nezávislí kandidáti"],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "programydovoleb.cz – PATRIOTI PRO PRAHU",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164929",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org – Patrioti České republiky",
+        "url": "https://cs.wikipedia.org/wiki/Patrioti_České_republiky",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "jsmepatrioti.cz – Patrioti pro Prahu: Jdeme do voleb, protože Praha potřebuje změnu!",
+        "url": "https://www.jsmepatrioti.cz/?p=821",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Program lídra Jiřího Vítka (místostarosta Prahy 8) staví na šesti okruzích: transparentní správa (otevřené zakázky, kontrola výdajů), řešení dopravy (konec chaotických uzavírek a nekoncepčních rekonstrukcí), dostupné bydlení (regulace spekulací, podpora obecních bytů, zastavení prodeje obecních pozemků), bezpečnost (posílení městské policie, prevence kriminality), systémová pomoc bezdomovcům ochotným se vrátit do normálního života a dokončení Metropolitního plánu bez dalších odkladů. Program nekvantifikuje cíle ani termíny.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Zastavení prodeje obecních pozemků a podpora obecního bydlení",
+        "popis": "Regulovat spekulace s bydlením, podpořit obecní bytový fond a zastavit prodej obecních pozemků, aby zůstaly k dispozici pro budoucí bytovou výstavbu.",
+        "citace": "„systémové kroky k zajištění dostupných bytů“",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Zastavení prodeje obecních pozemků je v přímé pravomoci města a MČ, podpora obecního bydlení vyžaduje navíc investiční kapacitu."
+        },
+        "zdroj_url": "https://www.jsmepatrioti.cz/?p=821"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Konec chaotických uzavírek a nekoncepčních rekonstrukcí",
+        "popis": "Investice do infrastruktury a efektivní řízení oprav, aby Praha nebyla „jedna velká staveniště“.",
+        "citace": "„neustálé uzavírky, nekoncepční rekonstrukce“",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Koordinace oprav je v gesci města, ale bez konkrétního mechanismu v programu nelze posoudit reálnost zlepšení."
+        },
+        "zdroj_url": "https://www.jsmepatrioti.cz/?p=821"
+      },
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Posílení městské policie a prevence kriminality",
+        "popis": "Posílit městskou policii a zavést efektivnější prevenci kriminality se zaměřením na kapsáře, vandalismus a drogovou kriminalitu ve všech čtvrtích.",
+        "citace": "„efektivnější prevence kriminality“",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Personální posílení městské policie je v pravomoci města, konkrétní rozsah ani financování nejsou v programu uvedeny."
+        },
+        "zdroj_url": "https://www.jsmepatrioti.cz/?p=821"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Dokončení Metropolitního plánu bez dalších odkladů",
+        "popis": "Prosadit dlouhodobou strategickou vizi rozvoje města, modernizaci infrastruktury a vyvážení mezi ochranou památek a inovacemi.",
+        "citace": "„Metropolitní plán bez odkladů“",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Schvalování Metropolitního plánu je v pravomoci zastupitelstva, ale proces dlouhodobě naráží na odvolání a připomínky, které politická reprezentace nekontroluje zcela sama."
+        },
+        "zdroj_url": "https://www.jsmepatrioti.cz/?p=821"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": 2,
+    "oduvodneni": "Patrioti ČR se celostátně hlásí k konzervatismu, vlastenectví a decentralizaci s prvky přímé demokracie a rovné daně; konkrétní pražský program pro 2026 nebyl k dispozici, hodnocení proto vychází z celostátního profilu strany.",
+    "zdroje": [
+      {
+        "nazev": "cs.wikipedia.org – Patrioti České republiky",
+        "url": "https://cs.wikipedia.org/wiki/Patrioti_České_republiky",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Patrioti ČR získali v komunálních volbách 2022 na magistrátní úrovni 0,82 % hlasů (195 426 hlasů) a žádný mandát v Zastupitelstvu hl. m. Prahy; na úrovni městských částí strana dosáhla úspěchů (přibližně 40 mandátů napříč Prahou a Českem, mj. díky pozici lídra Jiřího Vítka jako místostarosty Prahy 8).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Bez mandátu na magistrátu v období 2022–2026, hodnocení plnění slibů na této úrovni proto není možné."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program pro magistrátní volby 2026 nebyl dohledán v žádné konkrétní podobě – odpovídá stupni 0. Transparentnost: dohledatelní kandidáti na listině (+1); zveřejněný program, vlastní web a financování kampaně nebyly dohledány.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["vitek-jiri"],
+  "mezery_v_datech": [
+    "Program listiny PATRIOTI PRO PRAHU pro magistrátní volby 2026 nebyl dohledán v žádné konkrétní, psané podobě.",
+    "Vlastní web kampaně pro Prahu 2026 nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

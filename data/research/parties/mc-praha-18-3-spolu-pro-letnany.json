@@ -1,0 +1,58 @@
+{
+  "slug": "mc-praha-18-3-spolu-pro-letnany",
+  "assembly_id": "mc-praha-18",
+  "list_cislo": 3,
+  "nazev": "SPOLU pro Letňany",
+  "zkratka": "SPOLU",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "Svobodní",
+    "TOP 09"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Koalice ODS, Svobodných a TOP 09, obhajující pozici v radniční koalici – lídr Ondřej Lněnička je dosavadní místostarosta, na listině i další radní a zastupitelé (Iveta Lojková – místostarostka, Milan Bušek – předseda finančního výboru, Martin Halama – radní). Samostatný lokální program pro volby 2026 nebyl na programydovoleb.cz dohledán (stránka odkazuje jen obecně na portál).",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "V letech 2022–2026 vládli předchůdci dnešní koalice SPOLU pro Letňany (samostatně kandidující ODS a TOP 09 v roce 2022, dohromady 6 mandátů z 23) společně s vítězným ANO 2011 (6 mandátů) – starostou byl Zdeněk Kučera (ANO), místostarostkou Iveta Lojková (TOP 09) a místostarostou/radním byl i zástupce ODS.",
+    "splnene_sliby": [
+      {
+        "slib": "Investice realizované za celé období radniční koalice (nové třídy ve školách/školkách, nová sportovní hala, opravy ulic a chodníků, rozšíření zdravotní péče, byty pro seniory)",
+        "dukaz": "Předvolební Letňanské listy 10/2026 ve „Slově starosty“ shrnují tyto dokončené investice za osm let vedení koalice; jde o společnou bilanci celé rady, ne jen ANO.",
+        "zdroj_url": "http://letnany.cz/letnanske-listy-2026-10"
+      }
+    ],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "SPOLU pro Letňany navazuje na koaliční partnery ODS a TOP 09, kteří byli po celé období 2022–2026 součástí radniční koalice vedené starostou Kučerou (ANO). Bilance vychází ze zpravodaje MČ (zdroj_strana) a je společná pro celou radu, ne specifická pro ODS/TOP 09 samostatně."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni 3: radniční zpravodaj dokládá řadu dokončených investic za osm let koaliční vlády, ale jde o společnou bilanci celé rady (ne specificky za ODS/TOP 09) a zdrojem je výhradně periodikum MČ (zdroj_strana). transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "lnenicka-ondrej"
+  ],
+  "mezery_v_datech": [
+    "Samostatný program koalice SPOLU pro Letňany nebyl dohledán - stránka na programydovoleb.cz neobsahuje odkaz na vlastní web s programem.",
+    "Bilance vychází ze společné zprávy celé radniční koalice (zdroj_strana), ne z podílu konkrétně ODS a TOP 09 na výsledcích."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

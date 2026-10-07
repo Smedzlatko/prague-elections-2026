@@ -1,0 +1,30 @@
+{
+  "slug": "machova-jana",
+  "name_key": "machova-jana",
+  "cele_jmeno": "Jana Machová, DiS.",
+  "rok_narozeni": 1972,
+  "strana": "ANO",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 4, "poradi": 2}],
+  "role": "inkumbent",
+  "profil": "Jana Machová je bankovní specialistka, v roce 2022 získala mandát zastupitelky MČ Praha 7 na listině ANO 2011 (1802 preferenčních hlasů) a podle webu MČ je nyní předsedkyní zastupitelského klubu ANO. Pro rok 2026 kandiduje na 2. místě listiny.",
+  "vzdelani": null,
+  "profese": "bankovní specialistka, zastupitelka MČ Praha 7, předsedkyně klubu ANO",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitelka MČ Praha 7, předsedkyně klubu ANO 2011", "organizace": "MČ Praha 7", "zdroj_url": "https://www.praha7.cz/radnice/zastupitelstvo/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Jako opoziční zastupitelka bez funkce v radě MČ nemá přímou výkonnou odpovědnost; podrobné hodnocení nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha7.cz - Zastupitelstvo MČ Praha 7", "url": "https://www.praha7.cz/radnice/zastupitelstvo/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 54 let v brífu k říjnu 2026 (1972), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

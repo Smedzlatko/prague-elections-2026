@@ -1,0 +1,34 @@
+{
+  "slug": "mahrik-viktor",
+  "name_key": "mahrik-viktor",
+  "cele_jmeno": "Viktor Mahrik",
+  "rok_narozeni": 1982,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 7, "poradi": 17},
+    {"assembly_id": "mc-praha-6", "list_cislo": 4, "poradi": 7}
+  ],
+  "role": "inkumbent",
+  "profil": "Specialista internetových výzkumů a zastupitel hl. m. Prahy za Piráty od voleb 2022 (zvolen z 6. místa s přes 67 tisíci preferenčními hlasy), předseda Výboru pro technickou infrastrukturu a vybavenost Zastupitelstva hl. m. Prahy. Pro volby 2026 kandiduje na 17. místě pražské kandidátky Pirátů a na kandidátce v Praze 6. Žádný hlubší veřejně dohledaný politický záznam mimo tuto funkci nebyl nalezen.",
+  "vzdelani": null,
+  "profese": "Specialista internetových výzkumů, předseda Výboru pro technickou infrastrukturu a vybavenost ZHMP.",
+  "politicka_historie": [
+    {"od": "2022-10", "do": null, "funkce": "zastupitel hl. m. Prahy; předseda Výboru pro technickou infrastrukturu a vybavenost ZHMP", "organizace": "Hlavní město Praha", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastává funkci předsedy výboru zastupitelstva (kontrolní/iniciační role), nikoli exekutivní funkci radního s rozpočtovou pravomocí; konkrétní výstupy nebyly dohledány.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Konkrétní výstupy Výboru pro technickou infrastrukturu a vybavenost ZHMP za jeho předsednictví nebyly v dostupných zdrojích dohledány.",
+    "Žádný rozsáhlejší veřejně dostupný životopis nad rámec dat ČSÚ nebyl nalezen."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

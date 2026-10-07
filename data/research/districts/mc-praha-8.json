@@ -1,0 +1,173 @@
+{
+  "assembly_id": "mc-praha-8",
+  "nazev": "Praha 8",
+  "charakteristika": "Praha 8 sdružuje různorodé čtvrti Karlín, Libeň, Kobylisy, Bohnice, Čimice, Troju a Ďáblice s více než 113 tisíci obyvateli – je po Praze 4, 5 a 10 jednou z nejlidnatějších MČ. Po volbách 2022 vznikla v zastupitelstvu (45 mandátů) pětikoaliční vláda ODS, ANO, TOP 09/STAN a Patriotů v čele se starostou Ondřejem Grosem (ODS). Dlouhodobě nejsledovanějším tématem je nedokončená budova radnice Nová Palmovka v Libni a rozvoj Rohanského ostrova a Karlína.",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ODS",
+      "ANO 2011",
+      "TOP 09",
+      "STAN",
+      "PATRIOTI"
+    ],
+    "starosta": {
+      "jmeno": "Ondřej Gros",
+      "strana": "ODS",
+      "slug": "gros-ondrej"
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Praha_8"
+  },
+  "zmeny_v_obdobi": [
+    "Koalice ODS, ANO, TOP 09/STAN a Patriotů disponovala po volbách 2022 27 ze 45 mandátů. Nebyly dohledány zdrojované informace o rozpadu či personálních změnách v koalici v průběhu období 2022-2026 - mezera v datech.",
+    "Jiří Vítek (lídr celopražských PATRIOTŮ PRO PRAHU) působí jako místostarosta MČ Praha 8 za Patrioty ČR, součást koalice."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Nová Palmovka",
+      "popis": "Komplex u stanice metra Palmovka měl podle návrhu architekta Josefa Pleskota spojit radnici MČ Praha 8 s obchodním centrem (nájemci mj. Lidl, Rossmann) za cca 1,13 miliardy Kč (z toho 496,1 mil. Kč nová radnice, 634,8 mil. Kč obchodní část). Stavba byla zahájena v dubnu 2014 s plánovaným dokončením v roce 2016, ale v červnu 2015 se zastavila pro spor investora se zhotovitelem Metrostavem o neuhrazené pohledávky a vlastnická práva. Spor byl vyřešen až třístrannou dohodou v prosinci 2021. Budova dlouho stála nedokončená a zchátralá (v dubnu 2024 hlášeny rozbitá okna a nekontrolovaný přístup). Dostavbu nakonec řídí hl. m. Praha, ne MČ: v budově má sídlit evropská Agentura pro vesmírný program EU (EUSPA), přestěhovaná z Holešovic, nikoliv jen radnice MČ. Praha vybrala v roce 2025 jako zhotovitele dostavby firmu PORR (nabídka cca 2,16 mld. Kč bez DPH); celkové náklady na dokončení a přestavbu byly v různých fázích vyčísleny na 2,16, posléze 2,62 a nakonec cca 2,9 miliardy Kč (pražská rada zakázku v této výši schválila). Neúspěšný uchazeč Geosan Group podal proti výběru PORR rozklad; k říjnu 2026 běžely zákonné lhůty pro námitky a smlouva s PORR ještě nebyla podepsána. Budova byla k říjnu 2026 stále jen v podobě hrubé betonové konstrukce bez zhotovitele dostavby. Dokončení je podle memoranda mezi Prahou, vládou a EU plánováno na konec roku 2026, projekt má ale podle zpráv již více než rok zpoždění a každá další právní komplikace termín dále ohrožuje; k říjnu 2026 budova NENÍ dokončena.",
+      "proc_zalezi": "Jde o nejdéle se táhnoucí a nejnákladnější stavební kauzu Prahy 8 – roky nedokončená, vandalizovaná budova v centru Libně byla symbolem špatného plánování veřejných zakázek; i po výběru zhotovitele (PORR) a navýšení rozpočtu na téměř 2,9 miliardy Kč provázejí dostavbu další zpoždění a právní spory.",
+      "zdroje": [
+        {
+          "nazev": "Pražský patriot: Dokončení Centra Nová Palmovka bude stát 2,62 miliardy korun",
+          "url": "https://www.prazskypatriot.cz/dokonceni-centra-nova-palmovka-bude-stat-2-62-miliardy-korun/",
+          "datum": "2025"
+        },
+        {
+          "nazev": "ČT24: Pražští radní schválili dokončení a přestavbu Nové Palmovky za 2,9 miliardy",
+          "url": "https://ct24.ceskatelevize.cz/clanek/regiony/prazsti-radni-schvalili-dokonceni-a-prestavbu-nove-palmovky-za-29-miliardy-353746",
+          "datum": "2026"
+        },
+        {
+          "nazev": "praha8.cz: Nová Palmovka - úřední informace o projektu",
+          "url": "https://www.praha8.cz/Nova-Palmovka.html",
+          "datum": "2026-10-02"
+        },
+        {
+          "nazev": "NašePraha.cz: Kauza Nové Palmovky – z nedokončené radnice vzniká sídlo evropské vesmírné agentury",
+          "url": "https://www.nasepraha.cz/kauza-nove-palmovky-z-nedokoncene-radnice-vznika-sidlo-evropske-vesmirne-agentury-ale-za-betonem-se-skryva-spor-o-duveru/",
+          "datum": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "nazev": "Rohanský ostrov",
+      "popis": "Rozvojová plocha na pravém břehu Vltavy v Karlíně, kde probíhá příprava protipovodňových úprav (vyhlášeno veřejné výběrové řízení na první etapu zpevnění nábřeží) a plánuje se smíšená zástavba s bydlením a sportovním využitím. Město zvažovalo ostrov i jako jednu ze čtyř možných lokalit pro zařízení pro lidi bez domova, což narazilo na odpor místních zastupitelstev.",
+      "proc_zalezi": "Rohanský ostrov je jednou z posledních velkých rozvojových ploch v blízkosti centra Prahy a jeho využití (bydlení vs. povodňová ochrana vs. sociální zařízení) je dlouhodobě sporné.",
+      "zdroje": [
+        {
+          "nazev": "Aktuálně.cz - vyhledávání: Rohanský ostrov Praha 8",
+          "url": "https://www.aktualne.cz/vyhledavani?q=Rohanský+ostrov+Praha+8",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Libeňský most",
+      "popis": "Most z 30. let 20. století (architekt Pavel Janák) spojující Libeň s Holešovicemi byl v listopadu 2025 uzavřen pro rekonstrukci. Město řeší, zda historický most zrekonstruovat, nebo postavit nový – odhad nákladů na nový most je 550-600 milionů Kč. Zvažuje se provizorní lávka/most bez tramvajové trati pro zmírnění dopravních komplikací během rekonstrukce.",
+      "proc_zalezi": "Libeňský most je klíčovou dopravní spojnicí mezi Prahou 7 a Prahou 8 a jeho uzavření výrazně zasahuje do dopravy v obou městských částech.",
+      "zdroje": [
+        {
+          "nazev": "Aktuálně.cz - vyhledávání: Libeňský most rekonstrukce",
+          "url": "https://www.aktualne.cz/vyhledavani?q=Libeňský+most+rekonstrukce",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Dostavba Nové Palmovky",
+      "stav": "probiha",
+      "popis": "Zhotovitel PORR vybrán v roce 2025, celkové náklady na dokončení postupně navýšeny na cca 2,9 mld. Kč (schváleno pražskou radou), v budově má sídlit i evropská agentura EUSPA, dokončení plánováno na konec 2026 podle memoranda Prahy, vlády a EU, projekt má podle médií zpoždění přes rok a právní spory o zhotovitele nejsou uzavřeny.",
+      "zdroje": [
+        {
+          "nazev": "ČT24: Pražští radní schválili dokončení a přestavbu Nové Palmovky za 2,9 miliardy",
+          "url": "https://ct24.ceskatelevize.cz/clanek/regiony/prazsti-radni-schvalili-dokonceni-a-prestavbu-nove-palmovky-za-29-miliardy-353746",
+          "datum": "2026"
+        }
+      ]
+    },
+    {
+      "nazev": "Rekonstrukce/náhrada Libeňského mostu",
+      "stav": "probiha",
+      "popis": "Most uzavřen od listopadu 2025, rozhoduje se mezi rekonstrukcí historického mostu a stavbou nového za 550-600 mil. Kč.",
+      "zdroje": [
+        {
+          "nazev": "Aktuálně.cz - vyhledávání: Libeňský most rekonstrukce",
+          "url": "https://www.aktualne.cz/vyhledavani?q=Libeňský+most+rekonstrukce",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [
+    {
+      "nazev": "Nedokončená stavba Nové Palmovky (2014-2021)",
+      "typ": "verejna_zakazka",
+      "obdobi": "2014-2021",
+      "popis": "Stavba kombinované radnice a obchodního centra Nová Palmovka byla zastavena v červnu 2015 pro spor investora se zhotovitelem Metrostavem o neuhrazené pohledávky a vlastnická práva ke stavbě. Budova zůstala roky nedokončená a chátrala. Spor byl vyřešen třístrannou dohodou až v prosinci 2021. Následná dostavba pod gescí hl. m. Prahy má zpoždění přes rok a náklady narostly z cca 2,16 mld. na cca 2,9 mld. Kč; k říjnu 2026 budova nebyla dokončena (stále jen hrubá betonová konstrukce) a smlouva s vybraným zhotovitelem PORR nebyla podepsána kvůli rozkladu konkurenta Geosan Group.",
+      "stav": "urovnano",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "ČT24: Pražští radní schválili dokončení a přestavbu Nové Palmovky za 2,9 miliardy",
+          "url": "https://ct24.ceskatelevize.cz/clanek/regiony/prazsti-radni-schvalili-dokonceni-a-prestavbu-nove-palmovky-za-29-miliardy-353746",
+          "datum": "2026"
+        },
+        {
+          "nazev": "praha8.cz: Nová Palmovka - úřední informace o projektu",
+          "url": "https://www.praha8.cz/Nova-Palmovka.html",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Pokuta ÚOHS za obcházení zadávacích řízení na úklid a zeleň",
+      "typ": "verejna_zakazka",
+      "obdobi": "2021-2025",
+      "popis": "ÚOHS uložil MČ Praha 8 pravomocnou pokutu 300 000 Kč za to, že v letech 2021–2023 opakovaně zadávala zakázky na úklid a péči o veřejnou zeleň přímými objednávkami bez zadávacího řízení. Starosta Ondřej Gros pokutu 3. 2. 2025 zaplatil ze svého. Opozice (Piráti, 8žije/Praha Sobě) podala trestní oznámení na neznámého pachatele a navrhla prověřit odpovědné osoby včetně starosty; mimořádné zastupitelstvo o auditu zakázek kvůli nesouhlasu koalice s programem jednání neprojednalo.",
+      "stav": "potvrzeno",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Gros uvedl, že pokutu zaplatil sám, protože zadávací řízení na danou zakázku MČ opakovaně musela zrušit pro nedostatek nabídek. Opozice jeho osobní úhradu označila za snahu „zamést problém pod stůl“.",
+      "zdroje": [
+        {"nazev": "Pražský deník – Praha 8 dostala pokutu 300 000 Kč. Zadávala práce mimo soutěž", "url": "https://prazsky.denik.cz/zpravy-region/praha-8-uohs-soutez-pokuta-sluzby/", "datum": "2025-02-06"},
+        {"nazev": "Pražský deník – Praha 8 dostala pokutu za chybné zakázky. Zaplatil ji starosta", "url": "https://prazsky.denik.cz/zpravy-region/praha-8-pokuta-uohs-starosta-zaplaceni-opozice-mimoradne-zastupitelstvo/", "datum": "2025-02-06"},
+        {"nazev": "ÚOHS – tisková zpráva", "url": "https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/verejne-zakazky/4094-mestska-cast-praha-8-resila-peci-o-verejne-prostranstvi-bez-zadavaciho-rizeni-uohs-ji-ulozil-pokutu.html", "datum": "2025-02-06"}
+      ]
+    },
+    {
+      "nazev": "Podezření z korupce kolem nákupu dezinfekce (radní Slobodník)",
+      "typ": "policejni",
+      "obdobi": "2020",
+      "popis": "V dubnu 2020 vyšlo najevo podezření, že zprostředkovatel dodávky Huawei Juraj Pavol při jednání o nákupu dezinfekce veřejných prostor MČ Praha 8 za desítky milionů Kč nabízel až 30% provizi, mimo jiné pro radního Josefa Slobodníka (ODS), který měl na starosti IT. Obchod se nakonec neuskutečnil, protože ho úřad vyhodnotil jako příliš drahý. Slobodník vinu odmítl, i tak rezignoval na funkci radního i na členství v ODS. Starosta Gros podal trestní oznámení pro podvod na Pavola. Policie v roce 2020 po podání vysvětlení Slobodníkem trestní oznámení (podané místní organizací KSČM) odložila s tím, že se nedopustil trestného činu.",
+      "stav": "odlozeno",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Slobodník odpovědnost odmítl a uvedl, že šlo o samostatnou akci Pavola, se kterou nemá nic společného; i přesto rezignoval na radního i na členství v ODS.",
+      "zdroje": [
+        {"nazev": "Pražský deník – Radní z Prahy 8 odstoupil. Kvůli podezření z korupce", "url": "https://prazsky.denik.cz/zpravy-region/radni-praha-8-slobodnik-odstoupil-podezreni-z-korupce-dezinfekce-huawei-pavol/", "datum": "2020-04-07"},
+        {"nazev": "Pražský patriot – Policie odložila vyšetřování bývalého radního Prahy 8 Slobodníka", "url": "https://www.prazskypatriot.cz/policie-odlozila-vysetrovani-byvaleho-radniho-prahy-8-slobodnika-kvuli-udajnemu-zapojeni-do-uplatku/", "datum": "2020"}
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Praha 8",
+      "url": "https://cs.wikipedia.org/wiki/Praha_8",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Brief ČSÚ - výsledky komunálních voleb 2022 Praha 8",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesná právní kvalifikace spora o Novou Palmovku (žádné trestní nebo civilní rozhodnutí o odpovědnosti nebylo dohledáno) - popsán je jen obchodní spor a jeho urovnání, ne případné pochybení MČ při zadání zakázky.",
+    "Ověřeno (říjen 2026): stavba Nové Palmovky NENÍ dokončena, jde stále jen o hrubou betonovou konstrukci; zhotovitel (PORR) ještě nemá podepsanou smlouvu kvůli rozkladu konkurenta Geosan Group proti výběrovému řízení.",
+    "Nebyly dohledány podrobnosti o personálních změnách v radě MČ Praha 8 v průběhu období 2022-2026."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

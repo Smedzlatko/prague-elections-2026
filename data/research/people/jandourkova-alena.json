@@ -1,0 +1,29 @@
+{
+  "slug": "jandourkova-alena",
+  "name_key": "jandourkova-alena",
+  "cele_jmeno": "Bc. Alena Janďourková",
+  "rok_narozeni": 1986,
+  "strana": "BEZPP",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 4, "poradi": 3}],
+  "role": "inkumbent",
+  "profil": "Alena Janďourková se v neziskovém sektoru věnuje systémové podpoře ředitelů škol a rozvoji vzdělávání, bez politické příslušnosti kandiduje za PRAHA 5 SOBĚ. Podle vlastního popisu bývalá radní Prahy 5 pro školství; v roce 2022 získala mandát (5532 preferenčních hlasů). Pro rok 2026 kandiduje na 3. místě listiny.",
+  "vzdelani": "Bc. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "pracovnice v neziskovém sektoru (podpora ředitelů škol), bývalá radní MČ Praha 5 pro školství",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitelka MČ Praha 5, dříve radní pro školství", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Měla výkonnou funkci (radní pro školství), ale podrobný zdrojovaný seznam jejích slibů a jejich plnění nebyl dohledán.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 40 let v brífu k říjnu 2026 (1986), neověřeno.",
+    "Přesné datum konce její funkce radní nebylo dohledáno."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

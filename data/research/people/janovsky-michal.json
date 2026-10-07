@@ -1,0 +1,45 @@
+{
+  "slug": "janovsky-michal",
+  "name_key": "janovsky-michal",
+  "cele_jmeno": "Mgr. Michal Janovský",
+  "rok_narozeni": 1968,
+  "strana": "bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 18,
+      "poradi": 3
+    }
+  ],
+  "role": "jiny",
+  "profil": "Michal Janovský je podle vlastního životopisu učitel na gymnáziu a kandiduje na třetím místě celopražské listiny PATRIOTI PRO PRAHU. Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný veřejně dostupný záznam o jeho politickém působení.",
+  "vzdelani": "vysokoškolské pedagogické (titul Mgr.)",
+  "profese": "učitel na gymnáziu",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – PATRIOTI PRO PRAHU",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164929",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku 58 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "mc-praha-15-5-koruna-ceska-monarchisticka-strana-cech",
+  "assembly_id": "mc-praha-15",
+  "list_cislo": 5,
+  "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+  "zkratka": "Koruna Česká",
+  "typ": "strana",
+  "slozeni": [
+    "Koruna Česká"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164785",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Jednočlenná listina (jen lídr) bez dohledaného programu. Transparentnost +1 za zápisy zastupitelstva.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "pasingr-erik"
+  ],
+  "mezery_v_datech": [
+    "Program nebyl dohledán.",
+    "Listina má jen jednoho kandidáta, reálná šance na mandát je minimální."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

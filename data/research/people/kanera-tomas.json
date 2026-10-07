@@ -1,0 +1,76 @@
+{
+  "slug": "kanera-tomas",
+  "name_key": "kanera-tomas",
+  "cele_jmeno": "Bc. Tomáš Kaněra",
+  "rok_narozeni": 1979,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 6,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Tomáš Kaněra je starostou MČ Praha 22 (Uhříněves) za ANO 2011, přestože ANO ve volbách 2022 skončilo až druhé (5 mandátů z 25) za vítězným STAN (6 mandátů). Podle anonymizovaného zápisu z ustavujícího zasedání ZMČ (19. 10. 2022) ho zvolila koalice ANO 2011, Společně pro Prahu 22 a DvacetDvojka+SVOBODNÍ (15 z 25 mandátů), zatímco vítězné STAN zůstalo v opozici; konkrétní důvod, proč STAN mimo koalici zůstalo, není v zápisu zaznamenán. Je také členem správní rady Nadačního fondu Bezpečná Praha a předsedou fotbalového klubu SK Čechie Uhříněves.",
+  "vzdelani": null,
+  "profese": "Starosta MČ Praha 22.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "starosta MČ Praha 22",
+      "organizace": "MČ Praha 22",
+      "zdroj_url": "https://www.praha22.cz/mestska-cast/volene-organy/starosta/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Svolání mimořádného zasedání zastupitelstva na den komunálních voleb 2022",
+      "typ": "stranicky",
+      "obdobi": "2022-09",
+      "popis": "Devět opozičních zastupitelů (STAN, Praha 22 Naše město) požádalo 9. 9. 2022 o svolání mimořádného zasedání k zastavené výstavbě polyfunkčního domu s MŠ v Pitkovicích a k přístavbě ZŠ provozované bez kolaudace. Kaněra zasedání svolal na sobotu 24. 9. 2022 – den komunálních voleb, kdy zastupitelům k večeru zaniká mandát, takže zasedání nemohlo přijímat usnesení.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Kaněra zdůvodnil termín dodržením zákonné patnáctidenní lhůty pro svolání mimořádného zasedání a požadavek opozice označil za „pouhý politický trik, který se snaží zneužít a ohnout zákon“ (Blesk.cz, 19. 9. 2022).",
+      "zdroje": [
+        {
+          "nazev": "Blesk.cz: Uhříněves: Starosta svolal jednání zastupitelů na den voleb. Už nebudou mít mandát",
+          "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/723344/boure-na-radnici-v-uhrinevsi-starosta-svolal-jednani-zastupitelu-na-den-voleb-uz-nebudou-mit-mandat.html",
+          "datum": "2022-09-19"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako starosta nese hlavní exekutivní odpovědnost za MČ, podrobný slib-po-slibu audit volebního programu ANO z roku 2022 se však nepodařilo dohledat – viz data/research/parties/mc-praha-22-6-ano-2011.json.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "praha22.cz - starosta",
+      "url": "https://www.praha22.cz/mestska-cast/volene-organy/starosta/",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Anonymizovaný zápis z ustavujícího zasedání ZMČ Praha 22 č. 6/2022",
+      "url": "https://www.praha22.cz/data/kontakty/zasedani/zapis-z-jednani-6-2022-1045_1.pdf",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný důvod, proč vítězné STAN zůstalo mimo koalici (viz districts/mc-praha-22.json), není v dostupných zápisech zaznamenán.",
+    "Politická historie před rokem 2022 nebyla dohledána.",
+    "Cíleně ověřeno přes WebSearch: mimo spor o svolání zasedání na den voleb 2022 (viz pripady) nebyla dohledána žádná další kauza, trestní oznámení ani konflikt zájmů."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

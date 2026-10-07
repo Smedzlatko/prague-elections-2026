@@ -1,0 +1,69 @@
+{
+  "slug": "janisova-hana",
+  "name_key": "janisova-hana",
+  "cele_jmeno": "Mgr. Hana Janišová",
+  "rok_narozeni": 1962,
+  "strana": "DSZ - ZA PRÁVA ZVÍŘAT a NK (koalice S.O.S. ZA PRÁVA ZVÍŘAT – Demokratická strana zelených)",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 17, "poradi": 1},
+    {"assembly_id": "mc-praha-vinor", "list_cislo": 3, "poradi": 8}
+  ],
+  "role": "lidr",
+  "profil": "Mgr. Hana Janišová (64 let, bydliště Praha-Vinoř) je absolventka DAMU (obor organizace a řízení a scenáristika, 1984–1987) a od roku 1990 předsedkyně Pražského spolku ochránců zvířat, kde rovněž provozuje útulek pro kočky. Profesně pracovala jako PR manažerka (Český Telecom 1998–2000, Skanska 2000–2002, Pražská hospodářská komora 2002–2005, Asseco Solutions od 2005). Politicky se dlouhodobě profiluje na téma práv zvířat: v komunálních volbách 2018 a 2022 vedla v Praze samostatné listiny „S.O.S. ZA PRÁVA ZVÍŘAT“ (zisky 0,08 % a 0,18 %, bez zvolení), v roce 2021 kandidovala do Poslanecké sněmovny za Alianci pro budoucnost, a ve volbách do Evropského parlamentu 2024 vedla kandidátku Demokratické strany zelených – Za práva zvířat (546 preferenčních hlasů, strana získala 0,41 %, bez zvolení). Pro volby 2026 vede magistrátní listinu DSZ – ZA PRÁVA ZVÍŘAT a NK a zároveň kandiduje i na lokální úrovni v MČ Praha-Vinoř (8. místo listiny Vinořáci – Alternativa pro Vinoř).",
+  "vzdelani": "Mgr., DAMU – organizace a řízení, scenáristika (1984–1987); střední pedagogická škola (1977–1981)",
+  "profese": "PR manažerka (Asseco Solutions), předsedkyně Pražského spolku ochránců zvířat",
+  "politicka_historie": [
+    {"od": "2018", "do": "2018", "funkce": "lídryně listiny S.O.S. ZA PRÁVA ZVÍŘAT (komunální volby, bez zvolení, 0,08 %)", "organizace": "nezávislá", "zdroj_url": "https://cs.wikipedia.org/wiki/Hana_Jani%C5%A1ov%C3%A1"},
+    {"od": "2021", "do": "2021", "funkce": "kandidátka do Poslanecké sněmovny, 2. místo", "organizace": "Aliance pro budoucnost", "zdroj_url": "https://cs.wikipedia.org/wiki/Hana_Jani%C5%A1ov%C3%A1"},
+    {"od": "2022", "do": "2022", "funkce": "lídryně listiny ZA PRÁVA ZVÍŘAT (komunální volby, bez zvolení, 0,18 %)", "organizace": "nezávislá", "zdroj_url": "https://cs.wikipedia.org/wiki/Hana_Jani%C5%A1ov%C3%A1"},
+    {"od": "2024", "do": "2024", "funkce": "lídryně kandidátky do Evropského parlamentu (546 preferenčních hlasů, strana 0,41 %, bez zvolení)", "organizace": "Demokratická strana zelených – Za práva zvířat", "zdroj_url": "https://www.irozhlas.cz/volby/hana-janisova-zeleni-zvirata-evropsky-parlament_2405130600_bko"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Nikdy nezastávala volenou výkonnou funkci; opakovaně kandiduje bez zvolení, nelze hodnotit plnění slibů v exekutivní roli.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": "Dlouholetá předsedkyně a provozovatelka útulku Pražského spolku ochránců zvířat – přímá vazba na hlavní programové téma kandidatury (práva zvířat), nejde o doložený konflikt zájmů."
+  },
+  "citace": [
+    {
+      "text": "Green Deal je hrubě nedopracovaná záležitost.",
+      "kontext": "Vyjádření k evropské klimatické politice v rozhovoru pro ČT24 v souvislosti s eurovolbami 2024.",
+      "zdroj_url": "https://ct24.ceskatelevize.cz/clanek/domaci/green-deal-je-hrube-nedopracovana-zalezitost-rika-janisova-za-demokratickou-stranu-zelenych-349757",
+      "datum": "2024-05"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 a MČ Praha-Vinoř 2026 (data/core/candidates_2026.json)",
+      "url": "https://volby.cz",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Wikipedie – Hana Janišová",
+      "url": "https://cs.wikipedia.org/wiki/Hana_Jani%C5%A1ov%C3%A1",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "iROZHLAS – Rozhovor s Hanou Janišovou, lídryní kandidátky Demokratické strany zelených",
+      "url": "https://www.irozhlas.cz/volby/hana-janisova-zeleni-zvirata-evropsky-parlament_2405130600_bko",
+      "datum": "2024-05-13"
+    },
+    {
+      "nazev": "ČT24 – Green Deal je hrubě nedopracovaná záležitost, říká Janišová za Demokratickou stranu zelených",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/green-deal-je-hrube-nedopracovana-zalezitost-rika-janisova-za-demokratickou-stranu-zelenych-349757",
+      "datum": "2024-05"
+    }
+  ],
+  "mezery_v_datech": [
+    "Wikipedie uvádí bydliště Praha 8, brief ČSÚ k volbám 2026 uvádí Praha-Vinoř – nejde nutně o rozpor (mohlo dojít ke stěhování), ale přesné aktuální bydliště k říjnu 2026 nebylo nezávisle potvrzeno.",
+    "Povolání v brífu pro kandidaturu ve Vinoři je uvedeno jako „redaktorka“, odlišně od „předsedkyně Pražského spolku ochránců zvířat“ u magistrátní kandidatury – obě zřejmě odpovídají téže osobě (shodné jméno, titul i bydliště), ale nezávisle nepotvrzeno."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

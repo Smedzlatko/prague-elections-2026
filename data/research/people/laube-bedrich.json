@@ -1,0 +1,62 @@
+{
+  "cele_jmeno": "Bc. Bedřich Laube",
+  "rok_narozeni": 1969,
+  "strana": "Svobodní",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-9",
+      "list_cislo": 1,
+      "poradi": 1
+    },
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 15,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Bedřich Laube je manažer v autoprůmyslu a dopravě, zastupitel MČ Praha 9 a lídr celopražské kandidátky strany Svobodní do Zastupitelstva hl. m. Prahy pro volby 2026. Ve volbách 2022 byl zvolen na 1. místě koaliční listiny SPD/Svobodní s 1075 preferenčními hlasy. Pro komunální volby 2026 na Praze 9 vede koalici SPD a Svobodní, zároveň vede celopražskou listinu Svobodných. Program strany Svobodní pro magistrát se nepodařilo dohledat v konkrétní podobě – strana na programydovoleb.cz odkazuje jen na facebookový příspěvek.",
+  "vzdelani": null,
+  "profese": "manažer v autoprůmyslu a dopravě",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 9 (opozice)",
+      "organizace": "MČ Praha 9",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500216"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitel bez výkonné funkce nelze plnění slibů hodnotit – zdrojovaný přehled jeho konkrétních iniciativ nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Praha 9 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500216",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – Svobodní",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164159",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu se nepodařilo dohledat další veřejný záznam o osobě (Wikipedie o něm nemá dohledaný článek)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "laube-bedrich",
+  "name_key": "laube-bedrich"
+}

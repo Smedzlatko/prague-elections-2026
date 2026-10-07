@@ -1,0 +1,79 @@
+{
+  "slug": "kaplan-tomas",
+  "name_key": "kaplan-tomas",
+  "cele_jmeno": "Mgr. Tomáš Kaplan",
+  "rok_narozeni": 1972,
+  "strana": "KDU-ČSL",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 5,
+      "poradi": 5
+    },
+    {
+      "assembly_id": "mc-praha-4",
+      "list_cislo": 7,
+      "poradi": 4
+    }
+  ],
+  "role": "top5",
+  "profil": "Tomáš Kaplan je advokát zaměřený na obchodní a občanské právo, zastupitel MČ Praha 4 (zvolen 2018, obhájeno 2022) a od března 2022 předseda pražské organizace KDU-ČSL. V lednu 2026 byl zvolen lídrem KDU-ČSL pro volby do Zastupitelstva hl. m. Prahy 2026 – konkrétně v koalici s hnutím PRAHA SOBĚ a Zelenými, kde je na celopražské listině na pátém místě. V říjnu 2024 neúspěšně kandidoval na celostátního předsedu KDU-ČSL (ve druhém kole volby obdržel 21 hlasů a nepostoupil). Dříve předsedal místnímu spolku „Naše Michle“.",
+  "vzdelani": "Právnická fakulta Univerzity Karlovy v Praze",
+  "profese": "advokát, zastupitel MČ Praha 4",
+  "politicka_historie": [
+    {
+      "od": "2018",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 4 (obhájeno 2022)",
+      "organizace": "MČ Praha 4",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Kaplan_(politik)"
+    },
+    {
+      "od": "2022-03",
+      "do": null,
+      "funkce": "předseda pražské organizace KDU-ČSL (zvolen proti Vítu Šollemu)",
+      "organizace": "KDU-ČSL",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Kaplan_(politik)"
+    },
+    {
+      "od": "2024-10",
+      "do": null,
+      "funkce": "neúspěšná kandidatura na celostátního předsedu KDU-ČSL (21 hlasů, nepostoupil)",
+      "organizace": "KDU-ČSL",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Kaplan_(politik)"
+    },
+    {
+      "od": "2026-01",
+      "do": null,
+      "funkce": "lídr KDU-ČSL pro volby do ZHMP 2026 (koalice s PRAHA SOBĚ a Zelenými)",
+      "organizace": "KDU-ČSL / PRAHA SOBĚ",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Kaplan_(politik)"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako zastupitel MČ Praha 4 (nikoli radní/starosta) nemá výkonnou funkci srovnatelnou s místostarostou – podle metodiky bez výkonné funkce skóre null.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Tomáš Kaplan (politik)",
+      "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Kaplan_(politik)",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Jeho zvolení lídrem pražské KDU-ČSL pro koalici s PRAHA SOBĚ je důležitý doklad reálné podoby koalice PRAHA SOBĚ - KDU-ČSL - Zelení pro rok 2026, ale přesné podmínky koaliční smlouvy nebyly dohledány.",
+    "Pozor na záměnu jmenovce: existuje i Tomáš Kaplan, bývalý fotbalový útočník (nar. 1978) - v datech je použita osoba politika/advokáta (nar. 1972) podle brífu (advokát, zastupitel Prahy 4)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

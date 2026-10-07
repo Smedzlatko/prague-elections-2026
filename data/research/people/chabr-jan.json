@@ -1,0 +1,40 @@
+{
+  "slug": "chabr-jan",
+  "name_key": "chabr-jan",
+  "cele_jmeno": "Mgr. Jan Chabr",
+  "rok_narozeni": 1988,
+  "strana": "TOP 09",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 12, "poradi": 8},
+    {"assembly_id": "mc-praha-6", "list_cislo": 9, "poradi": 10}
+  ],
+  "role": "inkumbent",
+  "profil": "Jan Chabr je zastupitel hl. m. Prahy (od 2018) a zastupitel MČ Praha 6 (od 2016), manažer a analytik v energetice. V letech 2018-2023 byl radním hl. m. Prahy pro správu majetku a majetkových podílů, kde vedl majetkovou a inventarizační komisi a dohlížel na pražské energetické a další městské firmy. Zaměřoval se na transparentnost nakládání s městským majetkem a prosazoval audity městských společností. V Praze 6 obhajoval mandát za TOP 09 v roce 2022 (7. místo, 5250 preferenčních hlasů) a pro rok 2026 kandiduje na lokální kandidátce TOP 09 na 10. místě.",
+  "vzdelani": null,
+  "profese": "manažer a analytik v energetice",
+  "politicka_historie": [
+    {"od": "2011", "do": null, "funkce": "člen TOP 09", "organizace": "TOP 09", "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Chabr"},
+    {"od": "2016-11", "do": null, "funkce": "zastupitel MČ Praha 6 (obhájeno 2022)", "organizace": "MČ Praha 6", "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Chabr"},
+    {"od": "2018", "do": null, "funkce": "zastupitel hl. m. Prahy", "organizace": "Hlavní město Praha", "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Chabr"},
+    {"od": "2018", "do": "2023-02", "funkce": "radní hl. m. Prahy pro správu majetku a majetkových podílů", "organizace": "Hlavní město Praha", "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Chabr"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Chabr měl v letech 2018-2023 výkonnou funkci radního pro majetek, ale po skončení mandátu v únoru 2023 (v souvislosti s nástupem nové rady po zvolení primátora Svobody) nebyl dohledán zdrojovaný přehled konkrétních výsledků jeho agendy (audity, revize městských firem).",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "cs.wikipedia.org: Jan Chabr", "url": "https://cs.wikipedia.org/wiki/Jan_Chabr", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obor) se nepodařilo dohledat.",
+    "Přesný rok narození (1988) je odhad z udaného věku 38 let v brífu k říjnu 2026.",
+    "Chybí doložený přehled konkrétních auditů/revizí majetku, které jako radní prosadil."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

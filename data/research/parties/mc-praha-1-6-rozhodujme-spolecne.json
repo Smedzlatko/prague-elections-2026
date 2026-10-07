@@ -1,0 +1,52 @@
+{
+  "slug": "mc-praha-1-6-rozhodujme-spolecne",
+  "assembly_id": "mc-praha-1",
+  "list_cislo": 6,
+  "nazev": "Rozhodujme společně",
+  "zkratka": "Rozhodujme společně",
+  "typ": "sdruzeni nezavislych kandidatu",
+  "slozeni": [
+    "KDU-ČSL",
+    "NK",
+    "Volt"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Lídr Petr Rachunek je autorem projektu Občanského shromáždění Prahy 1 a koordinátorem participace MČ – jde o listinu postavenou na tématu občanské participace, nikoliv na jasné levo-pravé profilaci.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": null,
+    "role": "Ivana Antalová (č. 2) byla radní Prahy 1 a zastupitelkou zvolenou v roce 2022 (1311 pref. hlasů); nebylo ověřeno, pod jakou listinou v roce 2022 kandidovala ani její příslušnost ke koalici/opozici.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": null
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program se nepodařilo dohledat.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "rachunek-petr"
+  ],
+  "mezery_v_datech": [
+    "Program listiny se nepodařilo dohledat.",
+    "Nebylo ověřeno, pod jakou listinou kandidovala Ivana Antalová v roce 2022 a zda v tomto období náležela k radniční koalici."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

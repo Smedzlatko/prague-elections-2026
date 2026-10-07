@@ -1,0 +1,53 @@
+{
+  "slug": "tomankova-sona",
+  "name_key": "tomankova-sona",
+  "cele_jmeno": "Soňa Tománková",
+  "rok_narozeni": 1978,
+  "strana": "NAŠE Čtrnáctka",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-14",
+      "list_cislo": 5,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Soňa Tománková je zakladatelkou a předsedkyní hnutí NAŠE Čtrnáctka a místostarostkou MČ Praha 14. Listina v roce 2022 získala 3 mandáty z 31 (9,93 %). Pro volby 2026 vede program navazující na dosavadní práci radnice (projekt areálu Čihadla, prevence kriminality, nové vlakové zastávky).",
+  "vzdelani": null,
+  "profese": "Místostarostka MČ Praha 14, zakladatelka a předsedkyně hnutí NAŠE Čtrnáctka.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "místostarostka MČ Praha 14",
+      "organizace": "MČ Praha 14",
+      "zdroj_url": "https://nasectrnactka.cz/#program"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako místostarostka nese spoluodpovědnost za chod radnice, podrobný nezávislý audit jejího resortu se však nepodařilo dohledat – program 2026 prezentuje pokračování rozpracovaných projektů (areál Čihadla, prevence kriminality) jako vlastní bilanci, nikoli nezávisle ověřenou.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "NAŠE Čtrnáctka - volební program",
+      "url": "https://nasectrnactka.cz/#program",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní resort a výsledky práce místostarostky Tománkové nebyly samostatně ověřeny nezávislým zdrojem.",
+    "Politická historie před rokem 2022 nebyla dohledána."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

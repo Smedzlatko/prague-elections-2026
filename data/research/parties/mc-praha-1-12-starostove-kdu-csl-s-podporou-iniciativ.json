@@ -1,0 +1,65 @@
+{
+  "slug": "mc-praha-1-12-starostove-kdu-csl-s-podporou-iniciativ",
+  "assembly_id": "mc-praha-1",
+  "list_cislo": 12,
+  "nazev": "Starostové, KDU-ČSL s podporou Iniciativy občanů (My, co tady žijeme)",
+  "zkratka": "My, co tady žijeme",
+  "typ": "koalice",
+  "slozeni": [
+    "STAN",
+    "KDU-ČSL",
+    "Iniciativa občanů"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "praha1.kdu.cz - sekce Program pro Prahu 1",
+        "url": "https://praha1.kdu.cz/program_pro_prahu_1/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Vyhledávání Seznam.cz - program koalice Starostové/KDU-ČSL/Iniciativa občanů Praha 1 2026",
+        "url": "https://search.seznam.cz/?q=Starostov%C3%A9+KDU-%C4%8CSL+Iniciativa+ob%C4%8Dan%C5%AF+Praha+1+program+2026",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "STAN a KDU-ČSL jsou celostátně umírněně středové/center-right subjekty; lokální program se nepodařilo dohledat, hodnocení je odvozeno z celostátního profilu koaličních partnerů.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "V roce 2022 kandidovala pod názvem „My, co tady žijeme – Starostové a nezávislí, KDU-ČSL, Iniciativa…“ a získala 13,15 % a 4 mandáty. Lídr Petr Hejma (STAN) byl starostou Prahy 1 od ledna 2020 do 9. 11. 2022, kdy jej coby nového starostu nahradila Terezie Radoměřská (TOP 09) zvolená koalicí ODS+TOP09+Piráti+ANO+REZIDENTI1 – sdružení Hejmy tak po volbách 2022 skončilo v opozici.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Petr Hejma vedl radnici Prahy 1 do listopadu 2022, poté jeho sdružení přešlo do opozice. Detailní bilance jeho působení coby starosty (2020-2022) i opoziční práce (2022-2026) nebyla v rešerši dohledána."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program se nepodařilo dohledat.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "hejma-petr"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 se nepodařilo dohledat i přes opakovaný pokus: stránka praha1.kdu.cz/program_pro_prahu_1/ obsahuje jen starý program 'Změna pro Prahu 1' z let 2010-2014 (přiložený soubor Volebni_program_2010-2014_Zmena_pro_Prahu_1.doc), ne aktuální program; vyhledávání Seznam.cz i přímo potvrdilo (přes zdroj termiter.cz), že koalice ucelený program pro 2026 nezveřejnila nebo se jej nepodařilo dohledat.",
+    "Detailní bilance Hejmova působení jako starosty (2020-2022) a následné opoziční role (2022-2026) nebyla ověřena zdrojem.",
+    "Program nedohledán i přes opakovaný WebSearch (ověřeno 2026-10-03): zkoušeno \"KDU-ČSL Praha 1 program 2026 Burgr Iniciativa občanů Hejma volby\" – nalezeny jen články o koaličních změnách z let 2020/2022, žádný programový dokument pro 2026. Dohledáno jen pořadí kandidátky (2. místo Petr Burgr, KDU-ČSL, místostarosta; 3. místo Michal Caban, Iniciativa občanů, zastupitel) – bez vlastního programového textu.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „Starostové KDU-ČSL Iniciativa občanů „My, co tady žijeme“ Praha 1 volební program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

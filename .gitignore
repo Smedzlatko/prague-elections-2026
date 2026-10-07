@@ -1,0 +1,11 @@
+# stažená data ČSÚ (obnoví scripts/fetch_csu.sh)
+.cache/
+# generované výstupy (sestaví scripts/build_site.py, resp. CI)
+dashboard/data/
+public/
+.briefs/
+__pycache__/
+# lokální a osobní
+.screens/
+.claude/
+SESSION.md

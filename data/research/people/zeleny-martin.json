@@ -1,0 +1,77 @@
+{
+  "slug": "zeleny-martin",
+  "name_key": "zeleny-martin",
+  "cele_jmeno": "Ing. Martin Zelený, Ph.D.",
+  "rok_narozeni": null,
+  "strana": "Piráti a nezávislí kandidáti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-16",
+      "list_cislo": 4,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Ekonom, lídr listiny Piráti a nezávislí kandidáti v MČ Praha 16 (Radotín). V roce 2022 obhájil jediný mandát získaný touto listinou (10,61 % hlasů) a je od té doby jediným opozičním zastupitelem mimo koalici ODS a Společně pro Radotín. V radničním zpravodaji Radotínské noviny pravidelně publikuje opoziční komentáře – mimo jiné k budoucnosti kina Radotín (rodinná vazba na historii kina) a k řešení přestavby obchodního centra Berounka, kde kritizuje pozdní a nekoncepční postup radnice.",
+  "vzdelani": "Ing., Ph.D. (obor neuveden ve zdrojích)",
+  "profese": "ekonom",
+  "politicka_historie": [
+    {
+      "od": "2022-11",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 16 (opozice)",
+      "organizace": "Zastupitelstvo MČ Praha 16",
+      "zdroj_url": "https://www.praha16.eu/mestska-cast/radotinske-noviny/rocnik-2026/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitel bez výkonné funkce nelze osobní plnění slibů hodnotit podle metodiky.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Kino tedy ano. Jen bychom od něj měli chtít víc než promítání filmů.",
+      "kontext": "Opoziční komentář k budoucnosti kina Radotín, Radotínské noviny 9/2026.",
+      "zdroj_url": "https://www.praha16.eu/modules/file_storage/download.php?file=efcc01ef%7C7179&inline=1",
+      "datum": "2026-09-01"
+    },
+    {
+      "text": "Radnice každopádně nemůže rozhodnout za vlastníky, může však určovat kvalitu svého okolí, aktivně vyjednávat a hlavně plánovat včas. U Berounky se bohužel zdá, že největší příležitost k tomu už částečně minula.",
+      "kontext": "Opoziční komentář k přestavbě obchodního centra Berounka, Radotínské noviny 10/2026.",
+      "zdroj_url": "https://www.praha16.eu/modules/file_storage/download.php?file=a5521b98%7C7202&inline=1",
+      "datum": "2026-09-30"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Radotínské noviny 9/2026 – opoziční komentář (kino Radotín)",
+      "url": "https://www.praha16.eu/modules/file_storage/download.php?file=efcc01ef%7C7179&inline=1",
+      "datum": "2026-09-01"
+    },
+    {
+      "nazev": "Radotínské noviny 10/2026 – opoziční komentář (OC Berounka)",
+      "url": "https://www.praha16.eu/modules/file_storage/download.php?file=a5521b98%7C7202&inline=1",
+      "datum": "2026-09-30"
+    },
+    {
+      "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/168996",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození nebyl dohledán (brief ČSÚ uvádí jen věk 37 let v době voleb 2026).",
+    "Konkrétní obor vzdělání a dřívější profesní/politická činnost před rokem 2022 nebyly dohledány.",
+    "Vlastní volební program listiny pro 2026 nebyl dohledán nad rámec jednotlivých opozičních komentářů v Radotínských novinách."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

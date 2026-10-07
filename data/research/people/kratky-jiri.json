@@ -1,0 +1,53 @@
+{
+  "slug": "kratky-jiri",
+  "name_key": "kratky-jiri",
+  "cele_jmeno": "Jiří Krátký",
+  "rok_narozeni": 1965,
+  "strana": "BEZPP",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-5",
+      "list_cislo": 6,
+      "poradi": 5
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Jiří Krátký je bez politické příslušnosti zastupitel MČ Praha 5, člen výboru pro školství a sport; mandát získal v roce 2022 (2987 preferenčních hlasů). Pro rok 2026 kandiduje na 5. místě koaliční listiny Motoristé sobě a Svobodní. Pozn.: Brief ČSÚ uvádí jméno Jiří Krátký na listině dvakrát (na 5. a 21. místě) se stejným údajem o preferenčních hlasích z roku 2022 – buď jde o chybu v otevřených datech ČSÚ, nebo o dvě odlišné osoby stejného jména a odlišného věku (61 vs. 31 let), což se nepodařilo ověřit.",
+  "vzdelani": null,
+  "profese": "zastupitel MČ Praha 5, člen výboru pro školství a sport",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 5, člen výboru pro školství a sport",
+      "organizace": "MČ Praha 5",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Na kandidátní listině je uveden dvakrát (5. a 21. místo) se stejnými preferenčními hlasy z roku 2022, ale jiným věkem (61 vs. 31 let) a jiným povoláním (zastupitel/produkční) - nebylo možné ověřit, zda jde o duplicitu dat, nebo o dvě různé osoby téhož jména.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

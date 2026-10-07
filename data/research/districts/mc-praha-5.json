@@ -1,0 +1,150 @@
+{
+  "assembly_id": "mc-praha-5",
+  "nazev": "Praha 5",
+  "charakteristika": "Praha 5 zahrnuje Smíchov s dopravním a obchodním uzlem Anděl, dále Košíře, Motol, Radlice, Jinonice, Hlubočepy a Barrandov s rozsáhlou panelovou zástavbou na jihu MČ. Dlouhodobě řeší transformaci bývalých průmyslových a nákladových ploch (projekt Smíchov City na místě nádraží Praha-Smíchov) a chybějící občanskou vybavenost na Barrandově a v Nové Dívčí hrady. Praha 5 má za sebou historii opakovaných kauz kolem majetku a pronájmů svěřeného obecního majetku.",
+  "soucasna_koalice": {
+    "obdobi": "2022–2026",
+    "strany": [
+      "ODS",
+      "TOP 09",
+      "STAN",
+      "PRAHA SOBĚ"
+    ],
+    "starosta": {
+      "jmeno": "Bc. Lukáš Herold",
+      "strana": "ODS",
+      "slug": "herold-lukas"
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Praha_5"
+  },
+  "zmeny_v_obdobi": [
+    "Koalice SPOLEČNĚ PRO PRAHU 5 (ODS+TOP 09, 10 mandátů), STAN (3 mandáty) a PRAHA 5 SOBĚ (10 mandátů) disponuje 21 z 41 mandátů. Starostkou byla po volbách 2022 zvolena Mgr. Radka Šimková (PRAHA 5 SOBĚ); tu v dubnu 2025 ve funkci starosty vystřídal Bc. Lukáš Herold (ODS). Přesné okolnosti a důvody této výměny (personální/koaliční krize, nebo řádná rotace dle koaliční smlouvy) se v rámci rešerše nepodařilo nezávisle dohledat nad rámec data nástupu."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Smíchov City a transformace Smíchovského nádraží",
+      "popis": "Rozsáhlý developerský projekt na ploše bývalého nákladového nádraží Smíchov, který výrazně mění charakter centra MČ a přináší otázky kapacity škol, dopravy a veřejné infrastruktury v poměru k nové bytové a kancelářské výstavbě.",
+      "proc_zalezi": "Jde o jeden z největších transformačních projektů v Praze, který zásadně ovlivní dopravu, bydlení a veřejný prostor v centru Prahy 5 na příští dekády.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Praha 5",
+          "url": "https://cs.wikipedia.org/wiki/Praha_5",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Barrandov a Dívčí hrady – chybějící občanská vybavenost",
+      "popis": "Piráti v programu pro 2026 uvádějí přes 17 000 obyvatel Barrandova a požadavek na samostatného radního pro tuto lokalitu; PRAHA 5 SOBĚ slibuje novou MŠ, ZŠ i SŠ na Barrandově. Jde o dlouhodobě podfinancovanou oblast rychle rostoucí výstavbou.",
+      "proc_zalezi": "Tempo nové bytové výstavby na Barrandově dlouhodobě předbíhá budování škol, zdravotní a sociální infrastruktury.",
+      "zdroje": [
+        {
+          "nazev": "Program Piráti Praha 5",
+          "url": "https://praha5.pirati.cz/#program",
+          "datum": "2026-10-02"
+        },
+        {
+          "nazev": "Program PRAHA 5 SOBĚ 2026",
+          "url": "https://p5sobe.cz/program-2026.php",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Hospodaření a kauzy kolem majetku a IT zakázek MČ",
+      "popis": "Praha 5 má dlouholetou historii kauz kolem nakládání s obecním majetkem a pronájmy (např. kauza kolem bývalého starosty Jančíka) a aktuálně (2025-2026) policejní vyšetřování IT zakázek MČ Praha 5 s vazbou na kauzu Dozimetr.",
+      "proc_zalezi": "Opakované kauzy podkopávají důvěru v hospodaření radnice s veřejným majetkem a jsou přímo relevantní pro hodnocení transparentnosti vládnoucích i opozičních stran.",
+      "zdroje": [
+        {
+          "nazev": "Deník N: Policie prověřuje IT zakázky Prahy 5 spojené i s úředníkem z kauzy Dozimetr",
+          "url": "https://denikn.cz/2022768/policie-proveruje-it-zakazky-prahy-5-spojene-i-s-urednikem-z-kauzy-dozimetr/",
+          "datum": "2026-04-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Smíchov City",
+      "stav": "rozpracovano",
+      "popis": "Developerská transformace území bývalého nádraží Smíchov na smíšenou zástavbu (byty, kanceláře, veřejný prostor).",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Praha 5",
+          "url": "https://cs.wikipedia.org/wiki/Praha_5",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Radlická radiála",
+      "stav": "rozpracovano",
+      "popis": "Dopravní stavba zmiňovaná v programu PRAHA 5 SOBĚ s požadavkem na dokončení s minimalizací zátěže pro obyvatele.",
+      "zdroje": [
+        {
+          "nazev": "Program PRAHA 5 SOBĚ 2026",
+          "url": "https://p5sobe.cz/program-2026.php",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [
+    {
+      "nazev": "Policejní vyšetřování IT zakázek MČ Praha 5 (vazba na kauzu Dozimetr)",
+      "typ": "verejna_zakazka",
+      "obdobi": "2023–2026 (vyšetřování probíhá)",
+      "popis": "Policie prověřuje IT zakázky MČ Praha 5, u kterých figuruje úředník spojovaný s celostátní kauzou Dozimetr (korupce v IT zakázkách veřejné správy a zdravotnictví). V dubnu 2023 na funkci šéfa informatiky Prahy 5 rezignoval člověk obviněný v kauze Dozimetr; zastupitelka, která na věc upozornila, podle médií čelila kvůli tomu výhrůžkám.",
+      "stav": "probiha",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Deník N: Policie prověřuje IT zakázky Prahy 5 spojené i s úředníkem z kauzy Dozimetr",
+          "url": "https://denikn.cz/2022768/policie-proveruje-it-zakazky-prahy-5-spojene-i-s-urednikem-z-kauzy-dozimetr/",
+          "datum": "2026-04-02"
+        },
+        {
+          "nazev": "Deník N: Obviněný v kauze Dozimetr rezignoval na post šéfa informatiky na Praze 5",
+          "url": "https://denikn.cz/",
+          "datum": "2023-04-13"
+        }
+      ]
+    },
+    {
+      "nazev": "Insolvence exstarosty Prahy 5 Jančíka",
+      "typ": "medialni",
+      "obdobi": "2025",
+      "popis": "Bývalý starosta Prahy 5 Jančík je podle médií v důchodu a v insolvenci, s dluhy v řádu milionů korun. Jde o osobní finanční situaci bývalého politika, nikoli přímo o kauzu z doby jeho funkce ve smyslu prokázaného pochybení.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Deník N: Exstarosta Prahy 5 Jančík je v důchodu a v insolvenci. Dluží miliony",
+          "url": "https://denikn.cz/",
+          "datum": "2025-04-22"
+        }
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Praha 5",
+      "url": "https://cs.wikipedia.org/wiki/Praha_5",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "research-kit brief mc-praha-5.md (ČSÚ otevřená data)",
+      "url": "https://volby.gov.cz/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné důvody a okolnosti výměny starostky Šimkové za starostu Herolda v dubnu 2025 se nepodařilo nezávisle dohledat (jen datum nástupu).",
+    "Přesné URL článku o rezignaci úředníka v kauze Dozimetr (2023) a o insolvenci exstarosty Jančíka (2025) se nepodařilo dohledat nad rámec titulku a data z fulltextového vyhledávání Deníku N - uvedené URL u těchto dvou zdrojů je proto jen odkaz na domovskou stránku vyhledávání, ne na konkrétní článek.",
+    "Nebyly dohledány další historické kauzy MČ Praha 5 zmiňované v zadání (\"historicky četné kauzy kolem majetku a pronájmů\") nad rámec výše uvedených dvou - vyžadovalo by hlubší rešerši v hlidacstatu.cz a archivu médií."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

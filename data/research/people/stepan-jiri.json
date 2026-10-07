@@ -1,0 +1,29 @@
+{
+  "slug": "stepan-jiri",
+  "name_key": "stepan-jiri",
+  "cele_jmeno": "Ing. Jiří Štěpán",
+  "rok_narozeni": 1969,
+  "strana": "BEZPP",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 1, "poradi": 17}],
+  "role": "inkumbent",
+  "profil": "Jiří Štěpán je podnikatel v oblasti výroby a distribuce krmiv pro zvířata, bez politické příslušnosti kandiduje za hnutí PRAHA 7 SOBĚ. V roce 2022 získal mandát zastupitele MČ Praha 7 (6871 preferenčních hlasů). Pro rok 2026 kandiduje na 17. místě listiny. Konkrétní agenda v zastupitelstvu nebyla v dostupných zdrojích dohledána.",
+  "vzdelani": null,
+  "profese": "podnikatel ve výrobě a distribuci krmiv pro zvířata, zastupitel MČ Praha 7",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 7", "organizace": "MČ Praha 7", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez exekutivní funkce, podrobné hodnocení jeho práce v zastupitelstvu nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": ["firma na výrobu a distribuci krmiv pro zvířata (bez upřesnění názvu)"], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 57 let v brífu k říjnu 2026 (1969), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

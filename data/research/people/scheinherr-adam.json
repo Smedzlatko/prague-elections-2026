@@ -1,0 +1,227 @@
+{
+  "slug": "scheinherr-adam",
+  "name_key": "scheinherr-adam",
+  "cele_jmeno": "Ing. Adam Scheinherr, MSc., Ph.D.",
+  "rok_narozeni": 1987,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 5,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Adam Scheinherr je strojní inženýr, bývalý pracovník Ústavu jaderného výzkumu a od října 2018 do února 2023 náměstek primátora hl. m. Prahy pro dopravu. Do komunální politiky vstoupil jako nestraník na kandidátce hnutí PRAHA SOBĚ, které v letech 2018-2022 vládlo v koalici s Piráty a STAN. Po volbách 2022 byl obnoven jeho mandát zastupitele, ale PRAHA SOBĚ skončila v opozici a Scheinherr přišel o náměstkovský post (únor 2023). V březnu 2024 se stal předsedou hnutí PRAHA SOBĚ a pro volby 2026 je jeho lídrem a kandidátem na primátora. Je známý i mediálním gestem řízení městského autobusu a kritikou vedení ODS za „nedostatečné tempo“ rozjetých staveb.",
+  "vzdelani": "strojní inženýrství, Ph.D., MSc. - přesný obor a instituce nebyly v dostupných zdrojích blíže specifikovány nad rámec brífu (strojař, pedagog na ČVUT).",
+  "profese": "strojní inženýr, dříve manažer mezinárodních projektů v Ústavu jaderného výzkumu, pedagog na ČVUT, náměstek primátora pro dopravu 2018-2023",
+  "politicka_historie": [
+    {
+      "od": "2015",
+      "do": null,
+      "funkce": "zakladatel iniciativy 'Libeňský most Nebourat, Nerozšiřovat'",
+      "organizace": "občanská iniciativa",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr"
+    },
+    {
+      "od": "2018-10-06",
+      "do": null,
+      "funkce": "zastupitel hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr"
+    },
+    {
+      "od": "2018-11-15",
+      "do": "2023-02",
+      "funkce": "náměstek primátora pro dopravu",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr"
+    },
+    {
+      "od": "2024-03-13",
+      "do": null,
+      "funkce": "předseda hnutí PRAHA SOBĚ",
+      "organizace": "PRAHA SOBĚ",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Záchrana Libeňského mostu před demolicí a jeho rekonstrukce",
+      "popis": "Scheinherr již v roce 2015 jako aktivista založil iniciativu proti plánované demolici a výstavbě nového mostu; jako náměstek pro dopravu (2018-2023) prosadil variantu rekonstrukce historické konstrukce místo demolice.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Zabránil demolici památkově hodnotné konstrukce, přesný termín dokončení celé rekonstrukce k říjnu 2026 nebyl v dostupných zdrojích doložen.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Adam Scheinherr",
+          "url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Dokončení nové trojské lávky",
+      "popis": "Po havárii původní lávky v roce 2017 a dočasném provozu přívozu byla za Scheinherrova mandátu zahájena (listopad 2019) a dokončena (říjen 2020) stavba nové ocelové lávky.",
+      "stav": "dokonceno",
+      "hodnoceni": "Projekt byl dotažen do provozu během jeho mandátu, náklady (150 mil. Kč) jen mírně překročily rozpočet (128 mil. Kč).",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Trojská lávka",
+          "url": "https://cs.wikipedia.org/wiki/Trojsk%C3%A1_l%C3%A1vka",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Zahájení rekonstrukce Barrandovského mostu",
+      "popis": "Scheinherr jako náměstek zahájil třífázovou rekonstrukci mostu 16. května 2022, tedy v posledních měsících svého mandátu.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Stavbu zahájil, ale dokončena byla (o rok dříve, než se plánovalo – listopad 2024) už za jeho nástupců; náklady vzrostly z 594,5 mil. na 1,14 mld. Kč.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Barrandovský most",
+          "url": "https://cs.wikipedia.org/wiki/Barrandovsk%C3%BD_most",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Zahájení výstavby Dvoreckého mostu",
+      "popis": "Po letech příprav (architektonická soutěž 2017, výběr návrhu 2018) získal Scheinherrův úřad v květnu 2022 stavební povolení a v září 2022 zahájil samotnou stavbu.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Stavbu zahájil, ale dokončena a otevřena byla až v dubnu 2026, přes tři roky po jeho odchodu z náměstkovské funkce; kvůli geologickým komplikacím v řečišti Vltavy vzrostly náklady z 1,075 mld. na cca 1,45 mld. Kč.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Dvorecký most",
+          "url": "https://cs.wikipedia.org/wiki/Dvoreck%C3%BD_most",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Podnět v kauze Dozimetr (korupce v Dopravním podniku)",
+      "popis": "Scheinherr podle dostupných zdrojů v roce 2020 získal informace o možné korupci v okolí tehdejšího náměstka Petra Hlubučka (STAN) týkající se zakázek Dopravního podniku; jeho trestní oznámení vedlo k policejnímu zásahu „Dozimetr“ v červnu 2022 a obvinění Hlubučka a dalších deseti osob.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Podnět vedl k reálnému trestnímu stíhání, které k datu rešerše (dle dostupných zdrojů do roku 2024) stále probíhalo; novější stav řízení k říjnu 2026 nebyl dohledán.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Adam Scheinherr",
+          "url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr",
+          "datum": "2026-10-02"
+        },
+        {
+          "nazev": "cs.wikipedia.org: Petr Hlubuček",
+          "url": "https://cs.wikipedia.org/wiki/Petr_Hlubu%C4%8Dek",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [
+    {
+      "nazev": "Kauza Dozimetr – role oznamovatele a svědka, hlavní líčení probíhá",
+      "typ": "verejna_zakazka",
+      "obdobi": "2020-probíhá",
+      "popis": "Scheinherr není v kauze Dozimetr obviněným, ale oznamovatelem – podle dostupných zdrojů upozornil na podezřelé zakázky Dopravního podniku v okolí náměstka Petra Hlubučka (STAN), což vedlo k zásahu policie 15. června 2022 a obvinění Hlubučka a dalších deseti osob z organizovaného zločinu a korupce. Hlavní líčení u Obvodního soudu pro Prahu 9 probíhá od září 2025 a k říjnu 2026 nebylo u konce (jednání bylo nařízeno i na říjen, listopad a prosinec 2026). Scheinherr u soudu v roce 2026 vypovídal jako svědek; podle obžaloby jako tehdejší předseda dozorčí rady Dopravního podniku nejprve odmítl podpořit jmenování Matěje Augustina do představenstva DPP na návrh Hlubučka, ale nakonec ho pod pociťovaným nátlakem schválil.",
+      "stav": "probiha",
+      "zavaznost": "vysoka",
+      "reakce_dotcene_osoby": "Petr Hlubuček (obviněný, nikoli Scheinherr) svou vinu odmítl v plném rozsahu. Scheinherr u soudu vypověděl, že se při schvalování Augustinovy nominace cítil pod nátlakem; kauzu opakovaně označuje za „širokou chobotnici“, která podle něj sahala až ke špičkám politiky.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Petr Hlubuček",
+          "url": "https://cs.wikipedia.org/wiki/Petr_Hlubu%C4%8Dek",
+          "datum": "2026-10-02"
+        },
+        {
+          "nazev": "iROZHLAS: Nabitý soudní týden v kauze Dozimetr. Svědčit mají exředitel DPP, radní Scheinherr i muž přes 'krypťáky'",
+          "url": "https://www.irozhlas.cz/zpravy-domov/nabity-soudni-tyden-v-kauze-dozimetr-svedcit-maji-exreditel-dpp-radni-scheinherr_2606080804_mst",
+          "datum": "2026-06-08"
+        },
+        {
+          "nazev": "iROZHLAS: Dozimetr tentokrát bez svědků. Soud se vrací k rozplétání kauzy",
+          "url": "https://www.irozhlas.cz/zpravy-domov/dozimetr-tentokrat-bez-svedku-soud-se-vraci-k-rozpletani-kauzy-bude-prehravat_2608100700_mst",
+          "datum": "2026-08-10"
+        },
+        {
+          "nazev": "iROZHLAS: Scheinherr: Kauza Dozimetr byla široká chobotnice",
+          "url": "https://www.irozhlas.cz/zpravy-domov/scheinherr-kauza-dozimetr-byla-siroka-chobotnice-cela-kauza-vznikla-od-spicek-v_2509221308_lar",
+          "datum": "2025-09-22"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": 3,
+    "oduvodneni": "Jako náměstek pro dopravu (2018-2023) Scheinherr dotáhl do konce menší, ale symbolicky významnou stavbu (trojská lávka) a zabránil demolici Libeňského mostu, zatímco dvě velké stavby (Barrandovský a Dvorecký most) jen zahájil – dokončeny byly až za jiné koalice. Jde o smíšený, ale ne neúspěšný výsledek u víceletých infrastrukturních projektů, kde dokončení v rámci jednoho funkčního období není realistické měřítko.",
+    "priklady": [
+      {
+        "slib": "Nebourat Libeňský most",
+        "vysledek": "Prosazena rekonstrukce místo demolice",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr"
+      },
+      {
+        "slib": "Dokončit trojskou lávku po havárii 2017",
+        "vysledek": "Lávka otevřena v říjnu 2020",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Trojsk%C3%A1_l%C3%A1vka"
+      }
+    ]
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Praha nemá tempo kvůli ODS.",
+      "kontext": "Reakce na kampaňový slogan ODS/SPOLU a lídra Tomáše Portlíka „Praha nemá tempo“ – Scheinherr v rozhovoru pro Deník N argumentuje, že za pomalé tempo rozjetých staveb je odpovědná právě ODS, která čtyři roky vede magistrát.",
+      "zdroj_url": "https://denikn.cz/2149412/praha-nema-tempo-kvuli-ods-scheinherr-o-portlikove-sloganu-rizeni-autobusu-i-chybejici-kandidatce/",
+      "datum": "2026-08-10"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Adam Scheinherr",
+      "url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Petr Hlubuček",
+      "url": "https://cs.wikipedia.org/wiki/Petr_Hlubu%C4%8Dek",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Dvorecký most",
+      "url": "https://cs.wikipedia.org/wiki/Dvoreck%C3%BD_most",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Barrandovský most",
+      "url": "https://cs.wikipedia.org/wiki/Barrandovsk%C3%BD_most",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Trojská lávka",
+      "url": "https://cs.wikipedia.org/wiki/Trojsk%C3%A1_l%C3%A1vka",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "prahasobe.cz: kampaň Adama Scheinherra",
+      "url": "https://www.prahasobe.cz/",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Deník N: Praha nemá tempo kvůli ODS. Scheinherr o Portlíkově sloganu, řízení autobusu i chybějící kandidátce",
+      "url": "https://denikn.cz/2149412/praha-nema-tempo-kvuli-ods-scheinherr-o-portlikove-sloganu-rizeni-autobusu-i-chybejici-kandidatce/",
+      "datum": "2026-08-10"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 39 let v brífu k říjnu 2026 (1987); Wikipedie v jednom z fetchů uvedla rok 1986 - mírná neshoda mezi zdroji, nelze ověřit bez přístupu k matrice.",
+    "Obor a instituce doktorského a magisterského studia (Ph.D., MSc.) nebyly v dostupných zdrojích upřesněny.",
+    "Konečný rozsudek v kauze Dozimetr k říjnu 2026 ještě nepadl - hlavní líčení běží od září 2025 a má pokračovat i v říjnu, listopadu a prosinci 2026, výsledek proto nelze uvést.",
+    "Obsah rozhovoru v Deníku N z 10.8.2026 je z větší části za platební zdí, zejména pasáž o 'chybějící kandidátce' (zmiňováno jméno Kristýna Drápalová v náhledu) a detaily k mostním stavbám nebyly ověřitelné."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

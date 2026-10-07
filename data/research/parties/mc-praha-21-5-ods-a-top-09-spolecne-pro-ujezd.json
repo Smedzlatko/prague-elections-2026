@@ -1,0 +1,143 @@
+{
+  "slug": "mc-praha-21-5-ods-a-top-09-spolecne-pro-ujezd",
+  "assembly_id": "mc-praha-21",
+  "list_cislo": 5,
+  "nazev": "ODS a TOP 09 – SPOLEČNĚ PRO ÚJEZD",
+  "zkratka": "ODS a TOP 09",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "TOP 09"
+  ],
+  "web": "https://www.spolecneproujezd.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Společně pro Újezd - program ODS a TOP 09",
+        "url": "https://www.spolecneproujezd.cz/",
+        "datum": "2026-10-03"
+      },
+      {
+        "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164749",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Vládnoucí koalice ODS a TOP 09 vedená starostou Michalem Hazdrou staví program na vizi „dlouhodobého vidění“ do roku 2034 v pěti oblastech (bezpečný a průjezdný Újezd, aktivní a zdravý Újezd, Újezd pro rodiny a seniory, vzdělaný Újezd, Újezd s plánem). Jmenuje konkrétní lokální projekty – rekonstrukci Staroklánovické ulice, kompenzační opatření po přeložce I/12, nafukovací halu pro sport, vícegenerační centrum a dům s pečovatelskou službou, podporu nové střední školy – a bilancuje přes 25 mil. Kč investic do silnic a chodníků v předchozím období.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Újezd bezpečný a průjezdný",
+        "popis": "Rekonstrukce Staroklánovické ulice, nové chodníky a parkování u nádraží, rozvoj cyklostezek, realizace kompenzačních opatření po dokončení přeložky silnice I/12, snížení nivelety Starokolínské a Novosibřinské, moderní kamerový systém, boj proti nelegálním ubytovnám.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Kompenzační opatření závisí na dokončení přeložky I/12, kterou MČ sama nekontroluje (nadmístní stavba ŘSD); místní rekonstrukce ulic jsou v moci MČ."
+        },
+        "zdroj_url": "https://www.spolecneproujezd.cz/"
+      },
+      {
+        "oblast": "sport",
+        "nazev": "Újezd aktivní a zdravý",
+        "popis": "Zachování a rozšíření lékařských kapacit, rekonstrukce atletického ovalu s fotbalovým hřištěm, nafukovací hala pro celoroční sportování, podpora místních spolků a klubů.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o konkrétní jmenované investice v kompetenci MČ, bez uvedeného rozpočtu a termínu realizace."
+        },
+        "zdroj_url": "https://www.spolecneproujezd.cz/"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Újezd pro rodiny a seniory",
+        "popis": "Vícegenerační centrum se společenskými aktivitami, dům s pečovatelskou službou pro seniory, praktické poradenství pro všechny věkové kategorie.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Výstavba domu s pečovatelskou službou je investičně náročná a vyžaduje pozemek a financování, které program nespecifikuje."
+        },
+        "zdroj_url": "https://www.spolecneproujezd.cz/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Újezd vzdělaný",
+        "popis": "Modernizace školských zařízení, rozšíření vzdělávacích programů, podpora vzniku nové střední školy v Újezdě, vzdělávací programy pro seniory.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Zřízení nové střední školy vyžaduje součinnost hl. m. Prahy jako zřizovatele středních škol, MČ zde má jen omezený vliv."
+        },
+        "zdroj_url": "https://www.spolecneproujezd.cz/"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Bilance investic 2022-2026",
+        "popis": "Přehled realizovaných akcí – investice přesahující 25 mil. Kč do silnic a chodníků, rekonstrukce ulice Zlivská, opravy přes 1 km chodníků v Novosibřinské ulici, nové herní prvky a sportovní zařízení.",
+        "citace": "Investice přesahující 25 mil. Kč do silnic a chodníků.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o retrospektivní bilanci již provedených investic, ne o budoucí slib, proto je plně verifikovatelná – byť zdrojem je vlastní web koalice (zdroj_strana)."
+        },
+        "zdroj_url": "https://www.spolecneproujezd.cz/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Samostatná vládnoucí většina (11 z 17 mandátů), starosta Ing. Michal Hazdra (ODS).",
+    "splnene_sliby": [
+      {
+        "slib": "Nové herní prvky na chodníku na sídlišti Rohožník a obnova her v parku u Masarykovy ZŠ.",
+        "dukaz": "Újezdský zpravodaj 10/2026, zápis z 119. jednání rady (8. 9. 2026): deset nových herních prvků a obnova šesti stávajících za necelých 180 tis. Kč.",
+        "zdroj_url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Rekonstrukce knihovny v Polyfunkčním domě a trvalé řešení křižovatky Polesná × Čentická.",
+        "dukaz": "Zpravodaj 10/2026: knihovna má teprve schválenou aktualizovanou zadávací dokumentaci, křižovatka je po pilotním provozu miniokružní varianty, trvalé řešení čeká na ověřovací studii a projekt.",
+        "zdroj_url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force"
+      }
+    ],
+    "nesplnene_sliby": [
+      {
+        "slib": "Spolehlivý provoz školní jídelny Masarykovy ZŠ",
+        "dukaz": "Zpravodaj 10/2026: mimořádné jednání rady 15. 9. 2026 řešilo aktuální problémy s personálním obsazením a provozem jídelny, ředitel školy musí týdně informovat starostu o nápravě.",
+        "zdroj_url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force"
+      }
+    ],
+    "shrnuti": "ODS a TOP 09 vedly Prahu 21 se samostatnou většinou celé období 2022-2026. Starosta Hazdra ve svém úvodním slově v předvolebním Újezdském zpravodaji 10/2026 sám záměrně nevyčísluje „co se podařilo“, ale uvádí, že MČ za volební období vyjednala z rozpočtu hl. m. Prahy, státu a dalších zdrojů přes 300 mil. Kč. Zpravodaj zároveň dokládá konkrétní menší realizace (nové herní prvky na chodníku, miniokružní křižovatka Polesná × Čentická v pilotním provozu, příprava rekonstrukce knihovny v Polyfunkčním domě) i nevyřešený problém (mimořádné jednání rady k situaci ve školní jídelně Masarykovy ZŠ v září 2026). Klíčová nadmístní stavba – přeložka silnice I/12 – zůstává k závěru období nedokončena. Konkrétní volební program z roku 2022 ani podrobný audit jeho plnění se v rámci této rešerše nepodařilo dohledat, proto nelze slib po slibu vyhodnotit – hodnocení vychází z deklarovaných a doložených výsledků, ne z porovnání s předvolebními sliby."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu 3: program na spolecneproujezd.cz jmenuje konkrétní lokální projekty v pěti oblastech (Staroklánovická, nafukovací hala, vícegenerační centrum, nová střední škola) a doplňuje je retrospektivní bilancí investic s konkrétním číslem (přes 25 mil. Kč), většina budoucích slibů ale nemá termín ani rozpočet. doveryhodnost_plneni 3: radniční zpravodaj dokládá směs dokončených drobných investic, rozpracovaných větších projektů a jednoho doloženého provozního problému (školní jídelna) – bez výrazného obratu, ale i bez psaného programu 2022, proti kterému by šlo měřit. Zdrojem je navíc výhradně periodikum MČ (zdroj_strana) s vyjádřeními přímo od starosty. Transparentnost +1 za zveřejněné zápisy a usnesení zastupitelstva, +1 za dohledatelné funkce a politickou historii většiny kandidátů z první desítky (starosta, radní, místostarostové).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "hazdra-michal"
+  ],
+  "mezery_v_datech": [
+    "Program z roku 2022 nebyl dohledán, takže nelze porovnat, zda jde o opakování starších slibů nebo nové priority.",
+    "Bilance plnění vychází výhradně z radničního zpravodaje a webu koalice (zdroj_strana), nebyla ověřena nezávislým zdrojem.",
+    "Nebyly dohledány žádné doložené kauzy MČ v dostupných zdrojích."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

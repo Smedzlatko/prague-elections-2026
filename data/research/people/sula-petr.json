@@ -1,0 +1,29 @@
+{
+  "slug": "sula-petr",
+  "name_key": "sula-petr",
+  "cele_jmeno": "Petr Šula",
+  "rok_narozeni": 1974,
+  "strana": "TOP 09",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-12", "list_cislo": 1, "poradi": 1}],
+  "role": "inkumbent",
+  "profil": "Petr Šula je prvním místostarostou MČ Praha 12 za TOP 09, manažer, zvolen zastupitelem i v roce 2022 (pozice č. 2, 4373 preferenčních hlasů). Pro volby 2026 vede koaliční listinu TOP 09 & Sousedé pro Dvanáctku.",
+  "vzdelani": null,
+  "profese": "1. místostarosta MČ Praha 12, manažer",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "1. místostarosta MČ Praha 12", "organizace": "TOP 09", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Zastával exekutivní funkci po celé volební období, ale bez dohledaného podkladu o konkrétní agendě nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 12 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání a přesný rok narození nejsou nezávisle potvrzeny.",
+    "Konkrétní resort a výsledky jeho práce jako místostarosty nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

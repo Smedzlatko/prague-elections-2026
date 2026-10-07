@@ -1,0 +1,119 @@
+{
+  "slug": "mc-praha-6-11-jsme-praha-6",
+  "assembly_id": "mc-praha-6",
+  "list_cislo": 11,
+  "nazev": "JSME PRAHA 6",
+  "zkratka": "JSME PRAHA 6",
+  "typ": "koalice",
+  "slozeni": ["JSME TEAM", "nezávislí kandidáti"],
+  "web": "https://www.jsme.team/nase-teamy/praha-6/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "JSME TEAM - Praha 6", "url": "https://www.jsme.team/nase-teamy/praha-6/", "datum": "2026-10-02"}
+    ],
+    "shrnuti": "JSME PRAHA 6 je nová listina vedená bývalými zastupiteli zvolenými v roce 2022 za Českou pirátskou stranu (Ondřej Chrást, Eva Tichá), kteří od hnutí odešli a v roce 2026 kandidují pod novým subjektem JSME TEAM. Program staví na šesti pilířích: dostupné družstevní bydlení na obecních pozemcích, prevence a péče o duševní zdraví dětí namísto populistické bezpečnostní rétoriky, rekonstrukce polikliniky Marjánka a péče o seniory, doprava omezující tranzit a podporující záchytná parkoviště a tramvaj do Suchdola, forenzní revize investičních závazků radnice od roku 2018 a podpora spolkového a kulturního života.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Družstevní bydlení na obecních pozemcích",
+        "popis": "Listina slibuje, že na pozemcích ve vlastnictví MČ bude vznikat výhradně družstevní bydlení určené místním, ne investorům.",
+        "citace": "Na obecních pozemcích jen družstevní bydlení. Domov má sloužit lidem, ne spekulantům.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Jde o jasné kritérium pro budoucí rozhodování rady, ale bez uvedení konkrétních pozemků, počtu bytů nebo harmonogramu."},
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha-6/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Dostupné bydlení pro klíčové profese",
+        "popis": "Program cílí na dostupné bydlení pro učitele, lékaře, hasiče a další profese nezbytné pro chod městské části.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Chybí konkrétní mechanismus (např. počet bytů, kritéria přidělování)."},
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha-6/"
+      },
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Prevence a duševní zdraví dětí místo populistické bezpečnostní politiky",
+        "popis": "Listina staví bezpečnost na prevenci, důvěře a péči o duševní zdraví dětí, konkrétně slibuje více školních psychologů.",
+        "citace": "Skutečné bezpečí vzniká z důvěry a dobrých vztahů. Vsadíme na prevenci a péči o duševní zdraví dětí.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Navýšení počtu školních psychologů je ověřitelný, ale bez konkrétního cílového počtu nebo rozpočtu."},
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha-6/"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Rekonstrukce polikliniky Marjánka",
+        "popis": "Program slibuje rekonstrukci konkrétní polikliniky Marjánka a moderní péči pro seniory bez nutnosti „doprošování se“.",
+        "citace": "Jistota péče pro každého.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Jde o jmenovaný konkrétní objekt, realizace ale závisí na rozpočtu MČ a stavebním řízení; termín ani náklady nejsou uvedeny."},
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha-6/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Omezení tranzitu a záchytná parkoviště",
+        "popis": "Listina chce ulice primárně pro rezidenty, ne pro tranzitní dopravu, a navrhuje záchytná parkoviště na okraji městské části.",
+        "citace": "Ulice pro rezidenty, ne pro tranzit.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Konkrétní opatření (záchytná parkoviště) je jmenované, ale bez uvedení lokality, kapacity nebo termínu."},
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha-6/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Tramvajová trať do Suchdola",
+        "popis": "Program podporuje vybudování tramvajové trati do Suchdola.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {"hodnoceni": "nizka", "oduvodneni": "Jde o dlouhodobě diskutovaný velký dopravní projekt, který patří do kompetence hl. m. Prahy a Dopravního podniku, nikoli MČ, a jeho realizace je mimo přímý vliv zastupitelstva Prahy 6."},
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha-6/"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Forenzní revize investičních závazků od roku 2018",
+        "popis": "Listina slibuje zveřejnění netransparentních investičních závazků radnice a jejich forenzní prověření zpětně od roku 2018.",
+        "citace": "Každá koruna pod kontrolou.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Jde o konkrétní, časově vymezený závazek (revize od 2018), ale realizace závisí na přístupu k dokumentaci a součinnosti úřadu, pokud listina nebude v radě."},
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha-6/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "Program kombinuje sociálně orientovaný přístup k bydlení (družstevní bydlení, byty pro klíčové profese), důraz na veřejné služby (zdravotnictví, prevence) a silný protikorupční/transparentní akcent (forenzní revize). Odpovídá to progresivnější, mírně levicově orientované komunální politice navazující na předchozí pirátské působení lídrů.",
+    "zdroje": [{"nazev": "JSME TEAM - Praha 6", "url": "https://www.jsme.team/nase-teamy/praha-6/", "datum": "2026-10-02"}]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Lídr Ondřej Chrást a místolídryně Eva Tichá byli v letech 2022-2026 zastupiteli Prahy 6 zvolenými za Českou pirátskou stranu (opozice); v roce 2026 kandidují pod novým subjektem JSME TEAM po odchodu od Pirátů.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Oba klíčoví kandidáti mají zkušenost ze zastupitelstva Prahy 6 jako řadoví opoziční zastupitelé bez radního portfolia; nezávisle ověřený přehled jejich konkrétních návrhů a hlasování v minulém období nebyl dohledán. Jde o nový subjekt, nikoli pokračování téhož politického uskupení, proto bilance 2022-2026 vychází jen z osobní historie lídrů, ne ze strany jako takové."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 3: program obsahuje šest jmenovaných pilířů s konkrétními opatřeními (Marjánka, tramvaj do Suchdola, forenzní revize od 2018), ale většina bez čísel a rozpočtu. doveryhodnost_plneni = null: jde o nový subjekt bez vlastní historie v zastupitelstvu, jen s osobní minulostí lídrů jako řadových opozičních zastupitelů. transparentnost = 3 za zveřejněný strukturovaný program a dohledatelný web; transparentní účet listiny nebyl ověřen.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["chrast-ondrej"],
+  "mezery_v_datech": [
+    "Nebylo možné ověřit financování kampaně ani existenci transparentního účtu listiny.",
+    "Konkrétní rozpočet, harmonogram a technické řešení záchytných parkovišť a rekonstrukce polikliniky Marjánka nebyly v programu dále rozvedeny."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

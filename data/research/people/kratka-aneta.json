@@ -1,0 +1,52 @@
+{
+  "slug": "kratka-aneta",
+  "name_key": "kratka-aneta",
+  "cele_jmeno": "Mgr. Aneta Krátká",
+  "rok_narozeni": 1995,
+  "strana": "Bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-14",
+      "list_cislo": 7,
+      "poradi": 5
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Mgr. Aneta Krátká je zastupitel/ka MČ Praha 14, v roce 2022 zvolen/a na listině „Česká pirátská strana“ (3. místo, 1110 preferenčních hlasů). Pro volby 2026 kandiduje na listině „MY pro Prahu 14 – Piráti, Praha 14 sobě, Zelení“ (5. místo). Profesně: advokátka, zastupitelka MČ.",
+  "vzdelani": null,
+  "profese": "advokátka, zastupitelka MČ",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 14 (zvolen/a za Česká pirátská strana)",
+      "organizace": "MČ Praha 14",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 14 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

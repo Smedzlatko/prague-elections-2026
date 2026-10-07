@@ -1,0 +1,59 @@
+{
+  "slug": "mc-praha-14-1-svoboda-a-prima-demokracie-pro-prahu-14",
+  "assembly_id": "mc-praha-14",
+  "list_cislo": 1,
+  "nazev": "Svoboda a přímá demokracie pro Prahu 14 s podporou občanského hnutí Přísaha, České strany národně sociální a nezávislých kandidátů",
+  "zkratka": "SPD",
+  "typ": "D",
+  "slozeni": [
+    "NK",
+    "SPD",
+    "Přísaha",
+    "Česká strana národně sociální"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/170994",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Předchůdce „SPD a Trikolora s podporou nezávislých kandidátů“ získal v roce 2022 2 mandáty z 31 (6,67 %) jako opoziční listina.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Opoziční zastoupení bez výkonných funkcí; podrobný přehled vystupování v zastupitelstvu 2022-2026 se nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program listiny nebyl dohledán na programydovoleb.cz ani jinde. Lídryně Marcela Vydrová je inkumbentka (zvolena 2022 za SPD a Trikoloru). Transparentnost +1 za zápisy zastupitelstva, +1 za dohledatelnou politickou historii lídryně.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "vydrova-marcela"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro volby 2026 nebyl dohledán.",
+    "Detailní bilance opoziční činnosti listiny 2022-2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

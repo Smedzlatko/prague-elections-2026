@@ -1,0 +1,29 @@
+{
+  "slug": "lizatovic-yvetta",
+  "name_key": "lizatovic-yvetta",
+  "cele_jmeno": "Mgr. Yvetta Lizatović",
+  "rok_narozeni": 1964,
+  "strana": "BEZPP",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 11, "poradi": 2}],
+  "role": "top5",
+  "profil": "Yvetta Lizatović je divadelní producentka, produkční a manažerka kulturních projektů, bez politické příslušnosti kandiduje za STAN. Podle vlastního popisu místopředsedkyně Komise kulturní a obnovy památek Praha 5. V roce 2022 mandát nezískala. Pro rok 2026 kandiduje na 2. místě listiny STAN.",
+  "vzdelani": "Mgr. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "divadelní producentka, manažerka kulturních projektů",
+  "politicka_historie": [
+    {"od": null, "do": null, "funkce": "místopředsedkyně Komise kulturní a obnovy památek MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Poradní role v komisi, bez výkonné funkce; podrobné hodnocení nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 62 let v brífu k říjnu 2026 (1964), neověřeno.",
+    "Konkrétní působení v komisi nebylo dohledáno nad rámec brífu ČSÚ."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

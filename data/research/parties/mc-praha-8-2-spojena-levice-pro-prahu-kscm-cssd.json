@@ -1,0 +1,44 @@
+{
+  "assembly_id": "mc-praha-8",
+  "list_cislo": 2,
+  "nazev": "Spojená levice pro Prahu (KSČM – ČSSD)",
+  "zkratka": "KSČM-ČSSD",
+  "typ": "koalice",
+  "slozeni": [
+    "KSČM",
+    "ČSSD"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz k dispozici ani přes odkaz na vlastní web – strana na stránce žádný web neuvedla. Ve volbách 2022 subjekt (KSČM samostatně) získal 2,03 % a žádný mandát.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -2.5,
+    "hodnotova_osa": 1.5,
+    "oduvodneni": "Koalice KSČM a ČSSD je programově tradiční levice (ekonomická osa) s obecně konzervativnějším přístupem k sociálním otázkám u starší voličské základny KSČM. Odhad na základě celostátní profilace stran, bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nebyl dohledán (0 bodů za konkrétnost). Bez mandátu v letech 2022-2026 nelze hodnotit plnění slibů. Transparentnost nízká – chybí web i dohledatelné financování kampaně.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "svoboda-jiri"
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán žádný program ani web listiny.",
+    "Nebylo zjištěno financování kampaně."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-8-2-spojena-levice-pro-prahu-kscm-cssd"
+}

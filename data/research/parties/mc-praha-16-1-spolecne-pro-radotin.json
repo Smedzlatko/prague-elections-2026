@@ -1,0 +1,59 @@
+{
+  "slug": "mc-praha-16-1-spolecne-pro-radotin",
+  "assembly_id": "mc-praha-16",
+  "list_cislo": 1,
+  "nazev": "Společně pro Radotín",
+  "zkratka": "SpR",
+  "typ": "koalice",
+  "slozeni": [
+    "KDU-ČSL",
+    "Zelení",
+    "NK",
+    "STAN",
+    "TOP 09"
+  ],
+  "web": "https://www.spolecneproradotin.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "spolecneproradotin.cz",
+        "url": "https://www.spolecneproradotin.cz/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice KDU-ČSL, Zelených, STAN, TOP 09 a nezávislých, obhajující 4 mandáty z roku 2022. Vlastní web (spolecneproradotin.cz) deklaruje čtyři oblasti: odpovědné investice a hospodaření, zlepšení dopravy a bezpečnosti silnic, kvalita života (školy, hřiště, kultura, sport, veřejný prostor) a transparentnost radnice. Konkrétní opatření, čísla nebo termíny web k říjnu 2026 neobsahoval.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "rak-jan-matej"
+  ],
+  "mezery_v_datech": [
+    "Web obsahuje jen obecné programové oblasti bez konkrétních opatření, čísel či termínů - nelze posoudit konkrétnost nad úroveň 1."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

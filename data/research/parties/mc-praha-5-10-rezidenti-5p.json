@@ -1,0 +1,50 @@
+{
+  "slug": "mc-praha-5-10-rezidenti-5p",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 10,
+  "nazev": "REZIDENTI 5P",
+  "zkratka": "Rezidenti 5P",
+  "typ": "koalice",
+  "slozeni": [
+    "SOCDEM",
+    "nezávislí kandidáti"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Nová listina pro rok 2026 (koalice SOCDEM a nezávislých), v minulém období na Praze 5 nekandidovala. Lídrem je David Pavlorek, expert na zahraniční vzdělávací systémy na MŠMT. Samostatný program nebyl dohledán.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "SOCDEM (ČSSD) je na celostátní úrovni sociálně demokratická strana; lokální program s konkrétními tématy pro Prahu 5 nebyl dohledán, odhad je odvozen jen ze složení.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program nebyl dohledán. Listina na Praze 5 dříve nekandidovala – doveryhodnost_plneni je null.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "pavlorek-david"
+  ],
+  "mezery_v_datech": [
+    "Vlastní volební program listiny nebyl dohledán.",
+    "Nebyl dohledán žádný web ani sociální síť listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

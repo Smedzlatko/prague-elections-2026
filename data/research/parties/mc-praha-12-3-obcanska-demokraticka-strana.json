@@ -1,0 +1,56 @@
+{
+  "slug": "mc-praha-12-3-obcanska-demokraticka-strana",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 3,
+  "nazev": "Občanská demokratická strana",
+  "zkratka": "ODS",
+  "typ": "strana",
+  "slozeni": [
+    "ODS"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program ODS pro Prahu 12 na rok 2026 se v rámci této rešerše nepodařilo dohledat (lokální web nebyl dostupný na vyzkoušených adresách). Lídr Vojtěch Kos je starostou MČ od roku 2022 a lze očekávat návaznost na agendu dokončené nové radnice a pokračující rozvoj Modřan a Komořan.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": 1,
+    "oduvodneni": "ODS je celostátně pravostředová až pravicová strana; lokální listina v Praze 12 nevybočuje z této linie.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "ODS vedla vládnoucí koalici MČ Praha 12 s TOP 09 a ANO 2011 po celé volební období 2022–2026, s devíti mandáty z voleb 2022 (shodně s ANO); starostou byl Vojtěch Kos.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Velké investiční projekty pro Prahu 12 (tramvaj do Komořan, nová škola, parkovací domy)",
+        "dukaz": "Starosta Vojtěch Kos (ODS) pro období po roce 2026 ohlašuje pokračování velkých investic – prodloužení tramvaje do Komořan, novou školu pro 810 žáků a výstavbu parkovacích domů. Jde o ohlášené plány do příštích let, ne o doložené dokončení v období 2022-2026.",
+        "zdroj_url": "https://www.msn.com"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ODS udržela vedení MČ po celé volební období bez zaznamenaného rozpadu koalice. Starosta Kos ohlašuje pokračující velké investiční projekty do příštího období, ale konkrétní bilanci splněných slibů z roku 2022 se v rámci této rešerše nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program pro rok 2026 nenalezen (konkrétnost 0). Důvěryhodnost plnění: ODS vedla radnici MČ po celé období bez zaznamenaného rozpadu koalice; starosta Kos pro 2026 ohlašuje pokračující velké investice (tramvaj do Komořan, nová škola pro 810 dětí, parkovací domy), což nasvědčuje aktivní správě, ale zdrojovaný přehled konkrétních splněných slibů z roku 2022 se nepodařilo dohledat a ohlášené projekty jsou teprve plánem do příštího období, ne dokladem plnění minulého. Transparentnost: dohledatelná kandidátka (+1) a jmenovaná exekutivní funkce starosty (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "kos-vojtech"
+  ],
+  "mezery_v_datech": [
+    "Lokální program ODS pro Prahu 12 na rok 2026 nebyl dohledán.",
+    "Bilance plnění slibů ODS v čele MČ Praha 12 za 2022–2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

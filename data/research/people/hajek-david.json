@@ -1,0 +1,52 @@
+{
+  "slug": "hajek-david",
+  "name_key": "hajek-david",
+  "cele_jmeno": "David Hájek",
+  "rok_narozeni": 1990,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 8,
+      "poradi": 2
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "David Hájek je místostarostou MČ Praha 15 za ANO 2011, zvolen v roce 2022 na 2. místě kandidátky ANO.",
+  "vzdelani": null,
+  "profese": "Místostarosta MČ Praha 15.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "místostarosta MČ Praha 15",
+      "organizace": "MČ Praha 15",
+      "zdroj_url": "https://www.praha15.cz"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako místostarosta nese spoluodpovědnost za chod radnice, podrobný audit jeho konkrétního resortu se však nepodařilo samostatně dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 547387",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní resort a výsledky práce místostarosty Hájka nebyly samostatně dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

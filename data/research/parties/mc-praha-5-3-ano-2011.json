@@ -1,0 +1,63 @@
+{
+  "slug": "mc-praha-5-3-ano-2011",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 3,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO 2011"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Programy do voleb - ANO 2011 Praha 5",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165130",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "ANO 2011 získalo v Praze 5 ve volbách 2022 13,84 % a 7 mandátů a je dosud opoziční stranou vůči koalici ODS/TOP09/STAN/PRAHA 5 SOBĚ. Lídrem je Petr Lachnit, dříve místostarosta MČ Praha 5. Samostatný lokální program pro rok 2026 nebyl dohledán.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0,
+    "oduvodneni": "ANO 2011 je na celostátní úrovni obtížně zařaditelné na klasické ose (populistické hnutí); u lokální listiny bez vlastního programu nelze bezpečně určit konkrétní místní pozice.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Podle aktuálního seznamu rady MČ na webu praha5.cz (říjen 2026) je ANO 2011 součástí vedení MČ: Petr Lachnit je 1. místostarostou, Lubomír Brož a Jan Klusoň jsou radní. To je v rozporu s obecně očekávaným rozdělením po volbách 2022, kdy koalici tvořily ODS/TOP09, STAN a PRAHA 5 SOBĚ (21 ze 41 mandátů) bez ANO – nasvědčuje to, že v průběhu volebního období 2022-2026 došlo k přeskupení koalice, při kterém ANO nahradilo PRAHA 5 SOBĚ (ta již v aktuálním seznamu rady není zastoupena). Přesné datum a okolnosti této změny nebyly v dostupných zdrojích (mediální vyhledávání bylo bez výsledku) dohledány.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Vstup do vedení MČ a prosazování vlastní agendy z pozice 1. místostarosty.",
+        "stav": "ANO fakticky naplnilo cíl získat exekutivní vliv - Petr Lachnit je od přeskupení koalice 1. místostarostou a Lubomír Brož a Jan Klusoň radními. Nepodařilo se ale dohledat žádný dokument (lokální program ANO pro Prahu 5 z roku 2022), vůči kterému by šlo ověřit, jaké konkrétní věcné sliby (bydlení, doprava, školství) ANO touto změnou pozice skutečně naplnilo - exekutivní posty samy o sobě nejsou splněným slibem vůči voličům.",
+        "zdroj_url": "https://www.praha5.cz"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ANO 2011 skončilo ve volbách 2022 v opozici, ale podle aktuálního (říjen 2026) seznamu rady MČ na webu praha5.cz je nyní součástí vedení s obsazeným postem 1. místostarosty a dvou radních – jde o zásadní posun oproti poopoziční roli po volbách. Detailní srovnání s lokálním programem z roku 2022 a jeho plněním nebylo možné provést, protože program nebyl dohledán ani pro jedno volební období – k dispozici je tak jen holý fakt vstupu do koalice, ne doložené naplnění věcných slibů."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": null,
+    "oduvodneni": "konkretnost_programu = 0, program nebyl dohledán. doveryhodnost_plneni = 2: ANO je nyní (2026) součástí vedení MČ s klíčovým postem 1. místostarosty, ale protože nastoupilo do vedení až v průběhu období (nikoliv na základě voličského mandátu z roku 2022) a bez dohledaného programu nelze posoudit plnění konkrétních slibů – hodnoceno zdrženlivě uprostřed stupnice.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "lachnit-petr"
+  ],
+  "mezery_v_datech": [
+    "Lokální volební program ANO 2011 pro Prahu 5 (2026 i 2022) nebyl dohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"ANO 2011 Praha 5 Lachnit program volby 2026\", \"ANO 2011 Praha 5 program bydlení doprava komunální volby 2026 Lachnit priority\" a \"Petr Lachnit ANO Praha 5 Facebook program volby\" - výsledky ukazují jen Lachnitovu funkci 1. místostarosty a obecné celopražské ANO priority (bydlení, doprava), ne lokální program pro Prahu 5. Článek krajskelisty.cz z 2. 10. 2026 uvádí, že Lachnit na dotazy k vlastnímu programu odpoví \"příští týden\" - odpovědi tedy v době rešerše ještě nebyly publikovány.",
+    "Přesné datum a okolnosti přeskupení koalice, při kterém ANO nahradilo PRAHA 5 SOBĚ ve vedení MČ, nebyly v dostupných zdrojích dohledány (mediální vyhledávání bylo bez výsledku) - vychází jen z aktuálního (říjen 2026) seznamu rady na webu praha5.cz.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „ANO Praha 5 program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

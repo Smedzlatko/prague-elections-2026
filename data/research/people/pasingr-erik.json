@@ -1,0 +1,44 @@
+{
+  "slug": "pasingr-erik",
+  "name_key": "pasingr-erik",
+  "cele_jmeno": "Erik Pašingr",
+  "rok_narozeni": 2007,
+  "strana": "Koruna Česká (monarch.str.Čech, Moravy a Slezska)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 5,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Erik Pašingr vede kandidátní listinu „Koruna Česká (monarchistická strana Čech, Moravy a Slezska)“ pro MČ Praha 15 ve volbách 2026. Profesně: publicista. Veřejně dohledaný záznam o dřívější politické činnosti nebyl v rešerši nalezen – jde patrně o politického nováčka na úrovni MČ.",
+  "vzdelani": null,
+  "profese": "publicista",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Chybí dohledaný zdrojovaný přehled konkrétních slibů a jejich plnění; kandidát/ka nemá dohledanou dřívější výkonnou funkci.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 15 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

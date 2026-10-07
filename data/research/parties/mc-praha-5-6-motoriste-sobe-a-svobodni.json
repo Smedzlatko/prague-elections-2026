@@ -1,0 +1,50 @@
+{
+  "slug": "mc-praha-5-6-motoriste-sobe-a-svobodni",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 6,
+  "nazev": "Motoristé sobě a Svobodní",
+  "zkratka": "Motoristé",
+  "typ": "koalice",
+  "slozeni": [
+    "Motoristé sobě",
+    "Svobodní"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Nová koalice pro rok 2026, v minulém období na Praze 5 v tomto složení nekandidovala samostatně (Svobodní v roce 2022 získali 1,14 % bez mandátu). Lídrem je Karel Borůvka, na listině kandiduje i celostátní předseda Motoristů sobě a místopředseda vlády Petr Macinka (na 3. místě). Jediným inkumbentem je zastupitel Jiří Krátký (na listině uveden dvakrát – na 5. a 21. místě se stejným údajem o preferenčních hlasích z roku 2022, což naznačuje možnou duplicitu nebo chybu v datech ČSÚ). Samostatný program nebyl dohledán.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 2,
+    "oduvodneni": "Motoristé sobě jsou na celostátní úrovni liberálně-konzervativní hnutí odmítající regulaci automobilové dopravy, Svobodní jsou libertariánská strana (minimální stát, nízké daně); lokální program s konkrétními tématy pro Prahu 5 nebyl dohledán.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program nebyl dohledán. Koalice v tomto složení na Praze 5 dříve nekandidovala – doveryhodnost_plneni je null.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "boruvka-karel"
+  ],
+  "mezery_v_datech": [
+    "Vlastní volební program listiny nebyl dohledán.",
+    "Duplicitní uvedení Jiřího Krátkého na 5. a 21. místě se stejnými preferenčními hlasy z roku 2022 nebylo vysvětleno - může jít o chybu v otevřených datech ČSÚ nebo o dvě odlišné osoby stejného jména."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "mc-praha-14-2-srdcem-pro-prahu-14-nezavisli-a-novi-l",
+  "assembly_id": "mc-praha-14",
+  "list_cislo": 2,
+  "nazev": "SRDCEM PRO PRAHU 14 – NEZÁVISLÍ A NOVÍ LIDOVCI",
+  "zkratka": "SRDCEM PRO PRAHU 14",
+  "typ": "D",
+  "slozeni": [
+    "KDU-ČSL",
+    "NK"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/170992",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Předchůdce „SRDCEM PRO PRAHU 14 – STAROSTOVÉ A NEZÁVISLÍ, KDU-ČSL“ získal v roce 2022 2 mandáty z 31 (6,62 %).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Bez dohledaného programu z roku 2022 ani podrobného přehledu hlasování nelze slib-po-slibu vyhodnotit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program listiny nebyl dohledán. Lídryně Zuzana Jelenová je inkumbentka zvolená v roce 2022 s nejvyšším počtem preferenčních hlasů ze všech kandidátů Prahy 14 (1023). Transparentnost +1 za zápisy zastupitelstva, +1 za dohledatelnou profesní historii lídryně (předsedkyně správní rady KC Motýlek).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "jelenova-zuzana"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro volby 2026 nebyl dohledán.",
+    "Postavení listiny v zastupitelstvu (koalice, nebo opozice) v letech 2022-2026 nebylo zcela ověřeno."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

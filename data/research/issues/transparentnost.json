@@ -1,0 +1,85 @@
+{
+ "slug": "transparentnost",
+ "nazev": "Transparentnost a korupční kauzy",
+ "popis": "Doložené korupční a kontroverzní kauzy spojené s pražským magistrátem, Dopravním podnikem hl. m. Prahy a dalšími městskými firmami. Všechny kauzy jsou uvedeny VČETNĚ aktuálního stavu řízení – nikdy pouze jako obvinění bez výsledku.",
+ "fakta": [
+  {
+   "tvrzeni": "Kauza Dozimetr: rozsáhlá korupční kauza týkající se údajného ovlivňování veřejných zakázek na Magistrátu hl. m. Prahy a v Dopravním podniku hl. m. Prahy (DPP), v jejímž centru stáli podnikatel Michal Redl a bývalý náměstek primátora Petr Hlubuček (STAN). Národní centrála proti organizovanému zločinu zahájila zásah 15. 6. 2022. Hlavní líčení u Obvodního soudu pro Prahu 9 začalo 22. 9. 2025, část obžalovaných (např. Pavel Kos) uzavřela dohodu o vině a trestu, u dalších řízení dále probíhá. V souvislosti s kauzou rezignoval mj. ministr školství Petr Gazdík. Sněmovna zřídila vyšetřovací komisi. STAV: PROBÍHÁ (řízení u soudu k polovině roku 2026 nebylo pravomocně skončeno).",
+   "hodnota": "zahájení 15. 6. 2022, hlavní líčení od 22. 9. 2025, stav: probíhá",
+   "zdroj_url": "https://cs.wikipedia.org/wiki/Kauza_Dozimetr",
+   "datum": "2026-10-02"
+  },
+  {
+   "tvrzeni": "Kauza Neograph / Cokeville Assets (Dopravní podnik hl. m. Prahy): společnost Neograph měla v letech do roku 2007 odvádět 17 haléřů z každé prodané jízdenky zahraniční společnosti Cokeville Assets (Britské Panenské ostrovy). V roce 2013 policie obvinila pět osob včetně bývalého generálního ředitele DPP. Vrchní soud v Praze 1. 9. 2021 pravomocně zprostil všech 17 obžalovaných. STAV: ZPROŠTĚN.",
+   "hodnota": "pravomocné zproštění 1. 9. 2021",
+   "zdroj_url": "https://cs.wikipedia.org/wiki/Dopravn%C3%AD_podnik_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+   "datum": "2026-10-02"
+  },
+  {
+   "tvrzeni": "Kauza předražených právních služeb pro DPP: advokátní kancelář Šachta & Partners obdržela od DPP v letech 2007-2010 cca 160 milionů Kč za právní služby mimo standardní veřejné soutěže. V srpnu 2012 byla podána trestní oznámení. STAV: BEZ ZÁVĚRU (dostupný zdroj neobsahuje informaci o výsledku řízení).",
+   "hodnota": "cca 160 mil. Kč, trestní oznámení 8/2012, výsledek neznámý",
+   "zdroj_url": "https://cs.wikipedia.org/wiki/Dopravn%C3%AD_podnik_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+   "datum": "2026-10-02"
+  },
+  {
+   "tvrzeni": "Samostatná, novější korupční kauza (odlišná od Dozimetru) v Dopravním podniku hl. m. Prahy: policie v říjnu 2024 obvinila 14 osob a firem z korupce při zadávání zakázky na bezpečnostní kamery a radiostanice pro metro (společnost Analogia měla uplatit zástupce DPP, aby mohla novou zakázku zařadit do staré smlouvy z roku 2010, celkově šlo o navýšení cca 800 mil. Kč bez řádné soutěže). Mezi obviněnými byli bývalí členové představenstva DPP Marek Kopřiva a Jiří Špička a bezpečnostní ředitel Bohdan Frajt. Vrchní státní zastupitelství v Praze podalo 11. 2. 2025 obžalobu na jednu fyzickou a jednu právnickou osobu; totožnost obžalovaných nebyla v tu chvíli zveřejněna. STAV: PROBÍHÁ (řízení k polovině roku 2026 nebylo pravomocně skončeno, přesný výsledek hlavního líčení se nepodařilo dohledat).",
+   "hodnota": "cca 800 mil. Kč navýšení zakázky bez soutěže, 14 obviněných (10/2024), obžaloba 11. 2. 2025, stav: probíhá",
+   "zdroj_url": "https://www.echo24.cz/a/HuHsW/zpravy-domov-korupce-dpp-obzaloba-zakazka",
+   "datum": "2026-10-03"
+  }
+ ],
+ "pozice_stran": [
+  {
+   "list_slug": "magistrat-5-praha-sobe",
+   "pozice": "Prezentují se jako iniciátoři odhalení kauzy Dozimetr (trestní oznámení podal jejich lídr Adam Scheinherr) a tvrdí, že díky jejich zjištěním skončil ve funkci magistrátní ředitel Kubelka kvůli VIP parkovačkám, podivným odměnám a přidělování městských bytů.",
+   "citace": "Kauza Dozimetr se před lety rozjela díky trestnímu oznámení, které podal náš kandidát na primátora Adam Scheinherr. [...] Odhalili jsme kauzy, které hýbaly magistrátem: VIP parkovačky pro kamarády, podivné odměny, zakázky a přidělování městských bytů. I díky tomu skončil magistrátní ředitel Kubelka.",
+   "zdroj_url": "https://www.prahasobe.cz/program"
+  },
+  {
+   "list_slug": "magistrat-7-ceska-piratska-strana",
+   "pozice": "Automatická datová kontrola veřejných zakázek: Zavést automatickou datovou kontrolu napříč celým cyklem zakázka-smlouva-faktura a jednotný standard řízení městských firem, včetně zveřejňování platů šéfů městských firem.",
+   "zdroj_url": "https://program2026.praha.pirati.cz/"
+  },
+  {
+   "list_slug": "magistrat-12-spolu-pro-prahu",
+   "pozice": "Reforma velkých tendrů a skicovné: Reforma zadávání velkých infrastrukturních tendrů, zjednodušení dokumentace a zavedení modelu skicovného, které má předcházet zdržením ze sporů dodavatelů. Program se výslovně odvolává na tříleté zdržení tendru na metro D. Pražský summit se starosty MČ: Pravidelná koordinační jednání vedení města se starosty městských částí a posunutí platformy Sněm starostů na vyšší úroveň při řešení celoměstských problémů.",
+   "zdroj_url": "https://tempoplan.cz"
+  },
+  {
+   "list_slug": "magistrat-16-jsme-praha",
+   "pozice": "Profesionální správa města založená na datech a transparentnosti: Obecný závazek řídit město „odborně“ s důrazem na protikorupční opatření a dohled nad veřejnými zakázkami/majetkem.",
+   "citace": "profesionální správa města založená na datech, odbornosti a transparentnosti",
+   "zdroj_url": "https://www.jsme.team/nase-teamy/praha/"
+  },
+  {
+   "list_slug": "magistrat-22-ano-2011",
+   "pozice": "Transparentní investiční plán s kvartálními reporty: Zveřejnit transparentní investiční plán a čtvrtletně reportovat postup: co je hotové, za kolik a s jakým zpožděním. Ke každému úkolu určit konkrétní odpovědnost a nezakrývat ji strukturou odborů.",
+   "zdroj_url": "https://janhusbauer.cz/#program"
+  }
+ ],
+ "zdroje": [
+  {
+   "nazev": "Kauza Dozimetr - Wikipedia",
+   "url": "https://cs.wikipedia.org/wiki/Kauza_Dozimetr",
+   "datum": "2026-10-02"
+  },
+  {
+   "nazev": "Dopravní podnik hlavního města Prahy - Wikipedia (sekce kauzy)",
+   "url": "https://cs.wikipedia.org/wiki/Dopravn%C3%AD_podnik_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+   "datum": "2026-10-02"
+  },
+  {
+   "nazev": "Volební program Praha sobě 2026 (PDF)",
+   "url": "https://www.prahasobe.cz/program",
+   "datum": "2026-10-02"
+  }
+ ],
+ "mezery_v_datech": [
+  "Podrobnosti o kauze 'magistrátní ředitel Kubelka' (VIP parkovačky, odměny) zmíněné v programu Praha sobě nebyly nezávisle ověřeny u druhého zdroje (média) - jde zatím jen o jednostranné tvrzení jedné politické strany.",
+  "Konkrétní jména, obvinění a aktuální stav u vedlejších větví kauzy Dozimetr (VZP, zdravotnictví) nebyly podrobně rozpracovány.",
+  "Pozice ostatních osmi sledovaných listin k transparentnosti nebyly dohledány u primárního zdroje.",
+  "Totožnost obžalovaných a konečný výsledek řízení v kauze zakázky na bezpečnostní kamery/radiostanice DPP (obžaloba 11. 2. 2025) se nepodařilo dohledat.",
+  "Pozice listin 9, 10, 14, 24 k transparentnosti: v programech zachycených v parties/ není samostatná priorita z této oblasti."
+ ],
+ "posledni_aktualizace": "2026-10-06"
+}

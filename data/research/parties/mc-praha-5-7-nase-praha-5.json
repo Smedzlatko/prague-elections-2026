@@ -1,0 +1,50 @@
+{
+  "slug": "mc-praha-5-7-nase-praha-5",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 7,
+  "nazev": "Naše Praha 5",
+  "zkratka": "Naše Praha 5",
+  "typ": "koalice",
+  "slozeni": [
+    "HNP",
+    "nezávislí kandidáti"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Nová listina pro rok 2026, v minulém období na Praze 5 nekandidovala. Lídrem je právník Rudolf Blažek, předseda sportovního klubu SK Motorlet Praha; na listině je i bývalá tenistka Denisa Šátralová. Samostatný program nebyl dohledán.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program ani jiné zdrojované vyjádření k politickým pozicím listiny nebyly dohledány.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program nebyl dohledán. Listina na Praze 5 dříve nekandidovala – doveryhodnost_plneni je null.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "blazek-rudolf"
+  ],
+  "mezery_v_datech": [
+    "Vlastní volební program listiny nebyl dohledán.",
+    "Nebyl dohledán žádný web ani sociální síť listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

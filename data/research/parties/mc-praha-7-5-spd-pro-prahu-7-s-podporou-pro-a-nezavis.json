@@ -1,0 +1,51 @@
+{
+  "slug": "mc-praha-7-5-spd-pro-prahu-7-s-podporou-pro-a-nezavis",
+  "assembly_id": "mc-praha-7",
+  "list_cislo": 5,
+  "nazev": "SPD pro Prahu 7 s podporou PRO a nezávislých kandidátů",
+  "zkratka": "SPD",
+  "typ": "koalice",
+  "slozeni": [
+    "SPD",
+    "PRO",
+    "nezávislí kandidáti"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Programy do voleb - SPD pro Prahu 7 s podporou PRO a nezávislých kandidátů",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165146",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Nová listina pro Prahu 7, v roce 2022 pod podobným uskupením nekandidovala (samotná SPD tehdy získala 4,14 % a žádný mandát). Lídryní je lékařka Vlasta Příkaská. Samostatný program nebyl dohledán.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": 2.5,
+    "oduvodneni": "SPD je na celostátní úrovni národně-konzervativní, protiimigrační strana; PRO (Právo Respekt Odbornost) je na témata covidových opatření a ochrany svobod. Lokální program s konkrétními tématy pro Prahu 7 nebyl dohledán, odhad je odvozen jen ze složení.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program nebyl dohledán. Listina v tomto složení v minulém období na Praze 7 nekandidovala a nemá tedy historický záznam na lokální úrovni – doveryhodnost_plneni je null.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "prikaska-vlasta"
+  ],
+  "mezery_v_datech": [
+    "Vlastní volební program listiny nebyl dohledán.",
+    "Nebylo ověřeno přesné dřívější politické působení (pokud nějaké) lídryně Vlasty Příkaské."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

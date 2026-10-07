@@ -1,0 +1,67 @@
+{
+  "slug": "magistrat-17-demokraticka-strana-zelenych-za-prava",
+  "assembly_id": "magistrat",
+  "list_cislo": 17,
+  "nazev": "Demokratická strana zelených – ZA PRÁVA ZVÍŘAT",
+  "zkratka": "DSZ – ZA PRÁVA ZVÍŘAT",
+  "typ": "koalice",
+  "slozeni": [
+    "DSZ – ZA PRÁVA ZVÍŘAT",
+    "nezávislí kandidáti"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "programydovoleb.cz – DSZ – ZA PRÁVA ZVÍŘAT",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164924",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "DSZ – ZA PRÁVA ZVÍŘAT – Program a priority (celostátní)",
+        "url": "https://dsz-zapravazvirat.cz/program-priority/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Pro devítičlennou pražskou listinu vedenou Hanou Janišovou se nepodařilo dohledat samostatný, komunálně upravený program pro Prahu – jen celostátní program strany DSZ – ZA PRÁVA ZVÍŘAT, který listina implicitně reprezentuje. Ten je postaven na ochraně zvířat (přísnější postihy týrání, zákaz kožešinových farm a klecových chovů, kamery na jatkách, zákaz pouťových atrakcí se zvířaty) a dále obsahuje obecné body k životnímu prostředí, zdravotnictví, sociální oblasti a snížení platů politiků. Žádný bod není specifický pro komunální správu Prahy.",
+    "priority": [
+      {
+        "oblast": "jine",
+        "nazev": "Přísnější ochrana zvířat a tvrdší postihy za týrání",
+        "popis": "Celostátní program strany požaduje důslednější ochranu zvířat a přírody, rozšíření právní ochrany zvířat a tvrdší postihy za týrání včetně nepodmíněných trestů; žádný z bodů nebyl nalezen v komunálně upravené podobě pro Prahu.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Jde o celostátní, legislativní požadavky (trestní sazby, zákazy chovu) mimo přímou pravomoc pražského magistrátu; jejich lokální aplikace nebyla specifikována."
+        },
+        "zdroj_url": "https://dsz-zapravazvirat.cz/program-priority/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": -1,
+    "oduvodneni": "Složení kandidátky (předsedkyně a členky spolků na ochranu zvířat) ukazuje na jednoproblémové zaměření na práva zvířat, které bývá spojováno s progresivnější hodnotovou agendou; bez dohledaného programu je ale hodnotová osa jen orientační a ekonomickou osu nelze určit vůbec.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Konkrétnost 1: dohledaný je jen celostátní program strany, pojmenovává opatření (zákazy, přísnější sazby), ale bez komunální úpravy pro Prahu, čísel či termínů. Transparentnost 2: dohledatelní kandidáti s profesním zaměřením (+1) a zveřejněný (byť celostátní) program na webu strany (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [],
+  "mezery_v_datech": [
+    "Specifický program listiny pro pražské komunální volby 2026 nebyl dohledán ani přes WebSearch – k dispozici je jen celostátní program strany DSZ – ZA PRÁVA ZVÍŘAT, bez úpravy pro Prahu.",
+    "Lídryně Hana Janišová nemá v projektu vytvořený samostatný dossier – listina má 9 kandidátů a žádnou reálnou šanci na mandát."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

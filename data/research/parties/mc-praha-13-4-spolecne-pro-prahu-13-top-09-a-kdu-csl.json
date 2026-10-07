@@ -1,0 +1,100 @@
+{
+  "slug": "mc-praha-13-4-spolecne-pro-prahu-13-top-09-a-kdu-csl",
+  "assembly_id": "mc-praha-13",
+  "list_cislo": 4,
+  "nazev": "Společně pro Prahu 13 – TOP 09 a KDU-ČSL",
+  "zkratka": "TOP 09/KDU-ČSL",
+  "typ": "koalice",
+  "slozeni": [
+    "TOP 09",
+    "KDU-ČSL"
+  ],
+  "web": "https://www.spolecnepro13.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "Společně pro 13 – volební program 2026", "url": "https://www.spolecnepro13.cz/program/", "datum": "2026-10-03"}
+    ],
+    "shrnuti": "Program koalice je rozdělen do devíti tematických oblastí (bydlení, veřejný prostor, sport a kultura, územní rozvoj, komunitní energetika, bezpečnost, školství, doprava a parkování, zdraví a péče). Jde převážně o obecně formulovaná hesla a směřování (např. „byty pro lidi, ne jen další výstavba“, „nulová tolerance k narušování veřejného pořádku“, „dostupnou školku a základní školu“) bez uvedení konkrétních čísel nebo termínů realizace u většiny bodů.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Dostupné nájemní bydlení",
+        "popis": "Byty pro lidi, ne jen další výstavba; dostupné nájemní bydlení s jasnými pravidly.",
+        "citace": "byty pro lidi, ne jen další výstavba; dostupné nájemní bydlení s jasnými pravidly",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "MČ může nabídkou obecních bytů ovlivnit jen omezenou část trhu; bez čísel nelze posoudit rozsah."},
+        "zdroj_url": "https://www.spolecnepro13.cz/program/"
+      },
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Více městských strážníků a nulová tolerance přestupkům",
+        "popis": "Nulová tolerance k narušování veřejného pořádku, navýšení počtu městských strážníků.",
+        "citace": "nulová tolerance k narušování veřejného pořádku; více městských strážníků",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Navýšení počtu strážníků je plně v kompetenci MČ, ale chybí konkrétní cílový počet."},
+        "zdroj_url": "https://www.spolecnepro13.cz/program/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Dostatek míst ve školkách a školách",
+        "popis": "Zajištění dostupné školky a základní školy, plánování kapacit dopředu podle demografického vývoje.",
+        "citace": "dostupnou školku a základní školu; plánovat dopředu",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Kapacity škol jsou v kompetenci MČ, ale výstavba nových kapacit (viz ZŠ Stodůlky) vyžaduje víceleté investice."},
+        "zdroj_url": "https://www.spolecnepro13.cz/program/"
+      },
+      {
+        "oblast": "energetika",
+        "nazev": "Komunitní energetika",
+        "popis": "Pilotní projekt komunitní energetiky na školách, podpora SVJ, která chtějí využít vlastní střechy pro fotovoltaiku.",
+        "citace": "pilotní projekt na školách; podpora SVJ, která chtějí využít vlastní střechy",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Pilotní projekt na školách je v přímé kompetenci MČ jako zřizovatele, podpora SVJ závisí na zájmu a financování ze strany jednotlivých společenství."},
+        "zdroj_url": "https://www.spolecnepro13.cz/program/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "TOP 09 je pravicová, ekonomicky liberální strana; KDU-ČSL je konzervativnější v hodnotových otázkách. Kombinace tvoří středopravou koalici.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Koalice byla součástí vládnoucí koalice MČ Praha 13 s ODS a ANO 2011 po celé volební období, se 2 mandáty z voleb 2022; Ivana Todlová zastávala funkci místostarostky.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Spoluúčast na investiční agendě radnice (např. ZŠ Stodůlky)",
+        "dukaz": "Jako nejmenší koaliční partner (2 mandáty, místostarostka Todlová) nese koalice TOP 09/KDU-ČSL spoluodpovědnost za projekty vedení MČ, např. rozestavěnou novou ZŠ ve Stodůlkách pro 1 152 žáků, ale zásluha není v dostupných zdrojích rozlišena mezi koaličními partnery a konkrétní vlastní agenda listiny nebyla dohledána.",
+        "zdroj_url": "https://www.praha13.cz"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako nejmenší koaliční partner s exekutivní funkcí (místostarostka Todlová) byla součástí vedení MČ po celé období bez zaznamenaného rozpadu koalice, ale konkrétní bilanci jejích vlastních slibů z roku 2022 se nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "Program z roku 2026 obsahuje devět tematických oblastí, většina bodů jsou ale obecná hesla a směřování bez konkrétních opatření, čísel nebo termínů (konkrétnost 1). Důvěryhodnost plnění: nejmenší koaliční partner bez zaznamenaného rozpadu koalice, ale bez zdrojovaného přehledu vlastního konkrétního přínosu. Skóre 2 odráží chybějící doložený přínos, ne prokázané pochybení. Transparentnost: zveřejněný program (+1), dohledatelná kandidátka (+1) a jmenovaná exekutivní funkce lídryně (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "todlova-ivana"
+  ],
+  "mezery_v_datech": [
+    "Program je formulován převážně jako hesla bez čísel a termínů realizace; podrobnější rozpracování jednotlivých priorit nebylo na webu k dispozici.",
+    "Bilance plnění slibů v koalici MČ Praha 13 za 2022–2026 nebyla dohledána."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

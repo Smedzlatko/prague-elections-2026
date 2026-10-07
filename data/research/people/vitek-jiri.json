@@ -1,0 +1,70 @@
+{
+  "cele_jmeno": "Jiří Vítek",
+  "rok_narozeni": 1973,
+  "strana": "Patrioti ČR",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-8",
+      "list_cislo": 3,
+      "poradi": 1
+    },
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 18,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Jiří Vítek je místostarosta MČ Praha 8, zakladatel a předseda celostátní strany Patrioti České republiky a lídr celopražské listiny PATRIOTI PRO PRAHU do Zastupitelstva hl. m. Prahy pro volby 2026. Ve volbách 2022 byl zvolen na 1. místě listiny PATRIOTI PRO PRAHU 8 s 2984 preferenčními hlasy a stal se místostarostou v koalici s ODS, ANO a TOP 09/STAN. Patrioti ČR vznikli 10. února 2014 transformací z občanského sdružení Volba pro Prahu 8, které Vítek vedl od roku 2004; strana se profiluje jako konzervativní, vlastenecká, s důrazem na přímou demokracii a decentralizaci. V komunálních volbách 2022 získala strana napříč Prahou a Českem přes 40 zastupitelských mandátů, v Praze celkem 195 426 hlasů (0,82 %) na magistrátní úrovni. Podrobný zdrojovaný přehled Vítkova konkrétního resortu a výsledků v funkci místostarosty Prahy 8 2022–2026 se nepodařilo dohledat.",
+  "vzdelani": null,
+  "profese": "místostarosta MČ Praha 8",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "místostarosta MČ Praha 8",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Vítek zastává výkonnou funkci místostarosty od roku 2022, ale zdrojovaný přehled jeho konkrétního resortu a toho, co v něm prosadil či nedotáhl, se nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Praha 8 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – PATRIOTI PRO PRAHU",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164929",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org – Patrioti České republiky",
+      "url": "https://cs.wikipedia.org/wiki/Patrioti_České_republiky",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán žádný samostatný biografický zdroj k jeho osobě mimo disambiguační záznam a profil Patriotů ČR.",
+    "Nebyl dohledán konkrétní resort, který jako místostarosta zastává, ani přehled jeho výsledků 2022-2026.",
+    "Program listiny PATRIOTI PRO PRAHU pro magistrát nebyl dohledán v konkrétní podobě (nenalezen vlastní web ani program).",
+    "Přesný rok narození (1973) potvrzen z Wikipedie (3. června 1973)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "vitek-jiri",
+  "name_key": "vitek-jiri"
+}

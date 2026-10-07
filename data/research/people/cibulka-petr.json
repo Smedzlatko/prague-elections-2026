@@ -1,0 +1,94 @@
+{
+  "slug": "cibulka-petr",
+  "name_key": "cibulka-petr",
+  "cele_jmeno": "Petr Cibulka",
+  "rok_narozeni": 1950,
+  "strana": "Pravý Blok",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 21,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Petr Cibulka je dlouholetý disident, publicista a lídr strany Volte Pravý Blok, kandidující v komunálních volbách opakovaně od 90. let. Narodil se 27. října 1950 v Brně a od konce 60. let se angažoval v protikomunistickém odboji – účastnil se protestů proti sovětské okupaci 1968 a demonstrací 1969, od roku 1973 byl spojen s Jazzovou sekcí, kterou režim perzekuoval za šíření západní kultury. V letech 1978–1988 byl pětkrát odsouzen a strávil celkem 59 měsíců ve vězení, z toho 13 měsíců na samotce (vězení Minkovice); byl signatářem Charty 77 a od 1985 členem Výboru na obranu nespravedlivě stíhaných (VONS). Po listopadu 1989 založil tiskové centrum a týdeník Rudé Krávo, později přejmenovaný na Necenzurované noviny, na nichž zveřejňoval tzv. Cibulkovy seznamy – údajné seznamy spolupracovníků StB, které podle jeho vlastního přiznání obsahovaly řadu nepřesných a chybných údajů. Čelil za ně více žalobám, soudy v naprosté většině rozhodly v jeho neprospěch a byl v několika případech podmíněně odsouzen. V roce 1996 spoluzaložil Pravý Blok (dnes Volte Pravý Blok www.cibulka.net), jehož předsedou je od 22. července 2000. Jeho volební kandidatury byly opakovaně neúspěšné: Senát 2008 (Praha 9), prezidentská volba 2013, volby do Evropského parlamentu 2024 (0,11 %) i volby do Poslanecké sněmovny 2025 (429 hlasů, 0,00 %). Prosazuje přímou demokracii na švýcarském modelu, povinnou vojenskou službu a odmítá imigraci, Green Deal a práva LGBT osob; propaguje i konspirační teorie o ruském vlivu na evropskou politiku a používá k predikcím tzv. siderické kyvadlo.",
+  "vzdelani": null,
+  "profese": "publicista, vydavatel, šéfredaktor Necenzurovaných novin a serveru cibulka.net",
+  "politicka_historie": [
+    {
+      "od": "1973",
+      "do": "1988",
+      "funkce": "disident, signatář Charty 77, člen VONS (od 1985)",
+      "organizace": "Charta 77 / VONS",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Petr_Cibulka"
+    },
+    {
+      "od": "1996",
+      "do": null,
+      "funkce": "spoluzakladatel strany Pravý Blok",
+      "organizace": "Pravý Blok",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Petr_Cibulka"
+    },
+    {
+      "od": "2000-07-22",
+      "do": null,
+      "funkce": "předseda strany Volte Pravý Blok",
+      "organizace": "Volte Pravý Blok",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Petr_Cibulka"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Cibulkovy seznamy – žaloby za nepřesné údaje o spolupracovnících StB",
+      "typ": "soudni",
+      "obdobi": "1992–2000s",
+      "popis": "Cibulka zveřejnil v Necenzurovaných novinách rozsáhlé seznamy osob označených jako spolupracovníci StB. Seznamy podle dostupných zdrojů obsahovaly řadu nepřesných a chybných údajů, což Cibulka sám připustil. Dotčené osoby jej za to opakovaně žalovaly; soudy ve většině případů rozhodly v jeho neprospěch a byl v několika případech podmíněně odsouzen.",
+      "stav": "potvrzeno",
+      "zavaznost": "vysoka",
+      "reakce_dotcene_osoby": "Cibulka sám přiznal, že seznamy obsahovaly nepřesnosti, zveřejnění ale obhajoval jako nástroj veřejné kontroly bývalého režimu.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org – Petr Cibulka",
+          "url": "https://cs.wikipedia.org/wiki/Petr_Cibulka",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Cibulka nikdy nezastával voleného veřejného postu s výkonnou pravomocí (opakovaně kandidoval, ale nebyl zvolen), plnění slibů v exekutivní funkci proto nelze hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org – Petr Cibulka",
+      "url": "https://cs.wikipedia.org/wiki/Petr_Cibulka",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – Volte Pravý Blok",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164925",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cibulka.net – web strany",
+      "url": "https://www.cibulka.net",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný počet a výsledky jednotlivých soudních řízení o Cibulkových seznamech (kolik žalob, jaké konkrétní tresty) nebyly v dostupném zdroji (Wikipedie) vyčísleny jednotlivě.",
+    "cibulka.net se nepodařilo stáhnout s plným textem aktuálního programu pro volby 2026 – citován jen souhrn z programydovoleb.cz."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

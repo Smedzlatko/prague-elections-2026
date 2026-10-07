@@ -1,0 +1,53 @@
+{
+  "slug": "grabein-prochazka-karel",
+  "name_key": "grabein-prochazka-karel",
+  "cele_jmeno": "Ing. Karel Grabein Procházka",
+  "rok_narozeni": null,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-1",
+      "list_cislo": 5,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Ekonom a podnikatel, lídr listiny Naše Praha 1 – ANO 2011 a nezávislí, Staroměstská lípa. Od voleb 2022 (zvolen z 1. místa) je radním MČ Praha 1 za ANO 2011 s gescí cestovní ruch, podpora podnikání, obchod a regulace trhů, ekonomická strategie a územní rozvoj – tedy přímo témata, která jsou podle charakteristiky Prahy 1 dlouhodobě nejkonfliktnější (turismus, vylidňování centra). Jeho listina byla součástí koalice, která v listopadu 2022 zvolila starostkou Terezii Radoměřskou. Věk podle briefu 66 let.",
+  "vzdelani": "Ekonomické vzdělání (Ing.).",
+  "profese": "Ekonom, podnikatel; radní MČ Praha 1.",
+  "politicka_historie": [
+    {
+      "od": "2022-11",
+      "do": "2026-10",
+      "funkce": "radní MČ Praha 1 (cestovní ruch, podnikání, obchod, územní rozvoj)",
+      "organizace": "MČ Praha 1",
+      "zdroj_url": "https://www.praha1.cz/politicka-reprezentace/rada/clenove-rady/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": 2,
+    "oduvodneni": "Měl po celé období na starosti právě klíčová témata MČ (regulace turismu a krátkodobých pronájmů, podpora podnikání, vylidňování centra). Podle charakteristiky v districts/mc-praha-1.json přetrvávají stejné problémy jako před rokem 2022, což nenaznačuje výrazný posun k lepšímu – ale bez nezávislého zdroje nelze rozlišit neplnění slibů od objektivně obtížně řešitelného problému (mnoho nástrojů regulace Airbnb je v rukou magistrátu/státu, ne MČ). Skóre je konzervativní odhad, ne pozitivní zjištění konkrétního pochybení.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "praha1.cz: Členové rady",
+      "url": "https://www.praha1.cz/politicka-reprezentace/rada/clenove-rady/",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození a detaily vzdělání nebyly ověřeny nad rámec briefu.",
+    "Detailní a nezávisle doložená bilance konkrétních kroků v gesci cestovního ruchu a územního rozvoje 2022-2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

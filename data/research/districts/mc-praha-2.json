@@ -1,0 +1,62 @@
+{
+  "assembly_id": "mc-praha-2",
+  "nazev": "Praha 2",
+  "charakteristika": "Zahrnuje Vinohrady, Nusle, Vyšehrad a část Nového Města; cca 51 500 obyvatel. Dlouhodobě vedena pravostředovou koalicí ODS a TOP 09. Klíčová témata: parkování a doprava v klidu, revitalizace Náplavky a veřejného prostoru, bytová politika a pronájmy nebytových prostor MČ.",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ODS",
+      "TOP 09"
+    ],
+    "starosta": {
+      "jmeno": "Jan Korseska",
+      "strana": "ODS",
+      "slug": null
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Korseska"
+  },
+  "zmeny_v_obdobi": [
+    "Po volbách 2022 se starostkou stala lídryně koalice ODS a TOP 09 Alexandra Udženija (ODS). V únoru 2023 byla jmenována náměstkyní primátora hl. m. Prahy (sociální věci, bydlení, zdravotnictví), v březnu 2023 oznámila rezignaci na funkci starostky Prahy 2 pro střet zájmů/souběh funkcí a k 19. 6. 2023 funkci opustila. Novým starostou se stal dosavadní místostarosta Jan Korseska (ODS)."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Parkování a doprava v klidu",
+      "popis": "Hustě zastavěná městská část s vysokým tlakem na parkovací místa; dlouhodobé téma zón placeného stání a jejich regulace.",
+      "proc_zalezi": "Ovlivňuje každodenní život velké části obyvatel i podnikatelů v Nuslích, na Vinohradech a v okolí centra.",
+      "zdroje": []
+    },
+    {
+      "nazev": "Náplavka a veřejný prostor",
+      "popis": "Revitalizace a provozní režim nábřeží (Rašínovo nábřeží / Náplavka) spadajícího na území Prahy 2 je opakovaným tématem kvůli hluku, nočnímu životu a čistotě.",
+      "proc_zalezi": "Dotýká se kvality života místních obyvatel versus komerčního využití prostoru.",
+      "zdroje": []
+    },
+    {
+      "nazev": "Bytová politika a pronájmy nebytových prostor",
+      "popis": "Praha 2 jako vlastník bytového a nebytového fondu řeší podmínky pronájmu bytů i komerčních prostor (obchody, provozovny) a jejich dostupnost.",
+      "proc_zalezi": "Ovlivňuje dostupnost bydlení i charakter obchodní sítě v městské části.",
+      "zdroje": []
+    }
+  ],
+  "velke_projekty": [],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Jan Korseska",
+      "url": "https://cs.wikipedia.org/wiki/Jan_Korseska",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Alexandra Udženija",
+      "url": "https://cs.wikipedia.org/wiki/Alexandra_Udženija",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán konkrétní velký investiční/rozvojový projekt MČ pro pole 'velke_projekty' ani doložené kauzy MČ - oficiální zápisy zastupitelstva Prahy 2 nebyly v rámci rešerše ověřeny.",
+    "Nebylo ověřeno, zda se koalice ODS+TOP09 opírala formálně i o další subjekt (vzhledem k 14/35 mandátům obou stran společně je potřeba většina 18 - přesné koaliční/podporovatelské schéma pro zbylé hlasy nebylo dohledáno).",
+    "Některá klicova_temata (Parkování a doprava v klidu, Náplavka a veřejný prostor, Bytová politika a pronájmy nebytových prostor) nemají přiřazený konkrétní zdroj - jde o obecně známá lokální témata bez dohledaného konkrétního článku/dokumentu k říjnu 2026; vyžaduje doplnění při příští rešerši."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

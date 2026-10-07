@@ -1,0 +1,33 @@
+{
+  "slug": "hruza-ivan",
+  "name_key": "hruza-ivan",
+  "cele_jmeno": "JUDr. Ivan Hrůza",
+  "rok_narozeni": 1954,
+  "strana": "KSČM",
+  "kandidatury_2026": [
+    {"assembly_id": "mc-praha-6", "list_cislo": 3, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Ivan Hrůza je podnikový právník a lídr kandidátky KSČM pro Prahu 6 ve volbách 2026. Strana v Praze 6 v roce 2022 nezískala mandát (1,60 % hlasů). Veřejně dohledaný politický životopis nad rámec dat ČSÚ se nepodařilo najít.",
+  "vzdelani": "právo (JUDr.)",
+  "profese": "podnikový právník",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce v samosprávě Prahy 6 nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, MČ Praha 6 2026 - KSČM", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165144", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Žádný veřejně dohledaný politický životopis mimo kandidátní listinu ČSÚ nebyl nalezen.",
+    "Rok narození je odhad z udaného věku 72 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

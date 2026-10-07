@@ -1,0 +1,101 @@
+{
+  "assembly_id": "mc-praha-4",
+  "nazev": "Praha 4",
+  "charakteristika": "Praha 4 je nejpočetnější pražská městská část (přes 135 tisíc obyvatel) na pravém břehu Vltavy, zahrnující katastrální území Nusle, Michle, Braník, Krč, Podolí a Lhotka a dále sídlištní Spořilov a Pankrác. Charakteristická je kontrastem mezi historickými čtvrtěmi (Nusle, Podolí), velkými panelovými sídlišti (Krč, Spořilov) a rozvíjejícím se administrativním centrem na Pankrácké pláni s mrakodrapy a plánovanou další výškovou výstavbou. Dopravně je klíčová trasa metra C a stanic metra D (Olbrachtova, Nádraží Krč) ve výstavbě, které mají ulevit povrchové dopravě.",
+  "soucasna_koalice": {
+    "obdobi": "2022–2026",
+    "strany": [
+      "ODS",
+      "TOP 09",
+      "ANO 2011"
+    ],
+    "starosta": {
+      "jmeno": "Ing. Ondřej Kubín, MBA",
+      "strana": "ODS",
+      "slug": "kubin-ondrej"
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Praha_4"
+  },
+  "zmeny_v_obdobi": [
+    "Koalice ODS/TOP 09 (SPOLEČNĚ, 13 mandátů) a ANO 2011 (10 mandátů) ovládá 23 ze 45 mandátů a byla dle dostupných zdrojů po celé období 2022–2026 stabilní, bez zaznamenané rozpadu či personální krize na úrovni vedení radnice (na rozdíl od předchozího volebního období 2018–2022, kdy v dubnu 2019 opozice odvolala tehdejšího starostu)."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Pankrácká pláň a výškové budovy",
+      "popis": "Pankrácká pláň je jediná lokalita v Praze s koncentrací výškových budov (City Tower, V Tower, Tower 101 aj.) a dlouhodobě se řeší další zahušťování výstavby, dopravní napojení a chybějící občanská vybavenost (školy, veřejný prostor) v poměru k přibývajícím obyvatelům a kancelářským plochám.",
+      "proc_zalezi": "Rozhoduje o charakteru centra Prahy 4 na desítky let a o zátěži dopravní a školské infrastruktury v sousedních čtvrtích.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Praha 4",
+          "url": "https://cs.wikipedia.org/wiki/Praha_4",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Dostavba metra D (Olbrachtova, Nádraží Krč)",
+      "popis": "Nová linka metra D má zásadně zlepšit obslužnost Krče a Pankráce a ulevit autobusové a tramvajové dopravě; výstavba probíhá na území Prahy 4 a je dlouhodobě sledovaným tématem zastupitelstva MČ i magistrátu.",
+      "proc_zalezi": "Jde o největší dopravní investici probíhající na území MČ, s dopadem na dopravní uzávěry a budoucí rozvoj okolí stanic.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Praha 4",
+          "url": "https://cs.wikipedia.org/wiki/Praha_4",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Hospodaření MČ a investice",
+      "popis": "Praha 4 hospodaří s rozpočtem v řádu jednotek miliard korun ročně (cca 1,45 mld. Kč dle údaje z roku 2022); místostarosta pro investice je od roku 2022 Jan Hušbauer (ANO), který je zároveň celopražským lídrem ANO 2011 pro volby 2026 — jeho bilance investiční politiky na Praze 4 je proto relevantní i pro posouzení jeho kandidatury na magistrát.",
+      "proc_zalezi": "Jan Hušbauer jako celopražský lídr ANO a kandidát na primátora je zároveň přímo odpovědný za investice v největší pražské MČ, což je přímo přenositelná zkušenost/bilance pro voliče.",
+      "zdroje": [
+        {
+          "nazev": "Deník N: Sebrali lidem kvůli parkování...",
+          "url": "https://denikn.cz/2188881/populisticke-vykriky-parkovani-v-praze-nevyresi-ctyri-kroky-ale-mohou-situaci-skutecne-zlepsit/",
+          "datum": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "nazev": "Spor o novou radnici Prahy 4 („předražená radnice“)",
+      "popis": "Čtyři kandidáti opoziční koalice SPOLEČNĚ PRO ZMĚNU (Kaiser Zicha, Kaplan, Žáček ad.) se v materiálech ČSÚ sami označují jako iniciátoři referenda proti tomu, co popisují jako předraženou novou radnici Prahy 4. Nezávislé médiální ověření konkrétního projektu, jeho ceny a výsledku referenda se v rámci této rešerše nepodařilo dohledat.",
+      "proc_zalezi": "Jde o opakovaně zmiňované politické téma mezi kandidáty samotnými, ale bez nezávislého zdroje nelze posoudit věcnou podstatu ani stav kauzy.",
+      "zdroje": []
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Metro D – stanice Olbrachtova a Nádraží Krč",
+      "stav": "rozpracovano",
+      "popis": "Výstavba nové linky metra D probíhající přes území Prahy 4, s dopady na dopravu a budoucí rozvoj okolí stanic.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Praha 4",
+          "url": "https://cs.wikipedia.org/wiki/Praha_4",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Praha 4",
+      "url": "https://cs.wikipedia.org/wiki/Praha_4",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "research-kit brief mc-praha-4.md (ČSÚ otevřená data)",
+      "url": "https://volby.gov.cz/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nepodařilo se nezávisle (mimo vlastní sebeprezentaci kandidátů) ověřit podstatu, cenu a výsledek kauzy 'předražená radnice Prahy 4' a referenda proti ní.",
+    "Nepodařilo se dohledat konkrétní investiční projekty místostarosty Jana Hušbauera na Praze 4 (viz i people/husbauer-jan.json) - médiální pokrytí se soustředí na jeho celopražskou kandidaturu na primátora, ne na lokální bilanci.",
+    "Přesný aktuální počet obyvatel se v různých zdrojích liší (136 348 dle briefu ČSÚ vs. 135 712 dle Wikipedie k 31.12.2024) - jde pravděpodobně o rozdílné referenční datum.",
+    "Některá klicova_temata (Spor o novou radnici Prahy 4 („předražená radnice“)) nemají přiřazený konkrétní zdroj - jde o obecně známá lokální témata bez dohledaného konkrétního článku/dokumentu k říjnu 2026; vyžaduje doplnění při příští rešerši."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

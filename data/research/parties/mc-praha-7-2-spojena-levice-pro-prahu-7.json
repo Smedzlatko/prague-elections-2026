@@ -1,0 +1,41 @@
+{
+  "slug": "mc-praha-7-2-spojena-levice-pro-prahu-7",
+  "assembly_id": "mc-praha-7",
+  "list_cislo": 2,
+  "nazev": "Spojená levice pro Prahu 7",
+  "zkratka": "Spojená levice",
+  "typ": "koalice",
+  "slozeni": ["KSČM", "ČSSD"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {"nazev": "Programy do voleb - Spojená levice pro Prahu 7", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165147", "datum": "2026-10-02"}
+    ],
+    "shrnuti": "Koalice KSČM a ČSSD na Praze 7 nemá dohledatelný vlastní web ani samostatný volební program; programydovoleb.cz k listině žádný externí program neodkazuje. Lídrem je Martin Suchánek, bezpartijní zastupitel zvolený v roce 2022 za ANO 2011, který v tomto volebním období přešel na tuto levicovou koaliční listinu.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -2.5,
+    "hodnotova_osa": -1,
+    "oduvodneni": "Koalice KSČM a ČSSD je programově na celostátní úrovni levicová (sociální stát, regulace, podpora nájemního bydlení); u lokální listiny bez vlastního programu je to odvozeno ze složení, ne z konkrétního textu.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program nebyl dohledán (konkretnost_programu = 0). Koalice v předchozím volebním období u komunálních voleb 2022 na Praze 7 nekandidovala ve stejném složení a nebyla u moci, doveryhodnost_plneni je proto null.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["suchanek-martin"],
+  "mezery_v_datech": [
+    "Vlastní volební program listiny nebyl dohledán.",
+    "Nebylo ověřeno, zda jde o formální koalici s dohodou o rozdělení mandátů, nebo společnou kandidátku bez takové dohody."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

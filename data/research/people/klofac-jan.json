@@ -1,0 +1,51 @@
+{
+  "slug": "klofac-jan",
+  "name_key": "klofac-jan",
+  "cele_jmeno": "Bc. Jan Klofáč",
+  "rok_narozeni": 1983,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-6",
+      "list_cislo": 4,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Jan Klofáč je odborník na digitalizaci veřejné správy a nový lídr kandidátky České pirátské strany pro Prahu 6 ve volbách 2026 – nahradil na první příčce listiny Ondřeje Vykoukala, lídra z roku 2022, který na novou listinu zařazen je až na 18. místě. Piráti v roce 2022 v Praze 6 získali 13,76 % a 7 mandátů, zůstali však v opozici. Veřejně dohledaný politický životopis Klofáče nad rámec dat ČSÚ se nepodařilo najít.",
+  "vzdelani": "Bc.",
+  "profese": "odborník na digitalizaci veřejné správy",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce v samosprávě Prahy 6 nelze plnění slibů hodnotit; jde o nového kandidáta na první příčce.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, MČ Praha 6 2026 - Česká pirátská strana",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/163865",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Piráti Praha 6",
+      "url": "https://praha6.pirati.cz",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Žádný veřejně dohledaný politický životopis mimo kandidátní listinu ČSÚ a web Pirátů nebyl nalezen.",
+    "Rok narození je odhad z udaného věku 43 let v brífu k říjnu 2026.",
+    "Nebylo dohledáno, odkdy je Klofáč členem Pirátů ani jaké zastával dřívější veřejné funkce."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

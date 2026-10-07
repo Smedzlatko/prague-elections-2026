@@ -1,0 +1,49 @@
+{
+  "slug": "mc-praha-18-8-ceska-strana-asocialu",
+  "assembly_id": "mc-praha-18",
+  "list_cislo": 8,
+  "nazev": "Česká strana asociálů",
+  "zkratka": "ČSA",
+  "typ": "strana",
+  "slozeni": [
+    "ČSA"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Jednočlenná listina (1 kandidátka, Melisa Hujerová, 18 let, povolání v briefu uvedené jako „manažer protestů“). Česká strana asociálů je recesistický/protestní subjekt; program nebyl dohledán a s ohledem na rozsah kandidátky (1 osoba) ani nebyl očekáván.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "hujerova-melisa"
+  ],
+  "mezery_v_datech": [
+    "Program listiny nebyl dohledán - u jednočlenné recesistické listiny to odpovídá očekávání, ne chybě rešerše."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

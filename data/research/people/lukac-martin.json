@@ -1,0 +1,36 @@
+{
+  "slug": "lukac-martin",
+  "name_key": "lukac-martin",
+  "cele_jmeno": "MUDr. Martin Lukáč",
+  "rok_narozeni": 1962,
+  "strana": "Trikolora",
+  "kandidatury_2026": [
+    {"assembly_id": "mc-praha-6", "list_cislo": 5, "poradi": 1}
+  ],
+  "role": "inkumbent",
+  "profil": "Martin Lukáč je lékař a ředitel polikliniky Evropská, zastupitel MČ Praha 6 od voleb 2022, kdy byl zvolen jako lídr listiny „Trikolora, hnutí SPD a nezávislí kandidáti pro Prahu 6“ (1987 preferenčních hlasů, koalice získala 2 mandáty). Pro rok 2026 opět vede obdobnou koalici (SPD s podporou Trikolory a PRO). Veřejně dohledaný přehled jeho konkrétních návrhů a hlasování v zastupitelstvu 2022-2026 se nepodařilo najít.",
+  "vzdelani": "medicína (MUDr.)",
+  "profese": "lékař, ředitel polikliniky Evropská",
+  "politicka_historie": [
+    {"od": "2022-10", "do": null, "funkce": "zastupitel MČ Praha 6 (lídr koalice Trikolora/SPD/nezávislí)", "organizace": "MČ Praha 6", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový opoziční zastupitel bez radního portfolia nemá exekutivní funkci, u které by šlo plnění slibů v obvyklém smyslu hodnotit; podle metodiky se pozice v opozici nepočítá proti.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": ["ředitel polikliniky Evropská"], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, MČ Praha 6 2026 - SPD s podporou Trikolory a PRO", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164625", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Žádný nezávislý mediální zdroj (Deník N, iROZHLAS apod.) o jeho politickém působení nebyl dohledán - fulltextové vyhledávání na Deníku N nevrátilo žádné výsledky.",
+    "Rok narození je odhad z udaného věku 64 let v brífu k říjnu 2026.",
+    "Konkrétní návrhy a hlasování v zastupitelstvu 2022-2026 nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

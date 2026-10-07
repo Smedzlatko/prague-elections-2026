@@ -1,0 +1,29 @@
+{
+  "slug": "okamura-ignac",
+  "name_key": "okamura-ignac",
+  "cele_jmeno": "Ignác Okamura",
+  "rok_narozeni": 2004,
+  "strana": "KDU-ČSL",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 1, "poradi": 15}],
+  "role": "inkumbent",
+  "profil": "Ignác Okamura je student právnické fakulty, kandiduje za KDU-ČSL na listině PRAHA 7 SOBĚ. V roce 2022 získal mandát zastupitele MČ Praha 7 (6905 preferenčních hlasů) jako jeden z nejmladších zvolených komunálních politiků v Praze. Pro rok 2026 kandiduje na 15. místě listiny. Veřejně dostupný záznam o jeho konkrétní agendě v zastupitelstvu nebyl dohledán.",
+  "vzdelani": "student právnické fakulty (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "student práv, zastupitel MČ Praha 7",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 7", "organizace": "MČ Praha 7", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez exekutivní funkce, podrobné hodnocení jeho práce v zastupitelstvu nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 22 let v brífu k říjnu 2026 (2004), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

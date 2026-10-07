@@ -1,0 +1,117 @@
+{
+  "cele_jmeno": "Ondřej Gros",
+  "rok_narozeni": 1975,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-8",
+      "list_cislo": 4,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Ondřej Gros je starosta MČ Praha 8 od listopadu 2018, obhájil mandát ve volbách 2022 (ODS, 19,28 %, 10 mandátů). Do ODS vstoupil v květnu 1997, zastupitelem Prahy 8 je nepřetržitě od roku 1998 (zvolen 1998, 2002, 2006, 2010, 2014, 2018, 2022). V letech 2006-2010 předsedal bytové komisi, 2010-2014 měl na starosti správu obecního majetku mimo bydlení, v letech 2014-2018 (ODS v opozici) vedl opoziční klub zastupitelů. Zastává pravicové pozice, podporuje úplnou privatizaci obecního bytového fondu a dlouhodobě odmítá umístění nouzového ubytování pro bezdomovce na Rohanském ostrově.",
+  "vzdelani": "Gymnázium U Libeňského zámku",
+  "profese": "starosta MČ Praha 8",
+  "politicka_historie": [
+    {
+      "od": "1997-05",
+      "do": null,
+      "funkce": "člen ODS",
+      "organizace": "ODS",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Gros"
+    },
+    {
+      "od": "1998",
+      "do": "2006",
+      "funkce": "zastupitel MČ Praha 8",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Gros"
+    },
+    {
+      "od": "2006",
+      "do": "2010",
+      "funkce": "předseda bytové komise",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Gros"
+    },
+    {
+      "od": "2010",
+      "do": "2014",
+      "funkce": "radní pro správu obecního majetku (mimo bydlení)",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Gros"
+    },
+    {
+      "od": "2014",
+      "do": "2018",
+      "funkce": "předseda opozičního klubu zastupitelů ODS",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Gros"
+    },
+    {
+      "od": "2018-11",
+      "do": null,
+      "funkce": "starosta MČ Praha 8 (obhájeno 2022)",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Gros"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Dostavba Nové Palmovky",
+      "popis": "Jako starosta vedl MČ v období, kdy se po letech patové situace rozhodlo o dostavbě komplexu Nová Palmovka (zhotovitel PORR vybrán v červnu 2025).",
+      "stav": "rozpracovano",
+      "hodnoceni": "Posun k realizaci nastal až ke konci volebního období; dostavba sama probíhá pod gescí hl. m. Prahy (budova má sloužit i agentuře EUSPA), ne jen MČ.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Nová Palmovka",
+          "url": "https://cs.wikipedia.org/wiki/Nov%C3%A1_Palmovka",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [
+    {
+      "nazev": "Pokuta ÚOHS za obcházení zadávacích řízení na úklid a zeleň",
+      "typ": "verejna_zakazka",
+      "obdobi": "2021-2025",
+      "popis": "Úřad pro ochranu hospodářské soutěže uložil MČ Praha 8 pokutu 300 000 Kč za to, že v letech 2021–2023 opakovaně zadávala přímými objednávkami (bez zadávacího řízení) zakázky na úklid a péči o veřejnou zeleň. Podle mluvčího MČ k tomu došlo, protože se opakovaně nepodařilo vysoutěžit nového dodavatele. Rozhodnutí je pravomocné. Starosta Gros pokutu 3. 2. 2025 zaplatil v plné výši ze svých soukromých peněz. Opozice (Piráti, 8žije/Praha Sobě) podala trestní oznámení na neznámého pachatele a navrhla prověřit odpovědné osoby včetně radního pro životní prostředí, tedy starosty; mimořádné zastupitelstvo o auditu zakázek kvůli nesouhlasu koalice s programem jednání neprojednalo. Výsledek případného trestního oznámení nebyl dohledán.",
+      "stav": "potvrzeno",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Gros uvedl, že pokutu zaplatil sám, protože MČ měla při soutěžení zakázky opakované problémy (zadávací řízení musela dvakrát zrušit). Opozice jeho osobní úhradu pokuty označila za snahu „zamést problém pod stůl“, nikoliv za skutečné převzetí odpovědnosti.",
+      "zdroje": [
+        {"nazev": "Pražský deník – Praha 8 dostala pokutu 300 000 Kč. Zadávala práce mimo soutěž", "url": "https://prazsky.denik.cz/zpravy-region/praha-8-uohs-soutez-pokuta-sluzby/", "datum": "2025-02-06"},
+        {"nazev": "Pražský deník – Praha 8 dostala pokutu za chybné zakázky. Zaplatil ji starosta", "url": "https://prazsky.denik.cz/zpravy-region/praha-8-pokuta-uohs-starosta-zaplaceni-opozice-mimoradne-zastupitelstvo/", "datum": "2025-02-06"},
+        {"nazev": "ÚOHS – tisková zpráva: Městská část Praha 8 řešila péči o veřejné prostranství bez zadávacího řízení", "url": "https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/verejne-zakazky/4094-mestska-cast-praha-8-resila-peci-o-verejne-prostranstvi-bez-zadavaciho-rizeni-uohs-ji-ulozil-pokutu.html", "datum": "2025-02-06"}
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": 3,
+    "oduvodneni": "Gros vede MČ dlouhodobě a stabilně (opakovaně znovuzvolen), klíčový dlouholetý projekt (Nová Palmovka) se za jeho vedení pohnul k realizaci, byť pozdě. Proti tomu stojí pravomocná pokuta ÚOHS za obcházení zadávacích řízení (2021–2023). Zdrojovaný přehled dalších konkrétních slibů z let 2022-2026 a jejich plnění nebyl dohledán, proto střední skóre.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Ondřej Gros",
+      "url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Gros",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní zdrojovaný přehled volebních slibů z roku 2022 a jejich individuálního plnění (mimo Novou Palmovku) nebyl dohledán.",
+    "Výsledek trestního oznámení opozice (Piráti, 8žije/Praha Sobě) na neznámého pachatele v souvislosti s pokutou ÚOHS nebyl dohledán."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "gros-ondrej",
+  "name_key": "gros-ondrej"
+}

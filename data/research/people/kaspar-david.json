@@ -1,0 +1,52 @@
+{
+  "cele_jmeno": "MgA. David Kašpar",
+  "rok_narozeni": 1977,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 8,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "David Kašpar je místostarosta MČ Praha 10 pro sociální a rodinnou politiku, kulturní manažer a vysokoškolský pedagog. Ve volbách 2022 byl zvolen na 1. místě listiny VLASTA a STAN s podporou KDU-ČSL s 6208 preferenčními hlasy a stal se místostarostou v koalici s ODS a TOP 09.",
+  "vzdelani": null,
+  "profese": "kulturní manažer, vysokoškolský pedagog",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "místostarosta MČ Praha 10 (sociální a rodinná politika)",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500224"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastává výkonnou funkci místostarosty od roku 2022, ale zdrojovaný přehled konkrétních výsledků v resortu sociální a rodinné politiky nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Praha 10 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500224",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán konkrétní přehled výsledků v resortu sociální a rodinné politiky za období 2022-2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "kaspar-david",
+  "name_key": "kaspar-david"
+}

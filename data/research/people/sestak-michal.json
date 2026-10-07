@@ -1,0 +1,27 @@
+{
+  "slug": "sestak-michal",
+  "name_key": "sestak-michal",
+  "cele_jmeno": "PhDr. Michal Šesták",
+  "rok_narozeni": 1976,
+  "strana": "ANO",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 3, "poradi": 4}],
+  "role": "top5",
+  "profil": "Michal Šesták je manažer, člen ANO 2011. V roce 2022 mandát nezískal, žádný další veřejný politický záznam nebyl dohledán. Pro rok 2026 kandiduje na 4. místě listiny ANO 2011.",
+  "vzdelani": "PhDr. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "manažer",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez historického záznamu z výkonné funkce na úrovni MČ Praha 5.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 50 let v brífu k říjnu 2026 (1976), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o nového kandidáta."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

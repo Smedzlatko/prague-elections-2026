@@ -1,0 +1,27 @@
+{
+  "slug": "vokral-radek",
+  "name_key": "vokral-radek",
+  "cele_jmeno": "Bc. Radek Vokřál",
+  "rok_narozeni": 1998,
+  "strana": "SEN 21",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 12, "poradi": 5}],
+  "role": "top5",
+  "profil": "Radek Vokřál je provozní specialista, člen SEN 21. V roce 2022 mandát nezískal. Pro rok 2026 kandiduje na 5. místě listiny SEN PRO PRAHU 5.",
+  "vzdelani": "Bc. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "provozní specialista",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez historického záznamu z výkonné funkce na úrovni MČ.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 28 let v brífu k říjnu 2026 (1998), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o nového kandidáta."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

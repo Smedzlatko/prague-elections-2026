@@ -1,0 +1,52 @@
+{
+  "slug": "zelenka-vojtech",
+  "name_key": "zelenka-vojtech",
+  "cele_jmeno": "Vojtěch Zelenka",
+  "rok_narozeni": 1983,
+  "strana": "STAROSTOVÉ A NEZÁVISLÍ",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 8,
+      "poradi": 4
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Vojtěch Zelenka je zastupitel/ka MČ Praha 22, v roce 2022 zvolen/a na listině „STAROSTOVÉ A NEZÁVISLÍ“ (1. místo, 899 preferenčních hlasů). Pro volby 2026 kandiduje na listině „STAROSTOVÉ A NEZÁVISLÍ“ (4. místo). Profesně: mediální poradce poslaneckého klubu STAN, zastupitel MČ Praha 22.",
+  "vzdelani": null,
+  "profese": "mediální poradce poslaneckého klubu STAN, zastupitel MČ Praha 22",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 22 (zvolen/a za STAROSTOVÉ A NEZÁVISLÍ)",
+      "organizace": "MČ Praha 22",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 22 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

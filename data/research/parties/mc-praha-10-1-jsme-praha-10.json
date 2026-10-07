@@ -1,0 +1,58 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 1,
+  "nazev": "JSME PRAHA 10",
+  "zkratka": "JSME PRAHA 10",
+  "typ": "koalice",
+  "slozeni": [
+    "TEAM",
+    "BEZPP"
+  ],
+  "web": "https://www.jsme.team/nase-teamy/praha-10",
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "jsme.team: Praha 10 - program",
+        "url": "https://www.jsme.team/nase-teamy/praha-10/#program",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "JSME PRAHA 10 je nástupnická listina předchozí opoziční skupiny vedené Petrem Benešem (předseda nejaktivnějšího opozičního klubu) a Janou Komrskovou (bývalá 1. místostarostka Prahy 10 2018-2022, dnes náměstkyně primátora pro životní prostředí). Na listině kandidují i členové petičního výboru proti prodeji městského pozemku na Bohdalci. Program je na webu k dispozici, konkrétní text se přes WebFetch nepodařilo získat.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "Hnutí TEAM a nezávislí kandidáti spojení s bývalou vedoucí radniční koalicí Praha 10 Sobě (2018-2022) se profilují jako liberálně-progresivní, s důrazem na transparentnost a ochranu obecního majetku. Odhad bez přímé programové citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Po volbách 2022 skončila v opozici – předtím (2018-2022) byla součástí vedení MČ (Komrsková 1. místostarostkou). Beneš byl předtím místostarostou pro majetek.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční klub v letech 2022-2026 kritizovala vedení MČ zejména kvůli nakládání s obecním majetkem (petice proti prodeji pozemku na Bohdalci). Zdrojovaný přehled konkrétních kauz a jejich výsledku se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 4,
+    "oduvodneni": "Program existuje na webu, ale konkrétní text se nepodařilo získat. Transparentnost vysoká – vlastní web a dohledatelní kandidáti s politickou historií.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "benes-petr"
+  ],
+  "mezery_v_datech": [
+    "Konkrétní text programu pro rok 2026 nebyl z webu získán.",
+    "Nebyl dohledán aktuální stav kauzy prodeje pozemku na Bohdalci."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-10-1-jsme-praha-10"
+}

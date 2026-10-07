@@ -1,0 +1,178 @@
+{
+  "slug": "laska-vaclav",
+  "name_key": "laska-vaclav",
+  "cele_jmeno": "Mgr. Václav Láska",
+  "rok_narozeni": 1974,
+  "strana": "SEN 21",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 24,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Senátor za obvod č. 21 (Praha 5), advokát a bývalý policejní vyšetřovatel ekonomické kriminality, zakladatel a předseda hnutí SEN 21. Od roku 2002 do roku 2011 byl předsedou Transparency International ČR. V Senátu působí od roku 2014 (obhájil mandát 2020), je autorem ústavní žaloby na prezidenta Miloše Zemana z roku 2019. Od roku 2022 je zastupitelem MČ Praha 5 za koalici SEN 21. Pro komunální volby 2026 vede celopražskou koalici SEN PRO PRAHU spojující SEN 21, Hnutí pro Prahu 11 a stranu Mourek.",
+  "vzdelani": "Pedagogická fakulta Hradec Králové (sociální patologie, 1996–1999); Právnická fakulta Západočeské univerzity v Plzni (1999–2004)",
+  "profese": "advokát (vlastní advokátní kancelář od 2010), bývalý policejní vyšetřovatel, vyučuje na ČVUT",
+  "politicka_historie": [
+    {
+      "od": "1992",
+      "do": "2003",
+      "funkce": "policista, vyšetřovatel hospodářské kriminality (od 1999 Úřad pro odhalování korupce a finanční kriminality, kauzy IPB a Harvardských fondů)",
+      "organizace": "Policie ČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)"
+    },
+    {
+      "od": "2002",
+      "do": "2011",
+      "funkce": "předseda",
+      "organizace": "Transparency International ČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)"
+    },
+    {
+      "od": "2013",
+      "do": "2013",
+      "funkce": "lídr kandidátky pro Středočeský kraj do Poslanecké sněmovny",
+      "organizace": "Strana zelených",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)"
+    },
+    {
+      "od": "2014-10",
+      "do": null,
+      "funkce": "senátor za obvod č. 21 (Praha 5)",
+      "organizace": "Senát PČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)"
+    },
+    {
+      "od": "2017-12",
+      "do": null,
+      "funkce": "zakladatel a předseda",
+      "organizace": "SENÁTOR 21 / SEN 21",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)"
+    },
+    {
+      "od": "2018-05",
+      "do": null,
+      "funkce": "vedoucí Klubu liberální demokracie v Senátu",
+      "organizace": "Senát PČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)"
+    },
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 5 (za koalici SEN 21)",
+      "organizace": "MČ Praha 5",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Ústavní žaloba na prezidenta Miloše Zemana (2019)",
+      "popis": "Láska byl autorem senátní ústavní žaloby na prezidenta Zemana za údajné porušení ústavy. Senát žalobu schválil 24. července 2019 (48 pro), Poslanecká sněmovna ji 26. září 2019 nepotvrdila (58 pro, 62 proti, potřeba bylo 120 hlasů).",
+      "stav": "zastaveno",
+      "hodnoceni": "Žaloba neprošla Poslaneckou sněmovnou a řízení u Ústavního soudu se dále nekonalo.",
+      "zdroje": [
+        {
+          "nazev": "Wikipedie – Václav Láska (politik)",
+          "url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Prošetřování smluv Dopravního podniku hl. m. Prahy (2012)",
+      "popis": "Jako senátor prováděl kontrolu smluv DPP a podal trestní oznámení na vedení podniku.",
+      "stav": "dokonceno",
+      "hodnoceni": null,
+      "zdroje": [
+        {
+          "nazev": "Wikipedie – Václav Láska (politik)",
+          "url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [
+    {
+      "nazev": "Kárné řízení České advokátní komory za kauzu DPP",
+      "typ": "stranicky",
+      "obdobi": "2012-2014",
+      "popis": "V souvislosti s prošetřováním smluv Dopravního podniku hl. m. Prahy Láska ve dvou rozhlasových vystoupeních (Český rozhlas 20. 8. 2012 a Frekvence 1 o pět dní později) veřejně označil advokátní kancelář Šachta & Partners za údajného iniciátora trestné činnosti v DPP. Na stížnost kanceláře mu Česká advokátní komora v kárném řízení (první stupeň) udělila pokutu 200 000 Kč. Láska se odvolal a odvolací kárný senát ČAK v červnu 2014 jeho odvolání vyhověl a pokutu zrušil s odůvodněním, že advokáta lze za výroky (nejsou-li urážlivé či neuctivé) kárně postihnout jen tehdy, byly-li vědomě nepravdivé.",
+      "stav": "zprosten",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Láska se proti pokutě odvolal a uspěl; po rozhodnutí odvolacího senátu uvedl, že čeká, jak komora vysvětlí svůj dřívější postoj.",
+      "zdroje": [
+        {
+          "nazev": "ČAK: Komora zrušila pokutu 200.000 za výrok Lásky o Šachta & Partners",
+          "url": "https://www.cak.cz/scripts/detail.php?id=13114",
+          "datum": "2014-06"
+        },
+        {
+          "nazev": "Aktuálně.cz: Advokát Láska nemusí platit pokutu za výroky o Rittigových (DPP)",
+          "url": "https://zpravy.aktualne.cz/domaci/advokat-laska-nemusi-platit-pokutu-za-vyroky-o-rittigovych/r~b443c432f6d511e3a30b0025900fea04/",
+          "datum": "2014-06-18"
+        },
+        {
+          "nazev": "Wikipedie – Václav Láska (politik)",
+          "url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Spor na zastupitelstvu Prahy 5 kolem interpelace o Milanu Vrkočovi",
+      "typ": "medialni",
+      "obdobi": "2023-04",
+      "popis": "Láska měl na zastupitelstvu Prahy 5 slovně napadnout opoziční zastupitele poté, co interpelovali k politické minulosti zastupitele SEN 21 Milana Vrkoče; Láska interpelaci označil za útok na Vrkočovu čest.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Láska interpelaci veřejně hájil jako nepřiměřený útok na čest kolegy.",
+      "zdroje": [
+        {
+          "nazev": "Wikipedie – Václav Láska (politik)",
+          "url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": 3,
+    "oduvodneni": "Jako senátor opakovaně obhájil mandát a dlouhodobě se profiluje na protikorupční a kontrolní agendě (TI ČR, kontrola DPP), ústavní žaloba na prezidenta ale neprošla Sněmovnou. Na úrovni Prahy 5 je zastupitelem od 2022, hodnocení jeho komunální práce přesahuje rámec této rešerše (týká se MČ Praha 5, ne magistrátu).",
+    "priklady": [
+      {
+        "slib": "Kontrola hospodaření a boj s korupcí",
+        "vysledek": "Dlouhodobě aktivní v kontrolní/protikorupční agendě (TI ČR, kauza DPP, ústavní žaloba), s omezeným legislativním úspěchem (9 navržených zákonů).",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)"
+      }
+    ]
+  },
+  "zajmy_a_majetek": {
+    "firmy": [
+      "vlastní advokátní kancelář (od 2010)"
+    ],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+      "url": "https://volby.cz",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Wikipedie – Václav Láska (politik)",
+      "url": "https://cs.wikipedia.org/wiki/Václav_Láska_(politik)",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nepodařilo se ověřit aktuální výbory a funkce v Senátu přímo z webu senat.cz (stránka při rešerši nevrátila obsah).",
+    "Nepodařilo se dohledat podrobnosti o jeho práci jako zastupitele MČ Praha 5 2022–2026 (konkrétní návrhy, hlasování)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

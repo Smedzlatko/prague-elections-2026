@@ -1,0 +1,45 @@
+{
+  "cele_jmeno": "Dita Jarošová, DiS.",
+  "rok_narozeni": 1977,
+  "strana": "LANO",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 3,
+      "poradi": 2
+    }
+  ],
+  "role": "lidr",
+  "profil": "Dita Jarošová, DiS. vede kandidátní listinu podle otevřených dat ČSÚ; mimo kandidátní listinu se nepodařilo dohledat další veřejně dostupný politický záznam.",
+  "vzdelani": null,
+  "profese": "učitelka",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500224",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "jarosova-dita",
+  "name_key": "jarosova-dita"
+}

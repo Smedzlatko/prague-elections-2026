@@ -1,0 +1,66 @@
+{
+  "slug": "mc-praha-20-8-spolu-ods-a-top09-s-podporou-nezavislyc",
+  "assembly_id": "mc-praha-20",
+  "list_cislo": 8,
+  "nazev": "SPOLU (ODS a TOP09 s podporou nezávislých kandidátů Horních Počernic)",
+  "zkratka": "SPOLU",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "TOP 09"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Druhý nejsilnější subjekt z voleb 2022 (24,34 %, 7 mandátů), vedený dosavadním starostou Petrem Měšťanem (ODS). Na listině i další radní a zastupitelé (Ondřej Žídek, Jindřich Jukl, Zuzana Foglarová, Richard Stára, Pavel Ciboch). Samostatný program pro volby 2026 nebyl dohledán.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "ODS a TOP 09 s podporou nezávislých kandidátů Horních Počernic získala v roce 2022 druhý nejvyšší počet mandátů (7 z 25, 24,34 %) a vedla radniční koalici – lídr Petr Měšťan je starostou MČ. Radniční zpravodaj potvrzuje jako místostarostku i Hanu Markulinec Moravcovou z listiny Hnutí Šance pro Počernice (5 mandátů 2022), tedy minimálně dvoustranou koalici.",
+    "splnene_sliby": [
+      {
+        "slib": "Tělocvična v Jívanské ulici",
+        "dukaz": "Hornopočernický zpravodaj 10/2026: tělocvična dnes slouží dětem i sportujícím dospělým a je plně vytížena.",
+        "zdroj_url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Napojení na D11 (Beranka, Hornopočernická spojka) a bazén v Robotnici.",
+        "dukaz": "Hornopočernický zpravodaj 10/2026: stavební povolení na spojku vydáno v září 2026, výstavba má začít až v roce 2027; bazén byl jen „představen“ v roce 2026, bez termínu dokončení. Starosta sám upozorňuje, že u nadmístních staveb je MČ jen připomínkujícím subjektem.",
+        "zdroj_url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice vedená Petrem Měšťanem (ODS/TOP09) a Hanou Markulinec Moravcovou (Šance pro Počernice) dokládá v radničním zpravodaji dokončené menší investice (tělocvična) i rozpracované velké projekty (napojení na D11, bazén), u nichž ale přiznává omezený vliv MČ. Jde o zdroj vydávaný samotnou MČ (zdroj_strana) s vyjádřeními přímo od starosty, nezávislé médium bilanci nepotvrzuje. Vlastní psaný volební program listiny pro roky 2022 i 2026 se nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán. doveryhodnost_plneni 3: radniční zpravodaj dokládá dokončené i rozpracované projekty bez zjevného obratu nebo porušení slibů, ale zdrojem je výhradně periodikum MČ (zdroj_strana) s citacemi přímo od starosty a bez psaného programu z roku 2022 nelze měřit poměr vůči konkrétním slibům. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "mestan-petr"
+  ],
+  "mezery_v_datech": [
+    "Program koalice SPOLU pro Horní Počernice nebyl dohledán v dostupných zdrojích - ODS web neobsahoval konkrétní program k Praze 20.",
+    "Přesné úplné složení koalice (zda jen ODS/TOP09 + Šance pro Počernice, nebo i další subjekty) nebylo nad rámec dohledaných funkcí v zpravodaji ověřeno.",
+    "Bilance vychází výhradně z radničního zpravodaje (zdroj_strana), nebyla ověřena nezávislým zdrojem.",
+    "Program nedohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"SPOLU\" Horní Počernice Měšťan program volby 2026 ODS TOP09; \"SPOLU\" Horní Počernice program 2026 Portlík Měšťan priority web; \"Šance pro Počernice\" OR \"SPOLU\" Horní Počernice 2026 program priority bydlení doprava. Dohledány jen obecné citylewide priority celopražské kampaně SPOLU (Portlík) a program koaličního partnera Šance pro Počernice pro období 2022-2026 (sancepropocernice.cz), žádný vlastní psaný lokální program listiny SPOLU pro volby 2026 nebyl nalezen; domény spolecnepropocernice.cz a mistniprohp.cz byly při pokusu o přístup nedostupné/blokované.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „SPOLU ODS TOP 09 Horní Počernice Praha 20 volební program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-06"
+}

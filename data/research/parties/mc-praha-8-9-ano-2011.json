@@ -1,0 +1,64 @@
+{
+  "assembly_id": "mc-praha-8",
+  "list_cislo": 9,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz dohledán formou odkazu ani textu. ANO bylo v letech 2022-2026 na Praze 8 koaličním partnerem s místostarostou Radomírem Nepilem (územní rozvoj, správa majetku, výstavba ZŠ Rohan) a radní pro kulturu, sport a rodinnou politiku Janou Solomonovou.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0.0,
+    "oduvodneni": "ANO se celostátně profiluje jako hnutí bez pevné ideologické kotvy, spíše pragmaticky-centristické s populistickými prvky. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Koaliční partner, místostarosta Radomír Nepil (územní rozvoj, správa majetku, výstavba ZŠ Rohan), radní Jana Solomonová (kultura, sport, rodinná politika).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Výstavba nové základní školy na Rohanském ostrově (ZŠ Rohan) pro 918 žáků.",
+        "dukaz": "V říjnu 2023 MČ Praha 8 (místostarosta Radomír Nepil, ANO) oznámila, že se nedohodla s vítězem architektonické soutěže (ateliér AXXI) na smlouvě – důvodem byla podle Nepila neadekvátně vysoká cena za projektovou dokumentaci (69,5 mil. Kč), kterou potvrdil i nezávislý posudek. MČ plánovala oslovit druhý a třetí tým soutěže a zachovat plánovaný termín zahájení stavby v roce 2026, Nepil ale připustil možné zpoždění. Novější zdrojovaný stav zastavěnosti/zahájení stavby k roku 2026 se v rešerši nepodařilo dohledat.",
+        "zdroj_url": "https://prazsky.denik.cz/zpravy-region/praha-zakladni-skola-rohan-praha-8-soutez-smlouva-atelier-spor/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ANO drželo resort územního rozvoje a majetku, včetně klíčového slibu výstavby nové ZŠ Rohan pro odlehčení přetížených škol v Karlíně a Libni. Projekt se v roce 2023 zdržel spornou architektonickou zakázkou; aktuální stav stavby k podzimu 2026 nebyl v dostupných zdrojích ověřen. Ostatní sliby a výsledky radní Solomonové (kultura, sport, rodinná politika) se nepodařilo zdrojovaně dohledat.",
+    "zdroje": [
+      {
+        "nazev": "Pražský deník: Radnice se s architekty nedohodla na ZŠ Rohan",
+        "url": "https://prazsky.denik.cz/zpravy-region/praha-zakladni-skola-rohan-praha-8-soutez-smlouva-atelier-spor/",
+        "datum": "2023-10-10"
+      }
+    ]
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program nedohledán (0). Doveryhodnost plnění: klíčový slib (ZŠ Rohan) se v polovině období zdržel sporem o cenu projektové dokumentace a jeho konečné dotažení k roku 2026 nebylo doloženo; u dalších slibů a resortu radní Solomonové chybí zdrojovaný přehled. Skóre 2 odráží doložené zpoždění vlajkového projektu bez jasného doložení dokončení.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "solomonova-jana"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 nebyl dohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"ANO Praha 8 program komunální volby 2026 Solomonová Nepil priority\" a \"Jana Solomonová Praha 8 program volby 2026 priority\" - výsledky obsahují jen stručné profily kandidátů a celopražský program ANO (bezpečnost, doprava), ne samostatný lokální program pro Prahu 8.",
+    "Nebyl dohledán aktuální stav výstavby ZŠ Rohan po říjnu 2023 (zda bylo zahájeno stavební řízení/stavba, s jakým zpožděním oproti plánu na rok 2026).",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „ANO Praha 8 program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06",
+  "slug": "mc-praha-8-9-ano-2011"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "jaros-jan",
+  "name_key": "jaros-jan",
+  "cele_jmeno": "PhDr. Jan Jaroš",
+  "rok_narozeni": 1978,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": null, "poradi": 9},
+    {"assembly_id": "mc-praha-11", "list_cislo": 4, "poradi": 1}
+  ],
+  "role": "inkumbent",
+  "profil": "Jan Jaroš je místostarosta MČ Praha 11 pro sociální věci a zdravotnictví za PRAHA SOBĚ, zvolen zastupitelem i v roce 2022 (pozice č. 1, 2591 preferenčních hlasů). Jeho listina PRAHA 11 SOBĚ byla po celé období 2022–2026 součástí vládnoucí koalice MČ, a to i po odvolání starostky Šárky Zdeňkové v prosinci 2023. Pro volby 2026 vede listinu PRAHA 11 SOBĚ a kandiduje i na celopražské kandidátce.",
+  "vzdelani": null,
+  "profese": "místostarosta MČ Praha 11 (sociální věci a zdravotnictví)",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel MČ Praha 11", "organizace": "PRAHA SOBĚ", "zdroj_url": null},
+    {"od": "2022-12", "do": "2026", "funkce": "místostarosta MČ Praha 11 (sociální věci a zdravotnictví)", "organizace": "MČ Praha 11", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jaroš zastával exekutivní funkci místostarosty po celé volební období, ale konkrétní zdrojovaný přehled jeho prosazených opatření v sociální a zdravotní oblasti se v rámci této rešerše nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 11 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "PRAHA 11 SOBĚ – web", "url": "https://prahasobe.cz/praha11/", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obor) nebylo dohledáno.",
+    "Konkrétní výsledky jeho práce jako místostarosty za roky 2022–2026 nebyly dohledány.",
+    "List_cislo jeho magistrátní kandidatury nebylo v briefu jednoznačně uvedeno."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

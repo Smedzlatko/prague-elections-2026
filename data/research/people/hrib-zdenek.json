@@ -1,0 +1,159 @@
+{
+  "slug": "hrib-zdenek",
+  "name_key": "hrib-zdenek",
+  "cele_jmeno": "MUDr. Zdeněk Hřib",
+  "rok_narozeni": 1981,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 7,
+      "poradi": 10
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Vystudovaný lékař, jedna z nejviditelnějších tváří Pirátů. Primátorem hl. m. Prahy byl od 15. 11. 2018 do 16. 2. 2023 (zvolen 39 hlasy zastupitelů, vystřídal Adrianu Krnáčovou). Po volbách 2022, kdy Piráti pokračovali v koalici se SPOLU a STAN, přešel do role 1. náměstka primátora pro dopravu (2023-2025). V listopadu 2024 byl zvolen předsedou České pirátské strany (vystřídal Ivana Bartoše). V říjnu 2025 byl zvolen poslancem (přes 21 tisíc preferenčních hlasů) a v prosinci 2025 v souladu s pirátským zákazem kumulace plně placených funkcí rezignoval na post náměstka primátora pro dopravu – nahradil ho Jaromír Beránek. Pro volby 2026 kandiduje na pražské kandidátce Pirátů z 10. místa.",
+  "vzdelani": "Medicína (MUDr.).",
+  "profese": "Poslanec Parlamentu ČR, předseda České pirátské strany, lékař.",
+  "politicka_historie": [
+    {
+      "od": "2018-11-15",
+      "do": "2023-02-16",
+      "funkce": "primátor hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib"
+    },
+    {
+      "od": "2023-02-16",
+      "do": "2025-12-11",
+      "funkce": "1. náměstek primátora pro dopravu",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib"
+    },
+    {
+      "od": "2024-11-09",
+      "do": null,
+      "funkce": "předseda České pirátské strany",
+      "organizace": "Česká pirátská strana",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib"
+    },
+    {
+      "od": "2025-10-04",
+      "do": null,
+      "funkce": "poslanec Parlamentu ČR",
+      "organizace": "Poslanecká sněmovna PČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Zahájení výstavby metra D a urychlení přípravy vnějšího městského okruhu",
+      "popis": "Za jeho primátorského působení (2018-2023) začala výstavba metra D a urychlila se příprava dostavby vnějšího pražského okruhu; probíhala také digitalizace úřadů a revize IT zakázek.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Jde o dlouhodobé infrastrukturní projekty s přesahem přes více volebních období a více náměstků; metro D pokračuje i po jeho odchodu z resortu dopravy, ale s posunutými termíny (viz bilance Pirátů a STAN).",
+      "zdroje": [
+        {
+          "nazev": "Wikipedie: Zdeněk Hřib",
+          "url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [
+    {
+      "nazev": "Tajné hlasování o geologickém průzkumu metra D",
+      "typ": "medialni",
+      "obdobi": "2019",
+      "popis": "Hřib byl kritizován za to, že rada hlasovala v tajné volbě o zadání geologického průzkumu pro metro D za 1,5 miliardy korun, což bylo vnímáno jako rozpor s jeho vlastními sliby o transparentnosti vedení města.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Wikipedie: Zdeněk Hřib",
+          "url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Spor o odvolání šéfa Pražské plynárenské",
+      "typ": "stranicky",
+      "obdobi": "2019",
+      "popis": "Hřib se pokusil odvolat šéfa Pražské plynárenské Pavla Janečka v souvislosti s vyšetřováním ohledně vyplácených tantiém, což vyvolalo konflikt s tehdejším předsedou TOP 09 v koalici Jiřím Pospíšilem.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Wikipedie: Zdeněk Hřib",
+          "url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Nákup kávovaru za 100 tisíc korun",
+      "typ": "medialni",
+      "obdobi": "2020",
+      "popis": "Média kritizovala nákup kávovaru pro kancelář primátora za zhruba 100 tisíc korun. Hřib uvedl, že nákup sám neobjednal, a nechal transakci prověřit.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Hřib uvedl, že kávovar neobjednával, a nechal věc prověřit.",
+      "zdroje": [
+        {
+          "nazev": "Wikipedie: Zdeněk Hřib",
+          "url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Odměny za členství v představenstvu PRE Holding",
+      "typ": "policejni",
+      "obdobi": "2024-2025",
+      "popis": "Hřib podle dostupného shrnutí neoprávněně pobíral odměny za členství v představenstvu společnosti PRE Holding v hodnotě přibližně 180 000 Kč. Policie případ postoupila magistrátu; řízení bylo zastaveno pro nedostatek důkazů o úmyslu. Hřib peníze vrátil.",
+      "stav": "odlozeno",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Hřib argumentoval vrácením peněz.",
+      "zdroje": [
+        {
+          "nazev": "Wikipedie: Zdeněk Hřib",
+          "url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": 3,
+    "oduvodneni": "Jako primátor a poté náměstek pro dopravu dotáhl zahájení několika velkých infrastrukturních projektů (metro D, okruh), ale opakovaně čelil kritice za rozpor mezi deklarovanou transparentností a vlastním rozhodováním (tajná hlasování, kauza odměn v PRE Holding) – odpovídá smíšenému hodnocení uprostřed stupnice.",
+    "priklady": [
+      {
+        "slib": "Transparentní vedení města",
+        "vysledek": "Opakovaně čelil kritice za netransparentní kroky (tajná volba o metru D 2019, kauza odměn PRE Holding 2024-2025).",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib"
+      }
+    ]
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": "Byl členem představenstva společnosti PRE Holding (viz kauza odměn)."
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Wikipedie: Zdeněk Hřib",
+      "url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné URL novinových zdrojů k jednotlivým kauzám (tajné hlasování 2019, kávovar 2020, PRE Holding 2024-2025) se nepodařilo dohledat nad rámec souhrnu z Wikipedie - ta byla použita jako rozcestník, primární zdroje nebyly jednotlivě ověřeny.",
+    "Aktuální stav (k říjnu 2026) případného dalšího vyšetřování kauzy PRE Holding nebyl ověřen."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

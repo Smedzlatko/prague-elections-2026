@@ -1,0 +1,57 @@
+{
+  "slug": "mc-praha-1-9-rezidenti-1",
+  "assembly_id": "mc-praha-1",
+  "list_cislo": 9,
+  "nazev": "REZIDENTI 1",
+  "zkratka": "REZIDENTI 1",
+  "typ": "sdruzeni nezavislych kandidatu",
+  "slozeni": [
+    "NK",
+    "Rebelové"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "programydovoleb.cz: REZIDENTI 1 - seznam kandidátů",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164204",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Listina se profiluje jako hlas dlouhodobých obyvatel centra proti hluku, nekontrolovanému turismu a vylidňování Prahy 1; lídr Martin Motl se podle svého profilu v briefu zasazuje o participativní rozpočet. Podrobný psaný program se dohledat nepodařilo.",
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Čistě lokální sdružení rezidentů centra bez celostátní stranické vazby; neumisťuje se na celostátní levo-pravé ose.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "V roce 2022 získala 7,60 % a 2 mandáty; podle zdroje o volbě starostky Radoměřské byla jednou z pěti koaličních stran (spolu s TOP09, ODS a Piráty). Martin Arden byl zastupitelem MČ Praha 1 a předsedou Komise sociální. Na rozdíl od ODS, ANO a Pirátů ale REZIDENTI 1 podle dohledaného seznamu rady MČ (praha1.cz, stav 2026) neobsadili žádné radní křeslo – jejich podíl na koalici byl omezen na hlasování pro starostku a výborové/komisní funkce.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Součást radniční koalice 2022-2026 bez vlastního radního křesla – reálný vliv na exekutivu MČ byl tedy výrazně menší než u ostatních koaličních partnerů. Detailní bilance konkrétní činnosti Martina Ardena jako předsedy sociální komise nebyla dohledána."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": null,
+    "oduvodneni": "Program popisuje obecná témata (boj proti vylidňování, hluku, nekontrolovanému turismu) bez konkrétních měřitelných opatření – na programydovoleb.cz navíc listina nemá vlastní web, jen transparentní účet a spolkový rejstřík. Doveryhodnost_plneni = 2: strana byla formálně v koalici, ale bez radního křesla měla minimální exekutivní vliv, takže jí nelze přičítat ani výrazné úspěchy, ani zásadní nesplnění – skóre je konzervativní odhad při chybějícím nezávislém zdroji.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "motl-martin"
+  ],
+  "mezery_v_datech": [
+    "Vlastní web ani podrobný psaný program listiny se nepodařilo dohledat - na programydovoleb.cz je jen odkaz na transparentní účet (ib.fio.cz) a spolkový rejstřík (justice.cz), žádný vlastní web.",
+    "Detailní bilance Martina Ardena jako zastupitele a předsedy sociální komise 2022-2026 nebyla ověřena."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

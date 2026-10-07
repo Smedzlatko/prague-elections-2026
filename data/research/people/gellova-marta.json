@@ -1,0 +1,29 @@
+{
+  "slug": "gellova-marta",
+  "name_key": "gellova-marta",
+  "cele_jmeno": "Mgr. Marta Gellová",
+  "rok_narozeni": 1969,
+  "strana": "BEZPP",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 3, "poradi": 9}],
+  "role": "inkumbent",
+  "profil": "Marta Gellová je právnička, bez politické příslušnosti kandiduje za ANO 2011. V roce 2022 získala mandát zastupitelky MČ Praha 5 (3395 preferenčních hlasů). Pro rok 2026 kandiduje na 9. místě listiny.",
+  "vzdelani": "právo, Mgr. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "právnička, zastupitelka MČ Praha 5",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitelka MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Konkrétní agenda a výstupy její zastupitelské práce nebyly dohledány.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 57 let v brífu k říjnu 2026 (1969), neověřeno.",
+    "Konkrétní agenda a výstupy její zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

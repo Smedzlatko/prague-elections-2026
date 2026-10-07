@@ -1,0 +1,99 @@
+{
+  "assembly_id": "mc-praha-12",
+  "nazev": "Praha 12",
+  "charakteristika": "Praha 12 zahrnuje katastrální území Modřany, Kamýk, Komořany, Cholupice a Točná v jižní části Prahy, s cca 60 000 obyvateli. Vznikla v listopadu 1994 (dříve Praha-Modřany). Od roku 2019 se stavěla nová radnice u ulice Generála Šišky, do které se úřad přestěhoval v červnu/červenci 2021 – dříve MČ neměla jednotnou administrativní budovu.",
+  "soucasna_koalice": {
+    "obdobi": "2022–2026",
+    "strany": [
+      "ODS",
+      "TOP 09",
+      "ANO 2011"
+    ],
+    "starosta": {
+      "jmeno": "Ing. Vojtěch Kos, MBA",
+      "strana": "ODS",
+      "slug": "kos-vojtech"
+    },
+    "zdroj_url": "https://www.praha12.cz/novym-starostou-prahy-12-je-vojtech-kos/d-104000"
+  },
+  "zmeny_v_obdobi": [],
+  "klicova_temata": [
+    {
+      "nazev": "Modřanská rokle",
+      "popis": "Přírodní lokalita (přírodní památka) v Modřanech, dlouhodobě téma ochrany přírody versus tlaku na využití okolních ploch.",
+      "proc_zalezi": "Jde o jednu z posledních větších přírodních ploch v hustě obydlené části MČ, citlivou na okolní výstavbu.",
+      "zdroje": [
+        {
+          "nazev": "Praha12.cz – úvodní stránka MČ",
+          "url": "https://www.praha12.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Tramvajové spojení do Modřan/Libuše",
+      "popis": "Dlouhodobě diskutovaný záměr prodloužení tramvajové sítě do oblasti Modřan a Libuše, který by zlepšil napojení MČ na síť MHD.",
+      "proc_zalezi": "Zásadní dopravní projekt pro obslužnost jižní části Prahy; v rámci této rešerše se nepodařilo dohledat aktuální stav přípravy ani zdrojovanou informaci o harmonogramu (mezera).",
+      "zdroje": [
+        {
+          "nazev": "Praha12.cz – úvodní stránka MČ",
+          "url": "https://www.praha12.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Hospodaření městské části",
+      "popis": "Dostavba nové radnice byla velkou investiční akcí MČ: odhad nákladů vzrostl z přibližně 470 mil. Kč na zhruba 618 mil. Kč (podle Archiwebu mj. kvůli sanaci znečištěné zeminy, protipožárním a elektro úpravám) a MČ ji financovala také bezúročnou půjčkou 250 mil. Kč od hl. m. Prahy se splatností do roku 2036.",
+      "proc_zalezi": "Velké investiční akce jsou standardně politicky citlivé kvůli rozpočtovým dopadům.",
+      "zdroje": [
+        {
+          "nazev": "Archiweb: Nová radnice v Modřanech by měla stát téměř 618 milionů",
+          "url": "https://www.archiweb.cz/en/n/home/nova-radnice-v-modranech-by-mela-stat-temer-618-milionu",
+          "datum": "2021-03-26"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Nová radnice Praha 12 (Generála Šišky)",
+      "stav": "dokonceno",
+      "popis": "Nová budova úřadu MČ (architektonicky tři „kostky cukru“ odkazující na modřanský cukrovar), stavěná od 2019, dokončena 2021; úřad se stěhoval v létě 2021 a sloučil dřívější pracoviště do jedné budovy. Cena vzrostla z původně odhadovaných cca 470 mil. Kč na cca 618 mil. Kč (údaj z března 2021).",
+      "zdroje": [
+        {
+          "nazev": "Archiweb: Nová radnice v Modřanech by měla stát téměř 618 milionů",
+          "url": "https://www.archiweb.cz/en/n/home/nova-radnice-v-modranech-by-mela-stat-temer-618-milionu",
+          "datum": "2021-03-26"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "Archiweb: Nová radnice v Modřanech by měla stát téměř 618 milionů",
+      "url": "https://www.archiweb.cz/en/n/home/nova-radnice-v-modranech-by-mela-stat-temer-618-milionu",
+      "datum": "2021-03-26"
+    },
+    {
+      "nazev": "Praha12.cz: Novým starostou Prahy 12 je Vojtěch Kos (rozhovor, prosinec 2022)",
+      "url": "https://www.praha12.cz/novym-starostou-prahy-12-je-vojtech-kos/d-104000",
+      "datum": "2022-12"
+    },
+    {
+      "nazev": "Praha12.cz",
+      "url": "https://www.praha12.cz",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné složení koalice 2022–2026 (ODS+TOP09+ANO) je odvozeno z toho, že zástupci všech tří subjektů (Kos, Šula, Vedralová) jsou na kandidátkách 2026 uvedeni jako starosta/místostarostové – nebylo dohledáno přímé novinové potvrzení koaliční smlouvy.",
+    "Aktuální stav přípravy tramvajového spojení do Modřan/Libuše se nepodařilo dohledat.",
+    "Cíleně ověřeno přes WebSearch: starosta Vojtěch Kos (ODS) NENÍ totožný s 'Pavel Kos', podnikatelem obžalovaným v kauze Dozimetr (korupce v DPP) – jde o shodu příjmení u dvou různých osob, viz people/kos-vojtech.json. Žádná doložená kauza či kontroverze MČ ani přímo starosty Kose nebyla v rámci této rešerše nalezena (weby praha.eu a iprpraha.cz nebyly dostupné).",
+    "Citace Wikipedie nahrazeny primárními zdroji (Archiweb, Praha12.cz) 6. 10. 2026. Rozpočtový překročení radnice (470 → 618 mil. Kč) je doložené číslo, ale ne kauza – nebylo dohledáno žádné šetření ani audit, proto není vedeno v kontroverze_mc.",
+    "Ověřeno 6. 10. 2026 (WebSearch: Kos / Šula / radnice Praha 12 + kauza, zakázka, policie): žádná doložená kauza starosty ani vedení MČ nenalezena. Doložený nulový nález; ‚očekávaný a legitimní‘ u MČ této velikosti."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

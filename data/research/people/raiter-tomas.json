@@ -1,0 +1,50 @@
+{
+  "slug": "raiter-tomas",
+  "name_key": "raiter-tomas",
+  "cele_jmeno": "RNDr. Tomáš Raiter",
+  "rok_narozeni": null,
+  "strana": "Česká pirátská strana",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-1",
+      "list_cislo": 13,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Sociolog, autor projektu KVALITA OČIMA PACIENTŮ (měření kvality ve zdravotnictví), podnikatel a muzikant. Podle dostupných dat ČSÚ nekandidoval v roce 2022 za Prahu 1 (nebyl inkumbentem) – vede nově listinu „Piráti a nezávislí pro Prahu 1“ pro rok 2026, zatímco bývalý lídr pirátské listiny z roku 2022 David Bodeček (1. místostarosta MČ 2022-2026) pro rok 2026 kandiduje na samostatné listině nezávislých. Manželka Jana Raiterová je předsedkyní místní organizace Pirátů v Praze 1.",
+  "vzdelani": "Přírodovědné vzdělání (RNDr.), sociolog.",
+  "profese": "Sociolog, podnikatel, muzikant.",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce a bez dohledaného veřejného záznamu z minulosti – nový kandidát bez historie, null je správná odpověď.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: Piráti a nezávislí pro Prahu 1 - kandidáti",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165101",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "praha1.pirati.cz: Komunální volby 2026",
+      "url": "https://praha1.pirati.cz/komunalni-volby-2026/",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození nebyl dohledán nad rámec briefu (věk 64 let v době sestavení dat ČSÚ).",
+    "Nebylo ověřeno, zda Raiter byl v minulosti členem zastupitelstva či komisí MČ Praha 1 - z dostupných dat se zdá jako nový kandidát bez veřejné politické historie v této funkci."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

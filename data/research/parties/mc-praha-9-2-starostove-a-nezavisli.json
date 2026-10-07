@@ -1,0 +1,51 @@
+{
+  "assembly_id": "mc-praha-9",
+  "list_cislo": 2,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "typ": "strana",
+  "slozeni": [
+    "STAN"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz dohledán. V letech 2022-2026 byl STAN (jako NAŠE DEVÍTKA s podporou KDU-ČSL, 6,68 %, 2 mandáty) součástí vládnoucí koalice s ODS/TOP 09 a ANO; Zdeněk Davídek byl radním MČ.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "STAN se celostátně profiluje jako středová, komunálně orientovaná strana s liberálnějším hodnotovým postojem než ODS. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Menší koaliční partner, radní Zdeněk Davídek (předseda Dozorčí rady Polikliniky Prosek).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "STAN byl malým koaličním partnerem vedené ODS koalice. Zdrojovaný přehled konkrétních priorit radního Davídka a jejich naplnění se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program nedohledán (0). Doveryhodnost plnění: STAN byl celé období 2022-2026 malým koaličním partnerem (2 mandáty) vedené ODS/TOP 09 koalice, radní Zdeněk Davídek měl gesci v Dozorčí radě Polikliniky Prosek. V dostupných zdrojích (web MČ, Hlídač státu, tisk) se nepodařilo dohledat žádné konkrétní, samostatně připsatelné prosazené priority STAN za toto období, ani naopak žádný rozpad koalice nebo kauzu. Skóre 2 odráží, že jde o menšinového partnera bez doloženého vlastního programového otisku, nikoli hodnocení jeho práce jako špatné.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "pospisek-pavel"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 nebyl dohledán.",
+    "Chybí zdrojovaný přehled výsledků radního Davídka za období 2022-2026 - nepodařilo se dohledat konkrétní gesce ani prosazená opatření, pouze obecnou příslušnost k Dozorčí radě Polikliniky Prosek."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-9-2-starostove-a-nezavisli"
+}

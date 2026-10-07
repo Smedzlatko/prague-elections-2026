@@ -1,0 +1,52 @@
+{
+  "slug": "klusakova-margita",
+  "name_key": "klusakova-margita",
+  "cele_jmeno": "PharmDr. Margita Klusáková",
+  "rok_narozeni": 1967,
+  "strana": "NAŠE Čtrnáctka",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-14",
+      "list_cislo": 5,
+      "poradi": 4
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "PharmDr. Margita Klusáková je zastupitel/ka MČ Praha 14, v roce 2022 zvolen/a na listině „NAŠE Čtrnáctka“ (3. místo, 1171 preferenčních hlasů). Pro volby 2026 kandiduje na listině „NAŠE Čtrnáctka“ (4. místo). Profesně: lékárnice, zastupitelka MČ Praha 14.",
+  "vzdelani": null,
+  "profese": "lékárnice, zastupitelka MČ Praha 14",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 14 (zvolen/a za NAŠE Čtrnáctka)",
+      "organizace": "MČ Praha 14",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 14 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

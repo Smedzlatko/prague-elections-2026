@@ -1,0 +1,107 @@
+{
+  "slug": "mc-praha-6-4-ceska-piratska-strana",
+  "assembly_id": "mc-praha-6",
+  "list_cislo": 4,
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "typ": "strana",
+  "slozeni": [
+    "Piráti"
+  ],
+  "web": "https://praha6.pirati.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Piráti Praha 6 - web",
+        "url": "https://praha6.pirati.cz",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Piráti Praha 6 - programy",
+        "url": "https://praha6.pirati.cz/programy/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Piráti získali v roce 2022 v Praze 6 13,76 % a 7 mandátů, ale po celé období zůstali v opozici. Program navazuje na opoziční agendu posledních čtyř let: bezpečnost dopravních uzlů (konkrétně křižovatka u stanice metra Hradčanská), kritické hodnocení chystaného Metropolitního plánu a jeho dopadů na zástavbu v Praze 6, a důraz na transparentní rozhodování založené na datech. Lídrem je nový kandidát Jan Klofáč, odborník na digitalizaci veřejné správy, zatímco řada současných zastupitelů (Vlach, Hubáčková, Suchan, Vykoukal) je na listině zařazena níže.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Bezpečná Hradčanská",
+        "popis": "Piráti upozorňují na nebezpečnost dopravního uzlu u stanice metra Hradčanská a prezentují vlastní návrh úprav křižovatky pro chodce a cyklisty.",
+        "citace": "Máme plán pro bezpečnou Hradčanskou.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o konkrétní, jmenovanou lokalitu, ale úprava velké křižovatky vyžaduje součinnost magistrátu, Technické správy komunikací a dopravního podniku, ne jen MČ."
+        },
+        "zdroj_url": "https://praha6.pirati.cz"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Kritika Metropolitního plánu pro Prahu 6",
+        "popis": "Strana otevřeně diskutuje rizika i přínosy nového Metropolitního plánu pro zástavbu a charakter Prahy 6.",
+        "citace": "Co dobrého a špatného přinese Metropolitní plán Praze 6?",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Metropolitní plán schvaluje hl. m. Praha, MČ má jen připomínkovací pozici; stránka nespecifikuje, jaké konkrétní změny chtějí Piráti prosadit."
+        },
+        "zdroj_url": "https://praha6.pirati.cz"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Rozhodování na základě dat",
+        "popis": "Program klade důraz na diskusi, transparentnost a rozhodování zastupitelstva podložené daty a informacemi, nikoli politickým obchodem.",
+        "citace": "důraz na diskusi, transparentnost a rozhodování na základě dat a informací",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Obecný principiální závazek bez konkrétního mechanismu (např. povinné zveřejňování analýz před hlasováním)."
+        },
+        "zdroj_url": "https://praha6.pirati.cz"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2,
+    "oduvodneni": "Piráti jsou celostátně liberální, hodnotově progresivní strana s důrazem na transparentnost a digitalizaci; lokální program v Praze 6 tento profil potvrzuje (otevřená data, participace, kritika netransparentních rozhodnutí).",
+    "zdroje": [
+      {
+        "nazev": "Piráti Praha 6",
+        "url": "https://praha6.pirati.cz",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční strana s 7 mandáty (druhý nejsilnější klub po ODS+KDU-ČSL). Mezi inkumbenty figurují Miloš Vlach, Tereza Hubáčková, Martin Suchan a Ondřej Vykoukal (bývalý lídr listiny z roku 2022).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční strana nemohla přímo prosazovat vlastní exekutivní agendu; hodnocení plnění slibů proto není relevantní stejným způsobem jako u koaličních stran – pozice v opozici se podle metodiky nepočítá proti straně."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 4,
+    "oduvodneni": "konkretnost_programu = 2: priority jsou jmenované a vztažené ke konkrétním lokalitám (Hradčanská, Metropolitní plán), ale bez čísel, termínů či rozpočtu. doveryhodnost_plneni = null: strana byla v opozici, nemá srovnatelný záznam exekutivního plnění slibů. transparentnost = 4 za zveřejněný program, vlastní web, transparentní účet a dohledatelné kandidáty s profesním zařazením.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "klofac-jan"
+  ],
+  "mezery_v_datech": [
+    "Detailní technický návrh úprav křižovatky u Hradčanské nebyl na webu dále rozveden (rozpočet, harmonogram).",
+    "Konkrétní pozměňovací návrhy, které Piráti jako opozice v letech 2022-2026 v zastupitelstvu Prahy 6 prosazovali nebo naopak neprosadili, se nepodařilo dohledat."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

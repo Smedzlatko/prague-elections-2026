@@ -1,0 +1,114 @@
+{
+  "slug": "mc-praha-7-1-praha-7-sobe",
+  "assembly_id": "mc-praha-7",
+  "list_cislo": 1,
+  "nazev": "PRAHA 7 SOBĚ",
+  "zkratka": "P7 SOBĚ",
+  "typ": "hnuti",
+  "slozeni": [
+    "PRAHA SOBĚ"
+  ],
+  "web": "https://praha7sobe.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "PRAHA 7 SOBĚ - volební program 2026-2030",
+        "url": "https://prahasobe.cz/praha7sobe/program/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Program v sedmi oblastech: hospodaření (navázání na mírné přebytky od roku 2015), sociální oblast (domov pro seniory, terénní péče, nový dům s dotací 170 mil. Kč), vzdělání (nová ZŠ Jana Vodňanského jako „největší investice v dějinách MČ“, navýšení kapacit MŠ a dětských skupin), veřejný prostor (Centrální park v Bubnech, zachování zeleně), doprava (tramvajové propojení Holešovic s centrem, cyklostezky, bezbariérovost), kultura (Art District 7, Vltavská filharmonie, veřejné umění) a komunitní život (komunitní centra Papírna a Studánka, nízkoprahová střediska pro mládež). Stavba ZŠ Jana Vodňanského má být zahájena a dokončena v novém volebním období; některé projekty (Hanavský pavilon, dům na rohu Železničářů a Za Papírnou) jsou již v přípravě.",
+    "priority": [
+      {
+        "oblast": "skolstvi",
+        "nazev": "Nová ZŠ Jana Vodňanského",
+        "popis": "Zahájení a dokončení výstavby nové základní školy Jana Vodňanského v příštím volebním období – popisováno jako největší investice v dějinách MČ.",
+        "citace": "Stavbu ZŠ Jana Vodňanského zahájí a dokončí v novém volebním období.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní jmenovaný projekt s termínem (zahájení a dokončení v období), ale bez uvedeného rozpočtu."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha7sobe/program/"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Nový dům se 170 miliony Kč dotace a domov pro seniory",
+        "popis": "Výstavba nového domu s dotací 170 mil. Kč, vytvoření domova pro seniory a rozšíření terénní péče.",
+        "citace": "stavba nového domu s 170 mil. Kč dotací",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Konkrétní částka a projekt, dotace již zajištěna."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha7sobe/program/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Tramvajové propojení Holešovic s centrem",
+        "popis": "Vybudování nového tramvajového propojení Holešovic s centrem Prahy, doplnění cyklostezek a zlepšení bezbariérovosti.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Tramvajová infrastruktura je v kompetenci hl. m. Prahy a Dopravního podniku, ne přímo MČ."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha7sobe/program/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": -1,
+    "oduvodneni": "Hnutí PRAHA SOBĚ se na celopražské úrovni profiluje jako liberálně-progresivní (podpora cyklodopravy, participace, sdíleného bydlení, menšinové agendy), lokálně v Praze 7 obdobně – radní Jiří Knitl má např. agendu integrace cizinců a národnostních menšin. Ekonomická osa nebyla z dostupných zdrojů bezpečně určitelná u lokální odnože samostatně.",
+    "zdroje": [
+      {
+        "nazev": "praha7.cz - Členové rady",
+        "url": "https://www.praha7.cz/radnice/voleni-zastupci-mistni-samospravy/rada-mc-praha-7/clenove-rady/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Samostatně vládnoucí většina – 18 z 29 mandátů, bez koaličních partnerů. Rada má 9 členů, všichni z PRAHA 7 SOBĚ: starosta Jan Čižinský a místostarostové Kamil Vavřinec Mareš (majetek, energetika), Hana Třeštíková (kultura, sport), Hana Šišková (vzdělávání), Pavel Zelenka (doprava, zakázky) a Lenka Burgerová (rozvoj), dále radní Jakob Hurrle (sociální a zdravotní politika), Jiří Knitl (veřejný prostor, životní prostředí) a Martin Tománek (finance).",
+    "splnene_sliby": [
+      {
+        "slib": "Pokračování transformace brownfieldu Bubny-Zátory a napojení na železnici.",
+        "dukaz": "V roce 2025 byla otevřena nová železniční zastávka Praha-Bubny – první nová stanice v Praze za 40 let.",
+        "zdroj_url": "https://zpravy.aktualne.cz/domaci/z-mesta-duchu-novym-srdcem-prahy-bubny-probudi-filharmonie-i-bytova-lavina/r~aaa29683ddc39fb680b456f2d608e83a/"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Výstavba Vltavské filharmonie v Bubnech",
+        "dukaz": "Projekt (návrh studia BIG) je v přípravné fázi, výstavba samotné budovy má podle plánu začít kolem roku 2027 a investice jde primárně z úrovně hl. m. Prahy, nikoliv MČ – Praha 7 má omezený přímý vliv na termín.",
+        "zdroj_url": "https://zpravy.aktualne.cz/domaci/z-mesta-duchu-novym-srdcem-prahy-bubny-probudi-filharmonie-i-bytova-lavina/r~aaa29683ddc39fb680b456f2d608e83a/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Hnutí dokládá kontinuitu velkého rozvojového projektu Bubny-Zátory (viditelný milník – nová zastávka 2025), ale finální podoba (filharmonie, dokončení čtvrti) spadá za horizont tohoto volebního období a závisí i na rozhodnutích magistrátu. Detailní, zdrojovaný přehled splněných/nesplněných lokálních slibů z komunálního programu 2022 nebyl dohledán – program samotný nebyl k dispozici."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 3: program jmenuje konkrétní projekty, místy i s čísly (170 mil. Kč dotace) a termínem (ZŠ Jana Vodňanského zahájena a dokončena v období), ale většina bodů bez přesného rozpočtu. transparentnost = 3 za podrobný zveřejněný program a dohledatelný web. doveryhodnost_plneni = 3, protože klíčový rozvojový projekt (Bubny-Zátory, nádraží) prokazatelně postupuje, byť finální termíny (filharmonie) přesahují období a nejsou plně v rukou MČ – hodnoceno smíšeně. Transparentnost nelze bez programu a bez přehledu zveřejněných smluv/hlasování ohodnotit.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "cizinsky-jan"
+  ],
+  "mezery_v_datech": [
+    "Program neobsahuje přesný rozpočet u většiny bodů (vyjma 170 mil. Kč dotace na dům).",
+    "Detailní plnění místních slibů z programu 2022 nebylo dohledáno (program 2022 samotný nebyl k dispozici)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

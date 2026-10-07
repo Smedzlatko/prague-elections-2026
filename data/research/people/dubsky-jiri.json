@@ -1,0 +1,51 @@
+{
+  "slug": "dubsky-jiri",
+  "name_key": "dubsky-jiri",
+  "cele_jmeno": "Jiří Dubský",
+  "rok_narozeni": 1970,
+  "strana": "ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY A OBČANY MOTORISTY (mimozemstani.eu)",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 2, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Jiří Dubský je elektrotechnik z Prahy 5 (56 let) a vede tříčlennou magistrátní kandidátku „ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY“ pro volby 2026. Hnutí, jehož zkratka na kandidátce je odvozena z webu mimozemstani.eu, vzniklo 13. 3. 2024, založil a vede ho Tomáš Franěk; pro komunální volby v Praze samostatně nekandidoval celostátně, soustředí se právě na tuto listinu. Veřejně dohledatelný politický životopis Dubského mimo tuto kandidaturu se nepodařilo najít — nejde o dříve veřejně aktivní politickou osobu.",
+  "vzdelani": null,
+  "profese": "elektrotechnik",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce a bez historického záznamu nelze hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 (data/core/candidates_2026.json)",
+      "url": "https://volby.cz",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Wikipedie – Ano lepší EU s mimozemšťany (zastavíme drahotu a válku)",
+      "url": "https://cs.wikipedia.org/wiki/Ano_lep%C5%A1%C3%AD_EU_s_mimozem%C5%A1%C5%A5any_(zastav%C3%ADme_drahotu_a_v%C3%A1lku)",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "mimozemstani.eu – web hnutí",
+      "url": "https://mimozemstani.eu/",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození je dopočten z udaného věku 56 let v brífu k říjnu 2026 (přesné datum narození nedohledáno).",
+    "Žádný nezávislý medailonek ani rozhovor s Jiřím Dubským se nepodařilo dohledat i přes WebSearch (ověřeno 2026-10-03) – jde o nováčka bez veřejného politického záznamu, profil vychází jen z kandidátní listiny a obecného webu hnutí."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

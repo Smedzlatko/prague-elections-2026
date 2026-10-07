@@ -1,0 +1,40 @@
+{
+  "slug": "benes-petr",
+  "name_key": "benes-petr",
+  "cele_jmeno": "Ing. Petr Beneš",
+  "rok_narozeni": 1984,
+  "strana": "TEAM (dříve Česká pirátská strana)",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 16, "poradi": 5},
+    {"assembly_id": "mc-praha-10", "list_cislo": 1, "poradi": 1},
+    {"assembly_id": "mc-praha-13", "list_cislo": 7, "poradi": 17},
+    {"assembly_id": "mc-praha-kunratice", "list_cislo": 4, "poradi": 11}
+  ],
+  "role": "top5",
+  "profil": "Petr Beneš je systémový inženýr a protikorupční analytik, spoluzakladatel spolku Veřejnost proti korupci. V MČ Praha 10 byl zastupitelem a místostarostou pro majetek, zvolen v roce 2022 za Českou pirátskou stranu (2. místo, 5569 preferenčních hlasů). Je uváděn jako člen vedení (leadership council) hnutí JSME TEAM po boku Lukáše Wagenknechta, Jana Šterna a Marka Hilšera, a pro rok 2026 kandiduje jako lídr JSME PRAHA 10 i na pátém místě celopražské listiny JSME PRAHA.",
+  "vzdelani": null,
+  "profese": "systémový inženýr, protikorupční analytik, bývalý místostarosta Prahy 10 pro majetek",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel a místostarosta MČ Praha 10 pro majetek (zvolen za Českou pirátskou stranu)", "organizace": "MČ Praha 10", "zdroj_url": null},
+    {"od": "2026", "do": null, "funkce": "člen vedení (leadership council) hnutí JSME TEAM, lídr JSME PRAHA 10", "organizace": "JSME TEAM", "zdroj_url": "https://www.jsme.team/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako bývalý místostarosta Prahy 10 pro majetek měl výkonnou funkci, ale podrobný zdrojovaný seznam jeho slibů a jejich plnění nebyl v dostupných zdrojích dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "jsme.team: JSME TEAM - vedení", "url": "https://www.jsme.team/", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Veřejně dohledaný detailní politický životopis (konkrétní projekty jako místostarosta pro majetek) nebyl k dispozici nad rámec stránky JSME TEAM a dat ČSÚ.",
+    "Přesný rok narození je odhad z udaného věku 42 let v brífu k říjnu 2026 (1984), neověřeno.",
+    "Nebylo možné zjistit přesný důvod jeho odchodu od Pirátů k JSME TEAM, ani zda stále zastává funkci místostarosty Prahy 10 k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

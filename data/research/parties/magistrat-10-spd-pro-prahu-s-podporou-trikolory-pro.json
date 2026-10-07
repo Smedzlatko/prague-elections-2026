@@ -1,0 +1,105 @@
+{
+  "slug": "magistrat-10-spd-pro-prahu-s-podporou-trikolory-pro",
+  "assembly_id": "magistrat",
+  "list_cislo": 10,
+  "nazev": "SPD pro Prahu s podporou Trikolory, PRO, Přísahy a nezávislých kandidátů",
+  "zkratka": "SPD",
+  "typ": "koalice",
+  "slozeni": [
+    "SPD",
+    "Trikolora",
+    "PRO",
+    "Přísaha",
+    "nezávislí kandidáti"
+  ],
+  "web": "https://spd.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Ekonomický deník – Metro, okruhy i konec sloupků: Jak chtějí kandidáti na primátora řešit dopravu v Praze?",
+        "url": "https://ekonomickydenik.cz/doprava-praha-kandidati-primator/",
+        "datum": "2026-10-03"
+      },
+      {
+        "nazev": "PrahaIN.cz – SPD, Trikolora, Hnutí PES a nezávislí společně pro Prahu: Vyženeme aktivisty z magistrátu",
+        "url": "https://www.prahain.cz/politika/spd-trikolora-hnuti-pes-a-nezavisli-spolecne-pro-prahu-vyzeneme-aktivisty-z-magistratu-7876.html",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Program lídra Milana Urbana (SPD s podporou Trikolory, PRO, Přísahy a nezávislých) staví na třech heslech – „hájíme normální svět“, „blahobyt vzniká z práce“ a „české zájmy na prvním místě“ – a cílí na konec vlivu „aktivistů“ na magistrátu. V dopravě slibuje povinné parkovací kapacity u nových čtvrtí, P+R parkoviště u dopravních uzlů, odstranění zpomalovacích prahů a sloupků na Technické správě komunikací, koordinaci uzavírek a dokončení pražského a městského okruhu se státní pomocí.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Povinné parkovací kapacity u nových čtvrtí a P+R",
+        "popis": "Při výstavbě nových městských čtvrtí důsledně vyžadovat dostatečné parkovací kapacity a stavět záchytná parkoviště P+R u dopravních uzlů.",
+        "citace": "„Při výstavbě nových městských čtvrtí budeme důsledně vyžadovat dostatečné parkovací kapacity a budeme stavět parkoviště P+R u dopravních uzlů.“",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Parkovací standardy u nové výstavby může město ovlivnit přes územní plán a smlouvy s investory, P+R parkoviště vyžadují investice a součinnost se Středočeským krajem."
+        },
+        "zdroj_url": "https://ekonomickydenik.cz/doprava-praha-kandidati-primator/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Odstranění sloupků a koordinace uzavírek",
+        "popis": "Zrušit „slalomové“ sloupky na komunikacích správou Technické správy komunikací a zajistit, aby koordinace uzavírek byla standardem, ne chaosem.",
+        "citace": "„Zrušíme ty slalomové dráhy – sloupky – na Technické správě komunikací. Koordinace uzavírek bude standardem, ne chaosem jako teď.“",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o organizační opatření v gesci města a jeho organizace TSK, realizovatelné bez zásahu třetích stran, ale vyžadující změnu interních procesů."
+        },
+        "zdroj_url": "https://ekonomickydenik.cz/doprava-praha-kandidati-primator/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Dokončení Pražského a Městského okruhu se státní pomocí",
+        "popis": "Dokončit okružní a radiální komunikace s pomocí státu.",
+        "citace": "„Dokončíme okružní a radiální komunikace se státní pomocí.“",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Dokončení okruhů závisí primárně na státu (ŘSD) a dlouhotrvajících povolovacích procesech, které město samo nekontroluje."
+        },
+        "zdroj_url": "https://ekonomickydenik.cz/doprava-praha-kandidati-primator/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Bez dohledaného samostatného programu listiny pro pražské komunální volby nelze ideologickou osu podložit zdroji; nedomýšlíme ji z celostátního image SPD bez konkrétního pražského textu.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Předchůdkyně koalice „SPD, Trikolora, Hnutí PES a nezávislí společně pro Prahu“ získala v komunálních volbách 2022 v Praze 5,16 % a 3 mandáty (Milan Urban, Josef Nerušil, Zdeněk Seidl). Šlo o mandáty v opozici vůči koalici vedené SPOLU pro Prahu, nikoli o účast v městské radě.",
+    "splnene_sliby": null,
+    "castecne": null,
+    "nesplnene_sliby": null,
+    "shrnuti": "Jako opoziční zastupitelé nemohli přímo prosazovat exekutivní kroky; hodnocení plnění slibů je proto vázáno na jejich hlasování, interpelace a návrhy v zastupitelstvu, které se v rámci tohoto rešeršního kola nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Konkrétnost 2: dohledané dopravní sliby pojmenovávají konkrétní opatření (parkovací standardy, odstranění sloupků, dokončení okruhů), ale většinou bez čísel a termínů. Celkový program mimo dopravu zůstává na úrovni hesel („hájíme normální svět“). Transparentnost 2: dohledatelní kandidáti (+1) a zveřejněný program v médiích (+1); financování kampaně a transparentní účet nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "urban-milan"
+  ],
+  "mezery_v_datech": [
+    "Program listiny byl dohledán přes WebSearch jen částečně (primárně dopravní témata v médiích); komplexní psaný volební program s kapitolami ke všem oblastem se nepodařilo dohledat ani na webu spd.cz (opakovaně nedostupný), ani jinde.",
+    "Nepodařilo se ověřit, zda jde o formální koalici (typ 'koalice') nebo kandidátku SPD s podporou (dle ČSÚ dat typ 'D' = sdružení nezávislých kandidátů a politického hnutí)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

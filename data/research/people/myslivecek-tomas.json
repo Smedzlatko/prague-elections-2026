@@ -1,0 +1,29 @@
+{
+  "slug": "myslivecek-tomas",
+  "name_key": "myslivecek-tomas",
+  "cele_jmeno": "Ing. Tomáš Mysliveček",
+  "rok_narozeni": 1977,
+  "strana": "ANO",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 3, "poradi": 7}],
+  "role": "inkumbent",
+  "profil": "Tomáš Mysliveček je IT specialista, člen ANO 2011. V roce 2022 získal mandát zastupitele MČ Praha 5 (3377 preferenčních hlasů). Pro rok 2026 kandiduje na 7. místě listiny.",
+  "vzdelani": "Ing. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "IT specialista, zastupitel MČ Praha 5",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 49 let v brífu k říjnu 2026 (1977), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

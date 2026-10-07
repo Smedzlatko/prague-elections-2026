@@ -1,0 +1,30 @@
+{
+  "slug": "hejnic-jiri",
+  "name_key": "hejnic-jiri",
+  "cele_jmeno": "Mgr. Jiří Hejnic",
+  "rok_narozeni": 1970,
+  "strana": "TOP 09",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 3, "poradi": 4}],
+  "role": "inkumbent",
+  "profil": "Jiří Hejnic je manažer kvality a člen TOP 09, v roce 2022 získal mandát zastupitele MČ Praha 7 na listině Společně pro Prahu 7 (2279 preferenčních hlasů). Pro rok 2026 kandiduje na 4. místě nástupnické koaliční listiny SPOLU PRO PRAHU 7.",
+  "vzdelani": null,
+  "profese": "manažer kvality, zastupitel MČ Praha 7",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 7 (klub Společně pro Prahu 7, resp. SPOLU)", "organizace": "MČ Praha 7", "zdroj_url": "https://www.praha7.cz/radnice/zastupitelstvo/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Jako opoziční zastupitel bez funkce v radě MČ nemá přímou výkonnou odpovědnost; podrobné hodnocení jeho konkrétní agendy nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha7.cz - Zastupitelstvo MČ Praha 7", "url": "https://www.praha7.cz/radnice/zastupitelstvo/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 56 let v brífu k říjnu 2026 (1970), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

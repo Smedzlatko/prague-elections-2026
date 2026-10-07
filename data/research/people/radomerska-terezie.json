@@ -1,0 +1,67 @@
+{
+  "slug": "radomerska-terezie",
+  "name_key": "radomerska-terezie",
+  "cele_jmeno": "Mgr. Terezie Radoměřská",
+  "rok_narozeni": 1969,
+  "strana": "TOP 09",
+  "kandidatury_2026": [
+    {"assembly_id": "mc-praha-1", "list_cislo": 8, "poradi": 1}
+  ],
+  "role": "inkumbent",
+  "profil": "Terezie Radoměřská je od 9. 11. 2022 starostkou MČ Praha 1 jako historicky první žena v této funkci, zvolená hlasy koalice TOP 09, ODS, Piráti a občané z Prahy 1, ANO 2011/Staroměstská lípa a REZIDENTI 1 (16 z 27 přítomných zastupitelů). Pro volby 2026 vede listinu TOP 09 – Srdce Prahy, ačkoliv TOP 09 získala v roce 2022 jen 2 mandáty (7,76 %) – post starostky obsadila díky koaliční dohodě, nikoliv volebnímu vítězství. V lednu 2024 čelila neúspěšnému pokusu o odvolání ze strany opoziční Praha Sobě; v roce 2025 vedla spor o vyvěšení izraelské vlajky na radnici.",
+  "vzdelani": "vysokoškolské (Mgr.), obor neupřesněn v dostupných zdrojích",
+  "profese": "starostka MČ Praha 1, politička (TOP 09)",
+  "politicka_historie": [
+    {"od": "2022-11-09", "do": null, "funkce": "starostka MČ Praha 1", "organizace": "MČ Praha 1", "zdroj_url": "https://www.praha1.cz/praha-1-ma-nove-vedeni-o-srdce-hlavniho-mesta-se-budeme-starat-se-vsim-nasazenim-rekla-terezie-radomerska-historicky-prvni-starostka-prahy-1/"}
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Neúspěšný návrh na odvolání starostky (Praha Sobě)",
+      "typ": "stranicky",
+      "obdobi": "2024-01",
+      "popis": "Opoziční Praha Sobě navrhla 30. 1. 2024 na zasedání zastupitelstva odvolání starostky Radoměřské. Důvody: změna postoje k terase na střeše obchodního centra Masaryčka (opozice to interpretovala jako ústupek developerovi Pentu), nesplnění usnesení zastupitelstva o vyjednání úplného zákazu sdílených koloběžek do konce roku 2023, nezřízení slíbeného obecního mediátora a telefonní linky pro občany obtěžované hlukem, a obecné obvinění z protěžování vybraných podnikatelů. Praha Sobě si předem nezajistila potřebný počet hlasů, návrh neuspěl.",
+      "stav": "neprokazano",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Radoměřská kritiku odmítla jako standardní politickou snahu opozice a uvedla, že obsahuje řadu bodů, které jsou podle ní částečně nepravdivé a částečně zavádějící.",
+      "zdroje": [
+        {"nazev": "Blesk.cz – Otřesy na radnici Prahy 1: Praha Sobě chce odvolat starostku Radoměřskou, vadí jim nespolehlivost", "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/777934/otresy-na-radnici-prahy-1-praha-sobe-chce-odvolat-starostku-radomerskou-vadi-jim-nespolehlivost.html", "datum": "2024-01-30"}
+      ]
+    },
+    {
+      "nazev": "Spor o izraelskou vlajku na radnici",
+      "typ": "medialni",
+      "obdobi": "2025",
+      "popis": "Radoměřská dala v souvislosti s konfliktem v Gaze vyvěsit na radnici izraelskou vlajku, což vyvolalo kritiku opozičních zastupitelů (včetně Pavla Čižinského) s odkazem na obvinění Izraele z válečných zločinů. V květnu 2025 ji neznámá osoba vyměnila za palestinskou, Radoměřská ji nechala vrátit zpět na izraelskou.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {"nazev": "cs.wikipedia.org: Terezie Radoměřská", "url": "https://cs.wikipedia.org/wiki/Terezie_Radoměřská", "datum": "2026-10-02"}
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Radoměřská vede radnici po celé volební období 2022-2026, ale nezávisle ověřený přehled splnění konkrétních slibů (mimo částečně sporné body zmíněné v návrhu na odvolání – koloběžky, mediátor) se v dostupných zdrojích nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Praha1.cz – Praha 1 má nové vedení", "url": "https://www.praha1.cz/praha-1-ma-nove-vedeni-o-srdce-hlavniho-mesta-se-budeme-starat-se-vsim-nasazenim-rekla-terezie-radomerska-historicky-prvni-starostka-prahy-1/", "datum": "2022-11-09"},
+    {"nazev": "cs.wikipedia.org: Terezie Radoměřská", "url": "https://cs.wikipedia.org/wiki/Terezie_Radoměřská", "datum": "2026-10-02"},
+    {"nazev": "Blesk.cz – Otřesy na radnici Prahy 1: Praha Sobě chce odvolat starostku Radoměřskou", "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/777934/otresy-na-radnici-prahy-1-praha-sobe-chce-odvolat-starostku-radomerskou-vadi-jim-nespolehlivost.html", "datum": "2024-01-30"}
+  ],
+  "mezery_v_datech": [
+    "Rok narození je odhad – nebyl nalezen nezávislý zdroj s přesným datem narození, pouze orientační věk.",
+    "Obor vysokoškolského studia nebyl upřesněn.",
+    "Výsledek hlasování o odvolání v lednu 2024 (přesný poměr hlasů) nebyl v dostupných zdrojích doložen, pouze že návrh neuspěl."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

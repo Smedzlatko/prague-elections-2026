@@ -1,0 +1,30 @@
+{
+  "slug": "geberle-michal",
+  "name_key": "geberle-michal",
+  "cele_jmeno": "Michal Geberle",
+  "rok_narozeni": 1978,
+  "strana": "Svobodní",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": null, "poradi": 7},
+    {"assembly_id": "mc-praha-11", "list_cislo": 1, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Michal Geberle je jednatelem servisní společnosti a členem Svobodných. Bez dosavadního zastupitelského mandátu podle briefu MČ Praha 11; pro volby 2026 vede listinu Motoristé sobě a Svobodní v Praze 11 a kandiduje i na celopražské kandidátce Svobodných.",
+  "vzdelani": null,
+  "profese": "jednatel servisní společnosti",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez výkonné funkce nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 11 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu nebyl dohledán žádný další veřejný záznam o osobě.",
+    "Rok narození odhadnut z udaného věku (48 let v roce 2026)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

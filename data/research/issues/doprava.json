@@ -1,0 +1,135 @@
+{
+  "slug": "doprava",
+  "nazev": "Doprava",
+  "popis": "Hlavní pražská dopravní témata pro volby 2026: výstavba metra D, dostavba Městského okruhu, rozvoj tramvajové sítě, parkovací politika (zóny, P+R) a debata o zpoplatnění vjezdu do centra/Prahy. Většinu konkrétních kvantifikovaných čísel (termíny, náklady) se podařilo ověřit jen přes českou Wikipedii, protože přímý přístup k Dopravnímu podniku hl. m. Prahy, IPR Praha a magistrátu byl v době rešerše technicky nedostupný – viz mezery_v_datech.",
+  "fakta": [
+    {
+      "tvrzeni": "Trasa D pražského metra je ve výstavbě. První úsek I.D1a (Pankrác-Olbrachtova/Ryšánka) se staví od dubna 2022, druhý úsek I.D1b (Ryšánka-Nové Dvory) byl zahájen v červnu 2026 (smlouva podepsána v dubnu 2026).",
+      "hodnota": "úsek I.D1a od 4/2022, úsek I.D1b od 6/2026",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Trasa_D_pra%C5%BEsk%C3%A9ho_metra",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Plánované termíny spuštění provozu jednotlivých úseků metra D podle informací dostupných v roce 2026: Pankrác-Písnice 2032, prodloužení Písnice-Depo Písnice 2034, Náměstí Míru-Pankrác 2036.",
+      "hodnota": "2032 / 2034 / 2036",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Trasa_D_pra%C5%BEsk%C3%A9ho_metra",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Celkové náklady na výstavbu metra D byly v roce 2021 odhadovány na necelých 98 miliard Kč, oproti původnímu odhadu z roku 2015 kolem 50 miliard Kč.",
+      "hodnota": "cca 98 mld. Kč (odhad 2021), původně cca 50 mld. Kč (odhad 2015)",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Trasa_D_pra%C5%BEsk%C3%A9ho_metra",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Městský okruh má mít po dokončení 32,1 km, z toho je hotovo cca 22 km (jižní a jihozápadní část – Barrandovský most, Jižní spojka, Strahovský tunel, Tunel Mrázovka, Zlíchovský tunel, tunelový komplex Blanka dokončený v září 2015). Zbývajících cca 10,1 km na severovýchodě (přes Malešice a Žižkov, většinou v podzemí) čeká na dokončení.",
+      "hodnota": "22 km hotovo / 32,1 km celkem, zbývá 10,1 km",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/M%C4%9Bstsk%C3%BD_okruh_(Praha)",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "K roku 2026 nemá Praha (ani žádné jiné české město) zavedenou žádnou plnohodnotnou nízkoemisní zónu pro osobní automobily – zůstává ve fázi studií proveditelnosti a projednávání parametrů (např. postupné zpřísňování od emisních kategorií Euro 3 a 4) v radě města. Novela zákona platná od roku 2025 obcím usnadnila zavádění nízkoemisních zón (zjednodušila podmínky, umožnila elektronickou kontrolu podle SPZ a zpoplatnění vjezdu). Samostatně se připravuje plán na zpoplatnění vjezdu nerezidentů do historického centra (ve spolupráci s MČ Praha 1) s cílem omezit tranzitní průjezdy a zklidnit dopravu – konkrétní termín spuštění k říjnu 2026 nebyl potvrzen.",
+      "hodnota": "0 zavedených nízkoemisních zón v ČR k roku 2026; zpoplatnění vjezdu do centra ve fázi příprav",
+      "zdroj_url": "https://www.irozhlas.cz/zpravy-domov/praha-vjezd-do-centra-zpoplatneni_2308282158_har",
+      "datum": "2026-10-03"
+    },
+    {
+      "tvrzeni": "Chybějící severovýchodní část Městského okruhu (přes Balabenku a Štěrboholskou radiálu, většinou v tunelech) má podle harmonogramu platného v roce 2026 postoupit nejdřív do fáze průzkumu: geologické průzkumné práce mají začít ve 3. čtvrtletí 2026 a potrvat do roku 2030, ražba průzkumných štol v trase budoucích tunelů má začít v roce 2027. Samotná stavba by podle těchto odhadů mohla začít kolem roku 2029-2030 a celý úsek by mohl být dokončen řádově kolem roku 2035-2042 (zdroje k roku 2026 se v přesném roce dokončení neshodují, jde o dlouhodobě odkládaný a opakovaně posouvaný projekt).",
+      "hodnota": "geologický průzkum od 3Q 2026, ražba štol od 2027, stavba cca od 2029-2030, dokončení odhadováno cca 2035-2042",
+      "zdroj_url": "https://prazsky.denik.cz/zpravy-region/rsd-hlasi-velky-posun-severni-cast-prazskeho-okruhu-zacne-stavet-do-tri-let-2026/",
+      "datum": "2026-10-03"
+    },
+    {
+      "tvrzeni": "Podle webu Dopravního podniku (provozovatel/investor) je cílový termín zprovoznění metra D (Náměstí Míru – Písnice, 10 stanic, automatické metro bez řidiče) uváděn jako rok 2032; podle téhož zdroje probíhala v září 2026 ražba tunelů u Nových Dvorů a na říjen 2026 je avizováno vyhlášení soutěže na stanici Libuš. Údaj je cílový termín DPP pro první provozní úsek, ne garance; starší fakt výše (z Wikipedie) uvádí 2032 / 2034 / 2036 pro jednotlivé části.",
+      "hodnota": "cíl DPP: 2032",
+      "zdroj_url": "https://www.dpp.cz/metro-d",
+      "datum": "2026-10-06"
+    },
+    {
+      "tvrzeni": "DPP podepsal v dubnu 2026 smlouvu o výstavbě druhého úseku metra D (Olbrachtova – Nové Dvory) s konsorciem vedeným společností Subterra (Hochtief CZ, Hochtief Infrastructure, BeMo Tunneling) v hodnotě zhruba 30 mld. Kč bez DPH; ÚOHS předtím definitivně zamítl rozklad uchazeče Strabag. Údaj pochází z oznámení mluvčího DPP zprostředkovaného médiem.",
+      "hodnota": "cca 30 mld. Kč bez DPH (zakázka 2. úseku metra D)",
+      "zdroj_url": "https://forbes.cz/dostavba-metra-d-muze-zacit-dpp-podepsal-smlouvu-se-subterrou/",
+      "datum": "2026-04-07"
+    },
+    {
+      "tvrzeni": "Rozpočet hl. m. Prahy na rok 2026 počítá s nejvyššími výdaji na dopravu mezi provozními kapitolami (31,05 mld. Kč); největší investicí je podle náměstka primátora Kováříka stavba metra D (cca 3 mld. Kč v roce 2026).",
+      "hodnota": "doprava: 31,05 mld. Kč provozních výdajů; metro D cca 3 mld. Kč investic (2026)",
+      "zdroj_url": "https://www.ceskenoviny.cz/zpravy/praha-bude-pristi-rok-hospodarit-s-prijmy-11635-mld-kc-a-vydaji-11905-mld-kc/2759363",
+      "datum": "2025-12-11"
+    }
+  ],
+  "pozice_stran": [
+    {
+      "list_slug": "magistrat-5-praha-sobe",
+      "pozice": "Dostavba metra D, příprava okružní linky metra O, dokončení Městského okruhu (Blanky II) a vnějšího okruhu, výstavba nových tramvajových tratí a mostů/lávek, P+R parkoviště, bezbariérovost MHD, zklidňování dopravy u škol (zóny 30, školní ulice). Kritizují vlastní koaliční partnery (Piráty, ODS, STAN) za čtyři roky stagnace u Blanky II a Libeňského mostu.",
+      "citace": "Pod vedením Pirátů, STAN a ODS se však další 4 roky nic nedělo. Projekt odbrzdíme a konečně spustíme geologický průzkum! [...] MHD zasluhuje nejvyšší podporu. Nakoupíme další klimatizované tramvaje, dokončíme stavbu metra D, zahájíme práce na okružní lince O.",
+      "zdroj_url": "https://www.prahasobe.cz/program"
+    },
+    {
+      "list_slug": "magistrat-7-ceska-piratska-strana",
+      "pozice": "Zprovoznění první části metra D do roku 2032: Dokončit první úsek metra D do roku 2032, postavit nové tramvajové tratě (Malešice, Jarov, Nové Dvory, Strahov, Komořany) a rozšířit síť oddělených cyklostezek.",
+      "citace": "Metro D: první úsek do roku 2032",
+      "zdroj_url": "https://program2026.praha.pirati.cz/"
+    },
+    {
+      "list_slug": "magistrat-9-starostove-a-nezavisli",
+      "pozice": "Dokončení metra D, příprava linky E a tramvajových tratí: Dokončit stavbu metra D, připravit novou linku E, postavit nové tramvajové tratě na více místech a modernizovat hlavní nádraží v konceptu „metra S“.",
+      "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+    },
+    {
+      "list_slug": "magistrat-10-spd-pro-prahu-s-podporou-trikolory-pro",
+      "pozice": "Povinné parkovací kapacity u nových čtvrtí a P+R: Při výstavbě nových městských čtvrtí důsledně vyžadovat dostatečné parkovací kapacity a stavět záchytná parkoviště P+R u dopravních uzlů. Odstranění sloupků a koordinace uzavírek: Zrušit „slalomové“ sloupky na komunikacích správou Technické správy komunikací a zajistit, aby koordinace uzavírek byla standardem, ne chaosem. Dokončení Pražského a Městského okruhu se státní pomocí: Dokončit okružní a radiální komunikace s pomocí státu.",
+      "citace": "„Při výstavbě nových městských čtvrtí budeme důsledně vyžadovat dostatečné parkovací kapacity a budeme stavět parkoviště P+R u dopravních uzlů.“",
+      "zdroj_url": "https://ekonomickydenik.cz/doprava-praha-kandidati-primator/"
+    },
+    {
+      "list_slug": "magistrat-12-spolu-pro-prahu",
+      "pozice": "Reforma parkovacích zón: Dynamické ceny návštěvnického parkování v placených zónách; zrušení krátkodobého parkování nerezidentů v modrých zónách, rezidenti místo toho dostanou omezený kredit pro návštěvy; parkovací oprávnění má platit v modrých zónách ve všech městských částech, ne jen v domovské. Koordinace uzavírek a režim 24/7: Nasazení systému s využitím AI pro koordinaci všech oprav ulic v rámci celého města a zavedení nepřetržitého režimu prací tam, kde je to možné, s cílem výrazně zkrátit uzavírky.",
+      "zdroj_url": "https://tempoplan.cz"
+    },
+    {
+      "list_slug": "magistrat-14-motoriste-sobe",
+      "pozice": "Zastavení omezování parkovacích míst a cyklodopravy: Program odmítá další zavádění cyklopruhů na úkor jízdních pruhů a omezování parkovacích míst ve městech, s Prahou uvedenou jako konkrétní příklad. Odmítnutí nízkoemisních zón: Strana nebude podporovat plošné zavádění nízkoemisních zón, které by omezovaly vjezd starších vozidel do centra. Zrušení šikanózního vybírání pokut z radarů: Program slibuje, že zisk z provozu městských radarů by měl povinně plynout do Státního fondu dopravní infrastruktury, aby zmizela motivace radnic vydělávat na řidičích, a že každý radar musí mít výstražnou cedulku.",
+      "citace": "V Praze, ale i v dalších městech se dopravní situace stává katastrofální – důsledkem ideologických zásahů, které ignorují potřeby řidičů. Odmítáme ideologické prosazování cyklodopravy a umělé omezování parkovacích míst ve městech.",
+      "zdroj_url": "https://motoristesobe.cz/wp-content/uploads/Volebni_program-2025_MOTORISTE-SOBE.pdf"
+    },
+    {
+      "list_slug": "magistrat-22-ano-2011",
+      "pozice": "Koordinátor uzavírek a dokončení Městského okruhu: Zavést koordinátora dopravních stavebních prací a zveřejňovat harmonogram uzavírek. Dokončení Městského okruhu označuje program za investiční prioritu, pokračovat má i výstavba metra D. Parkovací domy na sídlištích a P+R: Stavět parkovací domy na sídlištích a nadstavby nad existujícími parkovišti, rozšířit záchytná parkoviště P+R a nastavit spravedlivé a předvídatelné ceny rezidentního parkování s tím, že se výnosy vrátí zpět do dané lokality.",
+      "zdroj_url": "https://janhusbauer.cz/#program"
+    },
+    {
+      "list_slug": "magistrat-24-sen-pro-prahu-s-vaclavem-laskou-s-podpo",
+      "pozice": "Zpoplatnění vjezdu do historického centra a dokončení okruhů: Program počítá s dokončením silničních okruhů, zpoplatněním vjezdu do historického centra a výstavbou parkovacích domů pro rezidenty a P+R parkovišť na okrajích. Páteřní oddělené cyklostezky: Místo malování cyklopruhů na silnicích budovat oddělené páteřní cyklostezky.",
+      "citace": "Praha není autodrom ani skanzen - je to živoucí organismus.",
+      "zdroj_url": "https://praha.senprocesko.cz/program/doprava"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Trasa D pražského metra - Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/Trasa_D_pra%C5%BEsk%C3%A9ho_metra",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Městský okruh (Praha) - Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/M%C4%9Bstsk%C3%BD_okruh_(Praha)",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Volební program Praha sobě 2026 (PDF)",
+      "url": "https://www.prahasobe.cz/program",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Aktuální rozsah a pravidla pražských parkovacích zón (modré/fialové zóny, ceny rezidentních parkovacích karet) nebyly v dostupném čase ověřeny u primárního zdroje (Technická správa komunikací / praha.eu byly nedostupné).",
+    "Přesný počet a kapacita P+R parkovišť v Praze a jejich obsazenost nebyly ověřeny.",
+    "Statistiky cyklodopravy (délka cyklostezek, podíl cyklistů na dopravě) nebyly dohledány.",
+    "Pozice ostatních osmi sledovaných listin (Piráti, STAN, SPD, SPOLU, Motoristé sobě, JSME PRAHA, ANO, SEN PRO PRAHU) k dopravě - zejména očekávaná odlišná pozice Motoristů sobě k zpoplatnění vjezdu a parkovacím zónám - se nepodařilo dohledat u primárního zdroje v dostupném čase (program byl jen jako nedostupné PDF).",
+    "Přesný aktuální (2026) stav konkrétního návrhu zpoplatnění vjezdu do centra (parametry, termín spuštění) a parametry případné nízkoemisní zóny nebyly dohledány u primárního zdroje (praha.eu).",
+    "Celkové aktuální náklady metra D se napříč zdroji liší (v textu výše je odhad z roku 2021, e15 uvádí kolem 120 mld. Kč, jiné zdroje 57 mld. Kč za první úsek); žádný primární dokument DPP/města s aktuální celkovou cenou nebyl dohledán, proto zde není uvedeno jedno číslo.",
+    "Pozice listin 16 (JSME PRAHA) k dopravě: v programu zachyceném v parties/ není samostatná dopravní priorita."
+  ],
+  "posledni_aktualizace": "2026-10-06"
+}

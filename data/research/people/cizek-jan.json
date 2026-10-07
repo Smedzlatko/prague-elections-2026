@@ -1,0 +1,50 @@
+{
+  "slug": "cizek-jan",
+  "name_key": "cizek-jan",
+  "cele_jmeno": "Jan Čížek",
+  "rok_narozeni": 1976,
+  "strana": "SPD",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 10,
+      "poradi": 4
+    },
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 4,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Pražský vydavatel a publicista podle kandidátní listiny ČSÚ, v listině charakterizovaný i jako „patriot“. Bez veřejně dohledaného politického záznamu v pražské samosprávě před rokem 2026.",
+  "vzdelani": null,
+  "profese": "vydavatel, publicista",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce nelze hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+      "url": "https://volby.cz",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný další veřejný záznam o osobě (vydavatelská činnost, konkrétní tituly).",
+    "Rok narození odhadnut z uvedeného věku (50 let v roce 2026) v kandidátní listině, nepotvrzen nezávislým zdrojem."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

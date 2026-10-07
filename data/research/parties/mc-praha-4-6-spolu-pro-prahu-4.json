@@ -1,0 +1,90 @@
+{
+  "slug": "mc-praha-4-6-spolu-pro-prahu-4",
+  "assembly_id": "mc-praha-4",
+  "list_cislo": 6,
+  "nazev": "SPOLU pro PRAHU 4",
+  "zkratka": "SPOLU P4",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "TOP 09"
+  ],
+  "web": "https://www.spolupraha4.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "SPOLU pro Prahu 4 - web kampaně 2026 (sekce Co se povedlo/priority)",
+        "url": "https://www.spolupraha4.cz/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Web kampaně (ne samostatný PDF program) uvádí tři obecné tematické okruhy bez konkrétních čísel a termínů: bezpečnost (dobré osvětlení, funkční přechody u škol, koordinace s Městskou policií a sociální práce v terénu), doprava (dostatek parkovacích míst a plynulá doprava bez zbytečných uzavírek) a „Dobrá adresa“ (dostatek míst v mateřských školách, bezpečné cesty do škol, funkční dětská hřiště a veřejný prostor). Web avizuje podrobnější „předvolební magazín a přehled realizovaných projektů“, který ale nebyl na stránce dostupný jako samostatný dokument.",
+    "priority": [
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Bezpečná čtvrť – osvětlení, přechody u škol, sociální práce v terénu",
+        "popis": "Zlepšení bezpečnosti dobrým osvětlením, funkčními přechody u škol, koordinací s Městskou policií a sociální prací v terénu.",
+        "citace": "Bezpečná čtvrť se buduje dobrým osvětlením, funkčními přechody u škol, koordinací s Městskou policií a sociální prací v terénu.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Obecný záměr bez konkrétních míst, počtu přechodů nebo rozpočtu."
+        },
+        "zdroj_url": "https://www.spolupraha4.cz/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Dobrá adresa – kapacity MŠ, bezpečné cesty do škol",
+        "popis": "Zajištění dostatku míst v mateřských školách, bezpečných cest do škol a funkčních dětských hřišť a veřejného prostoru.",
+        "citace": "Dostatek míst v mateřských školách, bezpečné cesty ke školám, funkční dětská hřiště a veřejný prostor, kde se lidé potkávají.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Obecný záměr bez uvedeného počtu nových míst nebo konkrétních lokalit."
+        },
+        "zdroj_url": "https://www.spolupraha4.cz/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 1,
+    "oduvodneni": "Odhad na základě celostátního profilu ODS a TOP 09 jako pravicových, konzervativně-liberálních stran; lokální program nebyl k dispozici k ověření.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Vedla koalici (23 z 45 mandátů) spolu s ANO 2011; starosta Ondřej Kubín (ODS), místostarosta Filip Vácha (TOP 09, energetická infrastruktura), radní Jaroslav Míth (ODS, doprava).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Energetická infrastruktura (gesce místostarosty Váchy) a doprava (gesce radního Mítha).",
+        "dukaz": "Role byly potvrzeny z briefu ČSÚ (inkumbenti 2022), ale konkrétní zdrojovaný přehled dokončených/nedokončených projektů v těchto gescích se v rešerši nepodařilo dohledat – web praha4.cz byl při pokusu o ověření blokován CAPTCHou a koaliční smlouva/programové prohlášení MČ nebyly nalezeny.",
+        "zdroj_url": null
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako vedoucí koaliční síla řídila radnici Prahy 4 celé období 2022-2026, ale konkrétní zdrojovaný seznam splněných/nesplněných slibů (investiční, dopravní, energetické projekty) se v rámci této rešerše nepodařilo dohledat – médiální pokrytí lokální politiky Prahy 4 bylo v dostupných zdrojích řídké a web praha4.cz byl při pokusu o přístup blokován ochranou proti botům (CAPTCHA)."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu = 1: web kampaně uvádí jen obecná přání (bezpečnost, doprava, školky) bez konkrétních opatření, čísel nebo termínů – detailnější „předvolební magazín“ zmíněný na webu nebyl dostupný jako samostatný dokument. Transparentnost 2 body: zveřejněná kandidátka s profesními životopisy členů rady, chybí dohledaný transparentní účet a zveřejněné hlasování zastupitelů specifické pro tuto listinu. Doveryhodnost_plneni = 2: koalice vedla radnici po celé období se jmenovitě známými gescemi, ale nezávislé ověření konkrétních výsledků se nepodařilo dohledat (web MČ byl blokován CAPTCHou) – skóre je konzervativní odhad, ne zjištění konkrétního neplnění.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "kubin-ondrej"
+  ],
+  "mezery_v_datech": [
+    "Podrobnější 'předvolební magazín a přehled realizovaných projektů', na který web spolupraha4.cz odkazuje, nebyl na stránce dostupný jako samostatný dokument - program je proto znám jen v obecné podobě.",
+    "Bilance vedení radnice (konkrétní investiční a dopravní projekty, hospodaření s rozpočtem cca 1,45 mld. Kč) nebyla v dostupných médiích dohledána - viz district mc-praha-4.json."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

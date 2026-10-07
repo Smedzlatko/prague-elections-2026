@@ -1,0 +1,52 @@
+{
+  "slug": "mc-praha-20-1-hnuti-obcanu-pocernic-a-nezavisli",
+  "assembly_id": "mc-praha-20",
+  "list_cislo": 1,
+  "nazev": "Hnutí Občanů Počernic a NEZÁVISLÍ",
+  "zkratka": "HOP",
+  "typ": "D",
+  "slozeni": [
+    "NK",
+    "NEZ"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Nejsilnější subjekt z voleb 2022 (24,93 %, 7 mandátů), vedený podnikatelem Jiřím Šebkem; na listině další dosavadní zastupitelé (Alena Štrobová, Josef Beránek, Zbyněk Mucha, Hana Štěpánková, Milan Herian). Samostatný program pro volby 2026 nebyl dohledán.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "sebek-jiri"
+  ],
+  "mezery_v_datech": [
+    "Program hnutí nebyl dohledán - web pocernice.cz neobsahoval v dostupném výpisu konkrétní volební program MČ.",
+    "Program nedohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"Hnutí Občanů Počernic\" NEBO \"Šebek\" program volby 2026 Horní Počernice; hophp.cz program volby 2026 Horní Počernice; Šebek Hnutí Občanů Počernic facebook program 2026 priority. Vlastní web hophp.cz/program má nadpis \"Programové priority Hnutí občanů Počernic pro komunální volby v říjnu 2026\", ale obsah je vložen jako obrázek (HOP_Inzerce_210x146mm_v1.jpg), ne jako text, a nepodařilo se jej strojově ani vizuálně přečíst (WebFetch i curl vrátily jen nadpis a odkaz na obrázek).",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „Hnutí Občanů Počernic a NEZÁVISLÍ program volby 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

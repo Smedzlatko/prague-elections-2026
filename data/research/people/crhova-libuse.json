@@ -1,0 +1,45 @@
+{
+  "slug": "crhova-libuse",
+  "name_key": "crhova-libuse",
+  "cele_jmeno": "Libuše Crhová",
+  "rok_narozeni": 1964,
+  "strana": "Svobodní",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 15,
+      "poradi": 2
+    }
+  ],
+  "role": "jiny",
+  "profil": "Libuše Crhová je podle vlastního životopisu obchodní zástupce a kandiduje na druhém místě celopražské listiny strany Svobodní, vedené Bedřichem Laubem. Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný veřejně dostupný záznam o jejím politickém působení.",
+  "vzdelani": null,
+  "profese": "obchodní zástupce",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164159",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku 62 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

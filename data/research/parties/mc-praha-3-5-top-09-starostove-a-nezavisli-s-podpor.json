@@ -1,0 +1,121 @@
+{
+  "slug": "mc-praha-3-5-top-09-starostove-a-nezavisli-s-podpor",
+  "assembly_id": "mc-praha-3",
+  "list_cislo": 5,
+  "nazev": "TOP 09 + Starostové a nezávislí s podporou Žižkov (nejen) sobě",
+  "zkratka": "TOP 09 + STAN",
+  "typ": "koalice",
+  "slozeni": [
+    "STAN",
+    "TOP 09"
+  ],
+  "web": "https://www.topstanpraha3.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Volební program TOP 09 a Starostů a nezávislých s podporou Ž(n)S - volby 2026",
+        "url": "https://www.topstanpraha3.cz/img/ProgramTOPSTAN2026.pdf",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Velmi podrobný program ve více než osmi oblastech: vztahy s veřejností (digitalizace radničních novin, obecní aplikace), školy a školky (rekonstrukce ZŠ Havlíčkovo náměstí, nová MŠ Jeseniova 98, pavilon ZŠ Jarov), Nákladové nádraží Žižkov (soutěž na využití historické budovy, nová 27třídní ZŠ a SŠ, 4 nové MŠ, tramvajová linka a příprava metra D/E), územní rozvoj (městský architekt, rozvoj lokalit Příběnická, Chmelnice, Jarov, expanze k Rokytce), bezpečnost (asistenti prevence kriminality, rozšíření kamer, defibrilátory AED), revitalizace náměstí (Jiřího z Lobkovic, Prokopovo náměstí, Žižkovo náměstí), parky a zeleň (nejméně 300 nových stromů, psí hřiště, vinice na Vítkově) a odpady/čistota (nový sběrný dvůr u Olšanských hřbitovů, rozšíření Čisté trojky na chodníky TSK, nové městské toalety). Program obsahuje řadu konkrétních, lokalizovaných závazků, místy i čísla (300 stromů, 4 MŠ, 27 tříd), ale u většiny chybí termíny a rozpočet.",
+    "priority": [
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Výsadba nejméně 300 nových stromů",
+        "popis": "Pokračování v obnově uličních stromořadí s cílem vysadit v příštím volebním období nejméně 300 dalších stromů.",
+        "citace": "V dalším volebním období bychom chtěli vysadit nejméně dalších 300 stromů.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Výsadba stromů v ulicích je plně v kompetenci MČ, cíl je číselně vyjádřený."
+        },
+        "zdroj_url": "https://www.topstanpraha3.cz/img/ProgramTOPSTAN2026.pdf"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Nová MŠ Jeseniova 98 a pavilon pro 2. stupeň ZŠ Jarov",
+        "popis": "Dokončení nové mateřské školy v Jeseniově 98 a dostavba pavilonu pro 2. stupeň při ZŠ Jarov, aby žáci nemuseli v 6. třídě přecházet jinam.",
+        "citace": "nová MŠ Jeseniova 98 ... Při ZŠ Jarov dostavíme pavilon pro 2. stupeň.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jmenované konkrétní stavby v kompetenci MČ jako zřizovatele škol."
+        },
+        "zdroj_url": "https://www.topstanpraha3.cz/img/ProgramTOPSTAN2026.pdf"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Nákladové nádraží Žižkov – soutěž na historickou budovu a nová škola",
+        "popis": "Vyhlášení soutěže na budoucí využití historické budovy NNŽ (kulturně-vzdělávací centrum, zdravotnické zařízení, knihovna nebo DDM), výstavba nové 27třídní ZŠ a SŠ ve východní části budovy a 4 nových MŠ v lokalitě.",
+        "citace": "Ve východní části historické budovy chceme vybudovat novou 27třídní základní školu a střední školu.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o dlouhodobý rozvoj brownfieldu závislý na dohodě s hl. m. Prahou, Správou železnic a developery, bez jasného termínu."
+        },
+        "zdroj_url": "https://www.topstanpraha3.cz/img/ProgramTOPSTAN2026.pdf"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Nový sběrný dvůr u Olšanských hřbitovů",
+        "popis": "Výstavba moderního sběrného dvora u hřbitovní zdi Olšanských hřbitovů a rozšíření služeb Čisté trojky o úklid ulic ve správě TSK a odvoz velkých elektrospotřebičů.",
+        "citace": "Postavíme moderní sběrný dvůr u hřbitovní zdi Olšanských hřbitovů.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní lokalizovaná investice v kompetenci MČ, ale bez uvedeného rozpočtu a termínu."
+        },
+        "zdroj_url": "https://www.topstanpraha3.cz/img/ProgramTOPSTAN2026.pdf"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "Koalice TOP 09 (pravicová) a STAN (středová, komunálně orientovaná); lokální program pro Prahu 3 2026 se nepodařilo dohledat, hodnocení je odvozeno z celostátních profilů obou stran.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Nejsilnější subjekt voleb 2022 (28,56 %, 11 z 35 mandátů) a jádro vládnoucí koalice. Lídr Michal Vronský (TOP 09) se stal starostou 29. 11. 2022 po předchozím starostovi Jiřím Ptáčkovi (TOP 09, zůstal radním pro životní prostředí). Dle koaliční smlouvy 2022-2026 (praha3.cz, staženo 2026-10-03) má koalice TOPSTAN+Piráti+PRAHA 3 SOBĚ+Zelení 9 křesel v radě: TOPSTAN 5 (uvolněný starosta Vronský, místostarosta Pavel Dobeš – územní rozvoj/Nákladové nádraží Žižkov/sport, radní Jiří Ptáček – životní prostředí, radní Robert Pecka – majetek/investice/energetika, radní Pavel Křeček – kultura/dotace/participace/strategické plánování), Piráti 2 (místostarosta a radní), PRAHA 3 SOBĚ 1 (místostarosta Filip Málek – školství), Zelení 1 (místostarosta Ondřej Rut – bydlení/doprava/dotace). TOPSTAN je tedy skutečným jádrem koalice s 5 z 9 radních křesel.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Nákladové nádraží Žižkov: dohoda v území na základě Podkladové studie s prvky regulačního plánu, organizační změna úřadu (vznik odboru městského architekta), odkup historické budovy NNŽ hlavním městem jako podmínka změny územního plánu Z2600.",
+        "dukaz": "Koaliční smlouva 2022-2026 tyto kroky deklaruje jako prioritu v gesci místostarosty Dobeše. Nezávislé ověření, do jaké míry byly tyto kroky k roku 2026 skutečně provedeny (schválení Z2600, odkup budovy, zřízení odboru městského architekta), se v rešerši nepodařilo dohledat.",
+        "zdroj_url": "https://www.praha3.cz/getFile/id:698762/koalicni-smlova-2022-2026.pdf"
+      },
+      {
+        "slib": "Hospodaření: udržitelný rozpočet, min. 70 mil. Kč z běžných příjmů na investice ročně, zveřejnění dat o využití bytového/nebytového fondu, dokončení privatizace panelových domů v Blahoslavově a Táboritské.",
+        "dukaz": "Deklarováno v koaliční smlouvě v gesci radního Pecky (majetek/investice). Nezávislé ověření plnění (zda privatizace proběhla, zda data byla zveřejněna) se nepodařilo dohledat.",
+        "zdroj_url": "https://www.praha3.cz/getFile/id:698762/koalicni-smlova-2022-2026.pdf"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Vedla radnici Prahy 3 celé období 2022-2026 s jedinou změnou osoby starosty na začátku období (Ptáček -> Vronský, oba TOP 09), nikoli kvůli rozpadu koalice. Koaliční smlouva obsahuje velmi podrobný program po oblastech (územní rozvoj, NNŽ, zeleň/klima, bezpečnost, hospodaření, doprava, energetika, kultura, majetek), ale nezávisle doložené hodnocení konkrétního naplnění jednotlivých bodů se v rešerši nepodařilo dohledat nad rámec toho, co koaliční smlouva samotná slibuje."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 3: program (PDF na topstanpraha3.cz) obsahuje desítky konkrétních, lokalizovaných opatření, část i s čísly (300 nových stromů, 4 nové MŠ, 27 tříd nové školy), ale většina bodů bez termínů a rozpočtu. Důležité je, že řada bodů (dokončení revitalizace Žižkova náměstí, pokračování přeměny NNŽ) jsou formulovány jako „dokončíme“/„budeme pokračovat“ – tedy nedokončené sliby z předchozího období opakované pro 2026. transparentnost = 3 za podrobný zveřejněný program a dohledatelný web. Doveryhodnost_plneni = 2: koalice vedená TOPSTAN měla po celé období jasně rozdělené gesce a velmi podrobnou koaliční smlouvu, ale nezávislé ověření naplnění konkrétních bodů (zejména klíčového Nákladového nádraží Žižkov) se v rešerši nepodařilo dohledat – skóre je konzervativní odhad při chybějícím nezávislém zdroji, ne zjištění konkrétního neplnění.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "vronsky-michal"
+  ],
+  "mezery_v_datech": [
+    "Program neobsahuje rozpočtové krytí ani termíny u většiny bodů.",
+    "Nezávisle doložené naplnění koaliční smlouvy 2022-2026 (zejména postup Nákladového nádraží Žižkov, privatizace bytů, investice do zeleně/energetiky) nebylo ověřeno - zápisy zastupitelstva/rady a tisk nebyly v rešerši systematicky zpracovány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

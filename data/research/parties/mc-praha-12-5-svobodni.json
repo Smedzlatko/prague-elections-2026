@@ -1,0 +1,39 @@
+{
+  "slug": "mc-praha-12-5-svobodni",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 5,
+  "nazev": "Svobodní",
+  "zkratka": "Svobodní",
+  "typ": "strana",
+  "slozeni": ["Svobodní"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program pro Prahu 12 na rok 2026 se nepodařilo dohledat. Listina nemá mandát z roku 2022 (Svobodní v Praze 12 2022 nekandidovali/nezískali mandát).",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2.5,
+    "hodnotova_osa": 1,
+    "oduvodneni": "Svobodní jsou celostátně liberálně-konzervativní strana s důrazem na nízké daně a omezený stát.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nenalezen (konkrétnost 0). Bez historie v zastupitelstvu MČ nelze hodnotit důvěryhodnost plnění. Transparentnost: dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["brotanek-tomas"],
+  "mezery_v_datech": [
+    "Lokální program listiny pro Prahu 12 nebyl dohledán.",
+    "Žádný dosavadní záznam o politické činnosti kandidátů v MČ Praha 12 nebyl nalezen."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

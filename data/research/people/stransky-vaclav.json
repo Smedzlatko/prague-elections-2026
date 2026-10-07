@@ -1,0 +1,53 @@
+{
+  "cele_jmeno": "Václav Stránský",
+  "rok_narozeni": 1978,
+  "strana": "8žije",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-8",
+      "list_cislo": 1,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Václav Stránský je manažer v letectví a podnikatel, zastupitel MČ Praha 8 za hnutí 8žije. Ve volbách 2022 byl zvolen na 5. místě listiny 8žije/Praha sobě/BEZPP s 5267 preferenčními hlasy. Pro rok 2026 vede koalici 8žije, Praha sobě a Zelení.",
+  "vzdelani": null,
+  "profese": "manažer v letectví, podnikatel",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 8",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel (ne radní/místostarosta) nemá jasně přiřaditelnou výkonnou odpovědnost – konkrétní zdrojovaný přehled jeho iniciativ se nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Praha 8 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu a výsledek z roku 2022 se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Vzdělání nebylo dohledáno."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "stransky-vaclav",
+  "name_key": "stransky-vaclav"
+}

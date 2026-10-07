@@ -1,0 +1,44 @@
+{
+  "slug": "klusak-michal",
+  "name_key": "klusak-michal",
+  "cele_jmeno": "Michal Klusák",
+  "rok_narozeni": 1979,
+  "strana": "Komunistická strana Čech a Moravy",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 6,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Michal Klusák vede kandidátní listinu „Komunistická strana Čech a Moravy“ pro MČ Praha 15 ve volbách 2026. Profesně: skladník. Veřejně dohledaný záznam o dřívější politické činnosti nebyl v rešerši nalezen – jde patrně o politického nováčka na úrovni MČ.",
+  "vzdelani": null,
+  "profese": "skladník",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Chybí dohledaný zdrojovaný přehled konkrétních slibů a jejich plnění; kandidát/ka nemá dohledanou dřívější výkonnou funkci.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 15 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

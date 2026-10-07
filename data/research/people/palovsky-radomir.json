@@ -1,0 +1,28 @@
+{
+  "slug": "palovsky-radomir",
+  "name_key": "palovsky-radomir",
+  "cele_jmeno": "RNDr. Radomír Palovský, CSc.",
+  "rok_narozeni": 1959,
+  "strana": "TOP 09",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 2, "poradi": 6}],
+  "role": "inkumbent",
+  "profil": "Radomír Palovský je vysokoškolský pedagog, zastupitel MČ Praha 5 za TOP 09. V roce 2022 získal mandát (5205 preferenčních hlasů). Pro rok 2026 kandiduje na 6. místě koaliční listiny TOP Lidovci a Nezávislí.",
+  "vzdelani": "RNDr., CSc. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "vysokoškolský pedagog, zastupitel MČ Praha 5",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

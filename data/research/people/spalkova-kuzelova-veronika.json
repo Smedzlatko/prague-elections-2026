@@ -1,0 +1,52 @@
+{
+  "slug": "spalkova-kuzelova-veronika",
+  "name_key": "spalkova-kuzelova-veronika",
+  "cele_jmeno": "Mgr. Veronika Špalková Kuželová",
+  "rok_narozeni": 1989,
+  "strana": "Bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 8,
+      "poradi": 11
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Mgr. Veronika Špalková Kuželová je zastupitel/ka MČ Praha 22, v roce 2022 zvolen/a na listině „STAROSTOVÉ A NEZÁVISLÍ“ (4. místo, 930 preferenčních hlasů). Pro volby 2026 kandiduje na listině „STAROSTOVÉ A NEZÁVISLÍ“ (11. místo). Profesně: pedagožka, členka divadelního souboru UCHO, zastupitelka MČ Praha 22.",
+  "vzdelani": null,
+  "profese": "pedagožka, členka divadelního souboru UCHO, zastupitelka MČ Praha 22",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 22 (zvolen/a za STAROSTOVÉ A NEZÁVISLÍ)",
+      "organizace": "MČ Praha 22",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 22 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "nova-lia",
+  "name_key": "nova-lia",
+  "cele_jmeno": "Lia Nova",
+  "rok_narozeni": 2000,
+  "strana": "ČSA",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 9, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Lia Nova je podle vlastního popisu v kandidátce student a „konspirační teoretik“, jediná kandidátka listiny Česká strana asociálů v Praze 5. Žádný další veřejný politický záznam nebyl dohledán.",
+  "vzdelani": null,
+  "profese": "student",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez historického záznamu z výkonné funkce.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 26 let v brífu k říjnu 2026 (2000), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

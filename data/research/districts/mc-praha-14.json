@@ -1,0 +1,129 @@
+{
+  "assembly_id": "mc-praha-14",
+  "nazev": "Praha 14",
+  "charakteristika": "Praha 14 zahrnuje Černý Most, Kyje a Hloubětín ve východní části Prahy, cca 50 600 obyvatel. Dominuje jí sídliště Černý Most s obchodním centrem a stejnojmenným metrem (trasa B). Starostou je od června 2021 Jiří Zajac (ODS). Mária Ševčíková (ANO) je 1. místostarostkou MČ a zároveň pro volby 2026 kandiduje jako č. 2 celopražské kandidátky ANO 2011.",
+  "soucasna_koalice": {
+    "obdobi": "2022–2026",
+    "strany": [
+      "ODS",
+      "ANO 2011"
+    ],
+    "starosta": {
+      "jmeno": "Jiří Zajac",
+      "strana": "ODS",
+      "slug": "zajac-jiri"
+    },
+    "zdroj_url": "https://www.praha14.cz"
+  },
+  "zmeny_v_obdobi": [
+    "Na kandidátce koalice 'MY pro Prahu 14' (Piráti, Praha 14 sobě, Zelení) pro volby 2026 je Ing. Petr Hukal, DiS., Ph.D. uveden jako „bývalý místostarosta Prahy 14 pro dopravu“ – naznačuje to, že v průběhu volebního období 2022–2026 přišel o radniční funkci pro dopravu, což by mohlo signalizovat změnu v koalici. Přesné datum a důvod této změny se v rámci této rešerše nepodařilo doložit (mezera)."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Rozvoj Černého Mostu",
+      "popis": "MČ dlouhodobě pracuje na úpravě okolí stanice metra Černý Most – projekt terminálu Černý Most a přilehlého centrálního parku.",
+      "proc_zalezi": "Jde o dopravní uzel a centrální veřejný prostor pro největší sídliště MČ.",
+      "zdroje": [
+        {
+          "nazev": "Praha14.cz – úvodní stránka MČ",
+          "url": "https://www.praha14.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Participativní rozpočet a komunitní participace",
+      "popis": "MČ provozuje participativní rozpočet „Vybíralka“ a projekt komunitní participace na Lehovci.",
+      "proc_zalezi": "Jde o nástroje přímého zapojení obyvatel do rozhodování o investicích v lokalitě.",
+      "zdroje": [
+        {
+          "nazev": "Praha14.cz – úvodní stránka MČ",
+          "url": "https://www.praha14.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Změna v obsazení místostarosty pro dopravu",
+      "popis": "Petr Hukal (dříve na kandidátce Praha 14 sobě/Piráti) je na kandidátce 2026 popsán jako „bývalý místostarosta pro dopravu“, což ukazuje na dosud nedoloženou změnu v koaliční dělbě funkcí.",
+      "proc_zalezi": "Případná změna koaličního uspořádání v průběhu období by byla relevantní pro posouzení stability vedení MČ.",
+      "zdroje": [
+        {
+          "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 547361",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Bytová politika a privatizace obecních bytů na Černém Mostě",
+      "popis": "Starosta Jiří Zajac (ODS) v rozhovoru pro Seznam Zprávy (11. 10. 2025) uvedl, že MČ spravuje asi 3 500 obecních bytů, upozornil na koncentraci sociálně slabých obyvatel, bezdomovectví u metra Černý Most a vysoké zálohy na energie v obecních bytech, a jako řešení navrhl byty zprivatizovat, aby se jejich stav zlepšil. Jde o starostův veřejně vyjádřený záměr; z dohledaných zdrojů nevyplývá, že by byl schválen zastupitelstvem.",
+      "proc_zalezi": "Privatizace obecních bytů je pro obyvatele sídliště i pro volební kampaň zásadní téma, o němž panují protichůdné názory.",
+      "zdroje": [
+        {
+          "nazev": "Seznam Zprávy: „Když na to nemají, ať se odstěhují z Prahy.“ Starosta o situaci na Černém Mostě",
+          "url": "https://www.seznamzpravy.cz/clanek/288490",
+          "datum": "2025-10-11"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Terminál Černý Most a centrální park",
+      "stav": "rozpracovano",
+      "popis": "Úprava okolí stanice metra Černý Most a vybudování centrálního parku.",
+      "zdroje": [
+        {
+          "nazev": "Praha14.cz – úvodní stránka MČ",
+          "url": "https://www.praha14.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Dřevozpracující provoz a kompostárna Horní Lada",
+      "stav": "rozpracovano",
+      "popis": "Zařízení na zpracování dřeva a kompostárna v lokalitě Horní Lada, zmiňované mezi aktuálními projekty MČ.",
+      "zdroje": [
+        {
+          "nazev": "Praha14.cz – úvodní stránka MČ",
+          "url": "https://www.praha14.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "Seznam Zprávy: Starostou Prahy 14 se stal Jiří Zajac (ODS), nahradil Radka Vondru (TOP 09)",
+      "url": "https://www.seznamzpravy.cz/clanek/starostou-prahy-14-se-stal-jiri-zajac-ods-nahradil-radka-vondru-top-09-168070",
+      "datum": "2021-06-24"
+    },
+    {
+      "nazev": "Seznam Zprávy: „Když na to nemají, ať se odstěhují z Prahy.“ Starosta o situaci na Černém Mostě",
+      "url": "https://www.seznamzpravy.cz/clanek/288490",
+      "datum": "2025-10-11"
+    },
+    {
+      "nazev": "Praha14.cz",
+      "url": "https://www.praha14.cz",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 547361",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné složení koalice 2022–2026 (zda je to pouze ODS+ANO, nebo širší) nebylo s jistotou dohledáno.",
+    "Důvod a datum ztráty místostarostenské funkce pro dopravu Petrem Hukalem se nepodařilo doložit.",
+    "Cíleně ověřeno přes WebSearch (starosta Jiří Zajac + kauza/konflikt zájmů/vyšetřování): nebyla dohledána žádná kauza ani kontroverze starosty ani MČ za období 2022–2026. Jde o doložený nulový nález, ne o mezeru v rešerši.",
+    "Citace Wikipedie odstraněny 6. 10. 2026. Seznam Zprávy (24. 6. 2021) dokládá, že Zajac se stal starostou v červnu 2021 s 16 hlasy z 31 (koalice ODS, TOP 09, Piráti po rozpadu předchozí koalice). Fragment z vyhledávání naznačuje, že po volbách 2022 vznikla širší koalice ODS, ANO, Srdcem pro Prahu 14 (STAN, KDU-ČSL) a Naše Čtrnáctka se 17 hlasy z 31, původní článek se však nepodařilo otevřít a ověřit – pole strany koalice proto zůstává u ODS a ANO s nízkou jistotou.",
+    "Ověřeno 6. 10. 2026 (WebSearch: Zajac + kauza, zakázka, konflikt zájmů, trestní oznámení): nic nenalezeno. Starostovy výroky o privatizaci obecních bytů (Seznam Zprávy, 11. 10. 2025) jsou politický názor, ne kauza."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

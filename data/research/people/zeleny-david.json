@@ -1,0 +1,29 @@
+{
+  "slug": "zeleny-david",
+  "name_key": "zeleny-david",
+  "cele_jmeno": "David Zelený",
+  "rok_narozeni": 1973,
+  "strana": "ODS",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-13", "list_cislo": 9, "poradi": 3}],
+  "role": "inkumbent",
+  "profil": "David Zelený je místostarosta MČ Praha 13 za ODS, zvolen zastupitelem i v roce 2022 (pozice č. 2, 4898 preferenčních hlasů). Je součástí týmu dlouholetého starosty Davida Vodrážky na listině ODS s podporou nezávislých pro volby 2026.",
+  "vzdelani": null,
+  "profese": "místostarosta MČ Praha 13",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "místostarosta MČ Praha 13", "organizace": "ODS", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Zastával exekutivní funkci po celé volební období, ale bez dohledaného podkladu o konkrétní agendě (resortu) nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 13 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Resort, který má jako místostarosta na starosti, nebyl dohledán.",
+    "Rok narození odhadnut z udaného věku (53 let v roce 2026)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

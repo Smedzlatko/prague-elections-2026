@@ -1,0 +1,81 @@
+{
+  "slug": "mc-praha-6-9-top-09",
+  "assembly_id": "mc-praha-6",
+  "list_cislo": 9,
+  "nazev": "TOP 09",
+  "zkratka": "TOP 09",
+  "typ": "strana",
+  "slozeni": ["TOP 09"],
+  "web": "https://topka6.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "TOP 09 Praha 6 - program 2026", "url": "https://topka6.cz/", "datum": "2026-10-02"}
+    ],
+    "shrnuti": "TOP 09 získala v roce 2022 14,69 % a 7 mandátů a je součástí vládnoucí koalice. Program klade důraz na transparentní správu MČ (kampaň „STOP trafikám na radnici!“), ochranu veřejných prostor a parků, odpor k plánované výstavbě gymnázia Duhovka v Břevnově, úspěšnou záchranu pozemku na Petřinách před zástavbou a rozvoj bytového projektu Trojdomí Šolínova.",
+    "priority": [
+      {
+        "oblast": "transparentnost",
+        "nazev": "Kampaň „STOP trafikám na radnici!“",
+        "popis": "Program slibuje odstranění klientelistických praktik („trafik“) v obsazování pozic na radnici.",
+        "citace": "STOP trafikám na radnici!",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Jde o obecné heslo bez konkrétního mechanismu, jak klientelismus eliminovat."},
+        "zdroj_url": "https://topka6.cz/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Odpor k výstavbě gymnázia Duhovka v Břevnově",
+        "popis": "Strana se staví proti plánované výstavbě gymnázia Duhovka v Břevnově.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Jde o konkrétní, jmenovaný stavební záměr, jehož zastavení závisí na stavebním řízení a rozhodnutí investora, ne jen na MČ."},
+        "zdroj_url": "https://topka6.cz/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Záchrana pozemku na Petřinách",
+        "popis": "Program uvádí jako dosažený výsledek záchranu konkrétního pozemku na Petřinách před zástavbou.",
+        "citace": "Zachránili jsme pozemek na Petřinách.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Jde o již deklarovaný dosažený výsledek, nikoliv budoucí slib."},
+        "zdroj_url": "https://topka6.cz/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "TOP 09 je na celostátní úrovni pravostředová, rozpočtově konzervativní strana s liberálnějšími hodnotovými postoji; lokální program kombinuje protikorupční rétoriku s ochranou veřejného prostoru před zástavbou.",
+    "zdroje": [{"nazev": "TOP 09 Praha 6 - program 2026", "url": "https://topka6.cz/", "datum": "2026-10-02"}]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Součást vládnoucí koalice (ODS+KDU-ČSL 12, STAN+Zelení 6, PRAHA 6 SOBĚ 6, TOP 09 7 = 23 ze 45 mandátů). Lídryně Eva Smutná je zastupitelkou, dalšími inkumbenty jsou Jiří Benda, Tomáš Mandlík, Ondřej Dušek, Marek Baxa a Jan Chabr.",
+    "splnene_sliby": [
+      {"slib": "Záchrana pozemku na Petřinách před zástavbou", "dukaz": "Program přímo uvádí tento výsledek jako dosažený.", "zdroj_url": "https://topka6.cz/"}
+    ],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Strana je součástí vedení MČ po celé období a sama prezentuje konkrétní dosažený výsledek (pozemek na Petřinách); jde ale o vlastní prezentaci v předvolebním programu, nikoliv o nezávisle ověřený audit. Protikorupční kampaň „STOP trafikám“ naznačuje, že strana sama vnímá prostor pro zlepšení transparentnosti i uvnitř koalice, které je součástí."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 3: program jmenuje konkrétní kauzy a projekty (Duhovka, Petřiny, Trojdomí Šolínova), ale bez systematických čísel a termínů. doveryhodnost_plneni = 3: strana byla v koalici a uvádí konkrétní dosažený výsledek, byť šlo o vlastní prezentaci. transparentnost = 3 za zveřejněný program a protikorupční kampaň, bez dalších zjištěných položek o financování.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["smutna-eva"],
+  "mezery_v_datech": [
+    "Konkrétní mechanismus kampaně „STOP trafikám na radnici“ nebyl v programu dále rozveden.",
+    "Projekt Trojdomí Šolínova nebyl v dostupném shrnutí programu dále popsán (stav, termín, rozpočet)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

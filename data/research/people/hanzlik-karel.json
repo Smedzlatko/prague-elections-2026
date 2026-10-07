@@ -1,0 +1,49 @@
+{
+  "slug": "hanzlik-karel",
+  "name_key": "hanzlik-karel",
+  "cele_jmeno": "Mgr. Karel Hanzlík",
+  "rok_narozeni": 1966,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 12,
+      "poradi": 4
+    }
+  ],
+  "role": "top5",
+  "profil": "Karel Hanzlík je starosta MČ Praha 16 (Radotín). Dlouholetý záznam z veřejných zdrojů (politická historie, konkrétní funkce a data) se v dostupné rešerši nepodařilo dohledat nad rámec údaje z brífu ČSÚ. Na kandidátce SPOLU pro Prahu 2026 je na 4. místě, podle ověřených dat ČSÚ ale nejde o inkumbenta zastupitelstva hl. m. Prahy z roku 2022.",
+  "vzdelani": null,
+  "profese": "starosta MČ Praha 16 (Radotín)",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": null,
+      "funkce": "starosta MČ Praha 16 (Radotín)",
+      "organizace": "MČ Praha 16",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Chybí dohledaný zdrojovaný záznam o konkrétních slibech a jejich plnění.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat samostatný veřejný profil (Wikipedia, web MČ Praha 16) s daty politické historie Karla Hanzlíka.",
+    "Přesný rok narození (1966) je odhad z udaného věku 60 let v brífu k říjnu 2026.",
+    "Chybí informace o jeho předchozích funkcích před starostováním a o konkrétních projektech Prahy 16 za jeho vedení.",
+    "Cíleně ověřeno přes WebSearch (Karel Hanzlík Praha 16 kauza/konflikt zájmů): nebyla dohledána žádná kauza. Jde o doložený nulový nález."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

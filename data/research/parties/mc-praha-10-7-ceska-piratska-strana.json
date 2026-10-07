@@ -1,0 +1,107 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 7,
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "typ": "strana",
+  "slozeni": [
+    "Piráti"
+  ],
+  "web": "https://praha10.pirati.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "praha10.pirati.cz: Komunální volby 2026 - Priority pro desítku (Praha 10 ožije!)",
+        "url": "https://praha10.pirati.cz/komunalni-volby-2026/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Piráti byli v letech 2022-2026 na Praze 10 v opozici (16,77 %, 8 mandátů). Lídr Mikuláš Ferjenčík je bývalý poslanec PSP ČR a poradce předsedy Pirátů. Program „Praha 10 ožije!“ má 10 bodů: kulturní využití vil Kolbenovy a bratří Čapků, otevření Orionky jako komunitního centra, přeměna Starostrašnické na městský bulvár, participativní řešení hřiště Solidarita, oživení Malešického zámečku, parkovací dům na Zahradním Městě, dostavba Drážní promenády, krajinářské úpravy Trojmezí na přírodní park, drobná opatření proti vedru (pítka, mlžítka) a podpora bytové výstavby ve Vršovicích. Program explicitně kritizuje současnou koalici za netransparentní jednání u hřiště Solidarita a za preferenci betonu před zelení na Čechově náměstí.",
+    "priority": [
+      {
+        "oblast": "kultura",
+        "nazev": "Otevření Orionky jako kulturně-komunitního centra",
+        "popis": "Využití obnovené bývalé vozovny Orionka jako kulturně-komunitního centra s prostorem pro hudbu, sport, sousedská setkávání a re-use centrum.",
+        "citace": "Piráti na magistrátu prosadili záměr obnovy bývalé vozovny Orionka. Zasadíme se o využití areálu jako kulturně-komunitního centra pro širokou veřejnost s důrazem na mladé lidi.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Navazuje na již schválený magistrátní záměr obnovy budovy, konkrétní využití je popsáno, ale bez termínu otevření a bez rozpočtu na vybavení."
+        },
+        "zdroj_url": "https://praha10.pirati.cz/komunalni-volby-2026/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Participativní řešení hřiště Solidarita s tělocvičnou",
+        "popis": "Realizace řešení hřiště Solidarita podle přání místních z participace od roku 2018, respektující potřebu tělocvičny pro přilehlou školu; kritika současné koalice za ignorování výsledků participace.",
+        "citace": "Odmítáme netransparentní jednání současné koalice, která požadavky vzešlé z participativních aktivit zcela ignorovala.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní lokalita a požadavek (tělocvična), ale bez uvedeného rozpočtu a harmonogramu; podmíněno politickou shodou v zastupitelstvu."
+        },
+        "zdroj_url": "https://praha10.pirati.cz/komunalni-volby-2026/"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Dostavba Drážní promenády a přírodní park Trojmezí",
+        "popis": "Dokončení výstavby liniového parku Drážní promenáda (výkup pozemků už prosadili na radnici) a realizace krajinářských úprav Trojmezí podle hotové studie na přírodní park.",
+        "citace": "V červnu se Pirátům na radnici podařilo prosadit výkup pozemků pro Drážní promenádu... Nyní probíhá příprava projektu pro stavební povolení... Realizujeme krajinářské úpravy Trojmezí podle hotové studie.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Navazuje na již provedený výkup pozemků a hotovou studii, krok k realizaci je jasně popsaný (stavební povolení), byť bez pevného termínu."
+        },
+        "zdroj_url": "https://praha10.pirati.cz/komunalni-volby-2026/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Podpora bytové výstavby ve Vršovicích (Baťův dům, projekt u Ďolíčku)",
+        "popis": "Dokončení rekonstrukce Baťova domu a podpora realizace projektu Pražské developerské společnosti u Ďolíčku s cca 140 novými byty, obecně podpora odpovědné bytové výstavby s dostatečnou občanskou vybaveností.",
+        "citace": "Dokončíme rekonstrukci Baťova domu a ve spolupráci s hl. m. Prahou podpoříme realizaci projektu Pražské developerské společnosti u Ďolíčku, kde má vzniknout na 140 nových bytů.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní počet bytů a lokalita, ale realizace závisí na hl. m. Praze a developerovi, ne jen na MČ."
+        },
+        "zdroj_url": "https://praha10.pirati.cz/komunalni-volby-2026/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2.0,
+    "oduvodneni": "Piráti se celostátně profilují jako liberální, hodnotově progresivní strana s důrazem na transparentnost. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (8 mandátů po volbách 2022); inkumbenti Zuzana Freitas Lopesová, David Satke a Pavel Hájek kandidují znovu.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako silná opoziční strana (8 mandátů) měli Piráti významný vliv na zastupitelskou debatu, ale bez exekutivní moci. Zdrojovaný přehled konkrétních iniciativ klubu za období 2022-2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 4,
+    "oduvodneni": "Program je konkrétní, s pojmenovanými lokalitami a projekty, část i s čísly (140 bytů), ale bez rozpočtu u většiny bodů (3). Doveryhodnost plnění nehodnocena – klub byl celé období v opozici bez výkonné funkce v radě MČ, byť se podle vlastního tvrzení podílel na prosazení výkupu pozemků pro Drážní promenádu na úrovni magistrátu. Transparentnost vysoká – vlastní web, dohledatelní kandidáti.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "ferjencik-mikulas"
+  ],
+  "mezery_v_datech": [],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03",
+  "slug": "mc-praha-10-7-ceska-piratska-strana"
+}

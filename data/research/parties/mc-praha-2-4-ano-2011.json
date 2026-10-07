@@ -1,0 +1,69 @@
+{
+  "slug": "mc-praha-2-4-ano-2011",
+  "assembly_id": "mc-praha-2",
+  "list_cislo": 4,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "programydovoleb.cz - ANO 2011 Praha 2 (bez odkazu na vlastní program)",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165111",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Vyhledávání Seznam.cz - program ANO 2011 Praha 2 2026",
+        "url": "https://search.seznam.cz/?q=ANO+2011+Praha+2+program+volby+2026+Kol%C3%A1%C5%99",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "Celostátní ANO je obvykle klasifikováno jako středové, programaticky pragmatické hnutí bez jasné ideologické kotvy; lokální program pro Prahu 2 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "OPRAVA oproti předchozí verzi: dle oficiálního seznamu rady na praha2.cz (ověřeno 2026-10-03) je lídr Jan Kolář (ANO 2011) místostarostou MČ Praha 2 s gescí IT, smart city a volnočasové aktivity – ANO 2011 je tedy čtvrtým koaličním partnerem vedle ODS a TOP 09 (SPOLU), nikoli v opozici, jak uvádělo předchozí zpracování. Všichni koaliční partneři se měří společným dokumentem – Programovým prohlášením Rady MČ Praha 2 2022-2026 (https://www.praha2.cz/programove-prohlaseni-rady), které obsahuje mj. kapitolu Informační služby/Smart City (unifikovaná mobilní aplikace, elektronická identifikace a platby, otevřená data) v přímé gesci Koláře.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Smart city a digitalizace úřadu (unifikovaná mobilní aplikace, elektronická identifikace a platby, otevřená data) dle Programového prohlášení rady.",
+        "dukaz": "Programové prohlášení rady z roku 2022 tyto cíle deklaruje jako prioritu gesce místostarosty Koláře; nezávislé ověření, zda a v jakém rozsahu byly k roku 2026 skutečně zavedeny, se v rešerši nepodařilo dohledat.",
+        "zdroj_url": "https://www.praha2.cz/programove-prohlaseni-rady"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ANO 2011 byla po celé období 2022-2026 čtvrtým koaličním partnerem s jedním místostarostenským křeslem (IT/smart city/volný čas). Nezávisle doložené hodnocení konkrétních výsledků v této gesci nebylo dohledáno."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": null,
+    "oduvodneni": "Program listiny pro 2026 se nepodařilo dohledat. Doveryhodnost_plneni = 2: ANO drželo po celé období jedno místostarostenské křeslo se zodpovědností za smart city/digitalizaci, konkrétní deklarované cíle (mobilní aplikace, e-identifikace) existují v programovém prohlášení rady, ale chybí nezávislý zdroj potvrzující jejich realizaci – skóre je konzervativní odhad, ne zjištění konkrétního neplnění.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "kolar-jan"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro 2026 se nepodařilo dohledat i přes opakovaný pokus (osobní web jankolar.cz patří jinému jmenovci - konzultantovi, ne politikovi; programydovoleb.cz ani vyhledávání Seznam.cz nenašly vlastní program listiny).",
+    "Nezávisle doložené výsledky gesce Jana Koláře (IT, smart city, volný čas) 2022-2026 nebyly ověřeny - vychází se jen z Programového prohlášení rady, ne z kontroly jeho naplnění.",
+    "Program nedohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno ANO 2011 Praha 2 program komunální volby 2026 Kolář; \"ANO\" \"Praha 2\" program \"2026\" Kolář priority Jana Černá facebook kandidátka; praha2.cz/ano-2011 (jen odkaz na klub zastupitelů, bez programu). Nalezen pouze celopražský program ANO pro Prahu 2026 (bydlení, doprava, zdravotnictví) - ten se dle instrukcí nekopíruje jako lokální program Praha 2.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „ANO Praha 2 program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-06"
+}

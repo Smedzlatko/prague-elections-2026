@@ -1,0 +1,91 @@
+{
+  "slug": "mc-praha-2-3-spd-pro-prahu-2-s-podporou-pro-svobodny",
+  "assembly_id": "mc-praha-2",
+  "list_cislo": 3,
+  "nazev": "SPD pro Prahu 2 s podporou PRO, Svobodných a nezávislých kandidátů",
+  "zkratka": "SPD pro Prahu 2",
+  "typ": "sdruzeni nezavislych kandidatu",
+  "slozeni": [
+    "NK",
+    "SPD",
+    "PRO",
+    "Svobodní"
+  ],
+  "web": "https://spdpraha2.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "SPD pro Prahu 2 - volební program 2026",
+        "url": "https://spdpraha2.cz/2026/09/10/volebni-program-spd-praha-2/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "SPD pro Prahu 2 - volební program stručně",
+        "url": "https://spdpraha2.cz/2026/09/13/volebni-program-spd-praha-2-strucne/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Program je spíše obecný bez čísel a termínů. Doprava a infrastruktura: řešení problémů s parkováním a zbytečnými průjezdy aut, omezení záboru chodníků. Školství: odmítání „vojenských aktivit a genderových programů“ ve školách, podpora tradičních přístupů. Sociální služby: modernizace sociálního systému bez konkrétních parametrů, péče o seniory, startovací byty pro mladé rodiny. Životní prostředí: čistota chodníků a řízení odpadů bez konkrétních opatření. Bezpečnost: více strážníků městské policie, posílení prevence kriminality. Dále navrhují novou komisi podpory spolků a církví.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Startovací byty pro mladé rodiny",
+        "popis": "Zavedení startovacích bytů pro mladé rodiny jako součást modernizace sociálního systému MČ.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Bytová politika je v kompetenci MČ, ale bez počtu bytů, rozpočtu nebo termínu."
+        },
+        "zdroj_url": "https://spdpraha2.cz/2026/09/10/volebni-program-spd-praha-2/"
+      },
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Více strážníků městské policie",
+        "popis": "Posílení přítomnosti městské policie a prevence kriminality.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "MČ může žádat o posílení MP, ale nemá na ni přímý řídicí vliv; bez konkrétního počtu strážníků."
+        },
+        "zdroj_url": "https://spdpraha2.cz/2026/09/10/volebni-program-spd-praha-2/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": 2.5,
+    "oduvodneni": "SPD je celostátně klasifikována jako národně-konzervativní/pravopopulistická na hodnotové ose; lokální program s PRO a Svobodnými nebyl dohledán, ekonomická osa zůstává null.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "V roce 2022 kandidovala jako „Hnutí SPD pro Prahu 2 s podporou Trikolory a nezávislých…“ a získala 5,60 % a 2 mandáty – v opozici. Lídr Radek Šmídt a Vladislav Kučík byli zastupiteli.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Dva mandáty v opozici; detailní bilance nebyla dohledána."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu = 1: program je obecné přání (parkování, čistota, prevence) bez konkrétních měřitelných opatření, čísel nebo termínů. transparentnost = 2 za zveřejněný program a dohledatelný web. doveryhodnost_plneni je null – strana byla v letech 2022-2026 v opozici (byla_v_koalici: false).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "smidt-radek"
+  ],
+  "mezery_v_datech": [
+    "Program je obecný, bez čísel a termínů u všech bodů.",
+    "Detailní bilance opoziční práce listiny 2022-2026 nebyla dohledána."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

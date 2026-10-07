@@ -1,0 +1,67 @@
+{
+  "slug": "broz-vladan",
+  "name_key": "broz-vladan",
+  "cele_jmeno": "Mgr. et Mgr. Vladan Brož",
+  "rok_narozeni": 1977,
+  "strana": "BEZPP",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 1,
+      "poradi": 16
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Vladan Brož je advokát a spoluzakladatel pivovaru Lajka, bez politické příslušnosti kandiduje za hnutí PRAHA 7 SOBĚ. Je zastupitelem MČ Praha 7 (předseda klubu PRAHA 7 SOBĚ v zastupitelstvu podle webu MČ) a předsedou Finančního výboru Zastupitelstva hl. m. Prahy – tedy celopražské kontrolní funkce nad rozpočtem hl. m. Prahy. Pro rok 2026 kandiduje na 16. místě listiny; v roce 2022 obdržel 6911 preferenčních hlasů.",
+  "vzdelani": "právo, Mgr. et Mgr. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "advokát, předseda Finančního výboru Zastupitelstva hl. m. Prahy, zastupitel MČ Praha 7",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 7, předseda klubu PRAHA 7 SOBĚ",
+      "organizace": "MČ Praha 7",
+      "zdroj_url": "https://www.praha7.cz/radnice/zastupitelstvo/"
+    },
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "předseda Finančního výboru Zastupitelstva hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Funkce předsedy finančního výboru je kontrolní, nikoliv přímo exekutivní; podrobné hodnocení jeho práce ve výboru nebylo dohledáno.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [
+      "pivovar Lajka (spoluzakladatel)"
+    ],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "praha7.cz - Zastupitelstvo MČ Praha 7",
+      "url": "https://www.praha7.cz/radnice/zastupitelstvo/",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 49 let v brífu k říjnu 2026 (1977), neověřeno.",
+    "Konkrétní výstupy jeho práce coby předsedy Finančního výboru ZHMP (kontrolní zprávy, zjištění) nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "kutmon-josef",
+  "name_key": "kutmon-josef",
+  "cele_jmeno": "Josef Kutmon",
+  "rok_narozeni": 1956,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-14",
+      "list_cislo": 8,
+      "poradi": 3
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Josef Kutmon je radním MČ Praha 14 za ODS, zvolen v roce 2022 na 3. místě kandidátky ODS SPOLU s TOP 09 a Sousedy pro Prahu 14.",
+  "vzdelani": null,
+  "profese": "Radní MČ Praha 14.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "radní MČ Praha 14",
+      "organizace": "MČ Praha 14",
+      "zdroj_url": "https://www.praha14.cz"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako radní nese spoluodpovědnost za chod rady MČ, podrobný audit jeho konkrétní agendy se však nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 547361",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní resort a výsledky práce radního Kutmona nebyly samostatně dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

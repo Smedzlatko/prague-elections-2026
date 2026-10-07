@@ -1,0 +1,45 @@
+{
+  "slug": "kos-vojtech",
+  "name_key": "kos-vojtech",
+  "cele_jmeno": "Ing. Vojtěch Kos, MBA",
+  "rok_narozeni": 1972,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": null, "poradi": 23},
+    {"assembly_id": "mc-praha-12", "list_cislo": 3, "poradi": 1}
+  ],
+  "role": "inkumbent",
+  "profil": "Vojtěch Kos (* 18. 5. 1972 Praha), žije v Modřanech, je od října 2022 starostou MČ Praha 12 (zvolen v čele koalice ODS, TOP 09 a ANO 2011; na kandidátce ODS 2022 pozice č. 1, 4472 preferenčních hlasů). Členem ODS je od roku 1996, v letech 1998–2010 a znovu od 2018 zastupitelem MČ Praha 12, v minulém volebním období (2018–2022) prvním místostarostou. Ve straně je od roku 2021 1. místopředsedou pražské organizace ODS a předsedou organizace ODS na Praze 12. Vystudoval ekonomii (Ing.) a MBA na Vysoké škole ekonomie a managementu, dříve manažer v obchodu a marketingu, od roku 2007 soukromě podniká. Pro volby 2026 vede listinu ODS v Praze 12 a kandiduje i na celopražské kandidátce ODS.",
+  "vzdelani": "ekonomie (Ing.), MBA",
+  "profese": "starosta MČ Praha 12",
+  "politicka_historie": [
+    {"od": "1998", "do": "2010", "funkce": "zastupitel MČ Praha 12", "organizace": "ODS", "zdroj_url": "https://cs.wikipedia.org/wiki/Vojt%C4%9Bch_Kos"},
+    {"od": "2018", "do": "2022-10", "funkce": "zastupitel a 1. místostarosta MČ Praha 12", "organizace": "ODS", "zdroj_url": "https://www.praha12.cz/ing-vojtech-kos-mba/o-2460"},
+    {"od": "2022-10", "do": null, "funkce": "starosta MČ Praha 12", "organizace": "ODS", "zdroj_url": "https://www.praha12.cz/novym-starostou-prahy-12-je-vojtech-kos/d-104000"}
+  ],
+  "vysledky": [
+    {"nazev": "Dokončení nové radnice Prahy 12", "popis": "Dostavba a stěhování úřadu MČ do nové budovy u ulice Generála Šišky (dokončeno v červnu/červenci 2021, tedy těsně před jeho zvolením starostou, ale projekt pokračoval do jeho funkčního období).", "stav": "dokonceno", "hodnoceni": null, "zdroje": [{"nazev": "Wikipedie – Praha 12", "url": "https://cs.wikipedia.org/wiki/Praha_12", "datum": "2026-10-02"}]}
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Je starostou po celé volební období 2022–2026, ale konkrétní zdrojovaný seznam jeho slibů z roku 2022 a jejich plnění se v rámci této rešerše nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 12 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "praha12.cz: Ing. Vojtěch Kos, MBA (profil)", "url": "https://www.praha12.cz/ing-vojtech-kos-mba/o-2460", "datum": "2026-10-03"},
+    {"nazev": "praha12.cz: Novým starostou Prahy 12 je Vojtěch Kos", "url": "https://www.praha12.cz/novym-starostou-prahy-12-je-vojtech-kos/d-104000", "datum": "2026-10-03"},
+    {"nazev": "Wikipedie – Vojtěch Kos", "url": "https://cs.wikipedia.org/wiki/Vojt%C4%9Bch_Kos", "datum": "2026-10-03"}
+  ],
+  "mezery_v_datech": [
+    "Rok narození (1972) doloženo přímo (ne jen odhadem z věku) přes Wikipedii a praha12.cz (datum narození 18. 5. 1972).",
+    "Konkrétní bilance plnění jeho slibů z roku 2022 nebyla dohledána.",
+    "DŮLEŽITÉ ROZLIŠENÍ JMENOVCŮ: Cíleně ověřeno přes WebSearch, že starosta Vojtěch Kos (ODS, Praha 12) NENÍ totožný s 'Pavel Kos', podnikatelem obžalovaným v kauze Dozimetr (korupce v DPP, obžaloba 2024/2025) – jde o dvě různé osoby se společným příjmením. Nebyla dohledána žádná kauza ani kontroverze týkající se přímo Vojtěcha Kose, starosty Prahy 12.",
+    "Role a stranická příslušnost koaličních partnerů (TOP 09, ANO 2011) a případné změny koalice 2022–2026 nebyly v tomto profilu podrobně ověřeny – viz districts/mc-praha-12.json."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

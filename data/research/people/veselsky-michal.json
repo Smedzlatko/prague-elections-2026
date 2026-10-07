@@ -1,0 +1,29 @@
+{
+  "slug": "veselsky-michal",
+  "name_key": "veselsky-michal",
+  "cele_jmeno": "Bc. Michal Veselský, DiS.",
+  "rok_narozeni": 1980,
+  "strana": "Zelení",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-11", "list_cislo": 4, "poradi": 3}],
+  "role": "inkumbent",
+  "profil": "Michal Veselský je radní MČ Praha 11 pro školství a životní prostředí za Zelené (na listině PRAHA 11 SOBĚ), zvolen zastupitelem i v roce 2022 (pozice č. 3, 2462 preferenčních hlasů). Jeho listina byla po celé volební období 2022–2026 součástí vládnoucí koalice.",
+  "vzdelani": null,
+  "profese": "radní MČ Praha 11 (školství a životní prostředí)",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel a radní MČ Praha 11 (školství a životní prostředí)", "organizace": "Zelení / PRAHA 11 SOBĚ", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez dohledaného podkladu o jeho konkrétní agendě v oblasti školství a životního prostředí nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 11 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Konkrétní výsledky jeho práce jako radního za školství a životní prostředí nebyly dohledány.",
+    "Rok narození odhadnut z udaného věku (46 let v roce 2026)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

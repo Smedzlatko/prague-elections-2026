@@ -1,0 +1,79 @@
+{
+  "slug": "dohnal-jiri",
+  "name_key": "dohnal-jiri",
+  "cele_jmeno": "Jiří Dohnal",
+  "rok_narozeni": 1977,
+  "strana": "Piráti",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-11", "list_cislo": 6, "poradi": 1}],
+  "role": "inkumbent",
+  "profil": "Jiří Dohnal je (byl) radní MČ Praha 11 za Piráty, projektový manažer, zvolen zastupitelem i v roce 2022 (pozice č. 2, 2361 preferenčních hlasů). Piráti byli v letech 2022–2023 součástí vládnoucí koalice MČ; v prosinci 2023 koalici vypověděli, což vedlo k odvolání starostky Šárky Zdeňkové (HPP 11). Zdeňková následně veřejně tvrdila, že Dohnal po ní požadoval financování kulturní společnosti Jižní Město na úkor rozpočtu MČ — toto tvrzení nebylo v rámci této rešerše nezávisle potvrzeno ani vyvráceno a Dohnalovo vyjádření k němu se nepodařilo dohledat. Dohnal byl jako radní pro majetek odvolán zastupitelstvem již poprvé 20. 4. 2023 a do funkce se vrátil 8. 6. 2023; podruhé byl odvolán 15. 2. 2024 (19 z 35 hlasů), čímž Piráti přišli o poslední zastoupení v radě MČ.",
+  "vzdelani": null,
+  "profese": "projektový manažer, radní MČ Praha 11",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel MČ Praha 11", "organizace": "Piráti", "zdroj_url": null},
+    {"od": "2022-12", "do": "2023-04", "funkce": "radní MČ Praha 11 pro majetek (koalice)", "organizace": "MČ Praha 11", "zdroj_url": "https://denikn.cz/minuta/1302364/"},
+    {"od": "2023-06-08", "do": "2024-02-15", "funkce": "radní MČ Praha 11 pro majetek (po návratu do funkce)", "organizace": "MČ Praha 11", "zdroj_url": "https://prazsky.denik.cz/z_regionu/praha-11-krize-radni-jiri-dohnal-radnice-odvolani-nova-koalice-20240221.html"}
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Tvrzení Šárky Zdeňkové o požadavku na financování KJM",
+      "typ": "medialni",
+      "obdobi": "2023-12",
+      "popis": "Po svém odvolání z funkce starostky Šárka Zdeňková veřejně uvedla, že pirátský radní Jiří Dohnal po ní požadoval financování kulturní společnosti Jižní Město (KJM) na úkor rozpočtu MČ, a že její odmítání tohoto požadavku bylo skutečným motivem jejího odvolání. Nezávisle dohledaný spor (prosinec 2023) ukazuje jiný rámec: Piráti navrhovali navýšit dotaci KJM o 2 mil. Kč (firma měla vnitřní dluh 3,5 mil. Kč a byla podezřelá z neoprávněného nakládání s dotacemi), HPP 11/Zdeňková navýšení odmítla do doby auditu. Dohnalovo osobní vyjádření k přímému tvrzení Zdeňkové o nátlaku na ni se nepodařilo dohledat, k dispozici je jen vyjádření pirátské místostarostky Böhmové.",
+      "stav": "neprokazano",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Dohnalovo vlastní vyjádření se nepodařilo dohledat. Místostarostka za Piráty Böhmová uvedla, že spor chtěli řešit v klidu s koaličními partnery a kritizovala HPP 11 za odmítnutí navýšit dotaci; Zdeňková namítala, že jí Piráti výhrady nesdělili osobně a vnímala jejich postup jako snahu o destabilizaci koalice.",
+      "zdroje": [
+        {"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"},
+        {"nazev": "Blesk.cz – Zabomyší války na Jižáku. Rozpad koalice, Piráti chtějí odvolat starostku. Je nekompetentní, tvrdí", "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/758375/zabomysi-valky-na-jizaku-rozpad-koalice-pirati-chteji-odvolat-starostku-je-nekompetentni-tvrdi.html", "datum": "2023-12"}
+      ]
+    },
+    {
+      "nazev": "První odvolání z funkce radního pro majetek (duben 2023) a návrat",
+      "typ": "stranicky",
+      "obdobi": "2023-04 - 2023-06",
+      "popis": "Dohnal byl zastupitelstvem poprvé odvolán z funkce radního pro majetek 20. 4. 2023 v rámci rozpadu koalice. Koalice byla následně obnovena a Dohnal se do funkce radního vrátil 8. 6. 2023.",
+      "stav": "urovnano",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {"nazev": "Pražský deník – Koalice na Praze 11 padla. Vrkoč z funkce odvolán nebyl, radní Dohnal skončil", "url": "https://prazsky.denik.cz/zpravy_region/praha-11-koalice-rozpad-vrkoc-funkce-dohnal-odvolani-20230421.html", "datum": "2023-04-21"},
+        {"nazev": "Pražský deník – Koalice na Praze 11 je obnovená. Odvolaný radní Dohnal je zpět ve funkci", "url": "https://prazsky.denik.cz/zpravy_region/praha-koalice-obnoveni-praha11-jiri-dohnal-ve-funkci-radni-20230608.html", "datum": "2023-06-08"}
+      ]
+    },
+    {
+      "nazev": "Druhé odvolání z funkce radního pro majetek (únor 2024)",
+      "typ": "stranicky",
+      "obdobi": "2024-02",
+      "popis": "Zastupitelstvo MČ Praha 11 odvolalo Dohnala z funkce radního pro majetek 15. 2. 2024 poměrem 19 z 35 hlasů; Piráti tím ztratili poslední zastoupení v radě MČ. Důvodem k návrhu na odvolání byla podle bývalé radní Ivany Hovorkové (HPP 11), která odvolání navrhla, destabilizace fungování rady, kterou podle ní Piráti způsobili odvoláním starostky Šárky Zdeňkové v prosinci 2023, a dále podle ní nekvalitní práce Dohnala; opozice mu konkrétně vyčítala neschopnost vyřešit parkování v okolí rekonstruované ubytovny Sandra.",
+      "stav": "potvrzeno",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Dohnal označil své odvolání za účelové „vyřizování účtů“.",
+      "zdroje": [
+        {"nazev": "Blesk.cz – Praha 11: Pirátského radního Dohnala odvolali! „Vyřizování účtů,“ brání se", "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/779272/boure-na-radnici-prahy-11-piratskeho-radniho-dohnala-odvolali-vyrizovani-uctu-brani-se.html", "datum": "2024-02-15"},
+        {"nazev": "Pražský deník – Krize na Praze 11: Pirátský radní Dohnal opět odvolán", "url": "https://prazsky.denik.cz/z_regionu/praha-11-krize-radni-jiri-dohnal-radnice-odvolani-nova-koalice-20240221.html", "datum": "2024-02-21"}
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Dohnal zastával funkci radního jen po částech období (12/2022–4/2023 a 6/2023–2/2024), dvakrát byl z funkce odvolán; bez dohledaného podkladu o jeho konkrétní agendě nelze stanovit skóre.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 11 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"},
+    {"nazev": "Blesk.cz – Praha 11: Pirátského radního Dohnala odvolali! „Vyřizování účtů,“ brání se", "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/779272/boure-na-radnici-prahy-11-piratskeho-radniho-dohnala-odvolali-vyrizovani-uctu-brani-se.html", "datum": "2024-02-15"},
+    {"nazev": "Pražský deník – Koalice na Praze 11 padla. Vrkoč z funkce odvolán nebyl, radní Dohnal skončil", "url": "https://prazsky.denik.cz/zpravy_region/praha-11-koalice-rozpad-vrkoc-funkce-dohnal-odvolani-20230421.html", "datum": "2023-04-21"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání a přesný rok narození nebyly nezávisle potvrzeny.",
+    "Dohnalovo vlastní osobní vyjádření k tvrzení Zdeňkové o požadavku na financování KJM nebylo dohledáno – dohledáno bylo jen stanovisko pirátské místostarostky Böhmové k souvisejícímu sporu o navýšení dotace KJM.",
+    "Konkrétní agenda a výsledky jeho práce jako radního nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

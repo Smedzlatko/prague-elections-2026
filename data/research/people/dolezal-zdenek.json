@@ -1,0 +1,30 @@
+{
+  "slug": "dolezal-zdenek",
+  "name_key": "dolezal-zdenek",
+  "cele_jmeno": "Mgr. Zdeněk Doležal",
+  "rok_narozeni": 1974,
+  "strana": "ODS",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 5, "poradi": 6}],
+  "role": "inkumbent",
+  "profil": "Zdeněk Doležal je radní MČ Praha 5 za ODS (potvrzeno aktuálním seznamem rady na webu praha5.cz). V roce 2022 získal mandát zastupitele (5298 preferenčních hlasů). Pro rok 2026 kandiduje na 6. místě listiny.",
+  "vzdelani": "Mgr. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "radní MČ Praha 5",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "radní MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Má výkonnou funkci (radní), ale podrobný zdrojovaný seznam jeho slibů a jejich plnění ani konkrétní agenda (resort) nebyly dohledány.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha5.cz - Rada MČ Praha 5", "url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 52 let v brífu k říjnu 2026 (1974), neověřeno.",
+    "Konkrétní resort (agenda), za kterou jako radní odpovídá, nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

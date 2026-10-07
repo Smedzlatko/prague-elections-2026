@@ -1,0 +1,107 @@
+{
+  "assembly_id": "mc-praha-8",
+  "list_cislo": 6,
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "typ": "strana",
+  "slozeni": [
+    "Piráti"
+  ],
+  "web": "http://praha8.pirati.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "praha8.pirati.cz: Ať to tu žije! - Komunální volby 2026, Osm bodů pro Osmičku",
+        "url": "https://praha8.pirati.cz/komunalni-volby-2026/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Piráti byli v letech 2022-2026 na Praze 8 v opozici (6 mandátů ve volbách 2022, předseda kontrolního výboru Martin Štěrba). Program „Osm bodů pro Osmičku“ slibuje tři nové mateřské a dvě nové základní školy a plán 50 nových/obnovených hřišť, systematický program oprav chodníků, podporu nových tramvajových tratí (včetně trasy Kobylisy-Bohnice-Podbaba), jednání s developery o občanské vybavenosti k nové výstavbě, podporu alespoň 50 lokálních obchodů a služeb a revizi/zjednodušení místních poplatků (např. poplatek za psa).",
+    "priority": [
+      {
+        "oblast": "skolstvi",
+        "nazev": "Tři nové mateřské, dvě nové základní školy a 50 hřišť",
+        "popis": "Podpora výstavby tří nových mateřských a dvou nových základních škol a plán 50 nových nebo zásadně obnovených hřišť, sportovišť a míst pro volný čas, s ročním zveřejňováním přehledu plnění.",
+        "citace": "Podpoříme výstavbu tří nových mateřských a dvou nových základních škol... Připravíme plán 50 nových nebo zásadně obnovených hřišť, sportovišť a míst pro volný čas... Každý rok zveřejníme přehled projektů a jejich plnění.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní počty (3 školky, 2 školy, 50 hřišť) a slib pravidelného reportování, ale bez uvedeného rozpočtu a bez konkrétních termínů dokončení."
+        },
+        "zdroj_url": "https://praha8.pirati.cz/komunalni-volby-2026/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Systematické opravy chodníků a nové tramvajové tratě",
+        "popis": "Systematický program oprav nejhorších úseků chodníků (zejména u škol, školek, zastávek) s odstraňováním bariér a zveřejňováním plánu; podpora nových tramvajových tratí, včetně trasy Kobylisy-Bohnice-Podbaba.",
+        "citace": "Spustíme systematický program oprav nejhorších úseků, zejména v okolí škol, školek, zastávek, zdravotnických zařízení a obchodů... Zaměříme se také na... výstavbu tramvajové tratě z Kobylis přes Bohnice na Podbabu.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní trasa tramvaje jmenována, ale výstavba tramvajových tratí je v gesci hl. m. Prahy/DPP, ne přímo MČ; bez rozpočtu a termínu."
+        },
+        "zdroj_url": "https://praha8.pirati.cz/komunalni-volby-2026/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Vyjednávání s developery o občanské vybavenosti a podpora 50 lokálních obchodů",
+        "popis": "Důsledné vyjednávání s developery, aby nová výstavba přinášela školy, parky, sportoviště a služby; podpora vzniku a udržení alespoň 50 lokálních obchodů a provozoven.",
+        "citace": "Budeme důsledně jednat s developery, aby výstavbou pomáhali vytvářet plnohodnotné čtvrti včetně související občanské a dopravní infrastruktury... Podpoříme vznik a udržení alespoň 50 lokálních obchodů a provozoven.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní cíl (50 obchodů), ale nástroj podpory není specifikován (dotace, slevy na nájmu?) a vyjednávací síla MČ vůči developerům má limity."
+        },
+        "zdroj_url": "https://praha8.pirati.cz/komunalni-volby-2026/"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Revize a digitalizace místních poplatků",
+        "popis": "Revize místních poplatků (např. poplatek za psa) s cílem zjednodušit, digitalizovat nebo zrušit tam, kde správa poplatku stojí víc než jeho výnos.",
+        "citace": "Budeme prosazovat revizi místních poplatků a hledat cesty, jak je zjednodušit, digitalizovat nebo zcela zrušit tam, kde správa poplatku stojí více než jeho samotný výnos.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Plně v gesci MČ, administrativně realizovatelné, byť bez konkrétního harmonogramu."
+        },
+        "zdroj_url": "https://praha8.pirati.cz/komunalni-volby-2026/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2.0,
+    "oduvodneni": "Piráti se celostátně profilují jako liberální, hodnotově progresivní strana s důrazem na transparentnost a digitalizaci, ekonomicky blízko středu. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (6 mandátů po volbách 2022, z toho předseda kontrolního výboru Martin Štěrba).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční strana byli Piráti na Praze 8 v menšině (6 z 45 mandátů) – jejich schopnost prosadit vlastní sliby byla omezená pozicí mimo koalici, což se podle metodiky nepočítá jako jejich selhání. Detailní přehled jejich konkrétních iniciativ a jejich osudu se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 4,
+    "oduvodneni": "Program je konkrétní, většina priorit má pojmenovaná opatření s čísly (3 školky, 2 školy, 50 hřišť, 50 obchodů), ale bez rozpočtového krytí (3). Doveryhodnost plnění není hodnocena – strana byla celé období v opozici bez výkonné odpovědnosti. Transparentnost vysoká – vlastní web, dohledatelné kandidáty i strukturu místní organizace.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "sterba-martin"
+  ],
+  "mezery_v_datech": [],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03",
+  "slug": "mc-praha-8-6-ceska-piratska-strana"
+}

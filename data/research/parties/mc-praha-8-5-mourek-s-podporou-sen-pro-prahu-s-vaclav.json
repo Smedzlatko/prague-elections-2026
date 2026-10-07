@@ -1,0 +1,44 @@
+{
+  "assembly_id": "mc-praha-8",
+  "list_cislo": 5,
+  "nazev": "Mourek s podporou SEN PRO PRAHU s Václavem Láskou",
+  "zkratka": "Mourek",
+  "typ": "koalice",
+  "slozeni": [
+    "Mourek",
+    "SEN 21"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Nový lokální subjekt bez mandátu z roku 2022, podpořený celopražským hnutím SEN PRO PRAHU senátora Václava Lásky. Program se na programydovoleb.cz nepodařilo dohledat.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Nový lokální subjekt bez dostupného programu či veřejného ideologického sebeurčení – nelze zařadit na osách.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nedohledán. Nový subjekt bez historie na radnici – plnění slibů nelze hodnotit.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "springr-petr"
+  ],
+  "mezery_v_datech": [
+    "Program listiny nebyl dohledán.",
+    "Nebyl dohledán žádný web ani sociální sítě subjektu Mourek na Praze 8."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-8-5-mourek-s-podporou-sen-pro-prahu-s-vaclav"
+}

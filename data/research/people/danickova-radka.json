@@ -1,0 +1,52 @@
+{
+  "slug": "danickova-radka",
+  "name_key": "danickova-radka",
+  "cele_jmeno": "Ing. Radka Daníčková",
+  "rok_narozeni": 1971,
+  "strana": "Česká pirátská strana",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 9,
+      "poradi": 8
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Ing. Radka Daníčková je zastupitel/ka MČ Praha 15, v roce 2022 zvolen/a na listině „Česká pirátská strana“ (1. místo, 1043 preferenčních hlasů). Pro volby 2026 kandiduje na listině „Piráti a Praha 15 sobě“ (8. místo). Profesně: tajemnice úřadu, zastupitelka.",
+  "vzdelani": null,
+  "profese": "tajemnice úřadu, zastupitelka",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 15 (zvolen/a za Česká pirátská strana)",
+      "organizace": "MČ Praha 15",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 15 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

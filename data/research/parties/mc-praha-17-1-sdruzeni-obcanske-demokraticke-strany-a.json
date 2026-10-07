@@ -1,0 +1,74 @@
+{
+    "slug": "mc-praha-17-1-sdruzeni-obcanske-demokraticke-strany-a",
+    "assembly_id": "mc-praha-17",
+    "list_cislo": 1,
+    "nazev": "sdružení Občanské demokratické strany a nezávislých kandidátů",
+    "zkratka": "ODS a NK",
+    "typ": "D",
+    "slozeni": [
+        "ODS",
+        "NK"
+    ],
+    "web": "https://www.ods.cz/region.prazsky/volby2026/komunalni/3402-praha-17",
+    "program": {
+        "nalezen": false,
+        "zdroje": [
+            {
+                "nazev": "ods.cz: ODS Praha 17 2026",
+                "url": "https://www.ods.cz/region.prazsky/volby2026/komunalni/3402-praha-17",
+                "datum": "2026-10-02"
+            }
+        ],
+        "shrnuti": "Listina ODS a nezávislých vedená dosavadní starostkou Alenou Kopejtkovou, obhajující 6 mandátů z voleb 2022. ODS má celostátní stránku pro Prahu 17 (ods.cz/region.prazsky/volby2026/komunalni/3402-praha-17), ta ale k říjnu 2026 neobsahovala konkrétní programové body ani termíny – jen seznam kandidátů a obecnou výzvu ke spolupráci.",
+        "priority": [],
+        "oblasti": {}
+    },
+    "ideologie": {
+        "ekonomicka_osa": null,
+        "hodnotova_osa": null,
+        "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+        "zdroje": []
+    },
+    "bilance_2022_2026": {
+        "byla_v_koalici": false,
+        "role": null,
+        "splnene_sliby": [],
+        "castecne": [],
+        "nesplnene_sliby": [],
+        "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+    },
+    "kontroverze": [
+        {
+            "nazev": "Policejní šetření podezřelých zakázek na úpravu veřejného prostranství",
+            "typ": "policejni",
+            "obdobi": "zakázky z doby předchozího vedení; medializováno a vyšetřováno od 2025",
+            "popis": "Na základě oznámení hnutí Řepští sousedé policie šetří podezřele vysoké vyúčtování zakázek firmy Sadovnický a zahradnický servis (majitel Martin Chládek) na údržbu veřejného prostranství v Řepích – např. 44 000 Kč za opravu dětských vrátek s vykázanými 197 hodinami práce; firma od radnice v roce 2023 získala zakázky za cca 13 milionů Kč. Mluvčí MČ uvedl, že smlouvy uzavřelo již předchozí vedení radnice.",
+            "stav": "probiha",
+            "zavaznost": "stredni",
+            "reakce_dotcene_osoby": "Starostka Kopejtková (ODS) se k věci odmítla vyjádřit; majitel firmy Martin Chládek se na dotazy serveru také nevyjádřil (Blesk.cz, 5. 2. 2025).",
+            "zdroje": [
+                {
+                    "nazev": "Blesk.cz: Průšvih řepské radnice kvůli podezřelým zakázkám? Za opravu branky zaplatila 44 tisíc, případ řeší policie",
+                    "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/805720/prusvih-repske-radnice-kvuli-podezrelym-zakazkam-za-opravu-branky-zaplatila-44-tisic-pripad-resi-policie.html",
+                    "datum": "2025-02-05"
+                }
+            ]
+        }
+    ],
+    "hodnoceni": {
+        "konkretnost_programu": 0,
+        "doveryhodnost_plneni": null,
+        "transparentnost": 3,
+        "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+        "metodika": "data/research/METODIKA.md"
+    },
+    "lidri": [
+        "kopejtkova-alena"
+    ],
+    "mezery_v_datech": [
+        "ODS má web k volbám 2026 pro Prahu 17, ale bez konkrétního programu - jen seznam kandidátů.",
+        "Cíleně ověřeno přes WebSearch: mimo policejní šetření zakázek firmy Sadovnický a zahradnický servis (viz kontroverze) nebyla dohledána žádná kauza osobně přičítaná starostce Kopejtkové."
+    ],
+    "confidence": "stredni",
+    "posledni_aktualizace": "2026-10-03"
+}

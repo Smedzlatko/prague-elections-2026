@@ -1,0 +1,39 @@
+{
+  "slug": "mc-praha-4-1-spojena-levice-pro-prahu-4",
+  "assembly_id": "mc-praha-4",
+  "list_cislo": 1,
+  "nazev": "Spojená levice pro Prahu 4",
+  "zkratka": "Spojená levice",
+  "typ": "koalice",
+  "slozeni": ["KSČM", "ČSSD"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program se nepodařilo dohledat. Stránka programydovoleb.cz pro tuto listinu neobsahuje odkaz na vlastní program ani na program strany KSČM/ČSSD specifický pro Prahu 4.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -2,
+    "hodnotova_osa": -1,
+    "oduvodneni": "Odhad na základě celostátního profilu koaličních stran (KSČM, ČSSD) jako levicových subjektů; bez vlastního lokálního programu nelze přesněji určit pozici k místním tématům.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nebyl dohledán (0 bodů za konkrétnost). Transparentnost 1 bod jen za existenci kandidátky se jmény a profesemi v otevřených datech ČSÚ; chybí zveřejněný program, financování kampaně i transparentní účet.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["skoupil-karel"],
+  "mezery_v_datech": [
+    "Program listiny se nepodařilo dohledat na programydovoleb.cz ani na webech KSČM/ČSSD specifických pro Prahu 4.",
+    "Listina neměla v roce 2022 mandát (KSČM samostatně získala 2,02 %), bilanci tedy nelze hodnotit."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

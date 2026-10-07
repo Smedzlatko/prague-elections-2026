@@ -1,0 +1,80 @@
+{
+  "cele_jmeno": "Bc. Mikuláš Ferjenčík",
+  "rok_narozeni": 1987,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 7,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Mikuláš Ferjenčík je poradce předsedy Pirátů, dříve poslanec Poslanecké sněmovny (2017-2021) a pražský zastupitel (2014-2018), překladatel. Narodil se 19. března 1987 v Českých Budějovicích, vystudoval humanitní obor na Univerzitě Karlově. Členem Pirátů je od roku 2009, v letech 2010-2014 byl místopředsedou strany. Jako poslanec se profiloval protikorupčními kampaněmi s využitím zákona o svobodném přístupu k informacím, odporem k dohodě ACTA a bojem proti internetové cenzuře. Je bratrem poslankyně Olgy Richterové. Pro volby 2026 je novým lídrem pirátské listiny na Praze 10, bez vlastního mandátu v tamním zastupitelstvu z let 2022-2026.",
+  "vzdelani": "humanitní obor, Univerzita Karlova",
+  "profese": "poradce předsedy Pirátů, překladatel",
+  "politicka_historie": [
+    {
+      "od": "2009",
+      "do": null,
+      "funkce": "člen České pirátské strany",
+      "organizace": "Piráti",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Ferjen%C4%8D%C3%ADk_(1987)"
+    },
+    {
+      "od": "2010",
+      "do": "2014",
+      "funkce": "místopředseda Pirátů",
+      "organizace": "Piráti",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Ferjen%C4%8D%C3%ADk_(1987)"
+    },
+    {
+      "od": "2014",
+      "do": "2018",
+      "funkce": "zastupitel hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Ferjen%C4%8D%C3%ADk_(1987)"
+    },
+    {
+      "od": "2017",
+      "do": "2021",
+      "funkce": "poslanec PS PČR",
+      "organizace": "Poslanecká sněmovna PČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Ferjen%C4%8D%C3%ADk_(1987)"
+    },
+    {
+      "od": "2021",
+      "do": null,
+      "funkce": "poradce předsedy Pirátů",
+      "organizace": "Piráti",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Ferjen%C4%8D%C3%ADk_(1987)"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Na úrovni MČ Praha 10 kandiduje nově pro rok 2026, bez mandátu z let 2022-2026, který by šlo hodnotit. Jeho dřívější poslanecká a zastupitelská činnost (2014-2021) je mimo rámec komunální bilance Prahy 10.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Mikuláš Ferjenčík (1987)",
+      "url": "https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Ferjen%C4%8D%C3%ADk_(1987)",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán důvod, proč kandiduje právě na Praze 10 (dříve byl zastupitelem hl. m. Prahy, ne MČ Praha 10)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "ferjencik-mikulas",
+  "name_key": "ferjencik-mikulas"
+}

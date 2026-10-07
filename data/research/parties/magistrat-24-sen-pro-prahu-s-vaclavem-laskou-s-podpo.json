@@ -1,0 +1,157 @@
+{
+  "slug": "magistrat-24-sen-pro-prahu-s-vaclavem-laskou-s-podpo",
+  "assembly_id": "magistrat",
+  "list_cislo": 24,
+  "nazev": "SEN PRO PRAHU s Václavem Láskou, s podporou HPP 11 a strany Mourek",
+  "zkratka": "SEN PRO PRAHU",
+  "typ": "koalice",
+  "slozeni": [
+    "SEN 21",
+    "Hnutí pro Prahu 11 (HPP 11)",
+    "Mourek",
+    "nezávislí kandidáti"
+  ],
+  "web": "https://praha.senprocesko.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "SEN PRO PRAHU – Program: Doprava",
+        "url": "https://praha.senprocesko.cz/program/doprava",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "SEN PRO PRAHU – Program: Dostupné bydlení",
+        "url": "https://praha.senprocesko.cz/program/dostupne-bydleni",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "SEN PRO PRAHU – Program (přehled)",
+        "url": "https://praha.senprocesko.cz/program/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Nová koalice vedená senátorem Václavem Láskou (SEN 21) spojená s lokálním hráčem Hnutí pro Prahu 11 a stranou Mourek staví program na tématu dostupného bydlení (rozšíření městského bytového fondu, regulace Airbnb, spolupráce s developery na dostupných bytech), dopravy (dokončení okruhů, zpoplatnění vjezdu do centra, páteřní cyklostezky oddělené od silnic, P+R parkoviště) a kritiky nedostatku míst na středních školách.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Zvýšení podílu městských bytů na 10 %",
+        "popis": "Program slibuje zvýšit podíl bytů ve vlastnictví města ze současných cca 4 % na 10 % celkového bytového fondu, s přednostním přidělováním seniorům, samoživitelům a klíčovým profesím.",
+        "citace": "V Praze si už ani střední třída nedokáže kvůli vysokým cenám koupit vlastní bydlení.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Zvýšení městského bytového fondu z 4 % na 10 % by vyžadovalo masivní výstavbu nebo výkup bytů za jedno volební období a chybí uvedené rozpočtové krytí nebo harmonogram."
+        },
+        "zdroj_url": "https://praha.senprocesko.cz/program/dostupne-bydleni"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Regulace krátkodobého pronájmu (Airbnb)",
+        "popis": "Zákaz nelegálního krátkodobého pronajímání bez povolení, daňové zvýhodnění trvalého bydlení a zpřesnění registru e-Turista.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Část opatření (registr e-Turista) je v gesci zákonodárce, část (kontrola, licencování) je v silách města."
+        },
+        "zdroj_url": "https://praha.senprocesko.cz/program/dostupne-bydleni"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Zpoplatnění vjezdu do historického centra a dokončení okruhů",
+        "popis": "Program počítá s dokončením silničních okruhů, zpoplatněním vjezdu do historického centra a výstavbou parkovacích domů pro rezidenty a P+R parkovišť na okrajích.",
+        "citace": "Praha není autodrom ani skanzen - je to živoucí organismus.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Zpoplatnění vjezdu i stavba parkovacích domů jsou v kompetenci hl. m. Prahy, ale vyžadují velké investice a politickou shodu v zastupitelstvu."
+        },
+        "zdroj_url": "https://praha.senprocesko.cz/program/doprava"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Páteřní oddělené cyklostezky",
+        "popis": "Místo malování cyklopruhů na silnicích budovat oddělené páteřní cyklostezky.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Infrastrukturně náročnější a dražší varianta než malované pruhy, bez uvedeného rozpočtu."
+        },
+        "zdroj_url": "https://praha.senprocesko.cz/program/doprava"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Řešení nedostatku míst na středních školách",
+        "popis": "Kritika, že politici „zaspali“ zajištění kapacit, s cílem masivních investic do nových míst na SŠ do roku 2030.",
+        "citace": "Zaspali a včas nezajistili místa na školách.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Výstavba a kapacity středních škol jsou z velké části v gesci hl. m. Prahy jako zřizovatele, realizace ale vyžaduje roky a kapitálové výdaje."
+        },
+        "zdroj_url": "https://praha.senprocesko.cz/program/"
+      }
+    ]
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0,
+    "hodnotova_osa": -1,
+    "oduvodneni": "SEN 21 se sebeprezentuje jako liberálně-demokratické hnutí podporující evropskou integraci; program kombinuje sociální prvky (rozšíření městského bydlení, regulace Airbnb) s důrazem na veřejnou dopravu a investice do infrastruktury — spíše středová až mírně sociální pozice. Hodnotově liberální, antipopulistický tón („méně politikaření, více profesionality“).",
+    "zdroje": [
+      {
+        "nazev": "SEN PRO PRAHU – web",
+        "url": "https://praha.senprocesko.cz/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Jde o nový subjekt na úrovni ZHMP — koalice SEN 21 + HPP 11 + Mourek v této podobě v letech 2022–2026 v pražském zastupitelstvu nekandidovala. Václav Láska byl v letech 2022–2026 zastupitelem MČ Praha 5 za koalici SEN 21, nikoli zastupitelem hl. m. Prahy. Hnutí pro Prahu 11 vedlo radnici Prahy 11 (starostka Šárka Zdeňková, 21. 12. 2022 – 7. 12. 2023), než byla odvolána.",
+    "splnene_sliby": null,
+    "castecne": null,
+    "nesplnene_sliby": null,
+    "shrnuti": "Bez přímé historie na úrovni ZHMP; relevantní je lokální zkušenost HPP 11 na Praze 11, kde předsedkyně hnutí vydržela ve funkci starostky necelý rok."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Odvolání starostky Prahy 11 Šárky Zdeňkové (HPP 11)",
+      "typ": "stranicky",
+      "obdobi": "2022–2023",
+      "popis": "Šárka Zdeňková (HPP 11, č. 3 této kandidátky) byla zvolena starostkou MČ Praha 11 dne 21. 12. 2022 a zastupitelstvo ji odvolalo 7. 12. 2023, po necelém roce ve funkci. Přesné důvody odvolání se z dostupných zdrojů nepodařilo ověřit.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Wikipedie – Praha 11 (přehled vedení radnice)",
+          "url": "https://cs.wikipedia.org/wiki/Praha_11",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Konkrétnost 3: program má konkrétní a v některých bodech kvantifikovaná opatření (10 % městských bytů, 18 000 chybějících míst na SŠ), ale bez termínů a rozpočtového krytí u většiny bodů. Transparentnost 3: zveřejněný rozčleněný program po oblastech (+1), dohledatelní lídři s profesními profily (+1), web s datem poslední aktualizace programu (+1); financování kampaně a transparentní účet se nepodařilo ověřit.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "laska-vaclav"
+  ],
+  "mezery_v_datech": [
+    "Nepodařilo se ověřit přesné důvody odvolání starostky Prahy 11 Šárky Zdeňkové v prosinci 2023.",
+    "Nepodařilo se dohledat informace o transparentním účtu a financování kampaně listiny."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

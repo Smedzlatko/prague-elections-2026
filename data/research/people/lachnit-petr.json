@@ -1,0 +1,58 @@
+{
+  "slug": "lachnit-petr",
+  "name_key": "lachnit-petr",
+  "cele_jmeno": "JUDr. Petr Lachnit",
+  "rok_narozeni": 1967,
+  "strana": "ANO",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-5",
+      "list_cislo": 3,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Petr Lachnit je právník a 1. místostarosta MČ Praha 5 za ANO 2011 (potvrzeno aktuálním seznamem rady MČ na webu praha5.cz, říjen 2026) – významná exekutivní funkce, přestože ANO po volbách 2022 skončilo v opozici (7 mandátů). To naznačuje, že se ANO v průběhu volebního období 2022-2026 stalo součástí vedení MČ namísto PRAHA 5 SOBĚ, která v aktuálním seznamu rady není zastoupena vůbec; přesné datum a okolnosti této změny nebyly nezávisle médii dohledány. V roce 2022 získal mandát zastupitele s nejvyšším počtem preferenčních hlasů v klubu ANO (3545). Pro rok 2026 vede listinu ANO 2011 jako její lídr.",
+  "vzdelani": "právo, JUDr. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "1. místostarosta MČ Praha 5, právník",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 5, 1. místostarosta",
+      "organizace": "MČ Praha 5",
+      "zdroj_url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Má výkonnou funkci (1. místostarosta), ale podrobný zdrojovaný seznam jeho slibů a jejich plnění nebyl dohledán; nejasné je i přesné datum, od kdy funkci zastává (zda od voleb 2022, nebo až po pozdějším přeskupení koalice).",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "praha5.cz - Rada MČ Praha 5",
+      "url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 59 let v brífu k říjnu 2026 (1967), neověřeno.",
+    "Přesné datum a okolnosti jeho nástupu do funkce 1. místostarosty (zda hned po volbách 2022, nebo později v rámci přeskupení koalice) nebyly nezávisle médii dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

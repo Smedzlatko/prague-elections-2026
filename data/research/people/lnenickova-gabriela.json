@@ -1,0 +1,29 @@
+{
+  "slug": "lnenickova-gabriela",
+  "name_key": "lnenickova-gabriela",
+  "cele_jmeno": "Ing. Gabriela Lněničková, MBA",
+  "rok_narozeni": 1979,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 7, "poradi": 19},
+    {"assembly_id": "mc-praha-suchdol", "list_cislo": 2, "poradi": 6}
+  ],
+  "role": "inkumbent",
+  "profil": "Ekonomka a projektová manažerka, zastupitelka hl. m. Prahy za Piráty od voleb 2022 (zvolena z 11. místa s přes 67 tisíci preferenčními hlasy). V roce 2022 kandidovala v Praze-Suchdole jako nezávislá kandidátka (Sdružení občanů Suchdola), pro volby 2026 je na kandidátce podpořené Piráty. Žádný hlubší veřejně dohledaný politický záznam na magistrátní úrovni mimo mandát zastupitelky nebyl nalezen.",
+  "vzdelani": "Ekonomie (Ing., MBA).",
+  "profese": "Ekonomka, projektová manažerka, zastupitelka hl. m. Prahy.",
+  "politicka_historie": [
+    {"od": "2022-10", "do": null, "funkce": "zastupitelka hl. m. Prahy", "organizace": "Hlavní město Praha", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Zastává mandát zastupitelky bez exekutivní (radní) funkce, podle metodiky se plnění slibů u takové role nehodnotí.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Konkrétní činnost a hlasování na Zastupitelstvu hl. m. Prahy za volební období 2022-2026 nebyly v dostupných zdrojích dohledány nad rámec dat ČSÚ."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

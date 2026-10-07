@@ -1,0 +1,58 @@
+{
+  "slug": "mc-praha-5-2-top-lidovci-a-nezavisli",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 2,
+  "nazev": "TOP Lidovci a Nezávislí",
+  "zkratka": "TOP+KDU",
+  "typ": "koalice",
+  "slozeni": [
+    "TOP 09",
+    "KDU-ČSL"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Programy do voleb - TOP Lidovci a Nezávislí",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164281",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice TOP 09 a KDU-ČSL navazuje na „SPOLEČNĚ PRO PRAHU 5“ (ODS, TOP 09), která v roce 2022 získala 21,32 % a 10 mandátů, a je součástí vládnoucí koalice MČ. Lídrem je Martin Damašek (TOP 09), místostarosta MČ Praha 5. Samostatný lokální program pro rok 2026 nebyl dohledán – web top09.cz/regiony/praha/praha-5 vrátil chybu 404.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "TOP 09 je na celostátní úrovni pravostředová, rozpočtově konzervativní strana s liberálnějšími hodnotovými postoji, KDU-ČSL je hodnotově konzervativnější; u lokální koalice bez vlastního programu odvozeno ze složení.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Součást vládnoucí koalice (ODS/TOP09 + STAN + PRAHA 5 SOBĚ, 21 ze 41 mandátů). Lídr Martin Damašek je místostarostou MČ Praha 5, Savina Finardi radní MČ Praha 5, Jan Kavalírek a Radomír Palovský zastupitelé.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice je součástí vedení MČ po celé období 2022-2026 s místostarostenskou funkcí (bydlení, sociální politika, zdravotnictví v gesci Damaška). Hledání na Hlídači státu, webu MČ (praha5.cz) a v mediích (Deník N) nepřineslo dohledatelný konkrétní přehled naplnění či nenaplnění slibů z kampaně 2022 – MČ nemá veřejně publikovaný strukturovaný program ani bilanci typu „co se podařilo“. Dohledán byl pouze souběžný kontext: na Praze 5 od března 2023 probíhá vyšetřování kauzy Dozimetr (obvinění bývalého ředitele odboru informatiky Josefa Listíka za IT zakázky v hodnotě desítek milionů Kč), která ale není přímo přičitatelná této koalici, nýbrž úřednickému aparátu MČ."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": null,
+    "oduvodneni": "konkretnost_programu = 0, program nebyl dohledán. doveryhodnost_plneni = 2 (opatrný odhad): koalice je u moci celé období s místostarostenskou funkcí, ale bez dohledaného programu z roku 2022 ani nezávislého přehledu plnění nelze určit, zda sliby byly naplněny – skóre je uprostřed stupnice, ne doložené hodnocení konkrétních slibů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "damasek-martin"
+  ],
+  "mezery_v_datech": [
+    "Lokální volební program koalice pro Prahu 5 (2026 i 2022) nebyl dohledán - web TOP 09 pro Prahu 5 vrátil chybu 404.",
+    "Nebylo ověřeno přesné rozdělení kompetencí mezi TOP 09 a KDU-ČSL v rámci koalice.",
+    "Nebyl dohledán žádný nezávislý přehled naplnění konkrétních slibů z kampaně 2022 - skóre doveryhodnost_plneni je proto jen opatrný odhad, ne doložené hodnocení."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

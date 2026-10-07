@@ -1,0 +1,30 @@
+{
+  "slug": "tumpach-martin",
+  "name_key": "tumpach-martin",
+  "cele_jmeno": "Ing. Mgr. Martin Tumpach",
+  "rok_narozeni": 1986,
+  "strana": "BEZPP (za SEN PRO PRAHU)",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 24, "poradi": 7}],
+  "role": "top5",
+  "profil": "Starosta MČ Praha-Ďáblice, podle kandidátní listiny kandiduje jako nestraník na celopražské kandidátce SEN PRO PRAHU. Wikipedie potvrzuje, že je aktuálním starostou Ďáblic, bez dalších biografických detailů dohledaných v rámci této rešerše.",
+  "vzdelani": null,
+  "profese": "starosta MČ Praha-Ďáblice",
+  "politicka_historie": [
+    {"od": null, "do": null, "funkce": "starosta MČ Praha-Ďáblice", "organizace": "MČ Praha-Ďáblice", "zdroj_url": "https://cs.wikipedia.org/wiki/Praha-Ďáblice"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Hodnocení výkonu funkce starosty Ďáblic přesahuje rámec rešerše magistrátní listiny; podklady se nepodařilo dohledat.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "Wikipedie – Praha-Ďáblice", "url": "https://cs.wikipedia.org/wiki/Praha-Ďáblice", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat přesné datum nástupu do funkce starosty, přesný rok narození (odhad z věku v kandidátní listině k 2026) ani podrobnou politickou historii.",
+    "Nepodařilo se dohledat případné kauzy — nejde o jejich vyloučení, jen o chybějící nalezený zdroj."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "herold-lukas",
+  "name_key": "herold-lukas",
+  "cele_jmeno": "Bc. Lukáš Herold",
+  "rok_narozeni": 1970,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-5",
+      "list_cislo": 5,
+      "poradi": 1
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Lukáš Herold je starosta MČ Praha 5 za ODS. Po volbách 2022 skončila jeho strana (jako součást klubu Společně pro Prahu 5) v koalici s PRAHA 5 SOBĚ, STAN a TOP 09, ale post starosty tehdy obsadila Radka Šimková (PRAHA 5 SOBĚ). V dubnu 2025 Herold Šimkovou ve funkci starosty vystřídal. Podle aktuálního (říjen 2026) seznamu rady MČ na webu praha5.cz je ve vedení MČ dále i ANO 2011 (1. místostarosta Petr Lachnit a dva radní), zatímco PRAHA 5 SOBĚ již v radě není zastoupena – naznačuje to rozsáhlejší přeskupení koalice v jeho prospěch. Pro rok 2026 vede listinu ODS jako její lídr.",
+  "vzdelani": "Bc. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "starosta MČ Praha 5",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": "2025-04",
+      "funkce": "zastupitel MČ Praha 5 (klub Společně pro Prahu 5, ODS)",
+      "organizace": "MČ Praha 5",
+      "zdroj_url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/"
+    },
+    {
+      "od": "2025-04",
+      "do": null,
+      "funkce": "starosta MČ Praha 5",
+      "organizace": "MČ Praha 5",
+      "zdroj_url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Policejní vyšetřování IT zakázek MČ Praha 5 (vazba na kauzu Dozimetr)",
+      "typ": "verejna_zakazka",
+      "obdobi": "2023-2026 (vyšetřování probíhá)",
+      "popis": "Policie prověřuje IT zakázky MČ Praha 5, u kterých figuruje úředník spojovaný s celostátní kauzou Dozimetr. Herold je starostou od dubna 2025, tedy po části období, kdy zakázky vznikaly; jeho osobní odpovědnost či účast na věci nebyla v dostupných zdrojích zmíněna ani prokázána.",
+      "stav": "probiha",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Deník N: Policie prověřuje IT zakázky Prahy 5 spojené i s úředníkem z kauzy Dozimetr",
+          "url": "https://denikn.cz/2022768/policie-proveruje-it-zakazky-prahy-5-spojene-i-s-urednikem-z-kauzy-dozimetr/",
+          "datum": "2026-04-02"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Má výkonnou funkci (starosta) jen od dubna 2025, podrobný zdrojovaný seznam jeho osobních slibů a jejich plnění za tak krátké období nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "praha5.cz - Rada MČ Praha 5",
+      "url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 56 let v brífu k říjnu 2026 (1970), neověřeno.",
+    "Přesné důvody a okolnosti jeho nástupu do funkce starosty v dubnu 2025 (namísto Radky Šimkové) nebyly nezávisle médii dohledány.",
+    "Konkrétní výsledky a priority jeho působení coby starosty nebyly dohledány nad rámec obecného popisu koaličních kompetencí."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

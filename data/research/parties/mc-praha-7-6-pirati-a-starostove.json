@@ -1,0 +1,103 @@
+{
+  "slug": "mc-praha-7-6-pirati-a-starostove",
+  "assembly_id": "mc-praha-7",
+  "list_cislo": 6,
+  "nazev": "Piráti a Starostové",
+  "zkratka": "Piráti a STAN",
+  "typ": "koalice",
+  "slozeni": [
+    "Česká pirátská strana",
+    "STAN"
+  ],
+  "web": "https://pirstan-praha7.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Piráti a Starostové - Praha 7, program 2026",
+        "url": "https://pirstan-praha7.cz/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice Pirátů a STAN navazuje na samostatnou kandidátku Pirátů, kteří v roce 2022 získali 7,69 % a 2 mandáty. Program se soustředí na dostupné bydlení (model „30-30-30“ v nových Bubnech – dlouhodobé městské nájmy o 30 % pod tržní cenou, bez velkých nákupních center), adaptaci na klima (výsadba stromů, vertikální zahrady, vodní prvky, chladicí místa při vlnách veder, zadržování srážkové vody), bezbariérovost, reformu parkování, revizi funkčnosti cyklostezek a bezpečnostní opatření cílená místo plošného osazování zábran. Dále slibuje modernizaci výuky, lepší školní stravování, podporu duševního zdraví dětí, transparentní financování kultury, víc veřejného sezení a toalet, údržbu hřišť, rozšíření domácí péče pro seniory a víceúčelová sportoviště pro mezigenerační setkávání.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Model „30-30-30“ dostupného bydlení v Bubnech",
+        "popis": "Dlouhodobé městské nájemní bydlení nabízené za zhruba 30 % pod tržní nájem v nové čtvrti Bubny-Zátory, s odmítnutím velkých nákupních center v lokalitě.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Realizace závisí na vlastnictví a smluvních podmínkách pozemků v Bubnech-Zátorách, které jsou z větší části v rukou magistrátu a soukromých investorů, nikoliv jen MČ Praha 7."
+        },
+        "zdroj_url": "https://pirstan-praha7.cz/"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Adaptace na klima a zadržování srážkové vody",
+        "popis": "Výsadba stromů, vertikální zahrady, vodní prvky, chladicí místa při vlnách veder a zadržování srážkové vody při rekonstrukcích ulic.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o opatření v přímé kompetenci MČ při rekonstrukcích veřejného prostoru, bez potřeby souhlasu magistrátu."
+        },
+        "zdroj_url": "https://pirstan-praha7.cz/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Reforma parkování a revize cyklostezek",
+        "popis": "Parkovací reforma s mimozónovými parkovišti, revize funkčnosti cyklostezek a cílená – nikoliv plošná – bezpečnostní opatření (namísto masového osazování zábran).",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Parkovací politika v Praze je sdílená kompetence MČ a magistrátu (Zóny placeného stání), takže část záleží na dohodě s hl. m. Prahou."
+        },
+        "zdroj_url": "https://pirstan-praha7.cz/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2,
+    "oduvodneni": "Piráti jsou liberálně-progresivní strana (otevřenost, transparentnost, ekologická agenda), STAN komunálně-pragmatická středová; koaliční program pro Prahu 7 (dostupné bydlení, klimatická adaptace, participace) odpovídá progresivnímu profilu.",
+    "zdroje": [
+      {
+        "nazev": "pirstan-praha7.cz",
+        "url": "https://pirstan-praha7.cz/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub České pirátské strany (2 ze 29 mandátů) vůči většině PRAHA 7 SOBĚ; klub v zastupitelstvu v roce 2026 tvoří Ondřej Melena a Matěj Čunát.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako dvoučlenný opoziční klub bez účasti v radě MČ neměli Piráti v období 2022-2026 přímou výkonnou odpovědnost za vedení Prahy 7; podrobné srovnání s programem z roku 2022 nebylo dohledáno."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu = 2: program jmenuje konkrétní opatření (model 30-30-30, zadržování vody, revize cyklostezek), ale většina bodů není kvantifikovaná ani s uvedenými termíny mimo bytový slib. doveryhodnost_plneni je null – klub byl v opozici bez exekutivní odpovědnosti. transparentnost = 2 za zveřejněný program a dohledatelný web, bez dalších zjištěných položek (financování kampaně, transparentní účet).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "melena-ondrej"
+  ],
+  "mezery_v_datech": [
+    "Přesné rozpočtové krytí a termíny jednotlivých slibů v programu nebyly uvedeny.",
+    "Financování kampaně a transparentní účet listiny nebyly dohledány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

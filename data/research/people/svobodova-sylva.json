@@ -1,0 +1,29 @@
+{
+  "slug": "svobodova-sylva",
+  "name_key": "svobodova-sylva",
+  "cele_jmeno": "Bc. Sylva Svobodová",
+  "rok_narozeni": 1975,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 1, "poradi": 11}],
+  "role": "inkumbent",
+  "profil": "Sylva Svobodová je pedagožka a metodička vzdělávání, v současném volebním období zastupitelka MČ Praha 7 a předsedkyně výboru pro vzdělávání, sociální politiku a zdravotnictví. Pro rok 2026 kandiduje na 11. místě listiny PRAHA 7 SOBĚ.",
+  "vzdelani": "pedagogika, Bc. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "zastupitelka MČ Praha 7, předsedkyně výboru pro vzdělávání, sociální politiku a zdravotnictví, pedagožka",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitelka MČ Praha 7, předsedkyně výboru pro vzdělávání, sociální politiku a zdravotnictví", "organizace": "MČ Praha 7", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Poradní role předsedkyně výboru, podrobné hodnocení plnění slibů nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 51 let v brífu k říjnu 2026 (1975), neověřeno.",
+    "Konkrétní působení ve výboru nebylo dohledáno nad rámec brífu ČSÚ."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

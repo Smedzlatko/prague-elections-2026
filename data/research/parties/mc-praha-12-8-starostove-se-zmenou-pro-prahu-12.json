@@ -1,0 +1,46 @@
+{
+  "slug": "mc-praha-12-8-starostove-se-zmenou-pro-prahu-12",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 8,
+  "nazev": "Starostové se Změnou pro Prahu 12",
+  "zkratka": "STAN/ZPP12",
+  "typ": "koalice",
+  "slozeni": ["STAN", "KDU-ČSL", "ZPP 12"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program pro Prahu 12 na rok 2026 se nepodařilo dohledat. Listina navazuje na hnutí Změna pro Prahu 12 (3 mandáty v roce 2022, předseda prof. Michael Valášek) rozšířené o STAN a KDU-ČSL; na kandidátce je i poslanec PSP ČR Tom Philipp (KDU-ČSL).",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "STAN se profiluje středově s důrazem na komunální samosprávu, KDU-ČSL konzervativněji v hodnotových otázkách; bez dohledaného lokálního programu je přesnější zařazení obtížné.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Předchůdce listiny, hnutí Změna pro Prahu 12, bylo v letech 2022–2026 v opozici vůči koalici ODS, TOP 09 a ANO 2011, se 3 mandáty z voleb 2022.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční subjekt nemohl Změna pro Prahu 12 přímo prosazovat vlastní exekutivní agendu; konkrétní opoziční návrhy a jejich osud za období 2022–2026 nebyly v rámci této rešerše dohledány."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program pro rok 2026 nenalezen (konkrétnost 0). Transparentnost: dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["turkova-nikola"],
+  "mezery_v_datech": [
+    "Lokální program koalice pro Prahu 12 na rok 2026 nebyl dohledán.",
+    "Konkrétní opoziční agenda Změny pro Prahu 12 a její výsledky za období 2022–2026 nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

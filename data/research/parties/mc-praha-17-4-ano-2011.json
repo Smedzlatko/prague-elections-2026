@@ -1,0 +1,69 @@
+{
+  "slug": "mc-praha-17-4-ano-2011",
+  "assembly_id": "mc-praha-17",
+  "list_cislo": 4,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Listina ANO 2011 vedená dosavadním 1. místostarostou Martinem Benkovičem, obhajující 6 mandátů z voleb 2022. Samostatný lokální program pro Prahu 17 nebyl dohledán.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "ANO 2011 je koaličním partnerem ODS a ŘEPY SOBĚ; lídr Martin Benkovič zastával po celé období funkci 1. místostarosty MČ Praha 17 (a souběžně zastupitele hl. m. Prahy), Miroslav Šoukal (ANO) byl řadovým radním/zastupitelem.",
+    "splnene_sliby": [
+      {
+        "slib": "Dokončení Domu s pečovatelskou službou (DPS) v ulici K Šancím.",
+        "dukaz": "Předvolební Řepská sedmnáctka 10/2026 dokládá otevření DPS se 105 ubytovacími jednotkami (kapacita 125 osob), z toho přes 80 % nákladů (cca 360 mil. Kč z celkových cca 445 mil. Kč) pokryto dotacemi hl. m. Prahy, které vyjednal 1. místostarosta Benkovič.",
+        "zdroj_url": "https://www.repy.cz/system/files/files/%C5%98epsk%C3%A1%20sedmn%C3%A1ctka%2C%20%C5%99%C3%ADjen%202026.pdf"
+      },
+      {
+        "slib": "Získání účelových dotací hl. m. Prahy na školní a sportovní investice.",
+        "dukaz": "Řepská sedmnáctka 10/2026: ZMČ získalo z rozpočtu HMP téměř 13 mil. Kč na multifunkční hřiště u ZŠ gen. Peřiny, osvětlení fotbalového hřiště, oplocení ZŠ Jana Wericha a parkovací plochu – vyjednáno Benkovičem jako zastupitelem hl. m. Prahy.",
+        "zdroj_url": "https://www.repy.cz/system/files/files/%C5%98epsk%C3%A1%20sedmn%C3%A1ctka%2C%20%C5%99%C3%ADjen%202026.pdf"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Solární elektrárny na školách v ulicích Laudova a Socháňova",
+        "dukaz": "Řepská sedmnáctka 10/2026: k říjnu 2026 jde o připravovanou dohodu o spolupráci s Pražským centrem obnovitelné energie a technické posouzení, výstavba ještě nebyla schválena.",
+        "zdroj_url": "https://www.repy.cz/system/files/files/%C5%98epsk%C3%A1%20sedmn%C3%A1ctka%2C%20%C5%99%C3%ADjen%202026.pdf"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ANO 2011 jako koaliční partner s klíčovou exekutivní rolí (1. místostarosta pro investice/rozpočet, současně zastupitel hl. m. Prahy) se podílelo na dokončení velkých investic (DPS) a získávání dotací z magistrátu. Zdrojem je radniční zpravodaj (zdroj_strana) s citacemi přímo od Benkoviče, nezávislé médium bilanci nepotvrzuje. Vlastní volební program ANO pro Prahu 17 pro rok 2022 ani 2026 se nepodařilo dohledat, hodnocení proto vychází z doložených realizovaných projektů, ne z porovnání s původními sliby."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán. doveryhodnost_plneni 3: radniční zpravodaj dokládá konkrétní dokončené investice (DPS, školní dotace) spojené s místostarostou Benkovičem, ale bez vlastního volebního programu z roku 2022 nelze měřit poměr splněných/nesplněných slibů – skóre vychází z doložené funkčnosti exekutivní role, ne z naplnění konkrétních závazků, a zdroj je zdroj_strana (radniční zpravodaj), proto nejde výš. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "benkovic-martin"
+  ],
+  "mezery_v_datech": [
+    "Program listiny ANO pro Prahu 17 (2022 i 2026) nebyl dohledán v dostupných zdrojích. Zkoušeno: programydovoleb.cz (bez odkazu na vlastní web listiny), web MČ repy.cz (sekce /volby obsahuje jen úřední volební dokumenty, ne programy stran), radniční zpravodaj Řepská sedmnáctka (obsahuje bilanční, ne programové texty).",
+    "Bilance vychází výhradně z radničního zpravodaje (zdroj_strana), nebyla ověřena nezávislým zdrojem.",
+    "Program nedohledán i přes opakovaný WebSearch (ověřeno 2026-10-03): zkoušeno \"ANO 2011 Praha 17 Benkovič program 2026 volby Řepy\" – nalezeny jen informace o funkci Benkoviče (1. místostarosta) a obecné volební dokumenty MČ, žádný programový text listiny pro 2026.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „ANO Praha 17 program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-06"
+}

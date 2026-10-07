@@ -1,0 +1,133 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 9,
+  "nazev": "Společně pro Prahu 10 (Nejlepší město na světě – ODS a lokální osobnosti)",
+  "zkratka": "ODS",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "BEZPP"
+  ],
+  "web": "https://www.nejnasvete.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "nejnasvete.cz: Manifest pro Prahu 10",
+        "url": "https://www.nejnasvete.cz/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Listina navazuje na vítěznou koalici Společně pro Prahu 10 (ODS a TOP 09) z voleb 2022 (27,15 %, 14 mandátů); pro rok 2026 ODS a TOP 09 kandidují na dvou samostatných listinách, lídrem je starosta Martin Valovič (ODS). „Manifest pro Prahu 10“ má 7 bodů: vlastní úklidová „rychlá rota“ MČ, nové policejní stanice (Skalka, Zahradní Město) a víc strážníků v ulicích, zelená infrastruktura proti vedrům (vodní prvky, pítka, klimatizovaná radnice), obnova zanedbaného veřejného prostoru a antigraffiti program, transparentní online portál stavebních projektů s příspěvky investorů do rozpočtu, podpora kulturního a sportovního života a rezidentní parkování (včetně pilotního uzavření ulic u Edenu v době zápasů Slavie).",
+    "priority": [
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Nové policejní stanice a víc strážníků v ulicích",
+        "popis": "Zřízení nových policejních stanic (Skalka již v provozu, Zahradní Město se hledají prostory), podpora náboru strážníků a pravidelné hlídky na přechodech u škol.",
+        "citace": "Zřizujeme nové policejní stanice. Na Skalce už probíhá zprovoznění služebny, na Zahradním Městě intenzivně hledáme vhodné prostory... Dostaneme více městských strážníků do ulic.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "V přímé gesci MČ a městské policie, částečně již podle vlastního tvrzení rozjeto, ale bez čísel (kolik strážníků, termín dalších stanic)."
+        },
+        "zdroj_url": "https://www.nejnasvete.cz/"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Vlastní úklidová „rychlá rota“ a převod úklidu pod MČ",
+        "popis": "Vybudování kompletní flotily „rychlé roty“ pro okamžitý úklid ulic, chodníků a parků, řešení psích exkrementů speciální technikou a převzetí úklidu kolem kontejnerů, pokud ho nezvládají Pražské služby.",
+        "citace": "Nově vybudujeme kompletní flotilu „rychlé roty“ Prahy 10, která zajistí okamžitý úklid ulic, chodníků i parků... Nepořádek kolem kontejnerů skončí. Pokud ho pražské služby nezvládnou řešit dostatečně často, převezme jejich úklid Praha 10.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Organizační a technické opatření plně v gesci MČ, ale bez rozpočtu a harmonogramu."
+        },
+        "zdroj_url": "https://www.nejnasvete.cz/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Online portál stavebních projektů a povinný příspěvek investorů",
+        "popis": "Přehledný online portál připravovaných stavebních projektů s harmonogramy a dopady na okolí, jedno kontaktní místo pro komunikaci k velkým stavbám a pravidlo, že každá nová výstavba přinese peníze do rozpočtu MČ na veřejný prostor.",
+        "citace": "Zavedeme přehledný online portál připravovaných stavebních projektů v Praze 10... Každá nová výstavba přinese do rozpočtu Prahy 10 tolik peněz, abychom z nich mohli financovat kvalitní veřejný prostor.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Portál je v gesci MČ, ale výše příspěvků developerů závisí na vyjednávací pozici MČ a není číselně stanovena."
+        },
+        "zdroj_url": "https://www.nejnasvete.cz/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Rezidentní parkování a pilotní uzavření ulic u Edenu",
+        "popis": "Prosazování flexibilních tarifů parkovacích zón na magistrátu ve prospěch místních, pilotní projekt uzavření ulic u stadionu Eden pro rezidenty v době zápasů Slavie a rozvoj P+R parkovišť u nádraží.",
+        "citace": "Ve spolupráci s městskou policií a SK Slavia Praha odstartujeme pilotní projekt uzavření ulic přilehlých k Edenu ve dny zápasů a akcí – vyhrazených pouze pro rezidenty.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní a lokálně ověřitelné opatření, ale tarify parkovacích zón jsou v gesci hl. m. Prahy, ne jen MČ."
+        },
+        "zdroj_url": "https://www.nejnasvete.cz/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2.0,
+    "hodnotova_osa": 1.0,
+    "oduvodneni": "ODS je celostátně pravicová strana s důrazem na podnikání a nižší daně. Odhad bez lokální programové citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Vedla koalici MČ Praha 10 celé období, starosta Martin Valovič (ODS), místostarostové Pavel Šutka (kultura, sport) a Martin Čásenský (finance, investice do škol), radní Mikuláš Pobuda (doprava, IT).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Nová policejní stanice na Skalce a prevence kriminality v terénu.",
+        "dukaz": "Vlastní kampaňová stránka koalice tvrdí, že zprovoznění policejní služebny na Skalce již probíhá a že MČ zřídila terénní týmy prevence kriminality. Jde o tvrzení strany o sobě bez nezávislého zdroje (např. zprávy MČ nebo Policie ČR).",
+        "zdroj_url": "https://www.nejnasvete.cz/"
+      },
+      {
+        "slib": "Dvě úklidové čety a podpora kultury/sportu",
+        "dukaz": "Podle vlastní kampaňové stránky již MČ provozuje dvě úklidové čety a „výrazně finančně podporuje“ kulturní a sportovní instituce a spolky – jde o tvrzení strany o vlastní práci, bez nezávislého potvrzení rozsahu.",
+        "zdroj_url": "https://www.nejnasvete.cz/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ODS vedla radnici s rozsáhlým obsazením resortů (finance, doprava, kultura). Starosta Valovič má na starosti i rozvojový projekt Nový Eden. Vlastní kampaňová stránka pro rok 2026 prezentuje jako již rozjeté kroky novou policejní služebnu na Skalce, dvě úklidové čety a podporu kultury a sportu – jde o tvrzení strany o sobě, ne o nezávisle doložené výsledky. Zdrojovaný přehled konkrétních volebních slibů z roku 2022 a jejich úplného plnění, zejména investic do škol, se nepodařilo dohledat.",
+    "zdroje": [
+      {
+        "nazev": "cs.wikipedia.org: Martin Valovič",
+        "url": "https://cs.wikipedia.org/wiki/Martin_Valovi%C4%8D",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "nejnasvete.cz: Manifest pro Prahu 10",
+        "url": "https://www.nejnasvete.cz/",
+        "datum": "2026-10-03"
+      }
+    ]
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "Manifest pojmenovává konkrétní opatření (rychlá rota, nové stanice policie, online portál staveb, pilotní parkování u Edenu), ale většinou bez čísel a termínů a bez rozpočtu (2). Doveryhodnost plnění: koalice vedla radnici celé období, ale jediné konkrétní tvrzené výsledky (policejní stanice na Skalce, dvě úklidové čety) jsou jen tvrzení strany na vlastní kampaňové stránce bez nezávislého zdroje, což samo o sobě neopravňuje vyšší skóre; nezávisle doložený přehled plnění volebních slibů z roku 2022 chybí.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "valovic-martin"
+  ],
+  "mezery_v_datech": [
+    "Chybí zdrojovaný přehled konkrétních investic do škol a stavu projektu Nový Eden.",
+    "Tvrzení o nové policejní stanici na Skalce a dvou úklidových četách nebylo nezávisle (mimo vlastní kampaňovou stránku) potvrzeno."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03",
+  "slug": "mc-praha-10-9-spolecne-pro-prahu-10-nejlepsi-mesto-na"
+}

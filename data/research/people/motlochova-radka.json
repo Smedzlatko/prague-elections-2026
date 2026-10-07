@@ -1,0 +1,52 @@
+{
+  "slug": "motlochova-radka",
+  "name_key": "motlochova-radka",
+  "cele_jmeno": "Ing. Radka Motlochová",
+  "rok_narozeni": 1978,
+  "strana": "Bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 7,
+      "poradi": 4
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Ing. Radka Motlochová je zastupitel/ka MČ Praha 22, v roce 2022 zvolen/a na listině „Nezávislý kandidát“ (2. místo, 426 preferenčních hlasů). Pro volby 2026 kandiduje na listině „OK22 s podporou PRAHA SOBĚ“ (4. místo). Profesně: zastupitelka Prahy 22 a ekonom.",
+  "vzdelani": null,
+  "profese": "zastupitelka Prahy 22 a ekonom",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 22 (zvolen/a za Nezávislý kandidát)",
+      "organizace": "MČ Praha 22",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 22 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

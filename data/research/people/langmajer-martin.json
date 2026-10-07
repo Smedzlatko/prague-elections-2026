@@ -1,0 +1,53 @@
+{
+  "slug": "langmajer-martin",
+  "name_key": "langmajer-martin",
+  "cele_jmeno": "Ing. Martin Langmajer, MBA",
+  "rok_narozeni": 1965,
+  "strana": "Občanská demokratická strana",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 5,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Martin Langmajer zastával v letech 2022-2026 funkci 1. místostarosty MČ Praha 22, zvolen byl na listině Společně pro Prahu 22 (5 mandátů z 25 v roce 2022). Pro volby 2026 vede samostatnou listinu ODS.",
+  "vzdelani": null,
+  "profese": "1. místostarosta MČ Praha 22 (2022-2026).",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": "2026-10",
+      "funkce": "1. místostarosta MČ Praha 22",
+      "organizace": "MČ Praha 22",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako 1. místostarosta nesl spoluodpovědnost za chod radnice, podrobný audit konkrétních kroků se však nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 538931",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní resort a výsledky jeho práce jako 1. místostarosty nebyly dohledány.",
+    "Program listiny ODS pro volby 2026 nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "mc-praha-5-8-ceska-piratska-strana",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 8,
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "typ": "strana",
+  "slozeni": [
+    "Piráti"
+  ],
+  "web": "https://praha5.pirati.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Piráti Praha 5 - volební program 2026",
+        "url": "https://www.pirati-praha5.cz/program",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Piráti získali v roce 2022 11,74 % a 6 mandátů a jsou opoziční stranou. Program slibuje opravu všech 762 obecních bytů (z nichž je dle Pirátů 15 % neobydlených a nerekonstruovaných), zřízení samostatné radní funkce pro Barrandov (přes 17 000 obyvatel), dokončení dvacet let plánované transformace Anděla/Smíchova na pěší zónu s parky a přístupem k řece, moderní a spravedlivé školství, bezpečnou cyklodopravu a pěší trasy, adaptaci na klima a transparentní rozpočtové hospodaření.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Oprava všech obecních bytů",
+        "popis": "Piráti slibují zrekonstruovat a znovu obsadit všech 762 obecních bytů, z nichž je dle jejich údajů 15 % dlouhodobě neobydlených a nerekonstruovaných.",
+        "citace": "Vrátíme je lidem, kteří tu chtějí žít a pracovat.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Rekonstrukce stovek bytů je finančně i časově náročná a závisí na rozpočtu MČ a kapacitě stavebních firem."
+        },
+        "zdroj_url": "https://www.pirati-praha5.cz/program"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Samostatný radní pro Barrandov",
+        "popis": "Zřízení dedikované radní funkce pro rychle rostoucí sídliště Barrandov (přes 17 000 obyvatel) s důrazem na chybějící školy a veřejná prostranství.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Rozdělení kompetencí v radě je plně v rukou MČ."
+        },
+        "zdroj_url": "https://www.pirati-praha5.cz/program"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Dokončení transformace Anděla/Smíchova",
+        "popis": "Ukončení více než 20 let trvajícího plánování a přetvoření automobily ovládané oblasti Anděl/Smíchov na pěší centrum s propojenými parky a přístupem k řece.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o dlouhotrvající, komplexní územní transformaci závislou na vlastnících pozemků, developerech a magistrátu, nikoliv jen na MČ."
+        },
+        "zdroj_url": "https://www.pirati-praha5.cz/program"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1,
+    "hodnotova_osa": -2.5,
+    "oduvodneni": "Piráti jsou liberálně-progresivní strana s důrazem na transparentnost, bydlení jako veřejnou službu a klimatickou agendu.",
+    "zdroje": [
+      {
+        "nazev": "Piráti Praha 5 - volební program 2026",
+        "url": "https://www.pirati-praha5.cz/program",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (6 ze 41 mandátů) vůči koalici ODS/TOP09/STAN/PRAHA 5 SOBĚ. Lídr Filip Karel je inkumbentem z roku 2022, dalšími inkumbenty jsou Milan Kryl, Karel Bauer a Linda Neubergová.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční strana bez účasti v radě MČ neměli Piráti přímou výkonnou odpovědnost za vedení Prahy 5 v období 2022-2026; podrobné srovnání s programem z roku 2022 nebylo dohledáno."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 3: program obsahuje konkrétní čísla (762 bytů, 15 % neobydlených, přes 17 000 obyvatel Barrandova) u části priorit, ale bez jasných termínů realizace. doveryhodnost_plneni je null – opoziční klub bez exekutivní odpovědnosti. transparentnost = 3 za zveřejněný program s konkrétními daty a jmenovanými kandidáty na jednotlivé agendy.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "karel-filip"
+  ],
+  "mezery_v_datech": [
+    "Přesné rozpočtové krytí slibu opravy 762 bytů nebylo v programu uvedeno.",
+    "Financování kampaně a transparentní účet nebyly dohledány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

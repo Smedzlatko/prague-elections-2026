@@ -1,0 +1,126 @@
+{
+  "slug": "mc-praha-11-4-praha-11-sobe",
+  "assembly_id": "mc-praha-11",
+  "list_cislo": 4,
+  "nazev": "PRAHA 11 SOBĚ",
+  "zkratka": "PRAHA 11 SOBĚ",
+  "typ": "koalice",
+  "slozeni": [
+    "PRAHA SOBĚ",
+    "Zelení",
+    "KDU-ČSL",
+    "nezávislí"
+  ],
+  "web": "https://prahasobe.cz/praha11/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "PRAHA 11 SOBĚ – volební program 2026",
+        "url": "https://prahasobe.cz/praha11/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "PRAHA 11 SOBĚ slibuje transparentní hospodaření radnice a efektivní správu majetku MČ, zklidňování dopravy a systémové řešení parkování (včetně nových parkovacích kapacit v lokalitách, kde to schválí obyvatelé), rozšíření zdravotních a sociálních služeb (vč. kapacity pobytových zařízení), péči o zeleň a jen takovou novou výstavbu, která je ohleduplná k okolním domům, veřejnému prostoru, zeleni a kapacitě škol.",
+    "priority": [
+      {
+        "oblast": "transparentnost",
+        "nazev": "Transparentní hospodaření radnice",
+        "popis": "Odpovědné nakládání s rozpočtem a efektivní správa městského majetku.",
+        "citace": "Transparentní hospodaření radnice a efektivní správa městského majetku.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Obecný slib bez konkrétních kroků nebo ukazatelů."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha11/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Zklidňování dopravy a řešení parkování",
+        "popis": "Systémové řešení parkování včetně výstavby parkovacích kapacit v lokalitách, kde to podpoří obyvatelé.",
+        "citace": "Zklidňování dopravy a systémové řešení parkování.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Výstavba parkovacích míst je v kompetenci MČ, ale závisí na dostupných pozemcích a souhlasu obyvatel."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha11/"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Dostupnější zdravotní a sociální služby",
+        "popis": "Rozšíření dostupnosti lékařské péče a sociálních služeb, vyšší kapacita pobytových zařízení.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Závisí na spolupráci s krajem/magistrátem a na dostupnosti zdravotnického personálu, který MČ sama nekontroluje."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha11/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Jen ohleduplná výstavba",
+        "popis": "Podpora pouze těch developerských projektů, které jsou ohleduplné k okolním domům a veřejnému prostoru a nezatíží kapacitu škol a zeleně.",
+        "citace": "Budou ohleduplné k jejich domovům a veřejnému prostoru.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "MČ je účastníkem stavebního řízení, ale konečné rozhodnutí má často stavební úřad/magistrát."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha11/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -1,
+    "oduvodneni": "Koalice PRAHA SOBĚ, Zelených, KDU-ČSL a nezávislých – lokálně profilovaná jako liberálně-komunitní (participace, sociální služby, zeleň), bez vyhraněné ekonomické pozice; mírně progresivní hodnotový rámec díky zastoupení Zelených a PRAHA SOBĚ.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Byla členem vládní koalice po celé volební období 2022–2026 (i po odvolání starostky Zdeňkové v 12/2023). Lídr Jan Jaroš zastával funkci místostarosty pro sociální věci a zdravotnictví, Michal Veselský byl radním pro školství a životní prostředí.",
+    "splnene_sliby": [
+      {
+        "slib": "Rozšíření dostupnosti zázemí pro seniory a rodiny s dětmi – rekonstrukce prostoru Mezi Domy (kavárna, dětské hřiště, prostor pro seniorské sportovní akce, 6 dobíjecích stanic pro elektromobily pečovatelské služby).",
+        "zdroj_strana": false,
+        "zdroje": [
+          {
+            "nazev": "Zpravodaj MČ Praha 11 Klíč č. 9/2026, str. 5",
+            "url": "https://www.praha11.cz/filemanager/files/68737280.pdf",
+            "datum": "2026-09-01"
+          }
+        ],
+        "zdroj_url": "https://www.praha11.cz/filemanager/files/68737280.pdf",
+        "dukaz": "Dokončeno, prostor byl otevřen v červenci 2026, cena rekonstrukce necelé 3 miliony Kč."
+      }
+    ],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako koaliční partner po celé období si udržela exekutivní pozice (místostarosta Jaroš pro sociální věci a zdravotnictví, radní Veselský pro školství a životní prostředí). Zpravodaj MČ (Klíč 9/2026) dokládá jeden konkrétní dokončený projekt v gesci Jaroše (revitalizace prostoru Mezi Domy), širší zdrojovaný přehled plnění programových slibů z roku 2022 se však nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "Program obsahuje jmenovaná opatření (parkovací kapacity, rozšíření sociálních služeb), ale bez čísel a termínů (konkrétnost 2). Důvěryhodnost plnění: PRAHA 11 SOBĚ zůstala v koalici po celé období včetně půlroční krize vedení MČ po odvolání starostky Zdeňkové (12/2023-6/2024). Nezávisle (zpravodaj MČ) je doložen jeden konkrétní dokončený projekt v gesci místostarosty Jaroše (revitalizace prostoru Mezi Domy pro seniory a rodiny, cca 3 mil. Kč), širší zdrojovaný přehled konkrétních splněných slibů z jejích resortů (sociální věci, školství, životní prostředí) se však nepodařilo dohledat; samotná délka a nestabilita krize vedení (odvolání starostky, rozpad s Piráty) svědčí o problematickém řízení MČ, i když šlo o spor uvnitř koalice, ne primárně o tuto stranu. Transparentnost: zveřejněný program (+1), dohledatelná kandidátka (+1), jmenovité exekutivní funkce členů (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "jaros-jan"
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán kompletní text programu nad rámec pěti shrnutých priorit publikovaných na webu PRAHA SOBĚ.",
+    "Konkrétní bilance plnění slibů za období 2022–2026 nebyla dohledána."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

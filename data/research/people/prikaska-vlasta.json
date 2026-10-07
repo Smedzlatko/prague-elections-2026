@@ -1,0 +1,27 @@
+{
+  "slug": "prikaska-vlasta",
+  "name_key": "prikaska-vlasta",
+  "cele_jmeno": "MUDr. Vlasta Příkaská",
+  "rok_narozeni": 1977,
+  "strana": "SPD",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 5, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Vlasta Příkaská je lékařka, pro rok 2026 vede jako lídryně listinu SPD pro Prahu 7 s podporou PRO a nezávislých kandidátů. Listina v tomto složení v komunálních volbách 2022 na Praze 7 nekandidovala. Žádný další veřejný politický záznam o ní nebyl dohledán.",
+  "vzdelani": "medicína, MUDr. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "lékařka",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez historického záznamu z výkonné funkce.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 49 let v brífu k říjnu 2026 (1977), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o novou kandidátku."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

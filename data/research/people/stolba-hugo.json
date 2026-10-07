@@ -1,0 +1,46 @@
+{
+  "slug": "stolba-hugo",
+  "name_key": "stolba-hugo",
+  "cele_jmeno": "Hugo Štolba",
+  "rok_narozeni": 2006,
+  "strana": "VELKÝ KŘÍŽEK PRO LÍTAČKU ZA KAČKU - SOUSEDÉ PRO PRAHU",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 6, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Hugo Štolba (20 let, bydliště Praha 8) je student Fakulty elektrotechnické ČVUT a mechatronik. Vede čtyřčlennou magistrátní listinu „VELKÝ KŘÍŽEK PRO LÍTAČKU ZA KAČKU – SOUSEDÉ PRO PRAHU“, jejíž název odkazuje na požadavek levnějšího jízdního dokladu Lítačka. Je nejmladším lídrem magistrátní kandidátky mezi listinami zařazenými do této rešerše a politickým nováčkem bez dříve veřejně dohledané politické historie.",
+  "vzdelani": "student Fakulty elektrotechnické ČVUT (probíhající)",
+  "profese": "student, mechatronik",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Politický nováček bez výkonné funkce, bez historického záznamu.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 (data/core/candidates_2026.json)",
+      "url": "https://volby.cz",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Volím Prahu – profil listiny VELKÝ KŘÍŽEK PRO LÍTAČKU ZA KAČKU - SOUSEDÉ PRO PRAHU",
+      "url": "https://www.volimprahu.cz/praha/strana/velky-krizek-sousede-pro-prahu",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození je dopočten z udaného věku 20 let v brífu k říjnu 2026 (přesné datum narození nedohledáno).",
+    "Žádný nezávislý medailonek, rozhovor ani program listiny nad rámec jejího názvu se nepodařilo dohledat i přes WebSearch (ověřeno 2026-10-03) – jde o politického nováčka a mikro-listinu."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "pavel-vitezslav",
+  "name_key": "pavel-vitezslav",
+  "cele_jmeno": "Vítězslav Pavel",
+  "rok_narozeni": null,
+  "strana": "OK-19",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-19",
+      "list_cislo": 3,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Vrcholový manažer, zastupitel MČ Praha 19 od voleb 2022 (zvolen jako nezávislý kandidát na listině OK-19, 609 preferenčních hlasů, 7,02 %). Vede listinu OK-19 (koalice KDU-ČSL a nezávislých) i pro volby 2026. OK-19 je s 3 mandáty z 19 (22,76 % hlasů 2022) druhou nejsilnější listinou v Praze 19, ale zůstala v opozici vůči samostatně vládnoucímu hnutí Kbely náš domov (10 mandátů).",
+  "vzdelani": null,
+  "profese": "vrcholový manažer",
+  "politicka_historie": [
+    {
+      "od": "2022-11",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 19 (opozice)",
+      "organizace": "Zastupitelstvo MČ Praha 19",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547344"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitel bez výkonné funkce nelze osobní plnění slibů hodnotit podle metodiky.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547344",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození a vzdělání nebyly dohledány.",
+    "Konkrétní činnost a vystoupení v zastupitelstvu v letech 2022-2026 se nepodařilo dohledat.",
+    "Vlastní program listiny OK-19 pro volby 2026 nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

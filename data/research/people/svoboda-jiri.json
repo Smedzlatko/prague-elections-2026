@@ -1,0 +1,45 @@
+{
+  "slug": "svoboda-jiri",
+  "name_key": "svoboda-jiri",
+  "cele_jmeno": "Jiří Svoboda, DiS.",
+  "rok_narozeni": 1993,
+  "strana": "KSČ",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 20,
+      "poradi": 3
+    }
+  ],
+  "role": "jiny",
+  "profil": "Jiří Svoboda je podle vlastního životopisu pedagogický pracovník a kandiduje za Komunistickou stranu Československa (KSČ) na třetím místě koaliční listiny Spojená levice pro Prahu. Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný veřejně dostupný záznam o jeho politické činnosti.",
+  "vzdelani": "DiS. (vyšší odborné vzdělání), obor neupřesněn v dostupných zdrojích",
+  "profese": "pedagogický pracovník",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164340",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku 33 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

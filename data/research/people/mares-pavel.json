@@ -1,0 +1,36 @@
+{
+  "slug": "mares-pavel",
+  "name_key": "mares-pavel",
+  "cele_jmeno": "Mgr. Pavel Mareš",
+  "rok_narozeni": 1976,
+  "strana": "KDU-ČSL",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 5, "poradi": 11},
+    {"assembly_id": "mc-praha-10", "list_cislo": 8, "poradi": 10},
+    {"assembly_id": "mc-praha-14", "list_cislo": 4, "poradi": 14}
+  ],
+  "role": "inkumbent",
+  "profil": "Pavel Mareš je šéfredaktor nakladatelství a zastupitel hl. m. Prahy za KDU-ČSL, zvolený v roce 2022 na kandidátce PRAHA SOBĚ (koalice s KDU-ČSL) s vysokým počtem preferenčních hlasů (91 118, nejvíc ze všech kandidátů na listině). Pro rok 2026 znovu kandiduje na magistrátní listině PRAHA SOBĚ/KDU-ČSL/Zelení i na dvou dalších kandidátkách v městských částech (Praha 10, Praha 14). Hlubší veřejně dohledaný politický životopis mimo údaje z brífu ČSÚ se nepodařilo najít.",
+  "vzdelani": null,
+  "profese": "šéfredaktor nakladatelství",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel hl. m. Prahy (KDU-ČSL, zvolen na listině PRAHA SOBĚ)", "organizace": "Hlavní město Praha", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel (bez radní/náměstkovské funkce) nemá výkonnou funkci, u které by šlo plnění slibů hodnotit podle metodiky.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Veřejně dohledaný politický životopis (Wikipedie ani jiný zdroj nebyl k dispozici) - profil vychází pouze z údajů v brífu ČSÚ (povolání, členství, výsledek 2022).",
+    "Přesný rok narození je odhad z udaného věku 50 let v brífu k říjnu 2026 (1976), neověřeno.",
+    "Nebylo možné zjistit, proč kandiduje současně na tři různé listiny (magistrát, Praha 10, Praha 14) a jaký je vztah mezi nimi."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

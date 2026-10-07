@@ -1,0 +1,108 @@
+{
+  "assembly_id": "mc-praha-18",
+  "nazev": "Praha 18",
+  "charakteristika": "Letňany – rychle rostoucí městská část na severovýchodě Prahy, cca 23 700 obyvatel, 23 mandátů, 11 listin v roce 2026 (nejvíc ze sedmi menších MČ v tomto zadání). Sídliště doplněné novou výstavbou v okolí výstaviště PVA EXPO. Volby 2022 vyhrálo místní sdružení Zdravé Letňany (7 mandátů), následované ANO (6) a ODS (4); starostou byl zvolen Zdeněk Kučera (ANO), který je zároveň č. 3 celopražské listiny ANO 2011 pro volby 2026.",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ANO 2011",
+      "ODS",
+      "TOP 09"
+    ],
+    "starosta": {
+      "jmeno": "Mgr. Zdeněk Kučera, MBA",
+      "strana": "ANO 2011",
+      "slug": "kucera-zdenek"
+    },
+    "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547417"
+  },
+  "zmeny_v_obdobi": [
+    "Opoziční koalice Zdravé Letňany pro volby 2026 (s podporou Prahy sobě, Pirátů, Lidovců a Zelených) ve své kampani kritizuje vedení MČ za 'kauzu psího parku' a 'prošlé ryby ve školní jídelně' jako příklady údajné neefektivity současného vedení - jde o tvrzení z volební kampaně opozice, nebylo ověřeno nezávislým zdrojem.",
+    "Předvolební zpravodaj Letňanské listy 10/2026 potvrzuje, že radu MČ tvořili starosta Zdeněk Kučera (ANO 2011), místostarostka Iveta Lojková (TOP 09) a místostarosta Stanislav Nekolný, MBA (ANO 2011) – koalice byla tvořena ANO 2011, ODS a TOP 09 (dohromady 12 z 23 mandátů z voleb 2022)."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Kapacita škol a infrastruktury",
+      "popis": "Letňany jsou jednou z nejrychleji rostoucích částí Prahy, programy (Zdravé Letňany) upozorňují na nedostatečnou infrastrukturu vzhledem k tempu výstavby a požadují zajištění nové střední školy a tramvajové linky.",
+      "proc_zalezi": "Rychlý růst počtu obyvatel bez odpovídajícího rozšíření škol a dopravy vede k přetížení kapacit.",
+      "zdroje": [
+        {
+          "nazev": "zdraveletnany.cz",
+          "url": "https://www.zdraveletnany.cz/",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Hustota nové výstavby",
+      "popis": "Opoziční program požaduje, aby minimálně polovina plochy nových rozvojových území byla zeleň, a odmítá nadměrné zahušťování centra Letňan.",
+      "proc_zalezi": "Tlak developerů na další výstavbu v okolí výstaviště PVA EXPO je dlouhodobým lokálním tématem.",
+      "zdroje": [
+        {
+          "nazev": "zdraveletnany.cz",
+          "url": "https://www.zdraveletnany.cz/",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Doprava do centra Prahy",
+      "popis": "Programy zmiňují potřebu lepšího napojení Letňan na síť MHD (tramvaj) vzhledem k rostoucímu počtu obyvatel.",
+      "proc_zalezi": "Okrajová MČ bez kapacitní kolejové dopravy je závislá na autobusech a metru C přes přestupní uzly.",
+      "zdroje": [
+        {
+          "nazev": "zdraveletnany.cz",
+          "url": "https://www.zdraveletnany.cz/",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [],
+  "kontroverze_mc": [
+    {
+      "nazev": "Odvolání místostarosty Pavla Sehnala starostou Kučerou (2020)",
+      "typ": "stranicky",
+      "obdobi": "2020",
+      "popis": "Starosta Zdeněk Kučera (ANO) nechal v nepřítomnosti (v době dovolené) odvolat 1. místostarostu Pavla Sehnala (ODA) s odůvodněním, že Sehnal coby majitel firem v Letňanech prosazoval na magistrátních komisích územního rozvoje změny územního plánu ve vlastním podnikatelském zájmu. Sehnal předtím Kučerovi zaslal vytýkací dopis kritizující vedení jednání rady (nedostatečné podklady, pozdní svolávání). Podrobnosti viz people/kucera-zdenek.json.",
+      "stav": "urovnano",
+      "zavaznost": "nizka",
+      "zdroje": [
+        {
+          "nazev": "Novinky.cz: Miliardář Sehnal skončil jako místostarosta Letňan. Šel proti nám, zdůvodnili zastupitelé",
+          "url": "https://www.novinky.cz/domaci/clanek/miliardar-sehnal-skoncil-jako-mistostarosta-letnan-sel-proti-nam-zduvodnili-zastupitele-40334565",
+          "datum": "2020"
+        },
+        {
+          "nazev": "ODA: Vytýkací dopis Krásné Letňany vs. Kučera Zdeněk",
+          "url": "https://www.oda.cz/wp-content/uploads/2020/08/2020-04-14-Krasne-Letnany-x-Kucera-Zdenek-Vytykaci-dopis-podepsany.pdf",
+          "datum": "2020-04-14"
+        }
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: Praha 18 (Letňany)",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547417",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "zdraveletnany.cz",
+      "url": "https://www.zdraveletnany.cz/",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Letňanské listy 10/2026 (zpravodaj MČ Praha 18)",
+      "url": "http://letnany.cz/letnanske-listy-2026-10",
+      "datum": "2026-10-01"
+    }
+  ],
+  "mezery_v_datech": [
+    "Oficiální web letnany.cz byl při WebFetch dostupný jen jako výchozí WordPress instalace bez obsahu - informace o radě a konkrétních projektech se nepodařilo z něj ověřit.",
+    "Tvrzení opozice o 'kauze psího parku' a kvalitě stravy ve školní jídelně nejsou nezávisle ověřena - uvedeno jen jako kampaňové tvrzení, ne doložená kauza.",
+    "6. 10. 2026: odstraněno kampaňové obvinění opoziční koalice Zdravé Letňany („kauza psího parku“, „prošlé ryby“) – jde o tvrzení politického konkurenta bez nezávislého potvrzení, výsledku či vyjádření vedení MČ, takže nesplňuje pravidlo „žádné obvinění bez výsledku“. Ověřující WebSearch na kauzy Zdeňka Kučery nic nového nenašel."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

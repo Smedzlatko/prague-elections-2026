@@ -1,0 +1,54 @@
+{
+  "slug": "arnotova-katerina",
+  "name_key": "arnotova-katerina",
+  "cele_jmeno": "Mgr. Kateřina Arnotová",
+  "rok_narozeni": 1974,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 9,
+      "poradi": 18
+    },
+    {
+      "assembly_id": "mc-praha-cakovice",
+      "list_cislo": 1,
+      "poradi": 9
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Právnička, zakladatelka Cirkusu – centra pro rodinu, zastupitelka hl. m. Prahy za STAN od voleb 2022 (zvolena z 2. místa pražské kandidátky s 32 766 preferenčními hlasy). Pro volby 2026 kandiduje na 18. místě pražské kandidátky STAN a na 9. místě kandidátky STAN v MČ Praha-Čakovice, kde žije.",
+  "vzdelani": "Právo (Mgr.).",
+  "profese": "Právnička, zastupitelka hl. m. Prahy, zakladatelka Cirkusu - centra pro rodinu.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitelka hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastává mandát zastupitelky bez výkonné (radní) funkce, podle metodiky se plnění slibů u takové role nehodnotí.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [
+      "Cirkus - centrum pro rodinu (zakladatelka)"
+    ],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Konkrétní činnost a hlasování Kateřiny Arnotové jako zastupitelky za volební období 2022-2026 nebyly v dostupných zdrojích dohledány nad rámec dat ČSÚ.",
+    "Žádné doložené kauzy ani kontroverze nebyly nalezeny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

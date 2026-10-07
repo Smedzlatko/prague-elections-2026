@@ -1,0 +1,29 @@
+{
+  "slug": "wolf-jakub",
+  "name_key": "wolf-jakub",
+  "cele_jmeno": "Mgr. Jakub Wolf",
+  "rok_narozeni": 1979,
+  "strana": "Piráti",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 6, "poradi": 3}],
+  "role": "top5",
+  "profil": "Jakub Wolf je manažer ve výzkumu, podle vlastního popisu za minulé vlády poradce ministra zahraničí, člen Pirátů. Kandiduje na 3. místě koaliční listiny Piráti a Starostové v Praze 7. Žádný další veřejný politický záznam na úrovni Prahy 7 nebyl dohledán.",
+  "vzdelani": "Mgr. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "manažer ve výzkumu, dříve poradce ministra zahraničních věcí",
+  "politicka_historie": [
+    {"od": null, "do": null, "funkce": "poradce ministra zahraničních věcí (dle vlastního údaje, nebyl ověřen samostatným zdrojem)", "organizace": "Ministerstvo zahraničních věcí ČR", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez historického záznamu z výkonné funkce na úrovni MČ Praha 7.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 47 let v brífu k říjnu 2026 (1979), neověřeno.",
+    "Údaj o poradenské funkci na ministerstvu zahraničí nebyl nezávisle ověřen - vyhledávací nástroje byly při rešerši nedostupné."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

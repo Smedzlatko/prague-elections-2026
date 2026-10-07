@@ -1,0 +1,53 @@
+{
+  "slug": "zientek-miloslav",
+  "name_key": "zientek-miloslav",
+  "cele_jmeno": "Miloslav Zientek",
+  "rok_narozeni": 1976,
+  "strana": "Rebelové",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 19,
+      "poradi": 2
+    }
+  ],
+  "role": "jiny",
+  "profil": "Miloslav Zientek je zakladatelem strany Rebelové a podle vlastního životopisu garantem dopravní části programu „VIZE 26 pro Prahu“, který zahrnuje bezplatnou MHD pro Pražany. Kandiduje na druhém místě celopražské koaliční listiny REZIDENTI – REBELOVÉ pro změnu Prahy. Mimo kandidátní listinu ČSÚ a web hnutí se nepodařilo dohledat další veřejně dostupný biografický záznam o jeho osobě.",
+  "vzdelani": null,
+  "profese": "zakladatel strany Rebelové, garant dopravní části programu VIZE 26",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": null,
+      "funkce": "zakladatel strany Rebelové",
+      "organizace": "Rebelové",
+      "zdroj_url": "https://rezidenti.cz/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné veřejné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – REZIDENTI – REBELOVÉ pro změnu Prahy",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164922",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán žádný nezávislý (mediální) zdroj o jeho osobě; strana Rebelové samotná nemá dohledatelnou samostatnou historii mimo odkazy na koaliční web.",
+    "Rok narození je odhad z uvedeného věku 50 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

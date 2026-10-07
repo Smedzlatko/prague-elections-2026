@@ -1,0 +1,53 @@
+{
+  "slug": "bodenlos-jiri",
+  "name_key": "bodenlos-jiri",
+  "cele_jmeno": "Ing. Jiří Bodenlos",
+  "rok_narozeni": 1962,
+  "strana": "ČSSD",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 20,
+      "poradi": 2
+    }
+  ],
+  "role": "jiny",
+  "profil": "Jiří Bodenlos je podle vlastního životopisu dřevař a bývalý místostarosta MČ Praha 4, kandiduje za ČSSD na druhém místě koaliční listiny Spojená levice pro Prahu. Přesné období a resort jeho působení jako místostarosty Prahy 4 se v dostupných zdrojích (celostátní média, Wikipedie) nepodařilo dohledat – nebyl nalezen žádný samostatný veřejný záznam mimo kandidátní listinu ČSÚ.",
+  "vzdelani": "vysokoškolské technické (titul Ing.), obor neupřesněn v dostupných zdrojích",
+  "profese": "dřevař, bývalý místostarosta MČ Praha 4",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": null,
+      "funkce": "místostarosta MČ Praha 4 (přesné období nedohledáno)",
+      "organizace": "MČ Praha 4",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164340"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastával v minulosti výkonnou funkci místostarosty MČ Praha 4, ale zdrojovaný přehled jeho konkrétního resortu a toho, co v něm prosadil či nedotáhl, se nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164340",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán žádný biografický zdroj mimo kandidátní listinu ČSÚ ani přesné datum a resort jeho působení jako místostarosty Prahy 4.",
+    "Rok narození je odhad z uvedeného věku 64 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

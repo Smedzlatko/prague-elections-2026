@@ -1,0 +1,28 @@
+{
+  "slug": "novotna-hana",
+  "name_key": "novotna-hana",
+  "cele_jmeno": "Mgr. Hana Novotná",
+  "rok_narozeni": 1991,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 9, "poradi": 4},
+    {"assembly_id": "mc-praha-8", "list_cislo": 7, "poradi": 3}
+  ],
+  "role": "top5",
+  "profil": "Zastupitelka Prahy 8 a manažerka, kandiduje na 4. místě pražské kandidátky STAN pro Zastupitelstvo hl. m. Prahy a zároveň na kandidátce STAN pro Prahu 8. Žádný veřejně dohledaný rozsáhlejší politický záznam nebo mediální pokrytí nebyly v dostupných zdrojích nalezeny.",
+  "vzdelani": null,
+  "profese": "Manažerka, zastupitelka MČ Praha 8.",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez dohledaného záznamu o výkonné funkci (radní/starostka) nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nebyl dohledán žádný veřejně dostupný životopis ani mediální pokrytí nad rámec údajů z otevřených dat ČSÚ.",
+    "POZOR na jmenovce: v datech ČSÚ existují další dvě odlišné osoby se jménem Hana Novotná kandidující v jiných městských částech (mc-praha-2, vek 64, důchodkyně; mc-praha-ujezd, vek 49, prodejní poradce) - nejde o tutéž osobu jako zastupitelku Prahy 8 popsanou v tomto profilu."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "loula-bohumil",
+  "name_key": "loula-bohumil",
+  "cele_jmeno": "RNDr. Ing. Bohumil Loula, CSc.",
+  "rok_narozeni": 1949,
+  "strana": "Bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 2,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "RNDr. Ing. Bohumil Loula, CSc. vede kandidátní listinu „Naše 22 – Spolky, Svobodní a Patrioti“ pro MČ Praha 22 ve volbách 2026. Profesně: analytik, vývojář, programátor. Veřejně dohledaný záznam o dřívější politické činnosti nebyl v rešerši nalezen – jde patrně o politického nováčka na úrovni MČ.",
+  "vzdelani": null,
+  "profese": "analytik, vývojář, programátor",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Chybí dohledaný zdrojovaný přehled konkrétních slibů a jejich plnění; kandidát/ka nemá dohledanou dřívější výkonnou funkci.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 22 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

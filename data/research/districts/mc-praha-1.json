@@ -1,0 +1,130 @@
+{
+  "assembly_id": "mc-praha-1",
+  "nazev": "Praha 1",
+  "charakteristika": "Historické centrum Prahy (Staré Město, Malá Strana, Josefov, Hradčany, části Nového Města) s pouhými cca 28 850 obyvateli, ale enormním tlakem turismu a krátkodobých pronájmů. Dlouhodobě nejkonfliktnější pražská radnice – časté personální krize, úzké koalice a vysoký počet listin (14 v roce 2026). Klíčová témata: regulace turismu a hazardu, krátkodobé nájmy (Airbnb) a vylidňování centra, bytový fond městské části, doprava v klidu.",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "TOP 09",
+      "ODS",
+      "Piráti a občané z Prahy 1",
+      "ANO 2011 / Staroměstská lípa",
+      "REZIDENTI 1"
+    ],
+    "starosta": {
+      "jmeno": "Mgr. Terezie Radoměřská",
+      "strana": "TOP 09",
+      "slug": "radomerska-terezie"
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Terezie_Radoměřská"
+  },
+  "zmeny_v_obdobi": [
+    "Po komunálních volbách 2022 byl dosavadní starosta Petr Hejma (STAN), který úřad vedl od ledna 2020, nahrazen 9. 11. 2022 Terezií Radoměřskou (TOP 09) - historicky první ženou ve funkci starostky Prahy 1. Zvolena byla hlasy koalice TOP 09, ODS, Piráti, ANO a REZIDENTI 1 (16 z 27 přítomných zastupitelů); Hejmovo sdružení ('My, co tady žijeme' - STAN, KDU-ČSL, Iniciativa občanů) i PRAHA 1 SOBĚ skončily v opozici.",
+    "30. 1. 2024 navrhla opoziční Praha Sobě na zasedání zastupitelstva odvolání starostky Radoměřské (důvody: obrat v postoji k terase na střeše Masaryčky, nesplnění usnesení o zákazu sdílených koloběžek, nezřízení obecního mediátora a telefonní linky proti hluku, protěžování vybraných podnikatelů). Praha Sobě si předem nezajistila potřebnou většinu hlasů a návrh neuspěl; Radoměřská kritiku odmítla jako běžnou opoziční politiku s částečně nepravdivými a zavádějícími tvrzeními. Mimo tento neúspěšný pokus se v dostupných zdrojích nepodařilo dohledat žádnou další formální změnu na postu starosty/starostky v období 2022-2026 – jde tedy o jedinou výměnu (Hejma → Radoměřská, 11/2022) plus jeden neúspěšný pokus o odvolání (1/2024). Zdroj: blesk.cz (30. 1. 2024).",
+    "Na jaře 2025 vyvolalo politický spor vyvěšení izraelské vlajky na radnici Prahy 1 v souvislosti s konfliktem v Gaze - opoziční zastupitelé včetně bývalého starosty Pavla Čižinského (tehdy ještě zastupitel Prahy 1, dnes lídr celopražské Levice) jej kritizovali s odkazem na obvinění z válečných zločinů. V květnu 2025 někdo vlajku vyměnil za palestinskou, radnice ji obratem vrátila zpět na izraelskou."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Turismus a krátkodobé nájmy (Airbnb)",
+      "popis": "Centrum Prahy je dlouhodobě pod tlakem turistického provozu a krátkodobých pronájmů bytů, což podle kritiků vytlačuje trvalé obyvatele a bytový fond z dlouhodobého nájmu.",
+      "proc_zalezi": "Přímo ovlivňuje dostupnost bydlení a kvalitu života zbývajících cca 28 tisíc obyvatel Prahy 1.",
+      "zdroje": [
+        {
+          "nazev": "praha1sobe.cz: Volební program 2026",
+          "url": "https://www.praha1sobe.cz/program/",
+          "datum": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "nazev": "Vylidňování centra",
+      "popis": "Trvalý pokles počtu obyvatel Prahy 1 je tématem napříč politickým spektrem, zmiňují jej jak radniční koalice, tak opoziční i nové listiny (např. REZIDENTI 1 mají ve svém programu přímo „boj proti vylidňování centra“).",
+      "proc_zalezi": "Ohrožuje udržitelnost komunitního života a infrastruktury městské části.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: REZIDENTI 1 - seznam kandidátů",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164204",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Regulace hazardu",
+      "popis": "Praha 1 opakovaně řeší množství heren a kasin v centru v kombinaci s nočním životem.",
+      "proc_zalezi": "Spojeno s bezpečností, hlukem a vnímáním kvality veřejného prostoru v centru.",
+      "zdroje": [
+        {
+          "nazev": "praha1sobe.cz: Volební program 2026",
+          "url": "https://www.praha1sobe.cz/program/",
+          "datum": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "nazev": "Bytový fond MČ",
+      "popis": "Praha 1 vlastní významný bytový fond v historickém centru; politické spory se vedou o to, zda a jak jej privatizovat, pronajímat za tržní vs. regulované nájemné, a komu přednostně.",
+      "proc_zalezi": "Ovlivňuje, zda si běžní obyvatelé mohou dovolet bydlet v centru.",
+      "zdroje": [
+        {
+          "nazev": "praha1sobe.cz: Volební program 2026",
+          "url": "https://www.praha1sobe.cz/program/",
+          "datum": "2026-10-03"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [],
+  "kontroverze_mc": [
+    {
+      "nazev": "Neúspěšný návrh na odvolání starostky Radoměřské",
+      "typ": "stranicky",
+      "obdobi": "2024-01",
+      "popis": "Opoziční Praha Sobě navrhla 30. 1. 2024 odvolání starostky Radoměřské kvůli obratu v postoji k terase na střeše Masaryčky, nesplnění usnesení o zákazu sdílených koloběžek, nezřízení obecního mediátora a linky proti hluku a obecnému obvinění z protěžování vybraných podnikatelů. Opozice si předem nezajistila potřebnou většinu, návrh neprošel. Podrobnosti viz people/radomerska-terezie.json.",
+      "stav": "neprokazano",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Radoměřská kritiku odmítla jako standardní politickou snahu opozice, obsahující podle ní částečně nepravdivá a zavádějící tvrzení.",
+      "zdroje": [
+        {
+          "nazev": "Blesk.cz – Otřesy na radnici Prahy 1: Praha Sobě chce odvolat starostku Radoměřskou",
+          "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/777934/otresy-na-radnici-prahy-1-praha-sobe-chce-odvolat-starostku-radomerskou-vadi-jim-nespolehlivost.html",
+          "datum": "2024-01-30"
+        }
+      ]
+    },
+    {
+      "nazev": "Spor o izraelskou vlajku na radnici",
+      "typ": "medialni",
+      "obdobi": "2025",
+      "popis": "Starostka Radoměřská dala v souvislosti s konfliktem v Gaze vyvěsit na radnici izraelskou vlajku. Opozice (včetně Pavla Čižinského) ji kritizovala s odkazem na obvinění Izraele z válečných zločinů. V květnu 2025 vlajku někdo neznámý vyměnil za palestinskou, starostka ji vrátila zpět na izraelskou.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Terezie Radoměřská",
+          "url": "https://cs.wikipedia.org/wiki/Terezie_Radoměřská",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Terezie Radoměřská",
+      "url": "https://cs.wikipedia.org/wiki/Terezie_Radoměřská",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Praha 1",
+      "url": "https://cs.wikipedia.org/wiki/Praha_1",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné datum a okolnosti případných dalších personálních změn v radě/koalici Prahy 1 mezi lety 2023-2026 (kromě nástupu Radoměřské v listopadu 2022) nebyly dohledány - nelze vyloučit, že k dalším rozpadům či přeskupením došlo, ale nebyly potvrzeny zdrojem.",
+    "Nebyl dohledán konkrétní velký investiční/rozvojový projekt MČ pro pole 'velke_projekty' - web praha1.cz nebyl přes WebFetch dostupný (přesměrování/404), oficiální zápisy zastupitelstva nebyly ověřeny.",
+    "Přesný poměr hlasů při lednovém (2024) pokusu o odvolání starostky nebyl doložen, pouze že návrh neuspěl."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

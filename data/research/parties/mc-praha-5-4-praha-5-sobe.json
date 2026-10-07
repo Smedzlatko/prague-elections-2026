@@ -1,0 +1,135 @@
+{
+  "slug": "mc-praha-5-4-praha-5-sobe",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 4,
+  "nazev": "PRAHA 5 SOBĚ",
+  "zkratka": "P5 SOBĚ",
+  "typ": "hnuti",
+  "slozeni": [
+    "PRAHA SOBĚ"
+  ],
+  "web": "https://p5sobe.cz/program-2026.php",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "PRAHA 5 SOBĚ - volební program 2026",
+        "url": "https://p5sobe.cz/program-2026.php",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "PRAHA 5 SOBĚ, nejsilnější subjekt z voleb 2022 (10 mandátů), slibuje odmítnutí prodeje obecních bytů, rekonstrukci prázdných městských bytů pro sociální politiku, jasná urbanistická pravidla vůči developerům včetně povinných příspěvků na infrastrukturu, nové školy na Barrandově a v Košířích, dopravní bezpečnost podle principu Vision Zero, obecní úklidovou firmu a obnovu transparentních nástrojů (Citivizor, online přenosy jednání zastupitelstva, sledování podání „Číslo jednací“).",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Odmítnutí prodeje obecních bytů a rekonstrukce prázdných bytů",
+        "popis": "Hnutí se staví proti prodeji bytového fondu MČ a slibuje rekonstruovat neobsazené městské byty pro potřeby sociální politiky (např. bydlení pro seniory, samoživitele, mladé rodiny).",
+        "citace": "Jsme proti prodeji obecních bytů.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Nakládání s obecním bytovým fondem je přímo v kompetenci MČ."
+        },
+        "zdroj_url": "https://p5sobe.cz/program-2026.php"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Povinné developerské příspěvky na infrastrukturu",
+        "popis": "Zavedení jasných urbanistických pravidel, podle kterých developeři povinně přispívají na infrastrukturu (školy, veřejný prostor) namísto pasivního přejímání jejich projektů městskou částí.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Vyžaduje dohody v rámci územního plánování a stavebního řízení, kde má MČ jen částečnou pravomoc vedle magistrátu a stavebního úřadu."
+        },
+        "zdroj_url": "https://p5sobe.cz/program-2026.php"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Nové školy na Barrandově a v Košířích",
+        "popis": "Výstavba nové školy na Barrandově, rozšíření ZŠ Podbělohorská, dokončení nové školy v Košířích a dvoutřídní pavilon MŠ v Beníkově ulici.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o konkrétní investiční projekty, jejichž realizace závisí na rozpočtu MČ a stavebním řízení; termíny nejsou v programu uvedeny."
+        },
+        "zdroj_url": "https://p5sobe.cz/program-2026.php"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Vision Zero a bezpečná cyklodoprava",
+        "popis": "Dopravní bezpečnost podle principu Vision Zero (nulová tolerance k smrtelným a těžkým nehodám), rozšíření kapacity tramvají a autobusů, bezpečná cyklistická infrastruktura a důsledné vymáhání parkovacích pravidel.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Dopravní infrastruktura v Praze je sdílená kompetence MČ a magistrátu/dopravního podniku."
+        },
+        "zdroj_url": "https://p5sobe.cz/program-2026.php"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Obnova nástroje Citivizor a online přenosy zastupitelstva",
+        "popis": "Obnovení interaktivního rozpočtového nástroje Citivizor, umožnění online sledování jednání zastupitelstva a sledovací systém „Číslo jednací“ pro podání občanů.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o nástroje, které MČ již v minulosti provozovala nebo má přímo v gesci IT/kanceláře úřadu."
+        },
+        "zdroj_url": "https://p5sobe.cz/program-2026.php"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "Hnutí PRAHA SOBĚ se profiluje liberálně-progresivně (odpor k prodeji obecního majetku, důraz na sociální bydlení, transparentnost, participaci, bezpečnou cyklodopravu), ekonomicky mírně na straně větší role veřejného sektoru v bydlení.",
+    "zdroje": [
+      {
+        "nazev": "PRAHA 5 SOBĚ - volební program 2026",
+        "url": "https://p5sobe.cz/program-2026.php",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Nejsilnější subjekt po volbách 2022 (10 mandátů), zakládající člen koalice ODS/TOP09 + STAN + PRAHA 5 SOBĚ (21 ze 41 mandátů). Starostkou se po volbách stala Radka Šimková (PRAHA 5 SOBĚ), v dubnu 2025 ji ve funkci starosty vystřídal Lukáš Herold (ODS). Podle aktuálního (říjen 2026) seznamu rady MČ na webu praha5.cz již PRAHA 5 SOBĚ v radě MČ vůbec není zastoupena – místo ní je ve vedení ANO 2011 (1. místostarosta a dva radní). To naznačuje, že hnutí v průběhu období 2022-2026 ztratilo nejen post starosty, ale postupně i celou účast ve vedení MČ.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [
+      {
+        "slib": "Udržení vedoucí pozice hnutí v čele radnice po celé volební období.",
+        "dukaz": "Starostka Radka Šimková byla v dubnu 2025 ve funkci starosty vystřídána Lukášem Heroldem (ODS) a podle aktuálního seznamu rady MČ (říjen 2026) již PRAHA 5 SOBĚ v radě není zastoupena vůbec.",
+        "zdroj_url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/"
+      }
+    ],
+    "shrnuti": "Hnutí bylo po volbách 2022 nejsilnějším subjektem a obsadilo post starosty, v průběhu období ale ztratilo nejprve post starosty (duben 2025) a podle nejaktuálnějších dostupných údajů (říjen 2026) již není v radě MČ zastoupeno vůbec – roli ve vedení převzalo ANO 2011. Přesný časový sled a důvody tohoto postupného vytěsnění z vedení nebyly nezávisle médii dohledány; jde o zjištění z primárního zdroje (web MČ), ne z nezávislého mediálního ověření. Detailní srovnání s volebním programem z roku 2022 nebylo dohledáno."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 1,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 3: program obsahuje konkrétní opatření (nové školy, Citivizor) a místy jmenované projekty, ale většina bodů není kvantifikovaná ani s termíny. doveryhodnost_plneni = 1: hnutí ztratilo nejprve post starosty a podle nejaktuálnějších dostupných údajů (říjen 2026) již není v radě MČ zastoupeno vůbec – výrazný úbytek politické moci oproti výsledku voleb 2022, byť bez prokázaného porušení konkrétního programového slibu. transparentnost = 3 za zveřejněný program, dohledatelný web a historicky provozované nástroje jako Citivizor; bez zjištěných údajů o financování kampaně.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "simkova-radka"
+  ],
+  "mezery_v_datech": [
+    "Přesné důvody výměny starosty (Šimková → Herold) v dubnu 2025 nebyly nezávisle dohledány.",
+    "Přesné datum a okolnosti úplného vytěsnění PRAHA 5 SOBĚ z rady MČ (a nástupu ANO 2011 na její místo) nebyly v dostupných zdrojích (mediální vyhledávání bylo bez výsledku) dohledány - vychází jen z porovnání aktuálního seznamu rady na webu praha5.cz se složením po volbách 2022.",
+    "Rozpočtové krytí jednotlivých investičních slibů (nové školy) nebylo v programu uvedeno."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

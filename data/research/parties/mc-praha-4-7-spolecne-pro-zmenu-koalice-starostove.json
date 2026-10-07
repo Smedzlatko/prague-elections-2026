@@ -1,0 +1,53 @@
+{
+  "slug": "mc-praha-4-7-spolecne-pro-zmenu-koalice-starostove",
+  "assembly_id": "mc-praha-4",
+  "list_cislo": 7,
+  "nazev": "SPOLEČN�Ě PRO ZMĚNU – KOALICE STAROSTOVÉ, PRAHA SOBĚ, LIDOVCI A ZELENÍ",
+  "zkratka": "Společně pro změnu",
+  "typ": "koalice",
+  "slozeni": [
+    "STAN",
+    "PRAHA SOBĚ",
+    "KDU-ČSL",
+    "Zelení"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný program koalice se nepodařilo dohledat. Jde o největší opoziční koalici na Praze 4 navazující na předchozí „SPOLEČNĚ PRO PRAHU 4 – STAROSTOVÉ A NEZÁVISLÍ A KDU-ČSL“ (12,30 % a 6 mandátů v roce 2022), nyní rozšířenou o Zelené a PRAHA SOBĚ. Lídrem je Petr Štěpánek (Zelení), bývalý starosta Prahy 4 (2014-2019). Čtyři kandidáti na listině (Kaiser Zicha, Kaplan, Žáček a další) se v profesních údajích sami popisují jako „iniciátor referenda proti předražené radnici Prahy 4“.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "Odhad na základě profilu koaličních stran (STAN, Zelení, KDU-ČSL, PRAHA SOBĚ) jako středově-progresivní, komunálně orientované koalice; lokální program nebyl k dispozici.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční koalice s 6 mandáty (2022) navazující na předchozí uskupení; více jejích členů je dlouholetými zastupiteli Prahy 4 (Štěpánek, Štádler, Kaplan, Rejchrtová ad.).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opozice mělo uskupení omezený přímý vliv na realizaci vlastních priorit; konkrétní bilanci (např. výsledek zmiňovaného referenda proti nové radnici) se nepodařilo nezávisle ověřit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Konkrétnost 0 – samostatný program nenalezen. Transparentnost 2 body: rozsáhlá, dohledatelná kandidátka s podrobnými profesními životopisy a dlouholetou komunální historií většiny kandidátů, chybí ale zveřejněný program a transparentní účet.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "stepanek-petr"
+  ],
+  "mezery_v_datech": [
+    "Samostatný volební program koalice pro rok 2026 se nepodařilo dohledat.",
+    "Podstatu, cenu a výsledek kauzy 'předražená radnice Prahy 4' a referenda proti ní se nepodařilo nezávisle (mimo sebeprezentaci kandidátů) ověřit - viz district mc-praha-4.json."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

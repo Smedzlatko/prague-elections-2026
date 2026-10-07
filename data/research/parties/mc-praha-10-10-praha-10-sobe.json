@@ -1,0 +1,51 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 10,
+  "nazev": "PRAHA 10 SOBĚ",
+  "zkratka": "PRAHA 10 SOBĚ",
+  "typ": "koalice",
+  "slozeni": [
+    "Zelení",
+    "BEZPP",
+    "PRAHA SOBĚ"
+  ],
+  "web": "https://prahasobe.cz/praha10/",
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Program PRAHA 10 SOBĚ (PDF)",
+        "url": "https://static.programydovoleb.cz/2026/csu_kv_ros/0927/163997/5355ce209e.pdf",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Nová koalice PRAHA SOBĚ, Zelených a nezávislých bez mandátu z roku 2022. Vznikla z iniciativ okolo petic za záchranu Drážní promenády a proti nelegální venkovní reklamě. Program je dostupný jako PDF, konkrétní text se přes WebFetch nepodařilo plně získat.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1.0,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "PRAHA SOBĚ a Zelení se celostátně profilují jako liberálně-progresivní, ekologicky orientovaná koalice. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 4,
+    "oduvodneni": "Program existuje jako zveřejněný PDF dokument, ale konkrétní text se nepodařilo plně získat. Nový subjekt bez mandátu 2022-2026, plnění slibů nelze hodnotit.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "bouz-david"
+  ],
+  "mezery_v_datech": [
+    "Konkrétní text programu z PDF nebyl plně získán.",
+    "Nebyl dohledán aktuální stav kauzy Drážní promenády."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-10-10-praha-10-sobe"
+}

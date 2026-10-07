@@ -1,0 +1,80 @@
+{
+  "slug": "uzemni-rozvoj",
+  "nazev": "Územní rozvoj",
+  "popis": "Nový Metropolitní plán jako klíčový rámec pro budoucí výstavbu v Praze, rozvoj brownfieldů (bývalých průmyslových a nádražních areálů) a debata o výškových budovách.",
+  "fakta": [
+    {
+      "tvrzeni": "Nový Metropolitní plán hl. m. Prahy byl schválen Zastupitelstvem hl. m. Prahy v květnu 2026 a účinnosti nabývá 1. září 2026. Příprava plánu začala už v roce 2012 (zadání schváleno 2013, návrh předložen k projednání v dubnu 2018).",
+      "hodnota": "schválen 5/2026, účinnost od 1. 9. 2026",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Metropolitn%C3%AD_pl%C3%A1n_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Metropolitní plán dělí Prahu na více než 700 lokalit se 13 typy zástavby a zavádí výškové regulace vycházející z charakteru stávající zástavby.",
+      "hodnota": "700+ lokalit, 13 typů zástavby",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Metropolitn%C3%AD_pl%C3%A1n_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Kolem Metropolitního plánu dlouhodobě probíhal spor o transparentnost a přístup veřejnosti k podkladovým dokumentům. Spolek Arnika v roce 2021 vyhrál u Nejvyššího správního soudu spor o to, že magistrát musí zpřístupnit požadované podklady; podle Arniky magistrát rozhodnutí soudu dlouho nerespektoval, k poskytnutí informací došlo až v polovině roku 2024.",
+      "hodnota": "spor Arnika vs. magistrát 2021-2024",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Metropolitn%C3%AD_pl%C3%A1n_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Strana Praha sobě ve svém programu pro volby 2026 uvádí, že na brownfieldech (Nákladové nádraží Žižkov, Bohdalec, Bubny, Nový Sedlec, Smíchov, Nová Ruzyně) plánuje prosadit vznik dostatku parků, škol a občanské vybavenosti vedle bytové výstavby. Zmiňuje také, že do Prahy se v nadcházejících letech má podle jejich odhadu přistěhovat skoro 300 tisíc dalších lidí.",
+      "hodnota": "odhad cca +300 000 obyvatel (tvrzení strany, ne nezávisle ověřená prognóza)",
+      "zdroj_url": "https://www.prahasobe.cz/program",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Brownfield Bubny-Zátory (Praha 7) je jedním z největších pražských rozvojových území – má vzniknout nová čtvrť pro cca 25 000-26 000 obyvatel v cca 10 000-11 000 bytech, včetně Vltavské filharmonie. Magistrát v roce 2026 dojednával s hlavními developery (Penta Real Estate jako vedoucí developer s 50% podílem v HoldCo Bubny, dále AKIPIA 35 % a J&T 15 %, dalšími vlastníky pozemků jsou CPI Property Group a EP Real Estate) plánovací smlouvu; veřejné projednání Územní studie Holešovice Bubny-Zátory II proběhlo 22. 6. 2026. První etapy výstavby se plánují v následujících letech, úplné dokončení celé čtvrti se očekává kolem roku 2040-2050.",
+      "hodnota": "cca 25 000-26 000 nových obyvatel, 10 000-11 000 bytů, dokončení cca 2040-2050",
+      "zdroj_url": "https://www.irozhlas.cz/zpravy-domov/praha-a-developeri-vyjednavaji-o-zastavbe-brownfieldu-bubny-zatory-k-dohode-ma_2602140949_kvr",
+      "datum": "2026-10-03"
+    },
+    {
+      "tvrzeni": "Zastupitelstvo hl. m. Prahy schválilo Metropolitní plán koncem května 2026; účinný je od 1. 9. 2026 a nahrazuje územní plán z roku 1999 (příprava od roku 2013). V připomínkových kolech přišlo cca 45 000 připomínek (2018), přes 18 000 (2022) a cca 13 000 (podzim 2025); vypořádáno bylo podle ČTK 53 % všech připomínek, u požadavků městských částí 64 %.",
+      "hodnota": "schváleno 5/2026, účinnost 1. 9. 2026; připomínky 45 000 / 18 000 / 13 000",
+      "zdroj_url": "https://zpravy.kurzy.cz/861422-metropolitni-plan-schvalili-zastupitele-ucinny-bude-od-zari/",
+      "datum": "2026-05-29"
+    }
+  ],
+  "pozice_stran": [
+    {
+      "list_slug": "magistrat-5-praha-sobe",
+      "pozice": "Chtějí brownfieldy (Nákladové nádraží Žižkov, Bohdalec, Bubny, Nový Sedlec, Smíchov, Nová Ruzyně) zastavět „promyšleně“ na základě územních studií a po dohodě s místními, s dostatkem parků a škol. Trojmezí chtějí zachovat jako zelenou plochu a oživit dříve odloženou krajinářskou studii.",
+      "citace": "Prahu trápí nedostatek bytů a výstavba na území bývalých nádraží či průmyslových areálů je logickým řešením. Musí ale probíhat koncepčně, na základě kvalitně zpracovaných územních studií a po domluvě s místními. [...] Trojmezí má zůstat zeleným prostorem. Oživíme krajinářskou studii, která na magistrátu skončila v šuplíku.",
+      "zdroj_url": "https://www.prahasobe.cz/program"
+    },
+    {
+      "list_slug": "magistrat-9-starostove-a-nezavisli",
+      "pozice": "Výstavba na městských pozemcích a humanizace Magistrály: Stavět tisíce bytů na městských pozemcích, začít stavět Vltavskou filharmonii a humanizovat Severojižní magistrálu.",
+      "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+    },
+    {
+      "list_slug": "magistrat-22-ano-2011",
+      "pozice": "Celopražský program obnovy sídlišť: Spustit celoměstský program regenerace sídlišť: chodníky, vnitrobloky, lavičky, hřiště a zeleň. Stanovit jasné standardy údržby, určit odpovědnost a zabránit přehazování agendy mezi odbory. Doplnit stín a vegetaci, obnovit osvětlení.",
+      "zdroj_url": "https://janhusbauer.cz/#program"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Metropolitní plán hlavního města Prahy - Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/Metropolitn%C3%AD_pl%C3%A1n_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Volební program Praha sobě 2026 (PDF)",
+      "url": "https://www.prahasobe.cz/program",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní spory o výškové budovy (např. u Rohanského ostrova, Bubnů) a jmenovité kauzy nebyly ověřeny.",
+    "IPR Praha jako hlavní odborný zdroj k územnímu plánování se nepodařilo v rámci rešerše zpřístupnit (opakovaná chyba 404 / certifikát).",
+    "Pozice ostatních osmi sledovaných listin k Metropolitnímu plánu, brownfieldům a výškovým budovám nebyly dohledány.",
+    "Pozice listin 7, 10, 12, 14, 16, 24 k územnímu rozvoji/Metropolitnímu plánu: v programech zachycených v parties/ není samostatná priorita z této oblasti."
+  ],
+  "posledni_aktualizace": "2026-10-06"
+}

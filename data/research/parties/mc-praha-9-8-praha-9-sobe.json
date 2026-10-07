@@ -1,0 +1,57 @@
+{
+  "assembly_id": "mc-praha-9",
+  "list_cislo": 8,
+  "nazev": "PRAHA 9 SOBĚ",
+  "zkratka": "PRAHA 9 SOBĚ",
+  "typ": "koalice",
+  "slozeni": [
+    "BEZPP",
+    "PRAHA SOBĚ"
+  ],
+  "web": "https://prahasobe.cz/praha9sobe/",
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "prahasobe.cz: PRAHA 9 SOBĚ - program",
+        "url": "https://prahasobe.cz/praha9sobe/program/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "PRAHA 9 SOBĚ byla v letech 2022-2026 na Praze 9 v opozici (13,99 %, 4 mandáty) s lídryní Kamilou Matějkovou, dříve místostarostkou MČ pro sociální oblast a zdravotnictví. Program byl na webu dohledán, ale konkrétní text priorit se přes WebFetch nepodařilo získat.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1.0,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "PRAHA SOBĚ se celostátně profiluje jako liberálně-progresivní hnutí s důrazem na transparentnost a kvalitu veřejného prostoru. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (4 mandáty po volbách 2022); lídryně Kamila Matějková byla v minulosti místostarostkou MČ pro sociální oblast, zdravotnictví a sousedské vztahy a je zastupitelkou Magistrátu hl. m. Prahy.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Zdrojovaný přehled konkrétních iniciativ klubu PRAHA 9 SOBĚ za období 2022-2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 4,
+    "oduvodneni": "Program existuje na webu, ale konkrétní text se nepodařilo získat. Transparentnost vysoká – vlastní web a dohledatelné kandidáty.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "matejkova-kamila"
+  ],
+  "mezery_v_datech": [
+    "Konkrétní text programu pro rok 2026 nebyl z webu získán."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-9-8-praha-9-sobe"
+}

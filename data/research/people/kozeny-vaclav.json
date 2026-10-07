@@ -1,0 +1,36 @@
+{
+  "slug": "kozeny-vaclav",
+  "name_key": "kozeny-vaclav",
+  "cele_jmeno": "Ing. Václav Kožený, Ph.D., MBA",
+  "rok_narozeni": 1977,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {"assembly_id": "mc-praha-6", "list_cislo": 7, "poradi": 3}
+  ],
+  "role": "inkumbent",
+  "profil": "Václav Kožený je místostarosta MČ Praha 6 za ODS, v roce 2022 zvolen na 4. místě koaliční listiny ODS a KDU-ČSL se 7722 preferenčními hlasy. Pro rok 2026 kandiduje na 3. místě téže koalice. Veřejně dohledaný přehled jeho konkrétní agendy jako místostarosty (resort, projekty, výsledky) se v dostupných zdrojích nepodařilo najít.",
+  "vzdelani": "Ing., Ph.D., MBA - obor neupřesněn v dostupných zdrojích",
+  "profese": "místostarosta MČ Praha 6",
+  "politicka_historie": [
+    {"od": "2022-10", "do": null, "funkce": "místostarosta MČ Praha 6", "organizace": "MČ Praha 6", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastává výkonnou funkci místostarosty, ale zdrojovaný přehled jeho konkrétní agendy a toho, co v ní prosadil či nedotáhl, se nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, MČ Praha 6 2026 - ODS a KDU-ČSL", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164303", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Konkrétní resort a agenda místostarosty (investice, majetek apod.) nebyly v dostupných zdrojích dohledány nad rámec dat ČSÚ.",
+    "Rok narození je odhad z udaného věku 49 let v brífu k říjnu 2026.",
+    "Nebyl dohledán žádný nezávislý mediální zdroj o jeho politickém působení."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

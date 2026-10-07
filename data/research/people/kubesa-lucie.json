@@ -1,0 +1,27 @@
+{
+  "slug": "kubesa-lucie",
+  "name_key": "kubesa-lucie",
+  "cele_jmeno": "Lucie Kubesa, MBA",
+  "rok_narozeni": 1979,
+  "strana": "ODS",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 12, "poradi": 18}],
+  "role": "inkumbent",
+  "profil": "Lucie Kubesa je zastupitelka hl. m. Prahy, zvolena ve volbách 2022 za SPOLU. Podrobnější veřejně dohledatelný politický životopis se v dostupné rešerši nepodařilo ověřit nad rámec údajů z brífu ČSÚ.",
+  "vzdelani": "MBA",
+  "profese": "zastupitelka hl. m. Prahy",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitelka hl. m. Prahy (SPOLU, zvolena přímo)", "organizace": "Hlavní město Praha", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez dohledané výkonné funkce (radní/náměstkyně) nelze plnění slibů hodnotit; chybí i dohledaný program.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat samostatný veřejný profil s daty politické historie ani případnou výkonnou funkci na magistrátu.",
+    "Přesný rok narození (1979) je odhad z udaného věku 47 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

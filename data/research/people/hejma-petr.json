@@ -1,0 +1,61 @@
+{
+  "slug": "hejma-petr",
+  "name_key": "hejma-petr",
+  "cele_jmeno": "Ing. Petr Hejma",
+  "rok_narozeni": null,
+  "strana": "STAROSTOVÉ A NEZÁVISLÍ (STAN)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-1",
+      "list_cislo": 12,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Ekonom, bývalý starosta MČ Praha 1 (leden 2020 – 9. 11. 2022) za STAN. Po volbách 2022 jeho sdružení „My, co tady žijeme“ (STAN, KDU-ČSL, Iniciativa občanů) sice obhájilo 4 mandáty (13,15 %), ale novou starostkou byla zvolena koalice TOP 09+ODS+Piráti+ANO+REZIDENTI 1 s Terezií Radoměřskou (TOP 09) v čele – Hejmovo sdružení tak skončilo v opozici. Pro rok 2026 znovu vede stejnou koaliční listinu. Věk podle briefu 57 let.",
+  "vzdelani": "Ekonomické vzdělání (Ing.).",
+  "profese": "Ekonom; bývalý starosta MČ Praha 1; nyní opoziční zastupitel.",
+  "politicka_historie": [
+    {
+      "od": "2020-01",
+      "do": "2022-11",
+      "funkce": "starosta MČ Praha 1",
+      "organizace": "MČ Praha 1",
+      "zdroj_url": null
+    },
+    {
+      "od": "2022-11",
+      "do": "2026-10",
+      "funkce": "zastupitel MČ Praha 1 (opozice)",
+      "organizace": "MČ Praha 1",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako starosta v letech 2020-2022 měl exekutivní funkci, ale toto období předchází volbám 2022-2026, které tato rešerše primárně hodnotí; detailní a nezávisle doložené hodnocení jeho tehdejšího působení (co prosadil/nedotáhl) se nepodařilo dohledat. Jako opoziční zastupitel 2022-2026 bez výkonné funkce nemá podle metodiky přiřazené skóre.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: Starostové, KDU-ČSL s podporou Iniciativy občanů - kandidáti",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165103",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození a detaily vzdělání nebyly ověřeny nad rámec briefu.",
+    "Detailní bilance jeho působení jako starosty 2020-2022 a jako opozičního zastupitele 2022-2026 nebyla dohledána - zápisy zastupitelstva Prahy 1 a tiskové články z této doby nebyly v rešerši systematicky zpracovány.",
+    "Program listiny 'Starostové, KDU-ČSL s podporou Iniciativy občanů' pro rok 2026 se nepodařilo dohledat (žádný odkaz na vlastní web na programydovoleb.cz)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

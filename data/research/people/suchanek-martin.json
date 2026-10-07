@@ -1,0 +1,30 @@
+{
+  "slug": "suchanek-martin",
+  "name_key": "suchanek-martin",
+  "cele_jmeno": "Mgr. Martin Suchánek",
+  "rok_narozeni": 1979,
+  "strana": "BEZPP",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 2, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Martin Suchánek je bezpartijní zastupitel MČ Praha 7; mandát získal ve volbách 2022 na listině ANO 2011 (1797 preferenčních hlasů). Pro rok 2026 vede jako lídr novou levicovou koaliční listinu Spojená levice pro Prahu 7 (KSČM, ČSSD), čímž opustil ANO a politicky se přeorientoval na levici. Podle webu MČ Praha 7 je v aktuálním zastupitelstvu vedený jako zastupitel bez politické příslušnosti.",
+  "vzdelani": null,
+  "profese": "zastupitel MČ Praha 7",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 7 (zvolen za ANO 2011, nyní bez politické příslušnosti)", "organizace": "MČ Praha 7", "zdroj_url": "https://www.praha7.cz/radnice/zastupitelstvo/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez exekutivní funkce v radě MČ, podrobné hodnocení jeho práce v zastupitelstvu nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha7.cz - Zastupitelstvo MČ Praha 7", "url": "https://www.praha7.cz/radnice/zastupitelstvo/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 47 let v brífu k říjnu 2026 (1979), neověřeno.",
+    "Důvody přechodu od ANO 2011 k levicové koalici KSČM/ČSSD nebyly v dostupných zdrojích dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

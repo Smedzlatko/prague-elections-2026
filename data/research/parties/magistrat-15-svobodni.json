@@ -1,0 +1,117 @@
+{
+  "slug": "magistrat-15-svobodni",
+  "assembly_id": "magistrat",
+  "list_cislo": 15,
+  "nazev": "Svobodní",
+  "zkratka": "Svobodní",
+  "typ": "strana",
+  "slozeni": ["Svobodní"],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Svobodní – Praha má fungovat a nechat lidi svobodně žít",
+        "url": "https://svobodni.cz/novinky/praha-ma-fungovat-a-nechat-lidi-svobodne-zit/",
+        "datum": "2026-09-15"
+      }
+    ],
+    "shrnuti": "Program lídra Bedřicha Laubeho staví na tom, že Praha má „fungovat spolehlivě a nechat lidi žít svobodně“ místo paternalistické regulace. V dopravě slibuje dokončení Pražského okruhu, Městského okruhu, metra D a železničního spojení na letiště, rozšíření P+R a konec „dopravních experimentů“; v bydlení zrychlení výstavby nových čtvrtí a brownfieldů a aktivaci nevyužité městské půdy; dále podporu praktických lékařů v podvybavených čtvrtích, snížení administrativy škol, posílení hlídek městské policie a audit městských organizací kvůli plýtvání.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Dokončení okruhů, metra D a železničního spojení na letiště",
+        "popis": "Dokončit Pražský okruh, Městský okruh, metro D a železniční spojení na letiště; rozšířit P+R a koordinovat opravy a uzavírky.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Dokončení okruhů a metra D závisí z velké části na státu a dlouhých povolovacích procesech, město samo o termínu nerozhoduje."
+        },
+        "zdroj_url": "https://svobodni.cz/novinky/praha-ma-fungovat-a-nechat-lidi-svobodne-zit/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Konec dopravních experimentů, revize jednosměrek a zúžení",
+        "popis": "Zrušit dopravní opatření, která podle strany vytvářejí kongesce bez prokázaného přínosu (jednosměrky, zúžení, sloupky), a nastavit semafory na plynulost, ne zpomalování.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o organizační/technická opatření v gesci města, realizovatelná bez zásahu třetích stran."
+        },
+        "zdroj_url": "https://svobodni.cz/novinky/praha-ma-fungovat-a-nechat-lidi-svobodne-zit/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Zrychlení výstavby nových čtvrtí a brownfieldů",
+        "popis": "Zrychlit rozvoj nových čtvrtí a brownfieldů, zjednodušit městské procesy a aktivovat nevyužitou městskou půdu pro bydlení, školství a dopravní infrastrukturu.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Zjednodušení procesů je v gesci města, ale skutečné zrychlení výstavby závisí i na soukromých investorech a stavebním úřadu."
+        },
+        "zdroj_url": "https://svobodni.cz/novinky/praha-ma-fungovat-a-nechat-lidi-svobodne-zit/"
+      },
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Více hlídek, méně pokut za drobné přestupky",
+        "popis": "Navýšit pěší hlídky se zaměřením na násilí a vandalismus, snížit pokuty za drobné přestupky a zveřejňovat přehledné statistiky kriminality.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Personální a organizační opatření v gesci městské policie, realizovatelné v rámci rozpočtu města."
+        },
+        "zdroj_url": "https://svobodni.cz/novinky/praha-ma-fungovat-a-nechat-lidi-svobodne-zit/"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Audit městských organizací kvůli plýtvání",
+        "popis": "Provést audit městských organizací kvůli neefektivitě a plýtvání, zajistit transparentnost rozpočtu a digitalizovat služby.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Audit je v přímé pravomoci města, konkrétní dopad závisí na výsledcích a politické vůli jej prosadit."
+        },
+        "zdroj_url": "https://svobodni.cz/novinky/praha-ma-fungovat-a-nechat-lidi-svobodne-zit/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2.5,
+    "hodnotova_osa": 1,
+    "oduvodneni": "Svobodní jsou celostátně profilovaní jako pravicová, liberálně-konzervativní strana s důrazem na nízké daně, minimální stát a omezení regulací; pražský program pro rok 2026 nebyl k dispozici pro ověření konkrétní lokální podoby.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Svobodní získali v komunálních volbách 2022 na magistrátu 1,19 % hlasů a žádný mandát.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Strana bez zastupitelského zázemí na magistrátu v období 2022–2026, hodnocení plnění slibů proto není možné."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Konkrétnost 2: většina priorit má pojmenované opatření (dokončení okruhů, revize dopravních opatření, audit organizací), ale bez čísel a termínů. Transparentnost 2: dohledatelní kandidáti na listině (+1) a zveřejněný program na webu strany (+1); financování kampaně a transparentní účet nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["laube-bedrich"],
+  "mezery_v_datech": [
+    "Přesné znění citací z programu (svobodni.cz, 2026-09-15) bylo při rešerši dostupné jen jako shrnutí nástrojem WebFetch, ne jako doslovný text stránky – citace v datech jsou proto parafráze (pole \"citace\" je null), ne doslovný text."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

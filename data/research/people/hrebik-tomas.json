@@ -1,0 +1,52 @@
+{
+  "cele_jmeno": "Ing. Tomáš Hřebík, Ph.D.",
+  "rok_narozeni": 1980,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-8",
+      "list_cislo": 7,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Tomáš Hřebík je místostarosta MČ Praha 8 za STAN, vysokoškolský pedagog, člen Sokola a dobrovolný hasič. Ve volbách 2022 byl zvolen na 2. místě koaliční listiny STAN/TOP 09 s 3834 preferenčními hlasy a stal se místostarostou v koalici s ODS, ANO a Patrioty.",
+  "vzdelani": null,
+  "profese": "vysokoškolský pedagog, místostarosta MČ Praha 8",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "místostarosta MČ Praha 8",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastává výkonnou funkci místostarosty od roku 2022, ale zdrojovaný přehled jeho konkrétního resortu a výsledků nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Praha 8 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán konkrétní resort, který jako místostarosta zastává, ani přehled jeho výsledků 2022-2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "hrebik-tomas",
+  "name_key": "hrebik-tomas"
+}

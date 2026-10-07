@@ -1,0 +1,107 @@
+{
+  "assembly_id": "mc-praha-9",
+  "list_cislo": 7,
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "typ": "strana",
+  "slozeni": [
+    "Piráti"
+  ],
+  "web": "https://praha9.pirati.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "praha9.pirati.cz: Komunální volby 2026 - Volební program",
+        "url": "https://praha9.pirati.cz/programy/?secondary-view=program",
+        "datum": "2026-09-30"
+      }
+    ],
+    "shrnuti": "Piráti byli v letech 2022-2026 na Praze 9 v opozici (11,67 %, 4 mandáty). Program pro 2026 staví na tezi, že Praha 9 roste (čtvrtina pražské bytové výstavby), ale chybí koncepční plán bydlení, školství a energetiky. Hlavní osy: dostupné bydlení (městský developer, opravy prázdných bytů), férový podíl developerů na infrastruktuře, přehledné a bezpečné školství (školy do 1000 dětí, třídy do 24 dětí), úspory a výroba energie z fotovoltaiky na městských budovách a rozvoj zeleně (Rokytka, Klíčovské sady).",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Aktivní výstavba městských bytů a plné využití bytového fondu",
+        "popis": "Městský developer má aktivně stavět nové městské byty, všechny stávající městské byty mají být opravené a k dispozici k bydlení, nové byty mají být městské části předávány developery v rámci nové výstavby.",
+        "citace": "Prosazujeme aktivní výstavbu městských bytů městským developerem, efektivní využití městského majetku (všechny městské byty opravené a k dispozici pro bydlení), nové byty předané městské části developery v rámci vznikající výstavby.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Bez čísel (počet bytů, termín) a bez uvedeného rozpočtu; opatření je ale konkrétně pojmenované a v gesci MČ jako vlastníka bytového fondu."
+        },
+        "zdroj_url": "https://praha9.pirati.cz/programy/?secondary-view=program"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Férový příspěvek developerů a dlouhodobý investiční plán",
+        "popis": "Za každý nový rozvojový projekt chtějí férovou výši příspěvku developera pro MČ, zveřejnění těchto příspěvků a dlouhodobý investiční plán s prioritami, termíny, financováním a kontrolou realizace.",
+        "citace": "Zasadíme se o férovou výši příspěvku pro městskou část za každý nový projekt a o přehledné zveřejnění těchto příspěvků za jednotlivé stavební projekty... vytvoříme zásobník strategických projektů a dlouhodobý investiční plán, realistický plán s prioritami, termíny, financováním, jasnou odpovědností i kontrolou realizace.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní mechanismus (příspěvky, investiční plán), ale bez čísel a bez jistoty, že MČ dokáže s developery takové podmínky vyjednat."
+        },
+        "zdroj_url": "https://praha9.pirati.cz/programy/?secondary-view=program"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Menší a bezpečnější školy",
+        "popis": "Požadují přehledné školy do 1000 dětí, menší třídy do 24 dětí, transparentní výběrová řízení na ředitele, kvalitní inkluzi a dostatek školních psychologů.",
+        "citace": "Požadujeme: přehledné školy do 1000 dětí, menší třídy do 24 dětí, transparentní výběrová řízení na ředitelky a ředitele škol, kvalitně realizovanou inkluzi...",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní číselná hranice (1000 dětí, 24 dětí/třída), ale bez rozpočtu a harmonogramu a bez jistoty dostupnosti kapacit vzhledem k růstu počtu obyvatel."
+        },
+        "zdroj_url": "https://praha9.pirati.cz/programy/?secondary-view=program"
+      },
+      {
+        "oblast": "jine",
+        "nazev": "Fotovoltaika na městských budovách a energetické úspory",
+        "popis": "Chtějí vybudovat fotovoltaiku na městských budovách, sdílet elektřinu mezi školami, úřady a sportovišti a zveřejňovat přehled spotřeby a úspor energie.",
+        "citace": "Požadujeme: využití potenciálu městských budov, vybudování fotovoltaiky a zajištění sdílení elektřiny mezi školami, úřady, sportovišti a dalšími městskými objekty.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o opatření plně v gesci MČ jako vlastníka budov, technologicky a legislativně běžně realizovatelné, ale bez uvedeného rozpočtu a termínu."
+        },
+        "zdroj_url": "https://praha9.pirati.cz/programy/?secondary-view=program"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2.0,
+    "oduvodneni": "Piráti se celostátně profilují jako liberální, hodnotově progresivní strana s důrazem na transparentnost. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (4 mandáty po volbách 2022).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční strana měli Piráti omezený vliv na prosazení vlastních priorit. Zdrojovaný přehled konkrétních iniciativ za období 2022-2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 4,
+    "oduvodneni": "Program je konkrétní a rozsáhlý, většina priorit má pojmenovaná opatření, část (velikost škol, tříd) i čísla, ale bez rozpočtového krytí (3). Doveryhodnost plnění není hodnocena – Piráti byli celé období 2022-2026 v opozici bez výkonné funkce v radě MČ. Transparentnost vysoká – vlastní web, dohledatelná struktura kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "okapa-vaclav"
+  ],
+  "mezery_v_datech": [],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-9-7-ceska-piratska-strana"
+}

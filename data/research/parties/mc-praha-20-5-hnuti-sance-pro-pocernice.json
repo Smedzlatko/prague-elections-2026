@@ -1,0 +1,50 @@
+{
+  "slug": "mc-praha-20-5-hnuti-sance-pro-pocernice",
+  "assembly_id": "mc-praha-20",
+  "list_cislo": 5,
+  "nazev": "Hnutí Šance pro Počernice",
+  "zkratka": "Šance",
+  "typ": "strana",
+  "slozeni": [
+    "Šance pro Počer"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Třetí nejsilnější subjekt z voleb 2022 (19,58 %, 5 mandátů), vedený dosavadní místostarostkou Hanou Markulinec Moravcovou (majitelka rodinného pekařství, pěstounka); na listině i další radní a zastupitelé (Alexandra Janáčková, Pavel Wágner, Klára Bonková). Samostatný program pro volby 2026 nebyl dohledán.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "markulinec-moravcova-hana"
+  ],
+  "mezery_v_datech": [
+    "Program hnutí Šance pro Počernice nebyl dohledán v dostupných zdrojích.",
+    "Konkrétní role hnutí v radniční koalici 2022-2026 (jako koaličního partnera ODS/TOP09) je odvozena z briefu (funkce místostarostky), nebyla přímo potvrzena nezávislým zdrojem."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

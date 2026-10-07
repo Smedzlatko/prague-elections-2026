@@ -1,0 +1,86 @@
+{
+  "slug": "magistrat-6-velky-krizek-pro-litacku-za-kacku-sous",
+  "assembly_id": "magistrat",
+  "list_cislo": 6,
+  "nazev": "VELKÝ KŘÍŽEK PRO LÍTAČKU ZA KAČKU – SOUSEDÉ PRO PRAHU",
+  "zkratka": "LANO",
+  "typ": "koalice",
+  "slozeni": [
+    "Liberální aliance nezávislých občanů",
+    "nezávislí kandidáti"
+  ],
+  "web": "https://volimlano.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "volimlano.cz – web hnutí LANO",
+        "url": "https://volimlano.cz/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "programydovoleb.cz – VELKÝ KŘÍŽEK PRO LÍTAČKU ZA KAČKU",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164096",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Název listiny odkazuje na ústřední slib: zlevnění pražské jízdenky/předplatní karty Lítačka na symbolickou „kačku“ (1 Kč). Zastřešující hnutí LANO (Liberální aliance nezávislých občanů), za které kandiduje lídr Hugo Štolba, dále celostátně deklaruje méně byrokracie a více přímé demokracie, podporu zastoupení žen a mladých lidí v politice, řešení klimatické krize a přechod na obnovitelné zdroje, bezpečnost a spolupráci s NATO a ochranu lidských práv včetně manželství pro všechny. Konkrétní rozpracování slibu o Lítačce za 1 Kč (cena, rozpočtové krytí) se nepodařilo na webu dohledat.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Lítačka za kačku",
+        "popis": "Výrazné zlevnění pražské dopravní karty/jízdenky Lítačka, podle názvu listiny až na symbolickou 1 Kč.",
+        "citace": "VELKÝ KŘÍŽEK PRO LÍTAČKU ZA KAČKU",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Plošné zlevnění předplatní karty na symbolickou částku by znamenalo výpadek tržeb v řádu miliard korun ročně, aniž by program uváděl, z čeho by byl kryt."
+        },
+        "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164096"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Méně byrokracie, více demokracie",
+        "popis": "Obecný požadavek na omezení byrokracie a posílení přímé demokracie.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Jde o obecnou proklamaci bez konkrétního nástroje; realizovatelnost nelze posoudit."
+        },
+        "zdroj_url": "https://volimlano.cz/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "Hnutí LANO se hlásí k liberálním hodnotovým pozicím (manželství pro všechny, lidská práva, podpora žen a mladých v politice) a k ekologické agendě, zatímco požadavek na masivní zlevnění MHD má redistributivní charakter – odpovídá liberálně-levicovému profilu.",
+    "zdroje": [
+      {
+        "nazev": "volimlano.cz – web hnutí LANO",
+        "url": "https://volimlano.cz/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Ústřední slib (Lítačka za 1 Kč) je pojmenovaný, ale bez rozpočtového krytí; ostatní body jsou obecné proklamace – odpovídá stupni 1. Transparentnost: zveřejněný program (+1), dohledatelní kandidáti na listině (+1); financování kampaně a transparentní účet nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [],
+  "mezery_v_datech": [
+    "Konkrétní rozpočtové krytí a cílová cena Lítačky nebyly na webu LANO dohledány – jen název listiny uvádí „kačku“ (1 Kč).",
+    "Lídr Hugo Štolba nemá v projektu vytvořený samostatný dossier – listina má 4 kandidáty a žádnou reálnou šanci na mandát."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "frauenterka-michal",
+  "name_key": "frauenterka-michal",
+  "cele_jmeno": "Michal Frauenterka",
+  "rok_narozeni": 1967,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 7,
+      "poradi": 5
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Michal Frauenterka je místostarostou MČ Praha 15 za ODS, zvolen v roce 2022 na listině Společně pro Prahu 15.",
+  "vzdelani": null,
+  "profese": "Místostarosta MČ Praha 15.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "místostarosta MČ Praha 15",
+      "organizace": "MČ Praha 15",
+      "zdroj_url": "https://www.praha15.cz"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako místostarosta nese spoluodpovědnost za chod radnice, podrobný audit jeho konkrétního resortu se však nepodařilo samostatně dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 547387",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní resort a výsledky práce místostarosty Frauenterky nebyly samostatně dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "mc-praha-12-11-praha-12-sobe",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 11,
+  "nazev": "PRAHA 12 SOBĚ",
+  "zkratka": "PRAHA 12 SOBĚ",
+  "typ": "koalice",
+  "slozeni": ["PRAHA SOBĚ", "Zelení", "nezávislí"],
+  "web": "https://prahasobe.cz/praha12sobe/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "PRAHA 12 SOBĚ – volební program 2026", "url": "https://prahasobe.cz/praha12sobe/", "datum": "2026-10-02"}
+    ],
+    "shrnuti": "PRAHA 12 SOBĚ slibuje zahájení revitalizace sídlišť, lepší dostupnost parkování, systémový a koncepční přístup k rozvoji území, rozšíření dopravní infrastruktury, centralizovanou údržbu veřejných prostranství, zastavení prodeje obecních bytů a nájemních domů a naopak rozšíření bytového fondu MČ, zlepšení kvality školství a prostředí pro děti a celkově „bezpečnou, přívětivou a pečující Prahu 12“.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Zastavení prodeje obecních bytů a rozšíření bytového fondu",
+        "popis": "Zastavení dalšího prodeje obecních bytů a domů a naopak navyšování bytového fondu MČ.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Jde o rozhodnutí v přímé pravomoci zastupitelstva MČ ohledně nakládání s vlastním majetkem."},
+        "zdroj_url": "https://prahasobe.cz/praha12sobe/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Revitalizace sídlišť",
+        "popis": "Zahájení revitalizace panelových sídlišť v MČ.",
+        "citace": "Zahájíme revitalizace sídlišť.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Rozsah a tempo revitalizace závisí na rozpočtu MČ a případných dotacích, které nejsou v programu specifikovány."},
+        "zdroj_url": "https://prahasobe.cz/praha12sobe/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Lepší dostupnost parkování a dopravní infrastruktura",
+        "popis": "Zlepšení dostupnosti parkování a rozšíření dopravní infrastruktury.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Závisí na spolupráci s magistrátem u větších dopravních staveb."},
+        "zdroj_url": "https://prahasobe.cz/praha12sobe/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "Koalice PRAHA SOBĚ a Zelených se profiluje jako liberálně-komunitní s důrazem na obecní bydlení a veřejné služby, mírně levicově-ekonomicky (zastavení privatizace bytového fondu) a hodnotově progresivněji.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "PRAHA 12 SOBĚ byla v letech 2022–2026 v opozici vůči koalici ODS, TOP 09 a ANO 2011, se 4 mandáty z voleb 2022.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční subjekt nemohla přímo prosazovat vlastní exekutivní agendu; konkrétní opoziční návrhy a jejich osud za období 2022–2026 nebyly v rámci této rešerše dohledány."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program obsahuje jmenovaná opatření (zastavení prodeje bytů, revitalizace sídlišť), ale bez čísel a termínů (konkrétnost 2). Důvěryhodnost plnění nelze hodnotit u opoziční strany bez dohledaného programu z roku 2022. Transparentnost: zveřejněný program (+1), dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["ballay-verona"],
+  "mezery_v_datech": [
+    "Kompletní text programu pro rok 2026 nebyl z webu stažen celý.",
+    "Konkrétní opoziční agenda a její výsledky za období 2022–2026 nebyly dohledány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

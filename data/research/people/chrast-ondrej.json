@@ -1,0 +1,126 @@
+{
+  "slug": "chrast-ondrej",
+  "name_key": "chrast-ondrej",
+  "cele_jmeno": "Mgr. Ondřej Chrást",
+  "rok_narozeni": 1980,
+  "strana": "TEAM (dříve Česká pirátská strana)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 16,
+      "poradi": 3
+    },
+    {
+      "assembly_id": "mc-praha-6",
+      "list_cislo": 11,
+      "poradi": 1
+    }
+  ],
+  "role": "top5",
+  "profil": "Ondřej Chrást vystudoval psychosociální studia a teologii na Univerzitě Karlově. Od října 2018 je zastupitelem MČ Praha 6, kde v roce 2018 vedl kandidátku Pirátů. V letech 2022-2024 byl krajským (pražským) předsedou Pirátů. Od ledna 2022 do listopadu 2024 působil jako náměstek ministra kultury Martina Baxy ve vládě Petra Fialy, kde koordinoval mimo jiné českou kulturní pomoc Ukrajině po invazi v roce 2022. Je zakladatelem iniciativy zachrantevily.cz na záchranu historických vil v Bubenči. Byl členem Pirátské strany od roku 2018 do odchodu v květnu 2026, poté se stal vedoucím pražského týmu hnutí JSME TEAM v rámci nového subjektu JSME PRAHA pro volby 2026, kde je na celopražské listině na třetím místě.",
+  "vzdelani": "psychosociální studia a teologie, Univerzita Karlova",
+  "profese": "manažer v kultuře a vzdělávání, bývalý náměstek ministra kultury (2022-2024)",
+  "politicka_historie": [
+    {
+      "od": "2018-10",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 6 (lídr kandidátky Pirátů 2018)",
+      "organizace": "MČ Praha 6",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Chr%C3%A1st"
+    },
+    {
+      "od": "2018",
+      "do": "2026-05",
+      "funkce": "člen České pirátské strany",
+      "organizace": "Česká pirátská strana",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Chr%C3%A1st"
+    },
+    {
+      "od": "2022-01",
+      "do": "2024-11",
+      "funkce": "náměstek ministra kultury (ministr Martin Baxa, vláda Petra Fialy)",
+      "organizace": "Ministerstvo kultury ČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Chr%C3%A1st"
+    },
+    {
+      "od": "2022-11",
+      "do": "2024",
+      "funkce": "krajský (pražský) předseda Pirátů",
+      "organizace": "Česká pirátská strana",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Chr%C3%A1st"
+    },
+    {
+      "od": "2026-05",
+      "do": null,
+      "funkce": "odchod z Pirátské strany",
+      "organizace": "Česká pirátská strana",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Chr%C3%A1st"
+    },
+    {
+      "od": "2026",
+      "do": null,
+      "funkce": "vedoucí pražského týmu JSME TEAM / lídr JSME PRAHA pro MČ Praha 6, #3 na magistrátní listině",
+      "organizace": "JSME TEAM",
+      "zdroj_url": "https://www.jsme.team/nase-teamy/praha/"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Koordinace české kulturní pomoci Ukrajině",
+      "popis": "Jako náměstek ministra kultury koordinoval po roce 2022 pomoc českého kulturního sektoru Ukrajině v souvislosti s ruskou invazí.",
+      "stav": "dokonceno",
+      "hodnoceni": "Konkrétní doložená agenda v rámci jeho náměstkovské funkce, bez dalších podrobností o rozsahu či dopadu v dostupných zdrojích.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Ondřej Chrást",
+          "url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Chr%C3%A1st",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Iniciativa zachrantevily.cz",
+      "popis": "Založil projekt na záchranu historických vil v pražské čtvrti Bubeneč.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Jde o dlouhodobou občanskou/památkovou iniciativu, aktuální stav k roku 2026 nebyl dohledán.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Ondřej Chrást",
+          "url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Chr%C3%A1st",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako náměstek ministra kultury měl výkonnou funkci, ale ta byla na celostátní, nikoli pražské (komunální) úrovni, a jeho komunální funkce (zastupitel Prahy 6) je bez radního portfolia – zdrojovaný seznam volebních slibů a jejich plnění na komunální úrovni nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Ondřej Chrást",
+      "url": "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Chr%C3%A1st",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "jsme.team: JSME PRAHA",
+      "url": "https://www.jsme.team/nase-teamy/praha/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné důvody odchodu z Pirátské strany v květnu 2026 (osobní rozhodnutí, spor s vedením, apod.) nebyly v dostupných zdrojích doloženy - pouze fakt a datum odchodu.",
+    "Přesný rok narození je odhad z udaného věku 46 let v brífu k říjnu 2026 (1980), potvrzeno datem narození 7. července 1980 z Wikipedie.",
+    "Detailní bilance jeho působení jako náměstka ministra kultury (konkrétní rozhodnutí, kritika) nebyla hlouběji zpracována nad rámec základního shrnutí."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

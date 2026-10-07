@@ -1,0 +1,52 @@
+{
+  "slug": "pesek-pavel",
+  "name_key": "pesek-pavel",
+  "cele_jmeno": "Pavel Pešek",
+  "rok_narozeni": 1971,
+  "strana": "TOP 09",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 7,
+      "poradi": 7
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Pavel Pešek je místostarostou MČ Praha 15 pro sociální oblast a zdravotnictví za TOP 09, zvolen v roce 2022 na listině Společně pro Prahu 15.",
+  "vzdelani": null,
+  "profese": "Místostarosta MČ Praha 15 pro sociální oblast a zdravotnictví.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "místostarosta MČ Praha 15 pro sociální oblast a zdravotnictví",
+      "organizace": "MČ Praha 15",
+      "zdroj_url": "https://www.praha15.cz"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako místostarosta nese spoluodpovědnost za chod radnice v sociální a zdravotní oblasti, podrobný audit se však nepodařilo samostatně dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 547387",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní výsledky jeho práce v resortu sociální oblasti a zdravotnictví nebyly samostatně dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

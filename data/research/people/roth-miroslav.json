@@ -1,0 +1,52 @@
+{
+  "slug": "roth-miroslav",
+  "name_key": "roth-miroslav",
+  "cele_jmeno": "Bc. Miroslav Roth",
+  "rok_narozeni": 1968,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 6,
+      "poradi": 3
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Miroslav Roth je radním MČ Praha 22 za ANO 2011, finančním ředitelem z profese a dobrovolným hasičem. Zvolen byl v roce 2022 na 2. místě kandidátky ANO.",
+  "vzdelani": null,
+  "profese": "Radní MČ Praha 22, finanční ředitel, dobrovolný hasič.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "radní MČ Praha 22",
+      "organizace": "MČ Praha 22",
+      "zdroj_url": "https://www.praha22.cz"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako radní nese spoluodpovědnost za chod rady MČ, podrobný audit jeho konkrétní agendy se však nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 538931",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní resort a výsledky jeho práce jako radního nebyly samostatně dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

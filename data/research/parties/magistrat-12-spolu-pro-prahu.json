@@ -1,0 +1,319 @@
+{
+  "slug": "magistrat-12-spolu-pro-prahu",
+  "assembly_id": "magistrat",
+  "list_cislo": 12,
+  "nazev": "SPOLU pro Prahu",
+  "zkratka": "SPOLU",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "TOP 09"
+  ],
+  "web": "https://tempoplan.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Volební program SPOLU pro Prahu 2026 (tempoplan.cz)",
+        "url": "https://tempoplan.cz",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "programydovoleb.cz – SPOLU pro Prahu",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/163868",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Deník N: Kdo povládne Praze? Ve hře jsou tři hlavní scénáře",
+        "url": "https://denikn.cz/2181769/pakt-s-babisem-nebo-liberalni-sily-proti-ods-rozebirame-kdo-povladne-po-volbach-v-praze/",
+        "datum": "2026-09-13"
+      },
+      {
+        "nazev": "Deník N: Pražští politici v kampani řeší, co se stamiliardovou rezervou",
+        "url": "https://denikn.cz/2194546/prazsti-politici-v-kampani-resi-co-se-stamiliardovou-rezervou-kolik-lze-realne-utratit/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Program koalice ODS a TOP 09 pod názvem „Tempo plán“ s kandidátem na primátora Tomášem Portlíkem staví na tezi, že Praha má správné projekty, ale nedostatečné tempo. Jádrem je zjednodušení povolování a zrychlení rozhodování: reforma parkovacích zón, koordinace uzavírek, urychlení výstavby škol a bytů, digitalizace úřadu a reforma velkých tendrů. Program je silný v pojmenování konkrétních opatření, ale u většiny z nich neuvádí čísla, termíny ani rozpočtové krytí.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Reforma parkovacích zón",
+        "popis": "Dynamické ceny návštěvnického parkování v placených zónách; zrušení krátkodobého parkování nerezidentů v modrých zónách, rezidenti místo toho dostanou omezený kredit pro návštěvy; parkovací oprávnění má platit v modrých zónách ve všech městských částech, ne jen v domovské.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Reforma je v kompetenci města a MČ, ale sjednocení platnosti oprávnění napříč MČ vyžaduje souhlas jednotlivých městských částí, které dnes zóny spravují samostatně."
+        },
+        "zdroj_url": "https://tempoplan.cz"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Koordinace uzavírek a režim 24/7",
+        "popis": "Nasazení systému s využitím AI pro koordinaci všech oprav ulic v rámci celého města a zavedení nepřetržitého režimu prací tam, kde je to možné, s cílem výrazně zkrátit uzavírky.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Koordinaci město ovládá, nepřetržitý režim ale naráží na hygienické limity hluku a na ceny nočních prací; program neuvádí, u kolika staveb a za kolik."
+        },
+        "zdroj_url": "https://tempoplan.cz"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Zjednodušení povolování výstavby",
+        "popis": "Zjednodušit všechny procesy povolování staveb a zrychlit tak výstavbu nových bytů; zvažovat směnu pozemků za rychle postavené byty.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Stavební povolování se řídí státním stavebním zákonem, město jeho pravidla nemůže měnit samo; vliv má jen na své vlastní procesy a na rychlost svých vyjádření."
+        },
+        "zdroj_url": "https://tempoplan.cz"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Urychlení výstavby středních škol",
+        "popis": "Okamžitá inventura městských budov a pozemků vhodných pro školy, vyjednání podílu Středočeského kraje na nákladech navyšování kapacit a bezodkladné zahájení nové výstavby a přestaveb.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Střední školy jsou v kompetenci města, inventura je realizovatelná rychle; spolufinancování ze strany Středočeského kraje je ale závislé na jeho vůli a město ho nemůže vymoci."
+        },
+        "zdroj_url": "https://tempoplan.cz"
+      },
+      {
+        "oblast": "digitalizace",
+        "nazev": "Aplikace Pražanda a One-Stop Shop",
+        "popis": "Jedna městská aplikace sdružující parkovací oprávnění, jízdenky MHD, poplatky za odpad a vstupy do městských zařízení. Pro podnikatele princip One-Stop Shop s digitálním vyřízením povolení a registrací.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Technicky v možnostech města; hlavním rizikem je integrace stávajících systémů (Lítačka, parkovací zóny, odpady), kde Praha má historii nepovedených IT projektů."
+        },
+        "zdroj_url": "https://tempoplan.cz"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Pražský inovační fond a regulatorní sandbox",
+        "popis": "Založení Pražského inovačního fondu spojujícího městský, privátní a institucionální kapitál a Pražského regulatorního sandboxu pro testování startupů ve spolupráci s městem.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Zřízení fondu je v moci města, ale program neuvádí objem, zdroje ani pravidla; účast privátního kapitálu je pouze předpokládaná."
+        },
+        "zdroj_url": "https://tempoplan.cz"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Reforma velkých tendrů a skicovné",
+        "popis": "Reforma zadávání velkých infrastrukturních tendrů, zjednodušení dokumentace a zavedení modelu skicovného, které má předcházet zdržením ze sporů dodavatelů. Program se výslovně odvolává na tříleté zdržení tendru na metro D.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Zadávání se řídí zákonem o zadávání veřejných zakázek; město může měnit vlastní praxi a dokumentaci, ne zákonné lhůty a možnost podávat námitky."
+        },
+        "zdroj_url": "https://tempoplan.cz"
+      },
+      {
+        "oblast": "kultura",
+        "nazev": "Open-air areál pro 50 000 lidí",
+        "popis": "Vybudovat velký otevřený areál s kapacitou nad 50 000 osob pro velké kulturní akce a zjednodušit povolování akcí jednotným portálem pro organizátory.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jediný kvantifikovaný bod programu. Chybí ale lokalita, termín i cena, a hledání místa pro areál této velikosti v Praze je historicky neúspěšné."
+        },
+        "zdroj_url": "https://tempoplan.cz"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Pražský summit se starosty MČ",
+        "popis": "Pravidelná koordinační jednání vedení města se starosty městských částí a posunutí platformy Sněm starostů na vyšší úroveň při řešení celoměstských problémů.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Čistě organizační opatření plně v moci vedení města."
+        },
+        "zdroj_url": "https://tempoplan.cz"
+      }
+    ]
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "Koalice ODS (konzervativně-liberální, pravice) a TOP 09 (liberálně-konzervativní, pravice, hodnotově blíže liberálnímu středu) se celostátně řadí na pravici ekonomické osy; hodnotová osa je u koalice smíšená, protože ODS je v hodnotových otázkách konzervativnější než TOP 09 – uvedená hodnota je proto průměrný odhad s nízkou přesností.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Vedla pražskou koalici (SPOLU, Česká pirátská strana, STAN) po celé období 2022–2026; primátorem byl Bohuslav Svoboda (ODS), zvolen 16. února 2023 po 145 dnech koaličních jednání od voleb, s gescí bezpečnosti, energetiky a zahraničních vztahů. Náměstkyně primátora za ODS Alexandra Udženija měla od února 2023 na starosti sociální politiku, bydlení, zdravotnictví a pohřebnictví. Radní (od prosince 2025 náměstek) za ODS Zdeněk Kovářík měl gesci financí, fondů a podpory podnikání. Náměstek za TOP 09 Michal Hroza (radní od února 2023, náměstkem od prosince 2025) měl infrastrukturu a technickou vybavenost a životní prostředí; Jiří Pospíšil/Tomáš Slabihoudek (TOP 09) měli kulturu, cestovní ruch a památkovou péči. Územní rozvoj, bydlení ve smyslu výstavby (Pražská developerská společnost) a majetek/transparentnost měly v gesci STAN (Petr Hlaváček) a Piráti (Adam Zábranský) – podle pravidel férovosti se v této bilanci hodnotí SPOLU hlavně podle vlastních resortů, ne podle dopravy (Piráti) nebo územního rozvoje (STAN).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Programové prohlášení Rady (2023, kapitola „Praha prosperující“): zvýšit podíl investic na celkových výdajích rozpočtu a maximálně využít rezervy a partnerství se státem a EU na investice.",
+        "dukaz": "Hl. m. Praha mělo k říjnu 2026 v rezervě podle Deníku N přibližně 200 miliard korun, kterou kritizují jako nedostatečně využitou na investice jak opoziční ANO (Jan Hušbauer: město „nadměrně spoří, ale jen málo investuje do potřeb svých obyvatel“), tak bývalý koaliční partner předchozí koalice Praha sobě (Adam Scheinherr, požaduje „zdvojnásobení investic“). Radní pro finance Zdeněk Kovářík (ODS) ani primátor Svoboda se v dostupných zdrojích k míře navýšení investičního podílu rozpočtu konkrétně nevyjádřili; přesná čísla o vývoji investičního podílu rozpočtu 2022-2026 se nepodařilo dohledat, proto hodnoceno jako sporné/částečné, ne jako prokázané nesplnění.",
+        "zdroj_url": "https://denikn.cz/2194546/prazsti-politici-v-kampani-resi-co-se-stamiliardovou-rezervou-kolik-lze-realne-utratit/"
+      },
+      {
+        "slib": "Programové prohlášení Rady (2023, kapitola „Praha majetkově odpovědná“ – „Praha otevřená“): zajistit certifikaci protikorupčního systému ISO 37001 na magistrátu v oblasti zadávání veřejných zakázek a správy majetku.",
+        "dukaz": "Hl. m. Praha uzavřelo v březnu 2023 smlouvu s Ernst & Young Audit na komplexní poradenství při implementaci systému dle ČSN ISO 37001; k roku 2025 existují dodatky smlouvy, což ukazuje na pokračující, ale k říjnu 2026 nedokončenou implementaci. Dokončení certifikace se v dostupných zdrojích nepodařilo potvrdit.",
+        "zdroj_url": "https://www.hlidacstatu.cz/hledat?q=ISO%2037001%20Praha%20magistr%C3%A1t"
+      },
+      {
+        "slib": "Programové prohlášení Rady (2023, kapitola „Praha pro všechny“ – sociální politika v gesci náměstkyně Udženiji): rozšířit kapacity pro lidi bez přístřeší a nízkoprahové sociální služby.",
+        "dukaz": "Magistrát v květnu 2026 schválil rekonstrukci azylového domu za 200-300 milionů korun, ale stavba nebyla do voleb 2026 dokončena; současně se v dubnu 2026 uzavřelo jedno centrum pro lidi bez domova s tím, že se jeho služby mají „rozprostřít“ jinam – dopad této změny na celkovou kapacitu není v dostupných zdrojích jasně vyhodnocen.",
+        "zdroj_url": "https://denikn.cz/minuta/2059939/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice vedená SPOLU udržela stabilní vládnutí po celé volební období bez rozpadu (jedinou personální ztrátou byl odchod zastupitelky Hany Kordové Marvanové z klubu SPOLU v únoru 2023 za nehlasování pro Svobodu jako primátora). Primátor Svoboda si na zvolení počkal rekordních 145 dní. Ve vlastních resortech (finance, sociální politika a bydlení, bezpečnost) se nepodařilo dohledat žádný nezávisle potvrzený, zcela splněný měřitelný slib z programového prohlášení Rady z roku 2023 – u klíčových závazků (zvýšení investičního podílu rozpočtu, certifikace ISO 37001, rozšíření kapacit sociálního bydlení) existuje jen částečný nebo nejasný pokrok. Finanční hospodaření bylo za SPOLU/Kováříka terčem kritiky zleva i zprava pro přílišné spoření s rezervou 200 mld. Kč místo investic do slibovaných staveb. Vedení magistrátu zároveň provázely řídící problémy: primátor Svoboda v březnu 2025 odvolal ředitele Magistrátu Martina Kubelku pro šest zjištěných porušení zákona za půl roku (mimořádné odměny, přidělování parkovacích karet) a sám čelil kritice za objednání energetických analýz od nekvalifikovaného zpracovatele, na kterou reagoval slovy „Do toho vám nic není“. Chybí ale jakýkoli doklad o vyloženě porušeném slibu typu „obrat o 180°“ – obraz je smíšený, ne jednoznačně negativní.",
+    "zdroje": [
+      {
+        "nazev": "cs.wikipedia.org: Zastupitelstvo hlavního města Prahy",
+        "url": "https://cs.wikipedia.org/wiki/Zastupitelstvo_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org: Rada hlavního města Prahy",
+        "url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org: Bohuslav Svoboda",
+        "url": "https://cs.wikipedia.org/wiki/Bohuslav_Svoboda",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Programové prohlášení koalice SPOLU pro Prahu, Pirátské strany a hnutí Starostové a nezávislí (červen 2023)",
+        "url": "https://www.praha.eu/documents/d/praha/programove_prohlaseni_2023_3600794",
+        "datum": "2023-06-01"
+      },
+      {
+        "nazev": "Deník N: Pražští politici v kampani řeší, co se stamiliardovou rezervou",
+        "url": "https://denikn.cz/2194546/prazsti-politici-v-kampani-resi-co-se-stamiliardovou-rezervou-kolik-lze-realne-utratit/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Deník N: Praha nemá tempo kvůli ODS. Scheinherr o Portlíkově sloganu",
+        "url": "https://denikn.cz/2149412/praha-nema-tempo-kvuli-ods-scheinherr-o-portlikove-sloganu-rizeni-autobusu-i-chybejici-kandidatce/",
+        "datum": "2026-08-10"
+      },
+      {
+        "nazev": "Deník N: Do toho vám nic není. Svoboda si objednal analýzy za statisíce, autor v oboru nikdy nepracoval",
+        "url": "https://denikn.cz/1642052/do-toho-vam-nic-neni-svoboda-si-objednal-analyzy-za-statisice-autor-v-oboru-nikdy-nepracoval/",
+        "datum": "2025-02-02"
+      },
+      {
+        "nazev": "Deník N: Martin Kubelka převzal odvolání z funkce ředitele pražského magistrátu",
+        "url": "https://denikn.cz/minuta/1695882/",
+        "datum": "2025-04-01"
+      },
+      {
+        "nazev": "Deník N: Magistrát zrekonstruuje azylový dům za 200-300 mil. Kč",
+        "url": "https://denikn.cz/minuta/2059939/",
+        "datum": "2026-05-11"
+      }
+    ]
+  },
+  "kontroverze": [
+    {
+      "nazev": "Neúplně uvedené vlastnictví nemovitostí lídra Tomáše Portlíka",
+      "typ": "medialni",
+      "obdobi": "2026-09",
+      "popis": "Lídr kandidátky a kandidát na primátora Tomáš Portlík v dotazníku MF DNES k dostupnosti bydlení uvedl, že jako fyzická osoba vlastní jen dvě nemovitosti (polovinu rodinného domu a polovinu bytu ve Vysočanech). Deník N zjistil, že přes svou firmu vlastní ještě tři další pražské byty, celkem tedy pět nemovitostí.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Portlík pochybení odmítl a uvedl, že majetková přiznání řádně a včas odevzdává do registru oznámení Ministerstva spravedlnosti.",
+      "zdroje": [
+        {
+          "nazev": "Deník N: Dvě, nebo pět nemovitostí? Kandidát na pražského primátora Portlík vlastní byty také přes firmu",
+          "url": "https://denikn.cz/2182150/dve-nebo-pet-nemovitosti-kandidat-na-prazskeho-primatora-portlik-vlastni-byty-take-pres-firmu/",
+          "datum": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "nazev": "Odvolání ředitele Magistrátu Martina Kubelky",
+      "typ": "jine",
+      "obdobi": "2025",
+      "popis": "Primátor Bohuslav Svoboda (ODS) v lednu 2025 požádal ministerstvo vnitra o posouzení odvolatelnosti ředitele Magistrátu hl. m. Prahy Martina Kubelky a 24. 3. 2025 jej odvolal. Důvodem bylo šest zjištěných porušení zákona během půl roku, mimo jiné mimořádné odměny zaměstnancům a způsob přidělování parkovacích karet (prošetřovala i policie na podnět ministerstva vnitra); zkoumáno bylo i to, zda zaměstnanci podepsavší petici proti Zdeňku Hřibovi dostali neoprávněné odměny (Kubelka to popřel jako nesouvisející).",
+      "stav": "potvrzeno",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Kubelka podal v únoru 2025 vyjádření podle tiskového zákona; v červnu 2025 odmítl nabídku na jinou pozici na magistrátu.",
+      "zdroje": [
+        {
+          "nazev": "Deník N: Podepsali dopis proti Hřibovi, dostali sto tisíc. Nesouvisí to, říká ředitel magistrátu",
+          "url": "https://denikn.cz/1633329/podepsali-dopis-proti-hribovi-dostali-sto-tisic-nesouvisi-to-rika-reditel-magistratu/",
+          "datum": "2025-01-29"
+        }
+      ]
+    },
+    {
+      "nazev": "Svobodou objednané energetické analýzy od nekvalifikovaného zpracovatele",
+      "typ": "medialni",
+      "obdobi": "2025",
+      "popis": "Primátor Svoboda si jako radní pro energetiku objednal energetické analýzy za stovky tisíc korun od zpracovatele, který v oboru podle zjištění novinářů nikdy nepracoval.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Svoboda na dotazy ke zpracovateli a ceně odpověděl: „To je moje věc, proč to dělám. Do toho vám nic není.“.",
+      "zdroje": [
+        {
+          "nazev": "Deník N: Do toho vám nic není. Svoboda si objednal analýzy za statisíce, autor v oboru nikdy nepracoval",
+          "url": "https://denikn.cz/1642052/do-toho-vam-nic-neni-svoboda-si-objednal-analyzy-za-statisice-autor-v-oboru-nikdy-nepracoval/",
+          "datum": "2025-02-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Podezřelá dražba Soukupových nemovitostí",
+      "typ": "jine",
+      "obdobi": "2024-2025",
+      "popis": "Hl. m. Praha koupilo v dražbě nemovitosti z majetku Jaromíra Soukupa za 649 milionů korun; město následně samo podezřívalo, že dražba byla manipulována (únik informací o nabídkách), soud ale odvolání Prahy proti výsledku dražby zamítl. V prosinci 2025 vypovídali primátor Svoboda a radní na policii; z dostupných zdrojů nevyplývá, že by byli vyslýcháni jako podezřelí, spíše v souvislosti s vlastním podnětem města.",
+      "stav": "probiha",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Deník N: Pražský primátor i radní vypovídali na policii v kauze podezřelé dražby Soukupových nemovitostí",
+          "url": "https://denikn.cz/1922366/prazsky-primator-i-radni-vypovidali-na-policii-v-kauze-podezrele-drazby-soukupovych-nemovitosti/",
+          "datum": "2025-12-19"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "Konkrétnost programu 2/5: program („Tempo plán“) pojmenovává konkrétní a netriviální opatření — dynamické ceny návštěvnického parkování, platnost parkovacího oprávnění v modrých zónách napříč městskými částmi, skicovné u tendrů, aplikace Pražanda — ale téměř nikde neuvádí kvantifikaci, termín ani zdroj financování. Výjimkou je areál pro 50 000 lidí, u nějž zase chybí lokalita i cena. Podle metodiky stupeň 2 („pojmenovaná opatření bez čísel a termínů“). Důvěryhodnost plnění slibů 2/5: proti programovému prohlášení Rady z června 2023 se dá v resortech, které měla SPOLU skutečně v gesci (primátor – bezpečnost/energetika; Udženija – sociální politika, bydlení, zdravotnictví; Kovářík – finance), doložit jen menšina posunu, a to jen jako rozpracovaný, ne dokončený: certifikace protikorupčního systému ISO 37001 běží od roku 2023 bez potvrzeného dokončení, rekonstrukce azylového domu byla teprve schválena v roce 2026, a klíčový finanční slib zvýšit podíl investic na výdajích rozpočtu je naopak terčem konkrétní kritiky zleva (Praha sobě) i zprava (ANO) kvůli nevyužívané cca 200miliardové rezervě – žádný nezávisle potvrzený, zcela splněný měřitelný slib ve vlastních resortech se nenašel. To odpovídá stupni 2 metodiky („menšina splněna, vlastní priority odloženy“), ne stupni 0-1, protože nejde o jasně prokázaná porušení slibů ani o obrat o 180 stupňů – jde o odložené a nejasně dotažené závazky. Mimo samotné plnění programu zatěžuje důvěryhodnost i řada řídicích problémů (odvolání ředitele magistrátu Kubelky pro prokázaná porušení zákona, kauza vlastních neprofesně zadaných analýz), ty se ale do skóre promítají jen nepřímo jako kontext, ne jako samostatný důvod snížení – v souladu s metodikou je skóre vázáno na plnění měřitelných slibů, ne na hlasitost kauz. Transparentnost 3/5: program je zveřejněný a citovatelný, kandidátka má dohledatelné životopisy (většina lídrů jsou dlouholetí starostové MČ s veřejným profilem) a hlasování zastupitelů ZHMP jsou veřejně dostupná na praha.eu.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "portlik-tomas"
+  ],
+  "mezery_v_datech": [
+    "Bohuslav Svoboda (primátor 2023-2026) na kandidátní listině SPOLU pro rok 2026 podle ověřených dat ČSÚ není uveden - nebyl proto zpracován jako samostatná osoba, pouze zmíněn v kontextu bilance.",
+    "Nepodařilo se dohledat přesná čísla o vývoji investičního podílu rozpočtu hl. m. Prahy 2022-2026 (jen opoziční kritika, ne primární rozpočtová data) - klíčové pro přesnější posouzení slibu z finanční kapitoly programového prohlášení.",
+    "Nepodařilo se potvrdit, zda byla certifikace protikorupčního systému ISO 37001 na magistrátu k říjnu 2026 dokončena, ani zda a jak byl naplněn slib 'startovacích bytů' a fondu Rozvoje dostupného bydlení z bytové politiky náměstkyně Udženiji.",
+    "Nepodařilo se dohledat archivovaný volební program ODS/TOP 09 pro Prahu z roku 2022 (web spolupraha.cz není dostupný, web.archive.org nelze z tohoto prostředí fetchovat) - bilance 2022-2026 je proto postavena primárně na programovém prohlášení Rady z června 2023, které je sice závaznější (koalicí podepsaný dokument), ale vzniklo až po volbách, ne jako předvolební slib."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

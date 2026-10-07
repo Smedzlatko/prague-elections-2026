@@ -1,0 +1,46 @@
+{
+  "slug": "benysek-jiri",
+  "name_key": "benysek-jiri",
+  "cele_jmeno": "Jiří Benýšek",
+  "rok_narozeni": 1991,
+  "strana": "bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 23,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Jiří Benýšek je podle vlastního životopisu vedoucí showroomu a kandiduje jako lídr celopražské listiny Naše Praha SNK ED (koalice nezávislých kandidátů se SNK Evropští demokraté). Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný veřejně dostupný záznam o jeho dřívější politické činnosti – jde pravděpodobně o nováčka v komunální politice bez předchozí výkonné funkce. Na listině kandiduje společně s Ing. Jaromírem Benýškem (71 let, projektant, pozice č. 8), vztah mezi oběma osobami se z dostupných zdrojů nepodařilo ověřit, mohlo by jít o příbuzné se shodným příjmením.",
+  "vzdelani": null,
+  "profese": "vedoucí showroomu",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – Naše Praha SNK ED",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164923",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Případný příbuzenský vztah s Jaromírem Benýškem (pozice č. 8 téže listiny) nebyl ověřen.",
+    "Rok narození je odhad z uvedeného věku 35 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

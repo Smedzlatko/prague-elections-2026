@@ -1,0 +1,39 @@
+{
+  "slug": "mc-praha-11-1-motoriste-sobe-a-svobodni",
+  "assembly_id": "mc-praha-11",
+  "list_cislo": 1,
+  "nazev": "Motoristé sobě a Svobodní",
+  "zkratka": "Motoristé/Svobodní",
+  "typ": "koalice",
+  "slozeni": ["Svobodní", "Motoristé sobě"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program pro Prahu 11 se nepodařilo dohledat. Listina nemá mandát z roku 2022 (ani jedna ze stran kandidovala v Praze 11 samostatně pod touto značkou) a žádný z kandidátů podle dat ČSÚ nebyl v roce 2022 zvolen.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2.5,
+    "hodnotova_osa": 1.5,
+    "oduvodneni": "Svobodní jsou celostátně liberálně-konzervativní strana s důrazem na nízké daně a omezený stát; Motoristé sobě se profilují jako pravicové protestní hnutí hájící zájmy řidičů. Hodnocení je odvozeno z celostátního profilu obou stran, protože lokální program nebyl dohledán.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nenalezen (konkrétnost 0). Bez historie v zastupitelstvu MČ nelze hodnotit důvěryhodnost plnění. Transparentnost: dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["geberle-michal"],
+  "mezery_v_datech": [
+    "Lokální program listiny pro Prahu 11 nebyl dohledán.",
+    "Žádný dosavadní záznam o politické činnosti kandidátů v MČ Praha 11 nebyl nalezen."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

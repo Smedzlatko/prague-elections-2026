@@ -1,0 +1,36 @@
+{
+  "slug": "hosek-marian",
+  "name_key": "hosek-marian",
+  "cele_jmeno": "MUDr. Marián Hošek",
+  "rok_narozeni": 1951,
+  "strana": "KDU-ČSL",
+  "kandidatury_2026": [
+    {"assembly_id": "mc-praha-6", "list_cislo": 7, "poradi": 15}
+  ],
+  "role": "inkumbent",
+  "profil": "Marián Hošek je zubní lékař a místostarosta MČ Praha 6 pro sociální oblast a zdravotnictví za KDU-ČSL. V roce 2022 byl zvolen na 2. místě koaliční listiny ODS a KDU-ČSL s nejvyšším počtem preferenčních hlasů z celé listiny (8142), pro rok 2026 kandiduje na 15. místě. Jeho resort (sociální oblast, zdravotnictví) odpovídá i profesnímu zaměření lékaře. Veřejně dohledaný přehled jeho konkrétní agendy a výsledků v minulém období se v dostupných zdrojích nepodařilo najít.",
+  "vzdelani": "stomatologie (MUDr.)",
+  "profese": "zubní lékař, místostarosta MČ Praha 6 pro sociální oblast a zdravotnictví",
+  "politicka_historie": [
+    {"od": "2022-10", "do": null, "funkce": "místostarosta MČ Praha 6 pro sociální oblast a zdravotnictví", "organizace": "MČ Praha 6", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastává výkonnou funkci místostarosty pro sociální oblast a zdravotnictví, ale zdrojovaný přehled jeho konkrétní agendy a toho, co v ní prosadil či nedotáhl, se nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, MČ Praha 6 2026 - ODS a KDU-ČSL", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164303", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Konkrétní výsledky jeho agendy jako místostarosty (např. rozšíření sociálních a zdravotních služeb) nebyly v dostupných zdrojích dohledány nad rámec dat ČSÚ.",
+    "Rok narození je odhad z udaného věku 75 let v brífu k říjnu 2026.",
+    "Nebyl dohledán žádný nezávislý mediální zdroj o jeho politickém působení."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

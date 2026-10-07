@@ -1,0 +1,97 @@
+{
+  "slug": "mc-praha-15-3-hnuti-antonina-svehly-has",
+  "assembly_id": "mc-praha-15",
+  "list_cislo": 3,
+  "nazev": "HNUTÍ ANTONÍNA ŠVEHLY – HAŠ",
+  "zkratka": "HAŠ",
+  "typ": "strana",
+  "slozeni": [
+    "HAŠ"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Hnutí Antonína Švehly - program",
+        "url": "https://www.hnutiantoninasvehly.cz/kopie-z-o-nas/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Hnutí vedené bývalým starostou Milanem Wenzlem staví program na třech pilířích: transparentní správa MČ, doprava a infrastruktura (menší parkovací domy, rezidentní zóny, podpora dokončení jihovýchodní části Pražského okruhu kvůli odklonu tranzitní dopravy) a půda, zeleň a kvalita života (ochrana krajiny, dostupné a družstevní bydlení, kapacita škol).",
+    "priority": [
+      {
+        "oblast": "transparentnost",
+        "nazev": "Veřejná investiční komise pro investice nad 50 mil. Kč",
+        "popis": "Zřízení komise složené z odborníků a občanů, která by schvalovala velké investice MČ.",
+        "citace": "Zřízení Veřejné investiční komise složené z odborníků a občanů, která bude schvalovat investice nad 50 [milionů korun]",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o organizační opatření plně v pravomoci zastupitelstva MČ."
+        },
+        "zdroj_url": "https://www.hnutiantoninasvehly.cz/kopie-z-o-nas/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Nárok nájemníka na smlouvu po 2 letech řádného placení",
+        "popis": "Nájemníci obecních bytů mají po dvou letech řádného placení nájmu získat nárok na dlouhodobější smlouvu.",
+        "citace": "Po 2 letech řádného placení musí mít nájemník nárok na smlouvu",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Týká se jen obecního bytového fondu MČ, vyžaduje úpravu pravidel pronájmu."
+        },
+        "zdroj_url": "https://www.hnutiantoninasvehly.cz/kopie-z-o-nas/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Rezidentní zóny s flexibilním časovým omezením",
+        "popis": "Zavedení parkovacích zón s flexibilním časovým omezením pro rezidenty.",
+        "citace": "Zavedení rezidentních zón s flexibilním časovým omezením",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Parkovací zóny jsou v přímé gesci MČ."
+        },
+        "zdroj_url": "https://www.hnutiantoninasvehly.cz/kopie-z-o-nas/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": null,
+    "role": "HAŠ jako samostatná listina v roce 2022 na Praze 15 nekandidovalo (v tabulce výsledků 2022 nefiguruje); lídr Milan Wenzl je ale podle ČSÚ dat inkumbent – přesná listina, na které byl v roce 2022 zvolen, nebyla v rešerši ověřena.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Bývalý starosta Wenzl je významná postava místní politiky, přesný mandát a role v období 2022-2026 se však nepodařilo doložit nad rámec dat ČSÚ."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Program obsahuje konkrétní a ověřitelná opatření s čísly (investiční komise nad 50 mil. Kč, nárok na smlouvu po 2 letech), bez uvedení celkového rozpočtového krytí. Transparentnost +1 za zveřejněný program, +1 za zápisy zastupitelstva, +1 za dohledatelnou politickou historii lídra (bývalý starosta).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "wenzl-milan"
+  ],
+  "mezery_v_datech": [
+    "Nebylo ověřeno, na jaké listině a s jakým mandátem byl Milan Wenzl zvolen v roce 2022 (HAŠ jako takové v tabulce výsledků 2022 chybí).",
+    "Nebylo doloženo období, kdy byl Wenzl starostou Prahy 15, ani důvody konce jeho funkce.",
+    "Program neuvádí celkové rozpočtové krytí."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

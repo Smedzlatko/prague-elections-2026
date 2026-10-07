@@ -1,0 +1,27 @@
+{
+  "slug": "ludvik-vojtech",
+  "name_key": "ludvik-vojtech",
+  "cele_jmeno": "Vojtěch Ludvík",
+  "rok_narozeni": 2001,
+  "strana": "STAN",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-13", "list_cislo": 2, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Vojtěch Ludvík je právník, asistent místopředsedy Ústavně-právního výboru PSP ČR a hokejista. Bez dosavadního zastupitelského mandátu v MČ Praha 13 podle briefu ČSÚ; pro volby 2026 vede listinu STAROSTOVÉ A NEZÁVISLÍ.",
+  "vzdelani": "právo",
+  "profese": "právník, asistent poslance",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez výkonné funkce nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 13 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu nebyl dohledán žádný další veřejný záznam o osobě.",
+    "Rok narození odhadnut z udaného věku (25 let v roce 2026)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "mc-praha-5-9-ceska-strana-asocialu",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 9,
+  "nazev": "Česká strana asociálů",
+  "zkratka": "ČSA",
+  "typ": "strana",
+  "slozeni": [
+    "ČSA"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Listina s jediným kandidátem, Lia Nova (26 let, dle vlastního popisu student a „konspirační teoretik“). Žádný program nebyl dohledán. Vzhledem k počtu jednoho kandidáta na 41mandátové zastupitelstvo je zisk mandátu prakticky vyloučen.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Žádný program ani jiné zdrojované vyjádření k politickým pozicím nebylo dohledáno.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 0,
+    "oduvodneni": "Program nebyl dohledán, listina má jediného kandidáta bez dohledatelné veřejné kampaně. doveryhodnost_plneni je null – bez historického záznamu.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "nova-lia"
+  ],
+  "mezery_v_datech": [
+    "Vlastní volební program listiny nebyl dohledán.",
+    "Nebyl dohledán žádný web ani sociální síť listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

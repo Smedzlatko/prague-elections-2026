@@ -1,0 +1,100 @@
+{
+  "assembly_id": "mc-praha-20",
+  "nazev": "Praha 20",
+  "charakteristika": "Horní Počernice – okrajová městská část na východě Prahy, cca 17 900 obyvatel, 25 mandátů, 8 listin v roce 2026. Smíšená zástavba rodinných domů a sídlišť, blízkost Pražského okruhu. Volby 2022 byly velmi vyrovnané mezi třemi hlavními subjekty – Hnutí Občanů Počernic a NEZÁVISLÍ (7 mandátů), SPOLU ODS a TOP 09 (7 mandátů) a Hnutí Šance pro Počernice (5 mandátů); starostou je Petr Měšťan (ODS).",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ODS",
+      "TOP 09",
+      "Hnutí Šance pro Počernice"
+    ],
+    "starosta": {
+      "jmeno": "Mgr. Petr Měšťan",
+      "strana": "ODS",
+      "slug": "mestan-petr"
+    },
+    "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538213"
+  },
+  "zmeny_v_obdobi": [
+    "Vzhledem k tomu, že SPOLU (ODS a TOP 09) ani Hnutí Občanů Počernic samostatně nemělo většinu, musela vzniknout koalice; brief dokládá, že místostarostka Hana Markulinec Moravcová je z Hnutí Šance pro Počernice, což nasvědčuje koalici ODS/TOP09 + Šance pro Počernice. Přesné datum ustavení a případné personální změny v průběhu období se nepodařilo z dostupných zdrojů ověřit.",
+    "Současný starosta Petr Měšťan (ODS) vede radnici už od února 2020, kdy zastupitelstvo odvolalo starostku Alenu Štrobovou a její místostarosty poté, co se rozpadla tehdejší koalice (dva ze čtyř koaličních subjektů odešly a koalice ztratila většinu). Ve volbách 2022 post obhájil."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Pražský okruh (D0) a dostavba",
+      "popis": "Horní Počernice jsou přímo dotčeny trasou a dostavbou Pražského okruhu D0, který má odvést tranzitní dopravu z okolních obcí.",
+      "proc_zalezi": "Dostavba okruhu má zásadní vliv na hlukovou a dopravní zátěž MČ, zároveň jde o dlouho odkládaný infrastrukturní projekt.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 20",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538213",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Cyklostezka mezi Horními Počernicemi a Klánovicemi",
+      "popis": "Program kandidátky PRO Počernice – Naše Česko zmiňuje petici za zachování cyklostezky mezi Horními Počernicemi a Klánovicemi, kterou založila kandidátka Petra Bukovanová.",
+      "proc_zalezi": "Cyklostezka je příkladem místního tématu kvality veřejného prostoru a rekreační infrastruktury.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 20",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538213",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Doprava do centra a bezbariérovost",
+      "popis": "Brief zmiňuje kandidáta Martina Vaněčka jako koordinátora bezbariérové dopravy (BEZBA) a dispečera PID, což naznačuje, že dopravní obslužnost a bezbariérovost jsou aktivním místním tématem.",
+      "proc_zalezi": "Okrajová MČ bez vlastní stanice metra je závislá na autobusové síti a jejím napojení na PID.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 20",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538213",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Nové dopravní propojení Náchodská × Ve Žlíbku",
+      "stav": "realizovano/probiha",
+      "popis": "Webová stránka MČ zmiňuje nedávno realizované nové dopravní propojení křižovatky Náchodská x Ve Žlíbku.",
+      "zdroje": [
+        {
+          "nazev": "pocernice.cz",
+          "url": "https://www.pocernice.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: Praha 20 (Horní Počernice)",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538213",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "pocernice.cz",
+      "url": "https://www.pocernice.cz",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Blesk.cz: Otřesy na radnici pražských Horních Počernic: Starostku odvolali, Prahu 20 povede Petr Měšťan",
+      "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/635868/otresy-na-radnici-prazskych-hornich-pocernic-starostku-odvolali-prahu-20-povede-petr-mestan.html",
+      "datum": "2020"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné složení radniční koalice 2022-2026 se nepodařilo ověřit na webu pocernice.cz nad rámec údajů v briefu.",
+    "Mimo výměnu starosty v únoru 2020 (rozpad předchozí koalice, viz zmeny_v_obdobi) nebyly cíleným WebSearch dohledány žádné doložené kauzy MČ ani osobní kauzy Petra Měšťana za jeho vedení.",
+    "Ověřeno 6. 10. 2026 (WebSearch: Měšťan + kauza, zakázka): nic nenalezeno; jediný dohledaný spor je žaloba proti územnímu rozhodnutí o Pražském okruhu (politický spor, ne kauza)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

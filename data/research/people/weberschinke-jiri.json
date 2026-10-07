@@ -1,0 +1,54 @@
+{
+  "slug": "weberschinke-jiri",
+  "name_key": "weberschinke-jiri",
+  "cele_jmeno": "MgA. Jiří Weberschinke",
+  "rok_narozeni": null,
+  "strana": "Počernice JINAK",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-20",
+      "list_cislo": 6,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Kreativní manažer, předseda Komise kultury a zahraniční spolupráce Rady MČ Praha 20 – tedy nevolená, radou jmenovaná funkce, nikoliv mandát zastupitele. Vede listinu Počernice JINAK (nezávislí), která v roce 2022 získala 2 mandáty z 25 (10,15 %). Na listině kandidují i dosavadní radní/zastupitelé zvolení pravděpodobně za předchůdnický subjekt (Ladislav Stýblo, dramaturg Divadla pod Palmovkou, a Martin Velíšek, vysokoškolský pedagog a výtvarník).",
+  "vzdelani": "MgA.",
+  "profese": "kreativní manažer, předseda Komise kultury a zahraniční spolupráce RMČ Praha 20",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": null,
+      "funkce": "předseda Komise kultury a zahraniční spolupráce RMČ Praha 20",
+      "organizace": "Rada MČ Praha 20",
+      "zdroj_url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Předsednictví poradní komise rady není výkonná funkce s rozpočtovou odpovědností srovnatelnou s radním/místostarostou; osobní plnění politických slibů nelze podle metodiky hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Hornopočernický zpravodaj 10/2026 – volební inzerce listiny Počernice JINAK",
+      "url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf",
+      "datum": "2026-09-01"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození nebyl dohledán.",
+    "Nebylo ověřeno, zda byl Weberschinke v letech 2022-2026 zastupitelem MČ, nebo jen jmenovaným předsedou komise rady.",
+    "Vlastní program listiny Počernice JINAK pro volby 2026 nebyl dohledán nad rámec odkazu na web pocernicejinak.cz a sociální sítě."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

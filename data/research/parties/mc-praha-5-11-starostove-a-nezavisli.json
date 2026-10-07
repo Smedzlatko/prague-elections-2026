@@ -1,0 +1,114 @@
+{
+  "slug": "mc-praha-5-11-starostove-a-nezavisli",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 11,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "typ": "strana",
+  "slozeni": [
+    "STAN"
+  ],
+  "web": "https://stan-praha5.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "STAN Praha 5 - program",
+        "url": "https://stan-praha5.cz/program",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "STAN získal v roce 2022 6,98 % a 3 mandáty a je součástí vládnoucí koalice. Web popisuje program pro 2026-2030 jako „živý dokument“ tvořený participativně s obyvateli (sběr návrhů od března, odborné diskuse od června, zveřejnění náhledu programu v září). Osm tematických oblastí: doprava, územní rozvoj, životní prostředí, bezpečnost a prevence, školství, senioři a sociální služby, dostupnost bydlení, kultura a sport. Z minulého období uvádí konkrétní realizované projekty: novou základní školu na Smíchově (předanou k výstavbě městu), lávku mezi Sacre Coeur a Mrázovkou, podporu hokejového klubu HC Smíchov v nové aréně SPM a digitalizaci úřadu.",
+    "priority": [
+      {
+        "oblast": "skolstvi",
+        "nazev": "Nová základní škola na Smíchově",
+        "popis": "Projekt nové ZŠ na Smíchově, který byl podle programu předán k realizaci hlavnímu městu.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Realizace stavby byla svěřena magistrátu, takže konečné dokončení není plně v rukou MČ."
+        },
+        "zdroj_url": "https://stan-praha5.cz/program"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Lávka mezi Sacre Coeur a Mrázovkou",
+        "popis": "Nová pěší lávka spojující lokality Sacre Coeur a Mrázovka, zlepšující pěší propojení v rámci MČ.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o dokončenou/realizovanou investici popsanou jako výsledek minulého období."
+        },
+        "zdroj_url": "https://stan-praha5.cz/program"
+      },
+      {
+        "oblast": "digitalizace",
+        "nazev": "Digitalizace úřadu MČ",
+        "popis": "Program zmiňuje digitalizaci úřadu jako dosažený výsledek předchozího období, bez dalšího upřesnění konkrétních služeb.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o vnitřní administrativní proces plně v kompetenci úřadu MČ."
+        },
+        "zdroj_url": "https://stan-praha5.cz/program"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "STAN je komunálně orientovaná, pragmaticky středová strana s liberálnějšími hodnotovými postoji; program pro Prahu 5 je silně technokraticko-participativní bez výrazné ideologické profilace.",
+    "zdroje": [
+      {
+        "nazev": "STAN Praha 5 - program",
+        "url": "https://stan-praha5.cz/program",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Součást vládnoucí koalice (ODS/TOP09 + STAN + PRAHA 5 SOBĚ, 21 ze 41 mandátů). Lídr David Dušek je místostarostou MČ Praha 5 pro investice.",
+    "splnene_sliby": [
+      {
+        "slib": "Nová lávka mezi Sacre Coeur a Mrázovkou",
+        "dukaz": "Program přímo uvádí realizaci lávky jako výsledek minulého období.",
+        "zdroj_url": "https://stan-praha5.cz/program"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Nová základní škola na Smíchově",
+        "dukaz": "Projekt byl připraven, ale realizace stavby byla svěřena hlavnímu městu, takže dokončení není plně pod kontrolou MČ.",
+        "zdroj_url": "https://stan-praha5.cz/program"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "STAN byl v koalici a sám prezentuje konkrétní dokončené projekty (lávka, digitalizace) i rozpracované (škola na Smíchově). Jde ale o vlastní prezentaci strany v předvolebním programu, nikoliv o nezávisle ověřený audit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 2: program pro 2026 je popsán jako „živý dokument“ bez konkrétních kvantifikovaných bodů v době rešerše – jmenuje jen tematické oblasti a výsledky z minula. doveryhodnost_plneni = 3: strana byla v koalici a uvádí konkrétní realizované projekty, byť šlo o vlastní prezentaci bez nezávislého auditu. transparentnost = 3 za zveřejněný web, popis participativního procesu tvorby programu a zmínku o digitalizaci úřadu.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "dusek-david"
+  ],
+  "mezery_v_datech": [
+    "Program pro rok 2026 byl v době rešerše (2026-10-02, těsně před volbami 9.-10. 10.) stále popisován jako rozpracovaný „živý dokument“ bez konečných konkrétních bodů pro toto volební období.",
+    "Nebyl dohledán nezávislý zdroj potvrzující dokončení školy na Smíchově a lávky mimo vlastní prezentaci strany."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

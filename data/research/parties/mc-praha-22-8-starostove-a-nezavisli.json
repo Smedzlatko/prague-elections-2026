@@ -1,0 +1,115 @@
+{
+  "slug": "mc-praha-22-8-starostove-a-nezavisli",
+  "assembly_id": "mc-praha-22",
+  "list_cislo": 8,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "typ": "strana",
+  "slozeni": [
+    "STAN"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/168846",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Starostové a nezávislí Praha 22 – kampaňová stránka Ondřeje Lagnera",
+        "url": "https://www.stan-praha22.cz/landpage/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "STAN pro Prahu 22 slibuje radnici, která funguje v terénu a naslouchá lidem: čistší ulice, opravené chodníky a silnice, udržovanou zeleň a nové stromy, kultivovaný veřejný prostor, lepší napojení Uhříněvsi na okolí a nová dětská a sportovní hřiště. Klíčovým tématem programu je zástavba a vztah k developerům – STAN odmítá rozšiřování výstavby do polí, chce prosadit, aby infrastruktura (školy, školky, doprava) předcházela bytové výstavbě, a žádá povinná třístranná jednání mezi radnicí, obyvateli a developery o kontribucích, které by zůstávaly v dané lokalitě.",
+    "priority": [
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Zástavba na brownfieldech, ne v polích",
+        "popis": "STAN zásadně odmítá rozšiřování zástavby do polí a chce prioritně revitalizovat zanedbané plochy (brownfieldy) místo zabírání přírody.",
+        "citace": "Zásadně odmítáme rozšiřování zástavby do polí.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o deklarovaný postoj k územnímu plánování, který MČ může prosazovat jen v rámci svých vyjadřovacích a stanoviskových pravomocí – konečné rozhodnutí o změnách územního plánu je na hl. m. Praze."
+        },
+        "zdroj_url": "https://www.stan-praha22.cz/landpage/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Infrastruktura před bytovkou",
+        "popis": "Tempo nové bytové výstavby nesmí předbíhat budování občanské vybavenosti – kapacity škol, školek a dopravní síť musí být hotové dříve nebo současně s novými byty.",
+        "citace": "Tempo výstavby nesmí nikdy předběhnout budování občanské vybavenosti.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Princip je proveditelný prostřednictvím stanovisek MČ k územnímu řízení a plánovacích smluv s developery, ale bez konkrétních čísel kapacit nebo termínů nelze ověřit plnění."
+        },
+        "zdroj_url": "https://www.stan-praha22.cz/landpage/"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Silnější pozice radnice vůči developerům a participace obyvatel",
+        "popis": "Radnice by měla vyjednávat s developery tvrději a o budoucnosti konkrétních ulic by se nemělo rozhodovat za zavřenými dveřmi – STAN navrhuje povinná třístranná jednání mezi MČ, obyvateli a developerem a investice z kontribučních smluv přímo do dotčené lokality.",
+        "citace": "Umíme se developerům tvrdě postavit. (...) O vaší ulici se už nebude rozhodovat za zavřenými dveřmi. (...) Peníze z výstavby zůstanou ve vaší čtvrti.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Povinnost třístranných jednání a směrování kontribucí do lokality je v mezích samosprávných pravomocí MČ realizovatelná, ale závisí na vůli konkrétních developerů smlouvu podepsat."
+        },
+        "zdroj_url": "https://www.stan-praha22.cz/landpage/"
+      },
+      {
+        "oblast": "verejny_prostor",
+        "nazev": "Čistší ulice, opravené chodníky a údržba zeleně",
+        "popis": "Radnice má systematicky pečovat o okolí: čistší ulice, opravené chodníky a silnice, udržovaná zeleň, nové stromy, kultivovaný veřejný prostor a nová dětská a sportovní hřiště.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o běžnou údržbovou agendu MČ, kterou lze realizovat vlastním rozpočtem bez nutnosti souhlasu vyšších orgánů."
+        },
+        "zdroj_url": "https://www.stan-praha22.cz/landpage/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "VYŘEŠENO (doloženo anonymizovaným zápisem z ustavujícího zasedání ZMČ č. 6/2022, 19. 10. 2022): STAN vyhrálo volby 2022 (6 mandátů z 25), ale do koalice nevstoupilo a zůstalo v opozici – koalici uzavřely ANO 2011, Společně pro Prahu 22 a DvacetDvojka+SVOBODNÍ (15 mandátů). Lídr listiny 2026 Ondřej Lagner (zastupitel, zvolen 2022 za STAN) při volbě starosty hlasoval proti Tomáši Kaněrovi (ANO) a při volbě místostarostů proti oběma kandidátům koalice.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "STAN bylo v období 2022-2026 doloženě v opozici, nikoli v koalici – nemá tedy exekutivní odpovědnost za chod radnice a hodnocení plnění slibů (doveryhodnost_plneni) se na něj nevztahuje (viz METODIKA.md: skóre je jen pro subjekty s historií vládnutí). Volební program STAN z roku 2022 ani 2026 se nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 2: program dohledán na kampaňové stránce STAN pro Prahu 22 (stan-praha22.cz/landpage), obsahuje pojmenovaná opatření (zákaz zástavby do polí, podmínění výstavby infrastrukturou, třístranná jednání s developery, údržba veřejného prostoru), ale bez čísel nebo termínů – typický příklad skóre 2 dle METODIKA.md. STAN bylo ve volbách 2022 vítězem s nejvyšším počtem mandátů (6 z 25). Doloženo (zápis ZMČ č. 6/2022), že STAN zůstalo v opozici, takže doveryhodnost_plneni je správně null (bez exekutivní odpovědnosti). Transparentnost 3 body: zveřejněný program (+1), zápisy zastupitelstva (+1), dohledatelné funkce a politická historie více členů listiny (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "lagner-ondrej"
+  ],
+  "mezery_v_datech": [
+    "Program STAN pro volby 2022 se nepodařilo dohledat, takže nelze porovnat kontinuitu programových priorit mezi oběma volebními cykly.",
+    "Program na stan-praha22.cz/landpage není explicitně datován ani oficiálně oznámen jako „program 2026“ - jde o aktuální kampaňovou stránku vedenou Ondřejem Lagnerem, ale přesné datum zveřejnění textu nebylo možné ověřit.",
+    "Důvod, proč vítěz voleb STAN nevstoupil do koalice a zůstal v opozici, nebyl v dostupných zdrojích explicitně zaznamenán (koaliční jednání probíhají mimo veřejná zasedání ZMČ)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "mc-praha-14-8-ods-spolu-s-top-09-a-sousedy-pro-prahu-1",
+  "assembly_id": "mc-praha-14",
+  "list_cislo": 8,
+  "nazev": "ODS SPOLU s TOP 09 a Sousedy pro Prahu 14",
+  "zkratka": "ODS SPOLU s TOP 09",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "TOP 09"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "ODS SPOLU s TOP 09 a Sousedy pro Prahu 14 - Priority 2026-2030",
+        "url": "https://www.ods.cz/media/content/post/0736/73614.pdf",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Vládnoucí koalice vedená starostou Jiřím Zajacem (ODS) prezentuje heslo „Radši plníme než slibujeme“ a staví program na pěti oblastech: školství (nové kapacity na Jahodnici a Hutích), doprava (prodloužení Ocelkovy ulice, bezbariérovost, omezení večerního parkování dodávek), bezpečnost (asistenti prevence kriminality, bezpečnostní audity škol), životní prostředí (výsadba zeleně, komunitní předzahrádky) a navazuje na dokončené projekty: Dům pro seniory Bojčenkova, družstevní bydlení v Broumarské ulici, polyfunkční dům na Černém Mostě, vlaková zastávka Rajská zahrada.",
+    "priority": [
+      {
+        "oblast": "skolstvi",
+        "nazev": "Nová základní škola na Jahodnici",
+        "popis": "Dokončení výstavby nové základní školy, která má otevřít 1. září 2028.",
+        "citace": "dokončit výstavbu nové základní školy na Jahodnici",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Stavba je již v realizaci, termín otevření je uveden v jiné části materiálu (1. 9. 2028)."
+        },
+        "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Nová mateřská škola na Hutích",
+        "popis": "Zahájení výstavby nové mateřské školy v roce 2027, stavební povolení je již vydáno.",
+        "citace": "zahájit v roce 2027 výstavbu nové mateřské školy na Hutích – stavební povolení už máme",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Stavební povolení je podle programu již vydané, zbývá jen realizace."
+        },
+        "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+      },
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Asistenti prevence kriminality u škol a rizikových míst",
+        "popis": "Pokračování a rozšíření asistentů prevence kriminality ve spolupráci s městskou a státní policií.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o pokračování již fungujícího opatření v gesci MČ."
+        },
+        "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Navýšení výdajů na úklid a údržbu zeleně o 20 %",
+        "popis": "Výdaje na úklid a údržbu zeleně dosahují bezmála 30 milionů korun ročně, o 20 % více než v minulém volebním období.",
+        "citace": "Do úklidu a údržby zeleně dáváme bezmála 30 milionů korun ročně, což je o 20 % více než v minulém volebním období.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o popis již realizovaného navýšení rozpočtu, nikoli budoucí slib."
+        },
+        "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Vedoucí strana radniční koalice (7 mandátů z 31, 20,46 % hlasů 2022), starosta Jiří Zajac (ODS).",
+    "splnene_sliby": [
+      {
+        "slib": "Dům pro seniory Bojčenkova",
+        "dukaz": "Program 2026-2030 uvádí stavbu jako dokončenou („HOTOVO“).",
+        "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+      },
+      {
+        "slib": "Polyfunkční dům na Černém Mostě",
+        "dukaz": "Program 2026-2030 uvádí stavbu jako dokončenou („HOTOVO“).",
+        "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+      },
+      {
+        "slib": "Vlaková zastávka Rajská zahrada",
+        "dukaz": "Podle programu bylo v období 2022-2026 podpořeno otevření zastávky s novou lávkou.",
+        "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Základní škola Jahodnice – U Hostavického potoka",
+        "dukaz": "Program uvádí stav „položen základní kámen“, tedy zahájeno, ale nedokončeno.",
+        "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+      },
+      {
+        "slib": "Komunitní centrum Splavná",
+        "dukaz": "Program uvádí stav „ve výstavbě“.",
+        "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice prezentuje vlastní bilanci jako „radši plníme než slibujeme“ a dokládá seznam dokončených a rozpracovaných staveb (dům pro seniory, bytový dům, škola, zastávka). Tato bilance pochází z vlastního volebního materiálu koalice, nikoli z nezávislého auditu – údaje je tedy třeba brát jako tvrzení koalice o sobě samé, ne jako nezávisle ověřený fakt."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 4,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "Program obsahuje více kvantifikovaných položek s termíny (nová ZŠ s termínem otevření 2028, MŠ se stavebním povolením pro rok 2027, nárůst výdajů na údržbu zeleně o 20 % / téměř 30 mil. Kč ročně). Chybí ale souhrnné rozpočtové krytí všech bodů programu najednou. Důvěryhodnost plnění: vlastní bilance (dům pro seniory a polyfunkční dům dokončeny, zastávka Rajská zahrada otevřena, ZŠ Jahodnice a komunitní centrum Splavná ve výstavbě) je podrobná a přiznává rozpracovanost části projektů, ale jde o tvrzení koalice o sobě, bez nezávislého auditu – proto skóre 3 (smíšeno), ne vyšší. Transparentnost +1 za zveřejněný program, +1 za zápisy zastupitelstva, +1 za dohledatelné funkce (starosta, místostarosta, radní) a politickou historii první desítky.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "zajac-jiri"
+  ],
+  "mezery_v_datech": [
+    "Bilance plnění slibů vychází z vlastního volebního materiálu koalice (ODS), nebyla ověřena nezávislým zdrojem (např. zápisy rady, tiskem).",
+    "Program neuvádí souhrnné rozpočtové krytí všech bodů."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

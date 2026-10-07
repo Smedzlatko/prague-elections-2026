@@ -1,0 +1,51 @@
+{
+  "slug": "mc-praha-3-6-spolecne-pro-prahu-3-ods-soukromnici",
+  "assembly_id": "mc-praha-3",
+  "list_cislo": 6,
+  "nazev": "SPOLEČNĚ pro Prahu 3 (ODS, Soukromníci)",
+  "zkratka": "ODS",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "Soukromníci"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 1,
+    "oduvodneni": "ODS je celostátně klasifikována jako ekonomicky pravicová; lokální program pro Prahu 3 2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": null,
+    "role": "V roce 2022 kandidovala jako „Koalice pro Prahu 3 – ODS, KDU-ČSL“ a získala 15,17 % a 6 mandátů. Pro rok 2026 se koalice rozpadla – KDU-ČSL kandiduje nově s GEN pod názvem „Praha 3 srdcem“, ODS nyní s subjektem Soukromníci. Zda byla ODS v letech 2022-2026 součástí vládnoucí koalice Prahy 3, nebylo zdrojem potvrzeno.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Lídr Filip Nekola a Michal Papež, Robert Hoffmann a Iva Vojtková byli zastupiteli zvolenými 2022; přesná role v koalici/opozici nebyla ověřena."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program se nepodařilo dohledat.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "nekola-filip"
+  ],
+  "mezery_v_datech": [
+    "Program listiny se nepodařilo dohledat.",
+    "Nebylo ověřeno, zda ODS byla v letech 2022-2026 na Praze 3 v koalici či opozici, ani důvod rozpadu bývalé koalice 'ODS, KDU-ČSL' z roku 2022 pro rok 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

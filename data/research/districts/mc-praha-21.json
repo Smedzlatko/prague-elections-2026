@@ -1,0 +1,139 @@
+{
+  "assembly_id": "mc-praha-21",
+  "nazev": "Praha 21",
+  "charakteristika": "Újezd nad Lesy – okrajová městská část na východě Prahy obklopená lesy, cca 11 070 obyvatel, 17 mandátů. Volby 2022 ovládla s nadpoloviční většinou (56,75 %, 11 ze 17 mandátů) koalice ODS a TOP 09 – Společně pro Újezd, vedená starostou Michalem Hazdrou (ODS).",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ODS",
+      "TOP 09"
+    ],
+    "starosta": {
+      "jmeno": "Ing. Michal Hazdra",
+      "strana": "ODS",
+      "slug": "hazdra-michal"
+    },
+    "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949"
+  },
+  "zmeny_v_obdobi": [
+    "V roce 2023 odstoupil z funkce starosty Milan Samec (ODS) a vedení MČ převzal Michal Hazdra (ODS) – oba zůstali součástí radniční koalice ODS a TOP 09, Samec jako radní. Přesný měsíc předání funkce a jeho důvod se nepodařilo dohledat; zdrojem je vlastní sloupek Milana Samce v předvolebním Újezdském zpravodaji 10/2026 (\"V roce 2023 jsem odešel z funkce starosty\")."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Přeložka silnice I/12 (D0 / Pražský okruh)",
+      "popis": "Web MČ praha21.cz zmiňuje probíhající „Aktuality z výstavby přeložky“ silnice I/12, která souvisí s dostavbou Pražského okruhu v této části Prahy.",
+      "proc_zalezi": "Dostavba přeložky má přímý dopad na tranzitní zátěž a hluk v obytné zóně Újezda nad Lesy.",
+      "zdroje": [
+        {
+          "nazev": "praha21.cz",
+          "url": "https://www.praha21.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Participativní rozpočet",
+      "popis": "MČ provozuje program participativního rozpočtu, kde mohou obyvatelé navrhovat a hlasovat o drobných lokálních projektech.",
+      "proc_zalezi": "Jde o nástroj zapojení občanů do rozhodování o veřejných prostředcích v malé obci.",
+      "zdroje": [
+        {
+          "nazev": "praha21.cz",
+          "url": "https://www.praha21.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Suburbánní výstavba a tlak developerů",
+      "popis": "Opoziční listiny (Otevřený Újezd, ÚJEZD21) upozorňují na tlak na novou výstavbu v okrajové lokalitě s omezenou infrastrukturou.",
+      "proc_zalezi": "Nová zástavba zatěžuje kapacitu škol a dopravy v malé obci obklopené lesy.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 21",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Hromadná nákaza žaludeční nemocí ve škole (září 2026)",
+      "popis": "V druhé polovině září 2026 onemocnělo po obědě v jídelně Masarykovy ZŠ v Újezdě nad Lesy přes 240 dětí a 10 dospělých. Vedení školy vyhlásilo na dva dny ředitelské volno pro postiženou budovu; pražská hygienická stanice provádí epidemiologické šetření včetně kontrol jídelny a odběru vzorků, výsledky (vč. určení patogenu) nebyly v době zveřejnění článku k dispozici. Starosta Michal Hazdra se k situaci vyjádřil v souvislosti s rozhodnutím ředitele o volnu.",
+      "proc_zalezi": "Jde o aktuální krizovou situaci bezprostředně dotýkající se bezpečnosti dětí v místní škole, zřizované MČ, krátce před volbami 2026.",
+      "zdroje": [
+        {
+          "nazev": "Respekt.cz: Újezd nad Lesy pátrá po tom, proč je 240 zdejším dětem špatně od žaludku",
+          "url": "https://www.respekt.cz/informacni-servis/ujezd-nad-lesy-patra-po-tom-proc-je-240-zdejsim-detem-spatne-od-zaludku-2026-09-22-15-35",
+          "datum": "2026-09-22"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Rekonstrukce místní knihovny",
+      "stav": "pripravuje_se",
+      "popis": "Web MČ avizuje přípravu rekonstrukce knihovny, která si vyžádá dočasné uzavření provozu.",
+      "zdroje": [
+        {
+          "nazev": "praha21.cz",
+          "url": "https://www.praha21.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [
+    {
+      "nazev": "Soudní spor s odvolanou ředitelkou Masarykovy ZŠ Hanou Cermonovou",
+      "typ": "soudni",
+      "obdobi": "2022/2023–2026",
+      "popis": "Podle sloupku opozičního zastupitele Pavla Roušara (Otevřený Újezd) v Újezdském zpravodaji 10/2026 vedla MČ soudní spor s odvolanou ředitelkou Masarykovy ZŠ Hanou Cermonovou. Soud prvního stupně dvakrát vyhověl její žalobě, pravomocný rozsudek ale nevznikl – po letech řízení a odchodu soudců do důchodu žalobu stáhla. Podle odpovědi MČ na interpelaci Roušara MČ vysoudila na paní ředitelce 57 475 Kč, ale sama na právní zastoupení vynaložila 989 228 Kč. Poznámka k ověření (6. 10. 2026): případ je doložen jediným zdrojem – sloupkem opozičního zastupitele; nezávislé médium ani soudní rozhodnutí se dohledat nepodařilo, a proto je závažnost snížena na nízkou. Čísla o nákladech MČ pocházejí z odpovědi MČ na interpelaci tak, jak ji cituje autor sloupku.",
+      "stav": "urovnano",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Podle Roušarova sloupku žalobu stáhla kvůli věku, zdraví a financím po letech řízení, nikoli proto, že by neměla pravdu – soudci jí podle jejích slov sdělili, že o její pravdě nepochybují.",
+      "zdroje": [
+        {
+          "nazev": "Újezdský zpravodaj 10/2026 – sloupek zastupitele Pavla Roušara",
+          "url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+          "datum": "2026-09-29"
+        }
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: Praha 21 (Újezd nad Lesy)",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "praha21.cz",
+      "url": "https://www.praha21.cz",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Újezdský zpravodaj 10/2026",
+      "url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+      "datum": "2026-09-29"
+    },
+    {
+      "nazev": "Respekt.cz: Újezd nad Lesy pátrá po tom, proč je 240 zdejším dětem špatně od žaludku",
+      "url": "https://www.respekt.cz/informacni-servis/ujezd-nad-lesy-patra-po-tom-proc-je-240-zdejsim-detem-spatne-od-zaludku-2026-09-22-15-35",
+      "datum": "2026-09-22"
+    },
+    {
+      "nazev": "MČ Praha 21: Slovo starosty – prosinec 2023 (Michal Hazdra)",
+      "url": "https://www.praha21.cz/slovo-starosty/8442-slovo-starosty-prosinec-2",
+      "datum": "2023-12"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné složení rady a případné koaliční změny v průběhu období 2022-2026 se nepodařilo z dostupných zdrojů ověřit nad rámec výsledků voleb, výměny starosty v roce 2023 a jména starosty.",
+    "Přesný měsíc a důvod odstoupení Milana Samce z funkce starosty v roce 2023 nebyly dohledány.",
+    "U nákazy ve škole v Újezdě nad Lesy (září 2026) nebyl v době rešerše znám výsledek epidemiologického šetření ani konkrétní příčina (patogen) – nejde o doloženou kauzu pochybení vedení MČ, ale o aktuální nedořešenou událost zařazenou jako klíčové téma.",
+    "Doplněno 6. 10. 2026: zvolení Michala Hazdry starostou v listopadu 2023 potvrzuje jeho Slovo starosty na praha21.cz (prosinec 2023).",
+    "Spor s ředitelkou Masarykovy ZŠ: WebSearch 6. 10. 2026 nenašel žádné nezávislé médium ani rozhodnutí soudu; zůstává jediný (opoziční) zdroj, proto snížená závažnost."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

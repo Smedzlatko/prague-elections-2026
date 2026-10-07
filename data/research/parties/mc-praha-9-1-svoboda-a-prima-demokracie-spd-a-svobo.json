@@ -1,0 +1,52 @@
+{
+  "assembly_id": "mc-praha-9",
+  "list_cislo": 1,
+  "nazev": "Svoboda a přímá demokracie (SPD) a Svobodní pro Prahu 9",
+  "zkratka": "SPD+Svobodní",
+  "typ": "koalice",
+  "slozeni": [
+    "Svobodní",
+    "SPD"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz dohledán formou odkazu ani textu. Ve volbách 2022 subjekt (SPD, Svobodní a Trikolora pro Prahu 9) získal 6,66 % a 2 mandáty, byl v opozici.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": 2.0,
+    "oduvodneni": "Koalice SPD (národně-konzervativní, protiimigrační) a Svobodných (liberálně-konzervativní, důraz na nižší daně a přímou demokracii) směřuje k pravicově-konzervativní orientaci. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (2 mandáty po volbách 2022 – Bedřich Laube a Lenka Zumrová).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako malý opoziční klub měla listina omezený vliv na prosazení vlastních priorit. Konkrétní zdrojovaný přehled iniciativ lídra Bedřicha Lauba na zastupitelstvu Prahy 9 za období 2022-2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nedohledán, chybí i vlastní web. Plnění slibů nelze hodnotit – klub byl v opozici.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "laube-bedrich"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 nebyl dohledán.",
+    "Nebyl dohledán web ani sociální sítě listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-9-1-svoboda-a-prima-demokracie-spd-a-svobo"
+}

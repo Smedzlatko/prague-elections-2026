@@ -1,0 +1,45 @@
+{
+  "cele_jmeno": "Mgr. et Mgr. Jana Solomonová",
+  "rok_narozeni": 1984,
+  "strana": "ANO",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-8",
+      "list_cislo": 9,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Mgr. et Mgr. Jana Solomonová vede kandidátní listinu podle otevřených dat ČSÚ; mimo kandidátní listinu se nepodařilo dohledat další veřejně dostupný politický záznam.",
+  "vzdelani": null,
+  "profese": "historička umění, učitelka, radní MČ Praha 8 pro kulturu, sport a rodinnou politiku",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "solomonova-jana",
+  "name_key": "solomonova-jana"
+}

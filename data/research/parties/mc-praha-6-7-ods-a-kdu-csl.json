@@ -1,0 +1,153 @@
+{
+  "slug": "mc-praha-6-7-ods-a-kdu-csl",
+  "assembly_id": "mc-praha-6",
+  "list_cislo": 7,
+  "nazev": "ODS a KDU-ČSL",
+  "zkratka": "ODS+KDU-ČSL",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "KDU-ČSL"
+  ],
+  "web": "https://www.jakubstarek.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "programydovoleb.cz - ODS a KDU-ČSL Praha 6 (seznam kandidátů)",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164303",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "jakubstarek.cz/priority/ - osobní web starosty Jakuba Stárka, sekce Priority",
+        "url": "https://www.jakubstarek.cz/priority/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Program je zveřejněn jako seznam programových priorit na osobním webu starosty Jakuba Stárka (ODS), rozdělený do pěti tematických okruhů: doprava (prodloužení metra A z Motola, nové tramvajové tratě, modernizace Evropské a Patočkovy), územní rozvoj (podíl developerů na infrastruktuře, zeleň na křižovatce Malovanka, klubovna na Macharově náměstí), majetek a finance (zjednodušení přístupu k informacím o hospodaření, investice do škol, zdravotnictví a sociálních služeb), sociální oblast a zdravotnictví (léčebna dlouhodobě nemocných v Drnovské, podpora polikliniky Pod Marjánkou) a životní prostředí/sport/kultura (revitalizace parků, podpora kulturních institucí). Text stránky přesně nedatuje, zda jde o aktualizaci pro volby 2026, nebo o přetrvávající verzi z roku 2022 (viz mezery_v_datech) – jde ale o aktuálně živou kampaňovou stránku lídra koalice pro volby 2026.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Prodloužení metra A z Motola a nové tramvajové tratě",
+        "popis": "Stárek slibuje prosazovat prodloužení trasy metra A za Motol a podporovat výstavbu nových tramvajových tratí, spolu s modernizací ulic Evropská a Patočkova.",
+        "citace": "Nepřestanu podporovat prodloužení metra A z Motola. Podpořím realizaci nových tramvajových tratí.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Prodloužení trasy metra je investiční akcí v kompetenci hl. m. Prahy a Dopravního podniku, ne MČ Praha 6 – starosta může věc jen podporovat a lobbovat, nemůže ji sám rozhodnout ani profinancovat."
+        },
+        "zdroj_url": "https://www.jakubstarek.cz/priority/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Podíl developerů na veřejné infrastruktuře a zelená křižovatka Malovanka",
+        "popis": "Požadavek, aby developeři finančně přispívali na veřejnou infrastrukturu v místech nové výstavby, a snaha přesvědčit magistrát k zazelenění křižovatky Malovanka; plán na realizaci klubovny na Macharově náměstí.",
+        "citace": "Přesvědčím magistrát, aby zazelenil křižovatku Malovanka.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Plánovací smlouvy s developery jsou v pravomoci MČ, zazelenění Malovanky je ale v kompetenci magistrátu – MČ může jen přesvědčovat, ne rozhodnout."
+        },
+        "zdroj_url": "https://www.jakubstarek.cz/priority/"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Léčebna dlouhodobě nemocných v Drnovské a poliklinika Pod Marjánkou",
+        "popis": "Dotažení stavby moderní léčebny dlouhodobě nemocných v ulici Drnovská a podpora zdravotnických služeb v poliklinice Pod Marjánkou.",
+        "citace": "Dotáhnu stavbu moderní léčebny dlouhodobě nemocných v Drnovské.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o konkrétní, pojmenovaný projekt ve fázi dotahování (ne zahájení od nuly), ale bez uvedeného termínu dokončení nebo rozpočtu nelze plnění přesně ověřit."
+        },
+        "zdroj_url": "https://www.jakubstarek.cz/priority/"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Revitalizace dalších parků",
+        "popis": "Pokračování v revitalizaci parků v Praze 6 a podpora kulturních institucí a neziskovek v oblasti energetiky.",
+        "citace": "Budu pokračovat s revitalizací dalších parků.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Údržba a revitalizace zeleně je běžná agenda MČ financovaná z vlastního rozpočtu."
+        },
+        "zdroj_url": "https://www.jakubstarek.cz/priority/"
+      },
+      {
+        "oblast": "kultura",
+        "nazev": "Rozvoj zámku Veleslavín pro školy, kulturu a sociální/zdravotní služby",
+        "popis": "Starosta Stárek prezentuje areál zámku Veleslavín jako místo, kde chce rozvíjet školské, kulturní i sociální a zdravotní služby pro Prahu 6.",
+        "citace": "školy, kulturu a sociální i zdravotní služby",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o jmenovanou lokalitu, ale bez konkrétního rozsahu, termínu či rozpočtu investice."
+        },
+        "zdroj_url": "https://www.jakubstarek.cz"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 2,
+    "oduvodneni": "ODS je celostátně pravostředová, ekonomicky liberálně-konzervativní strana, KDU-ČSL hodnotově konzervativní strana s křesťansko-demokratickými kořeny; koalice v Praze 6 dlouhodobě zastává tradiční pravicovou komunální politiku (podpora investic, opatrnost k nové zástavbě ve vilových čtvrtích).",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Vedla radnici po celé období 2022-2026 s 11 mandáty; starosta Jakub Stárek (ODS), místostarostové Václav Kožený (ODS, investice) a Marián Hošek (KDU-ČSL, sociální oblast a zdravotnictví). Dalšími radními z koalice jsou Ondřej Matěj Hrubeš (doprava) a Zdeněk Hlinský (finance).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Rozvoj areálu zámku Veleslavín pro školské, kulturní a sociální/zdravotní služby (opakovaně prezentováno starostou Stárkem i v programu pro rok 2026).",
+        "stav": "Podle registru smluv (Hlídač státu) koupila MČ Praha 6 areál zámku Veleslavín od státu (Úřad pro zastupování státu ve věcech majetkových) až smlouvou z 8. 7. 2026 za 254,1 milionu Kč - tedy těsně před koncem volebního období 2022-2026. Samotný převod vlastnictví proto proběhl, ale uvedené služby (školy, kultura, sociální/zdravotní zařízení) se v areálu do konce mandátu nemohly reálně rozběhnout - jde o zahájení, ne naplnění slibu.",
+        "zdroj_url": "https://www.hlidacstatu.cz/hledat?q=z%C3%A1mek%20Veleslav%C3%ADn"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice vedla MČ po celé volební období. Vlajkový projekt starosty Stárka – rozvoj zámku Veleslavín pro veřejné služby – se dostal jen k nákupu areálu od státu (smlouva z července 2026, 254,1 mil. Kč), tedy těsně před koncem mandátu; samotné služby (školy, kultura, sociální a zdravotní zařízení) tam tedy za toto období nemohly vzniknout. Nezávisle ověřený přehled naplnění ostatních konkrétních slibů z kampaně 2022 se v dostupných zdrojích nepodařilo dohledat, protože strukturovaný program koalice pro rok 2022 nebyl nalezen. Veřejně zaznamenaným bodem z působení starosty je kontroverzní schůzka s vyslancem myanmarské junty v září 2023, kterou obhajoval jako ryze lokální (školství, kultura)."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Schůzka starosty Stárka se zástupcem myanmarské junty",
+      "typ": "medialni",
+      "obdobi": "2023-09",
+      "popis": "Starosta Jakub Stárek se v září 2023 setkal s Htuannem Naungem, chargé d'affaires Myanmaru v Česku – zemi, jejíž vojenská junta se podle mezinárodních organizací dopouští násilí na civilistech. Fotografie ze schůzky vyvolala kritiku, protože západní politici se podobným setkáním běžně vyhýbají.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Stárek se hájil tím, že šlo o ryze místní téma: hovořili podle něj o fungování Prahy 6, místních obyvatelích, školách a kulturních akcích, nikoliv o politice.",
+      "zdroje": [
+        {
+          "nazev": "Deník N - Starosta Prahy 6 se sešel s vyslancem junty, která vraždí civilisty",
+          "url": "https://denikn.cz/1247998/starosta-prahy-6-se-sesel-s-vyslancem-junty-ktera-vrazdi-civilisty-mluvili-jsme-o-skolach-a-kulturnich-akcich-rika/",
+          "datum": "2023-10-04"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu = 2: program dohledán na jakubstarek.cz/priority – obsahuje pojmenovaná opatření v pěti tematických okruzích (doprava, územní rozvoj, finance, sociální oblast/zdravotnictví, životní prostředí), včetně jednoho konkrétního projektu ve fázi dokončování (léčebna v Drnovské), ale většina bodů je bez čísel a termínů. doveryhodnost_plneni = 2: koalice vedla radnici celé období, ale její vlajkový projekt (rozvoj zámku Veleslavín) se do konce mandátu dostal jen k nákupu areálu (smlouva z července 2026) – bez reálného naplnění slibovaných veřejných služeb; nezávisle ověřený přehled dalších slibů z roku 2022 nebyl dohledán. Chybí důkaz o úplném selhání, proto ne 0-1, ale bez dokladu naplnění proto ne výš. transparentnost = 2 za dohledatelnou kandidátní listinu a osobní web starosty se zveřejněnými prioritami; transparentní účet listiny a zveřejněné hlasování zastupitelů nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "starek-jakub"
+  ],
+  "mezery_v_datech": [
+    "Stránka jakubstarek.cz/priority/ není datovaná - obrázky v kódu stránky odkazují na složku „2022/06“, takže není jisté, zda jde o text napsaný/aktualizovaný pro volby 2026, nebo o nezměněnou verzi z kampaně 2022. Stránka je ale aktuálně živou součástí kampaně lídra pro volby 2026.",
+    "Samostatný strukturovaný programový dokument koalice (ne jen osobní priority starosty) se nepodařilo dohledat.",
+    "Nezávisle ověřený přehled splněných a nesplněných slibů z programu 2022 nebyl v dostupných zdrojích k dispozici.",
+    "Financování kampaně a existence transparentního účtu listiny nebyly ověřeny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

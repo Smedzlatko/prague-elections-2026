@@ -1,0 +1,29 @@
+{
+  "slug": "vanek-vladimir",
+  "name_key": "vanek-vladimir",
+  "cele_jmeno": "Vladimír Vaněk",
+  "rok_narozeni": 1975,
+  "strana": "O12",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-12", "list_cislo": 6, "poradi": 1}],
+  "role": "inkumbent",
+  "profil": "Vladimír Vaněk je zastupitel MČ Praha 12, podnikatel a sportovní manažer, zvolen i v roce 2022 (pozice č. 1, 1028 preferenčních hlasů, tehdy na listině OBČANÉ DVANÁCTKY ve sdružení s KSČM). Pro volby 2026 opět vede listinu OBČANÉ DVANÁCTKY.",
+  "vzdelani": null,
+  "profese": "podnikatel, sportovní manažer",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel MČ Praha 12", "organizace": "OBČANÉ DVANÁCTKY", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Působil jako opoziční zastupitel; bez dohledaného podkladu o jeho konkrétní agendě nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 12 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání a přesný rok narození nejsou nezávisle potvrzeny.",
+    "Konkrétní opoziční agenda a výsledky nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

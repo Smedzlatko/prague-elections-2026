@@ -1,0 +1,60 @@
+{
+  "slug": "ticha-eva",
+  "name_key": "ticha-eva",
+  "cele_jmeno": "Ing. Eva Tichá",
+  "rok_narozeni": 1962,
+  "strana": "TEAM (dříve Česká pirátská strana)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 16,
+      "poradi": 4
+    },
+    {
+      "assembly_id": "mc-praha-6",
+      "list_cislo": 11,
+      "poradi": 2
+    }
+  ],
+  "role": "top5",
+  "profil": "Eva Tichá je ekonomka, zastupitelka MČ Praha 6 a zakladatelka iniciativy „Praha 6 neplastuje“. Podle dat ČSÚ byla ve volbách 2022 zvolena do zastupitelstva Prahy 6 za Českou pirátskou stranu (4. místo, 5341 preferenčních hlasů). Pro rok 2026 kandiduje na nové listině JSME PRAHA (koalice JSME TEAM a Volt Česko) jako jedna z řady bývalých pirátských zastupitelů, kteří k novému subjektu přešli. Hlubší veřejně dohledaný politický životopis nad rámec dat ČSÚ se nepodařilo najít.",
+  "vzdelani": null,
+  "profese": "ekonomka, dobrovolnice, zakladatelka iniciativy Praha 6 neplastuje",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitelka MČ Praha 6 (zvolena za Českou pirátskou stranu)",
+      "organizace": "MČ Praha 6",
+      "zdroj_url": null
+    },
+    {
+      "od": "2026",
+      "do": null,
+      "funkce": "kandidátka JSME PRAHA / JSME TEAM",
+      "organizace": "JSME TEAM",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadová zastupitelka (bez dohledané radní funkce) nemá podle dostupných zdrojů výkonnou funkci, u které by šlo plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Veřejně dohledaný politický životopis nebyl k dispozici, profil vychází z údajů v brífu ČSÚ a z core dat (inkumbent_2022: zvolena za Českou pirátskou stranu).",
+    "Přesný rok narození je odhad z udaného věku 64 let v brífu k říjnu 2026 (1962), neověřeno.",
+    "Nebylo možné zjistit přesný důvod a datum jejího odchodu od Pirátů k JSME TEAM."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

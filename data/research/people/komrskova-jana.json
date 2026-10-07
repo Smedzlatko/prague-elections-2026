@@ -1,0 +1,165 @@
+{
+  "slug": "komrskova-jana",
+  "name_key": "komrskova-jana",
+  "cele_jmeno": "Ing. Jana Komrsková",
+  "rok_narozeni": 1978,
+  "strana": "BEZPP (dříve Česká pirátská strana)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 16,
+      "poradi": 1
+    },
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 1,
+      "poradi": 2
+    }
+  ],
+  "role": "lidr",
+  "profil": "Jana Komrsková je ekonomka s dřívější praxí v marketingu a jako finanční manažerka na ministerstvech vnitra a spravedlnosti. V letech 2018-2022 byla první místostarostkou MČ Praha 10, zastupitelkou Prahy 10 je od roku 2014. Do Zastupitelstva hl. m. Prahy nastoupila nejprve jako náhradnice (2019), v dubnu 2021 na mandát rezignovala a znovu byla zvolena ve volbách 2022 (jako kandidátka Pirátů, 2. místo, 69 036 preferenčních hlasů). Od února 2023 je náměstkyní primátora hl. m. Prahy pro životní prostředí a klima. Byla členkou Pirátské strany devět let (2017-2026), v červnu 2026 členství ukončila a stala se lídryní nového subjektu JSME PRAHA (koalice hnutí JSME TEAM a Volt Česko) pro komunální volby 2026. V roce 2023 čelila kritice za jmenování svého partnera poradcem – obhajovala to řádným výběrovým řízením, poradce z funkce následně odstoupil po vnitrostranické kontrole.",
+  "vzdelani": "Ing. - ekonomie, Univerzita Karlova (přesná fakulta nebyla v dostupných zdrojích upřesněna)",
+  "profese": "náměstkyně primátora hl. m. Prahy pro životní prostředí a klima, dříve marketing a státní správa (MV, MSp)",
+  "politicka_historie": [
+    {
+      "od": "2014",
+      "do": null,
+      "funkce": "zastupitelka MČ Praha 10",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://www.hlidacstatu.cz/osoba/Jana-Komrskova"
+    },
+    {
+      "od": "2017",
+      "do": "2026-06",
+      "funkce": "členka České pirátské strany",
+      "organizace": "Česká pirátská strana",
+      "zdroj_url": null
+    },
+    {
+      "od": "2018",
+      "do": "2022",
+      "funkce": "1. místostarostka MČ Praha 10",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://www.hlidacstatu.cz/osoba/Jana-Komrskova"
+    },
+    {
+      "od": "2019",
+      "do": "2021-04",
+      "funkce": "zastupitelka hl. m. Prahy (náhradnice)",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    },
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitelka hl. m. Prahy (zvolena za Piráty, 2. místo, 69 036 hlasů)",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    },
+    {
+      "od": "2023-02",
+      "do": null,
+      "funkce": "náměstkyně primátora hl. m. Prahy pro životní prostředí a klima",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    },
+    {
+      "od": "2026-06",
+      "do": null,
+      "funkce": "ukončení členství v Pirátské straně po devíti letech",
+      "organizace": "Česká pirátská strana",
+      "zdroj_url": null
+    },
+    {
+      "od": "2026",
+      "do": null,
+      "funkce": "lídryně JSME PRAHA (JSME TEAM + Volt Česko) pro volby do ZHMP 2026",
+      "organizace": "JSME TEAM",
+      "zdroj_url": "https://www.jsme.team/nase-teamy/praha/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Jmenování partnera Petra Beneše poradcem náměstkyně",
+      "typ": "konflikt_zajmu",
+      "obdobi": "2023-07/2023-08",
+      "popis": "V polovině července 2023 vyšlo najevo, že náměstkyně primátora Komrsková zaměstnala na svém úseku (životní prostředí, odpadové hospodářství) jako poradce svého partnera Petra Beneše. Kritika přišla jak z opozice, tak z vedení vlastní Pirátské strany (předseda Ivan Bartoš situaci označil za „nevhodnou“, strana o Komrskové setrvání ve funkci interně hlasovala). Beneš v srpnu 2023 na post poradce rezignoval s odůvodněním, že chce partnerku ochránit před dalšími útoky.",
+      "stav": "urovnano",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Komrsková se hájila tím, že Beneš zvítězil v řádném výběrovém řízení a že se jako členka komise sama hodnocení zdržela; zdůraznila jeho odbornost z dlouholeté manažerské praxe v odpadovém hospodářství. Petr Beneš po kritice z funkce poradce sám odstoupil.",
+      "zdroje": [
+        {
+          "nazev": "Novinky.cz: Nešlo to. Partner pirátské náměstkyně primátora Prahy po kritice jako její poradce skončí",
+          "url": "https://www.novinky.cz/clanek/domaci-neproslo-to-partner-piratske-namestkyne-primatora-prahy-po-kritice-skonci-jako-jeji-poradce-40438358",
+          "datum": "2023-08"
+        },
+        {
+          "nazev": "Blesk: Náměstkyně primátora Jana Komrsková (Piráti): Zaměstnala partnera jako poradce",
+          "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/748668/piratska-namestkyne-zehli-prusvih-komrskova-zamestnala-sveho-partnera-jako-poradce-ten-radeji-konci.html",
+          "datum": "2023-07"
+        },
+        {
+          "nazev": "Echo24.cz: Pirátské fórum se bouří: Náměstkyně primátora neměla zaměstnat svého partnera",
+          "url": "https://www.echo24.cz/a/HKBWa/zpravy-domov-jana-komrskova-zamestnala-partnera-poruseni-kodexu",
+          "datum": "2023-07"
+        }
+      ]
+    },
+    {
+      "nazev": "Vyřazení z top kandidátky Pirátů pro volby 2026 – rozkol s Nislerovou",
+      "typ": "stranicky",
+      "obdobi": "2026-03",
+      "popis": "V březnu 2026, při sestavování pražské kandidátky Pirátů pro komunální volby, nová lídryně Tereza Nislerová (z křídla kolem Zdeňka Hřiba) postavila kandidátku bez Komrskové, dosavadní náměstkyně primátora pro životní prostředí. Napětí mezi nimi podle médií souviselo i s tím, že Komrsková dříve upozorňovala na neoprávněné odměny Zdeňka Hřiba. V médiích se objevily spekulace o možném vzniku samostatné kandidátky nespokojených Pirátů. Komrsková v červnu 2026 oznámila konec devítiletého členství v Pirátské straně a stala se lídryní nového subjektu JSME PRAHA.",
+      "stav": "potvrzeno",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Nislerová zdůvodnila sestavení kandidátky bez Komrskové principem „přirozené obměny v nějakém logickém časovém období“. Komrsková k vyřazení uvedla: „Věřím, že se na projektech, které jsem nastartovala, bude pokračovat.“.",
+      "zdroje": [
+        {
+          "nazev": "Pražský deník: Rozkol Pirátů v Praze? Jednička Nislerová postavila tým, Komrsková mimo hru",
+          "url": "https://prazsky.denik.cz/zpravy_region/pirati-praha-rozkol-nislerova-komrskova-kandidatka-komunalni-volby.html",
+          "datum": "2026-03"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Komrsková má od února 2023 výkonnou funkci (náměstkyně pro životní prostředí), ale podrobný zdrojovaný seznam jejích slibů z let 2022 (za Piráty) a jejich plnění na úrovni magistrátu nebyl v dostupných zdrojích dohledán – nelze odlišit, co je jejím osobním přínosem a co koaliční politikou Pirátů jako celku.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Novinky.cz: Nešlo to. Partner pirátské náměstkyně primátora Prahy po kritice jako její poradce skončí",
+      "url": "https://www.novinky.cz/clanek/domaci-neproslo-to-partner-piratske-namestkyne-primatora-prahy-po-kritice-skonci-jako-jeji-poradce-40438358",
+      "datum": "2023-08"
+    },
+    {
+      "nazev": "Pražský deník: Rozkol Pirátů v Praze? Jednička Nislerová postavila tým, Komrsková mimo hru",
+      "url": "https://prazsky.denik.cz/zpravy_region/pirati-praha-rozkol-nislerova-komrskova-kandidatka-komunalni-volby.html",
+      "datum": "2026-03"
+    },
+    {
+      "nazev": "hlidacstatu.cz: profil Jana Komrsková",
+      "url": "https://www.hlidacstatu.cz/osoba/Jana-Komrskova",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "jsme.team: JSME PRAHA",
+      "url": "https://www.jsme.team/nase-teamy/praha/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebylo možné ověřit, zda Komrsková k říjnu 2026 formálně stále zastává funkci náměstkyně primátora pro životní prostředí, nebo zda po odchodu z Pirátů v červnu 2026 tuto funkci opustila/byla odvolána - dostupný zdroj (NašePraha.cz, 2026) tvrdí, že po odchodu od Pirátů jí nadále běží plat náměstkyně (169 tis. Kč měsíčně) i sekretariát, ale tento zdroj nebyl nezávisle potvrzen druhým médiem.",
+    "Chybí zdrojovaný přehled konkrétních věcných výsledků na pozici náměstkyně pro životní prostředí (2023-2026) - pouze obecný rámec funkce byl potvrzen."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "mc-praha-4-4-spd-pro-prahu-4-s-podporou-pro-socialni",
+  "assembly_id": "mc-praha-4",
+  "list_cislo": 4,
+  "nazev": "SPD pro Prahu 4 s podporou PRO, Sociálních demokratů, Trikolory a nezávislých kandidátů",
+  "zkratka": "SPD pro Prahu 4",
+  "typ": "koalice",
+  "slozeni": ["SPD", "PRO", "ČSSD (Sociální demokraté)", "Trikolora", "nezávislí"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program se nepodařilo dohledat. Lídryní je MUDr. Klára Cingrošová, zastupitelka hl. m. Prahy za SPD, manažerka klinického hodnocení léčiv.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1,
+    "hodnotova_osa": 2.5,
+    "oduvodneni": "Odhad na základě celostátního profilu SPD a Trikolory jako hodnotově konzervativních, národně orientovaných subjektů; lokální program nebyl k dispozici.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nedohledán. Transparentnost jen za existenci kandidátky v otevřených datech ČSÚ.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["cingrosova-klara"],
+  "mezery_v_datech": [
+    "Program listiny pro Prahu 4 se nepodařilo dohledat.",
+    "Listina v roce 2022 nezískala na Praze 4 mandát, bilanci nelze hodnotit."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

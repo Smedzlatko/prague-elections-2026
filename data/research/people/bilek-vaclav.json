@@ -1,0 +1,58 @@
+{
+  "slug": "bilek-vaclav",
+  "name_key": "bilek-vaclav",
+  "cele_jmeno": "Václav Bílek",
+  "rok_narozeni": 1968,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 22,
+      "poradi": 9
+    },
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 8,
+      "poradi": 1
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Václav Bílek je podnikatel a zastupitel hl. m. Prahy za ANO, zvolen ve volbách 2022 (4. místo kandidátky ANO, nejvíc preferenčních hlasů ze všech kandidátů ANO – 71 349). Nezastává podle dostupných dat výkonnou funkci na úrovni MČ. Podrobnější veřejně dohledatelný politický životopis se v dostupné rešerši nepodařilo ověřit nad rámec údajů z brífu ČSÚ. Pro volby 2026 zároveň vede kandidátku ANO 2011 v MČ Praha 15, kde v roce 2022 obhájil mandát zastupitele MČ (4. místo kandidátky ANO, 1632 preferenčních hlasů).",
+  "vzdelani": null,
+  "profese": "podnikatel",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel hl. m. Prahy (ANO, zvolen z 4. místa kandidátky s 71 349 preferenčními hlasy)",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "ANO je na magistrátu v opozici, Bílek jako řadový zastupitel bez výkonné funkce nemá bilanci k hodnocení plnění slibů.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": "Jako podnikatel může mít obchodní zájmy relevantní pro případný střet zájmů, konkrétní firmy se nepodařilo dohledat."
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 15 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat samostatný veřejný profil s daty politické historie ani konkrétní podnikatelskou činnost.",
+    "Přesný rok narození (1968) je odhad z udaného věku 58 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

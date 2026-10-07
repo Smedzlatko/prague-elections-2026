@@ -1,0 +1,29 @@
+{
+  "slug": "polakova-katerina",
+  "name_key": "polakova-katerina",
+  "cele_jmeno": "Kateřina Poláková",
+  "rok_narozeni": 1975,
+  "strana": "ODS",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 5, "poradi": 4}],
+  "role": "inkumbent",
+  "profil": "Kateřina Poláková je projektová manažerka, členka ODS. V roce 2022 získala mandát zastupitelky MČ Praha 5 (5106 preferenčních hlasů). Pro rok 2026 kandiduje na 4. místě listiny.",
+  "vzdelani": null,
+  "profese": "projektová manažerka, zastupitelka MČ Praha 5",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitelka MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Konkrétní agenda a výstupy její zastupitelské práce nebyly dohledány.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 51 let v brífu k říjnu 2026 (1975), neověřeno.",
+    "Konkrétní agenda a výstupy její zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

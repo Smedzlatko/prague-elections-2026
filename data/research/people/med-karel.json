@@ -1,0 +1,52 @@
+{
+  "slug": "med-karel",
+  "name_key": "med-karel",
+  "cele_jmeno": "Ing. Karel Med",
+  "rok_narozeni": 1971,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-14",
+      "list_cislo": 9,
+      "poradi": 2
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Ing. Karel Med je zastupitel/ka MČ Praha 14, v roce 2022 zvolen/a na listině „ANO 2011“ (2. místo, 1908 preferenčních hlasů). Pro volby 2026 kandiduje na listině „ANO 2011“ (2. místo). Profesně: radní MČ Praha 14, správa IT, předseda SVJ.",
+  "vzdelani": null,
+  "profese": "radní MČ Praha 14, správa IT, předseda SVJ",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 14 (zvolen/a za ANO 2011)",
+      "organizace": "MČ Praha 14",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 14 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

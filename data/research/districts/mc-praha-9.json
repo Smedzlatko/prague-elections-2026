@@ -1,0 +1,71 @@
+{
+  "assembly_id": "mc-praha-9",
+  "nazev": "Praha 9",
+  "charakteristika": "Praha 9 zahrnuje Vysočany, Prosek, Střížkov, Hloubětín a Libeň (část) s přibližně 71 tisíci obyvateli. Je dlouhodobě pevnou doménou ODS – koalice SPOLEČNĚ pro DEVÍTKU (ODS a TOP 09) zde ve volbách 2022 získala 43,26 % hlasů a 15 z 33 mandátů. Starostou je od března 2021 Tomáš Portlík (ODS), který je zároveň lídrem celopražské koalice SPOLU pro volby 2026 a kandidátem na primátora – jeho zdejší bilance je proto klíčová i pro celopražskou politiku. Klíčovým tématem je transformace průmyslových brownfieldů ve Vysočanech na novou obytnou zástavbu.",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ODS",
+      "TOP 09",
+      "STAN",
+      "ANO 2011"
+    ],
+    "starosta": {
+      "jmeno": "Tomáš Portlík",
+      "strana": "ODS",
+      "slug": "portlik-tomas"
+    },
+    "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500216"
+  },
+  "zmeny_v_obdobi": [
+    "Koalice po volbách 2022 spojila SPOLEČNĚ pro DEVÍTKU (ODS+TOP 09, 15 mandátů), NAŠE DEVÍTKU (STAN s podporou KDU-ČSL, 2 mandáty) a ANO s podporou ČSSD (6 mandátů), celkem 23 z 33 mandátů. Nebyly dohledány zdrojované informace o rozpadu koalice nebo personálních změnách v průběhu období - mezera v datech.",
+    "Bedřich Laube, lídr celopražských Svobodných pro volby 2026, je zastupitelem MČ Praha 9 za koalici SPD a Svobodní (v opozici)."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Bytová výstavba a brownfieldy ve Vysočanech",
+      "popis": "Vysočany jsou dlouholetou transformační zónou – bývalé průmyslové a nákladní areály (ČKD, nádraží Vysočany a okolí) se postupně mění na novou obytnou a kancelářskou zástavbu. Přesné aktuální údaje o jednotlivých developerských projektech a jejich stavu se v rámci rešerše nepodařilo dohledat.",
+      "proc_zalezi": "Tempo a kvalita zástavby brownfieldů ve Vysočanech určuje, zda Praha 9 zvládne nárůst obyvatel se zajištěním dostatečné občanské vybavenosti (školy, zdravotnictví, doprava) – to je i ústřední téma programu PRAHA 9 SOBĚ („nejdřív plán, potom výstavba“).",
+      "zdroje": [
+        {
+          "nazev": "prahasobe.cz: program PRAHA 9 SOBĚ 2026",
+          "url": "https://prahasobe.cz/praha9sobe/program/",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Majetková přiznání starosty Tomáše Portlíka",
+      "popis": "V září 2026 zveřejnil Deník N, že Portlík coby kandidát na primátora vlastní celkem pět nemovitostí, ačkoliv dříve veřejně uváděl jen dvě (polovinu rodinného domu a polovinu bytu, obojí ve Vysočanech) – zbylé tři byty vlastní prostřednictvím firmy. Téma otevřel na zastupitelstvu hl. m. Prahy zastupitel Pavel Zelenka (Praha sobě) a kritizoval je i předseda Pirátů Zdeněk Hřib.",
+      "proc_zalezi": "Jde o otázku transparentnosti a úplnosti majetkových oznámení veřejného funkcionáře, který kandiduje na nejvyšší pražský post; nejde o prokázané protiprávní jednání, ale o věcnou neúplnost dřívějšího veřejného vyjádření.",
+      "zdroje": [
+        {
+          "nazev": "Deník N: Dvě, nebo pět nemovitostí? Kandidát na pražského primátora Portlík vlastní byty také přes firmu",
+          "url": "https://denikn.cz/2182150/dve-nebo-pet-nemovitosti-kandidat-na-prazskeho-primatora-portlik-vlastni-byty-take-pres-firmu/",
+          "datum": "2026-09-11"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - výsledky komunálních voleb 2022 Praha 9",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500216",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Deník N: Dvě, nebo pět nemovitostí?",
+      "url": "https://denikn.cz/2182150/dve-nebo-pet-nemovitosti-kandidat-na-prazskeho-primatora-portlik-vlastni-byty-take-pres-firmu/",
+      "datum": "2026-09-11"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyly dohledány konkrétní developerské projekty, objemy nové bytové výstavby ani jmenovité brownfieldy ve Vysočanech za období 2022-2026 - WebFetch na dostupné zdroje nepřinesl konkrétní data.",
+    "Nebyla dohledána žádná doložená soudní, policejní nebo auditní kauza vedení MČ Praha 9 z let 2022-2026 - jedinou nalezenou kontroverzí je medializovaná otázka majetkových přiznání starosty Portlíka z roku 2026, která nemá formální výsledek (stav bez_zaveru).",
+    "Nebyly dohledány podrobnosti o personálním složení rady MČ Praha 9 v průběhu období 2022-2026."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

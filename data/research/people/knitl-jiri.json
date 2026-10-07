@@ -1,0 +1,38 @@
+{
+  "slug": "knitl-jiri",
+  "name_key": "knitl-jiri",
+  "cele_jmeno": "Mgr. Jiří Knitl",
+  "rok_narozeni": 1975,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 5, "poradi": 14},
+    {"assembly_id": "mc-praha-7", "list_cislo": 1, "poradi": 12}
+  ],
+  "role": "inkumbent",
+  "profil": "Jiří Knitl je etnolog (vystudoval etnologii na Univerzitě Karlově), dříve pracoval pro neziskové organizace Člověk v tísni a Open Society Fund Praha na domácích i zahraničních projektech. Na radnici Prahy 7 je radním pro životní prostředí a veřejný prostor, na magistrátu zastupitelem hl. m. Prahy za PRAHA SOBĚ a předsedou Výboru pro národnostní menšiny Zastupitelstva hl. m. Prahy. Mezi jeho agendy patří Metropolitní plán, park U Vody, železniční spojení na letiště a rozvoj Bubny-Zátory.",
+  "vzdelani": "etnologie, Univerzita Karlova (Ústav etnologie)",
+  "profese": "radní MČ Praha 7 pro životní prostředí a veřejný prostor, dříve pracovník NGO (Člověk v tísni, Open Society Fund Praha)",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel hl. m. Prahy, předseda Výboru pro národnostní menšiny ZHMP", "organizace": "Hlavní město Praha", "zdroj_url": "https://www.praha7.cz/jiri-knitl/"},
+    {"od": null, "do": null, "funkce": "radní MČ Praha 7 pro životní prostředí a veřejný prostor", "organizace": "MČ Praha 7", "zdroj_url": "https://www.praha7.cz/jiri-knitl/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Má výkonnou funkci (radní Prahy 7), ale podrobný zdrojovaný seznam jeho slibů a jejich plnění na úrovni magistrátu nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha7.cz: profil Jiřího Knitla", "url": "https://www.praha7.cz/jiri-knitl/", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesné datum nástupu do funkce radního Prahy 7 nebylo dohledáno.",
+    "Přesný rok narození je odhad z udaného věku 51 let v brífu k říjnu 2026 (1975), neověřeno.",
+    "Konkrétní výsledky jeho agendy (Metropolitní plán, park U Vody, Bubny-Zátory) na úrovni magistrátu nebyly dohledány nad rámec kontaktní stránky MČ Praha 7."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

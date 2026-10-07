@@ -1,0 +1,97 @@
+{
+  "slug": "ryvola-vojtech",
+  "name_key": "ryvola-vojtech",
+  "cele_jmeno": "Ing. Vojtěch Ryvola",
+  "rok_narozeni": 1965,
+  "strana": "GEN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 11,
+      "poradi": 2
+    }
+  ],
+  "role": "jiny",
+  "profil": "Vojtěch Ryvola je radní MČ Praha 1 a podnikatel v oboru pivovarnictví a restauračních služeb, kandiduje na druhém místě celopražské listiny GEN s podporou veřejnosti. Jako radní Prahy 1 (dříve za hnutí ANO) se v letech 2023–2024 veřejně angažoval v dopravních opatřeních – prosazoval zákaz průjezdu přes Petrskou čtvrť (2025) a hájil noční zákaz vjezdu do Starého Města s odůvodněním, že se z pražské památkové rezervace stala „evropská zahrádková restaurace“. V lednu 2024 z hnutí ANO vystoupil, podle vlastních slov kvůli vnitřním mocenským poměrům v pražském ANO. Pro volby 2026 kandiduje za hnutí GEN.",
+  "vzdelani": "vysokoškolské technické (titul Ing.), obor neupřesněn v dostupných zdrojích",
+  "profese": "radní MČ Praha 1, pivovarník a restauratér",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": "2024-01",
+      "funkce": "radní MČ Praha 1 (za hnutí ANO)",
+      "organizace": "MČ Praha 1 / ANO 2011",
+      "zdroj_url": "https://denikn.cz/1322643/prazske-ano-bylo-mou-nejvetsi-opozici-hnuti-si-privatizovali-nacher-s-prokopem-rika-byvaly-mistopredseda/"
+    },
+    {
+      "od": "2024-01",
+      "do": null,
+      "funkce": "radní MČ Praha 1 (nestraník, od 2026 za GEN)",
+      "organizace": "MČ Praha 1",
+      "zdroj_url": "https://denikn.cz/2062552/"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Zákaz průjezdu Petrskou čtvrtí",
+      "popis": "V květnu 2025 Ryvola jako radní Prahy 1 oznámil zavedení zákazu průjezdu přes Petrskou čtvrť s výjimkou záchranných složek, MHD a držitelů povolení.",
+      "stav": "dokonceno",
+      "hodnoceni": "Opatření bylo zavedeno podle plánu; dlouhodobý dopad na dopravu v okolních čtvrtích nebyl v dostupných zdrojích vyhodnocen.",
+      "zdroje": [
+        {
+          "nazev": "Deník N",
+          "url": "https://denikn.cz/minuta/2062552/",
+          "datum": "2025-05-13"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako radní Prahy 1 má výkonnou funkci, ale zdrojovaný přehled jeho celého resortu a dalších konkrétních závazků mimo dopravní opatření nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Z Pražské památkové rezervace jsme udělali evropskou zahrádkovou restauraci.",
+      "kontext": "Obhajoba nočního zákazu vjezdu do Starého Města",
+      "zdroj_url": "https://denikn.cz/1292158/boj-o-nocni-zakaz-vjezdu-svoboda-chce-znacky-zneplatnit-je-to-nase-vec-zni-z-prahy-1/",
+      "datum": "2023-11-24"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Deník N – Boj o noční zákaz vjezdu",
+      "url": "https://denikn.cz/1292158/boj-o-nocni-zakaz-vjezdu-svoboda-chce-znacky-zneplatnit-je-to-nase-vec-zni-z-prahy-1/",
+      "datum": "2023-11-24"
+    },
+    {
+      "nazev": "Deník N – odchod z ANO",
+      "url": "https://denikn.cz/1322643/prazske-ano-bylo-mou-nejvetsi-opozici-hnuti-si-privatizovali-nacher-s-prokopem-rika-byvaly-mistopredseda/",
+      "datum": "2024-01-05"
+    },
+    {
+      "nazev": "Deník N – zákaz průjezdu Petrskou čtvrtí",
+      "url": "https://denikn.cz/minuta/2062552/",
+      "datum": "2025-05-13"
+    },
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – GEN s podporou veřejnosti",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/163860",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Totožnost osoby (radní Prahy 1, dříve ANO, nyní GEN) s kandidátem na listině GEN je odvozena ze shody jména, funkce (radní Prahy 1) a profese (pivovarník/restauratér) uvedené v brífu; přímé potvrzení příchodu do GEN v médiích nebylo dohledáno.",
+    "Přesné datum nástupu do funkce radního a celý rozsah jeho resortu nebyly dohledány.",
+    "Rok narození je odhad z uvedeného věku 61 let v brífu k říjnu 2026."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

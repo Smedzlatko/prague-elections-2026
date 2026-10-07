@@ -1,0 +1,103 @@
+{
+  "slug": "magistrat-1-lepsi-zivot-pro-lidi-zruseni-dane-z-ne",
+  "assembly_id": "magistrat",
+  "list_cislo": 1,
+  "nazev": "LEPŠÍ ŽIVOT PRO LIDI",
+  "zkratka": "LŽPL",
+  "typ": "strana",
+  "slozeni": ["LŽPL"],
+  "web": "https://www.lzpl.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "lzpl.cz – volební program",
+        "url": "https://www.lzpl.cz/?page_id=100",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "programydovoleb.cz – LEPŠÍ ŽIVOT PRO LIDI",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164836",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Název listiny je zároveň jejím programem: zrušení daně z nemovitostí, zavedení minimální mzdy 50 000 Kč a minimálního důchodu 30 000 Kč, návrat cen energií na úroveň roku 2019, zboží nejvyšší kvality za dostupné ceny v obchodech a odmítnutí zapojení do válečných konfliktů. Jde o sadu obecných požadavků bez uvedení, jak by je město (jehož kompetence jsou komunální, nikoli celostátní) mělo prosadit.",
+    "priority": [
+      {
+        "oblast": "hospodareni",
+        "nazev": "Zrušení daně z nemovitostí",
+        "popis": "Zrušení daně z nemovitostí pro rodinné domy a byty.",
+        "citace": "zrušení daně z nemovitostí",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Daň z nemovitých věcí je celostátní daň upravená zákonem; město může ovlivnit jen místní koeficient, nikoli zrušit daň jako takovou – to je mimo kompetence zastupitelstva hl. m. Prahy."
+        },
+        "zdroj_url": "https://www.lzpl.cz/?page_id=100"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Minimální mzda 50 000 Kč a minimální důchod 30 000 Kč",
+        "popis": "Zavedení minimální mzdy ve výši 50 000 Kč a minimálního důchodu ve výši 30 000 Kč.",
+        "citace": "min. mzda 50.000 Kč, min. důchod 30.000 Kč",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Výši minimální mzdy a důchodů stanovuje vláda a zákon na celostátní úrovni; zastupitelstvo hlavního města nemá v této oblasti žádnou pravomoc."
+        },
+        "zdroj_url": "https://www.lzpl.cz/?page_id=100"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Návrat cen energií na úroveň roku 2019",
+        "popis": "Snížení cen energií politickým rozhodnutím na úroveň před rokem 2020.",
+        "citace": "návrat cen energií na ceny z roku 2019",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Ceny energií se tvoří na celostátním a mezinárodním trhu a jejich regulace je v kompetenci celostátních orgánů (ERÚ, vláda), nikoli zastupitelstva hlavního města."
+        },
+        "zdroj_url": "https://www.lzpl.cz/?page_id=100"
+      },
+      {
+        "oblast": "jine",
+        "nazev": "STOP válce",
+        "popis": "Odmítnutí zapojení státu do financování zahraničních konfliktů.",
+        "citace": "STOP válce",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Zahraniční a bezpečnostní politika je výlučně v kompetenci vlády a Parlamentu ČR, nikoli zastupitelstva hlavního města."
+        },
+        "zdroj_url": "https://www.lzpl.cz/?page_id=100"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Kombinace silně redistributivních požadavků (vysoká minimální mzda a důchod) se zrušením daně z nemovitostí a antivalečnou rétorikou neodpovídá standardní levo-pravé ose; politická pozice je nekonzistentní a nelze ji jednoznačně zařadit.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Sliby jsou formulovány jako obecná přání bez opatření, kterými by je zastupitelstvo hl. m. Prahy mohlo vůbec prosadit – prakticky všechny sliby spadají mimo kompetenci komunální politiky (celostátní daně, mzdy, důchody, energetika, zahraniční politika), proto konkrétnost 1. Transparentnost: zveřejněný program na vlastním webu (+1); financování kampaně, transparentní účet a životopisy kandidátů nad rámec kandidátní listiny ČSÚ nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["opl-pavel"],
+  "mezery_v_datech": [
+    "Program neobsahuje žádný mechanismus, jak by město mohlo ovlivnit celostátní daně, mzdy, důchody či energetickou politiku – jde o sliby mimo kompetenci komunální samosprávy.",
+    "Financování kampaně a transparentní účet strany nebyly ověřeny."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "tomanek-martin",
+  "name_key": "tomanek-martin",
+  "cele_jmeno": "Martin Tománek",
+  "rok_narozeni": 1971,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 1, "poradi": 13}],
+  "role": "inkumbent",
+  "profil": "Martin Tománek je grafik, oddávající a vítač občánků MČ Praha 7, v současném volebním období radní pro finance a rozpočet. Pro rok 2026 kandiduje na 13. místě listiny PRAHA 7 SOBĚ.",
+  "vzdelani": null,
+  "profese": "radní MČ Praha 7 pro finance a rozpočet, grafik",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "radní MČ Praha 7 (finance, rozpočet)", "organizace": "MČ Praha 7", "zdroj_url": "https://www.praha7.cz/radnice/voleni-zastupci-mistni-samospravy/rada-mc-praha-7/clenove-rady/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Má výkonnou funkci (radní pro finance), ale podrobný zdrojovaný seznam jeho slibů a jejich plnění nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha7.cz - Členové rady MČ Praha 7", "url": "https://www.praha7.cz/radnice/voleni-zastupci-mistni-samospravy/rada-mc-praha-7/clenove-rady/", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 55 let v brífu k říjnu 2026 (1971), neověřeno.",
+    "Konkrétní výsledky agendy financí (hospodaření MČ, rozpočtové výsledky) nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

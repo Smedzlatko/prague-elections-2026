@@ -1,0 +1,53 @@
+{
+  "slug": "liska-jan",
+  "name_key": "liska-jan",
+  "cele_jmeno": "Ing. Jan Liška",
+  "rok_narozeni": 1983,
+  "strana": "STAROSTOVÉ A NEZÁVISLÍ",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-14",
+      "list_cislo": 3,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Jan Liška je radním MČ Praha 14 a interním auditorem z profese. V tabulce výsledků voleb 2022 na Praze 14 STAN jako samostatná listina nefiguruje, Liška je ale podle dat ČSÚ veden jako inkumbent – přesná listina, na které byl v roce 2022 zvolen, a mechanismus, jímž se stal radním, se v rešerši nepodařilo ověřit. Pro volby 2026 vede samostatnou listinu STAN.",
+  "vzdelani": null,
+  "profese": "Radní MČ Praha 14, interní auditor.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "radní MČ Praha 14",
+      "organizace": "MČ Praha 14",
+      "zdroj_url": "https://stanpraha14.cz/program/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako radní nese spoluodpovědnost za chod rady MČ, podrobný audit jeho konkrétní agendy se však nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "STAN Praha 14 - volební program",
+      "url": "https://stanpraha14.cz/program/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebylo ověřeno, na jaké listině byl Jan Liška v roce 2022 zvolen (STAN samostatně na Praze 14 v tabulce výsledků 2022 nefiguruje).",
+    "Konkrétní agenda interního auditu v jeho roli radního nebyla samostatně ověřena."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

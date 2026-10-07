@@ -1,0 +1,53 @@
+{
+  "slug": "dolezalova-lucie",
+  "name_key": "dolezalova-lucie",
+  "cele_jmeno": "Mgr. Lucie Doležalová",
+  "rok_narozeni": 1980,
+  "strana": "STAROSTOVÉ A NEZÁVISLÍ – ÚJEZD ŽIJE",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-21",
+      "list_cislo": 2,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Lucie Doležalová je právnička, mediátorka a lektorka projektové výuky. V zastupitelstvu MČ Praha 21 zasedá od roku 2018, ve volbách 2022 vedla listinu ÚJEZD ŽIJE k zisku 2 mandátů ze 17 (13,42 %, druhý nejlepší výsledek po vládnoucí ODS a TOP 09). Pro volby 2026 vede listinu STAROSTOVÉ A NEZÁVISLÍ – ÚJEZD ŽIJE jako opoziční kandidátka.",
+  "vzdelani": null,
+  "profese": "Právnička, mediátorka, lektorka projektové výuky.",
+  "politicka_historie": [
+    {
+      "od": "2018-10",
+      "do": null,
+      "funkce": "zastupitelka MČ Praha 21 (opozice)",
+      "organizace": "MČ Praha 21",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitelka bez výkonné funkce v radě nelze podle metodiky hodnotit plnění slibů vázané na exekutivní rozhodování.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 538949",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro volby 2026 nebyl dohledán.",
+    "Konkrétní návrhy a interpelace v zastupitelstvu 2018-2026 nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

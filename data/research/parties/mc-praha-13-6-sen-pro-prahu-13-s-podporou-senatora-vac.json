@@ -1,0 +1,57 @@
+{
+  "slug": "mc-praha-13-6-sen-pro-prahu-13-s-podporou-senatora-vac",
+  "assembly_id": "mc-praha-13",
+  "list_cislo": 6,
+  "nazev": "SEN PRO PRAHU 13 s podporou senátora Václava Lásky a Společnosti na ochranu Prokopského údolí",
+  "zkratka": "SEN 21/SOPU",
+  "typ": "koalice",
+  "slozeni": ["SEN 21", "SOPU", "nezávislí"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program pro Prahu 13 na rok 2026 se nepodařilo dohledat. Listina navazuje na úspěšnou listinu z roku 2022 (SEN 21 pro Prahu 13 a Společnost proti developerské výstavbě, 4 mandáty), podpořenou senátorem Václavem Láskou a Společností na ochranu Prokopského údolí — profiluje se tedy především ochranou přírodní lokality Prokopské údolí před developerskou výstavbou.",
+    "priority": [
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Ochrana Prokopského údolí před developerskou výstavbou",
+        "popis": "Odpor proti rozšiřování výstavby v přírodní lokalitě Prokopské údolí, podpořený místní Společností na ochranu Prokopského údolí.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Záleží na vlastnických vztazích a rozhodování stavebního úřadu, které MČ sama nekontroluje v plném rozsahu."},
+        "zdroj_url": null
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": -1,
+    "oduvodneni": "Listina se profiluje primárně jednou lokální kauzou (ochrana přírody) bez jasné celkové ekonomické osy; hodnotově spíše environmentálně-komunitní.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Předchůdce listiny (SEN 21 pro Prahu 13 a Společnost proti developerské výstavbě) byl v letech 2022–2026 v opozici vůči koalici ODS, ANO 2011 a TOP 09/KDU-ČSL, se 4 mandáty z voleb 2022.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční subjekt nemohla přímo prosazovat vlastní exekutivní agendu; konkrétní opoziční návrhy a jejich osud za období 2022–2026 nebyly v rámci této rešerše dohledány."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program je omezen na jedno obecné téma bez konkrétních opatření, čísel nebo termínů (konkrétnost 1). Důvěryhodnost plnění nelze hodnotit u opoziční strany bez dohledaného programu z roku 2022. Transparentnost: dohledatelná kandidátka (+1), podpora veřejně známého senátora zvyšující dohledatelnost vazeb (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["prosmanova-jana"],
+  "mezery_v_datech": [
+    "Kompletní program pro rok 2026 nebyl dohledán nad rámec obecného zaměření na ochranu Prokopského údolí.",
+    "Konkrétní opoziční agenda a její výsledky za období 2022–2026 nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

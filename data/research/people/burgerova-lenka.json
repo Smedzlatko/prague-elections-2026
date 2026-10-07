@@ -1,0 +1,34 @@
+{
+  "slug": "burgerova-lenka",
+  "name_key": "burgerova-lenka",
+  "cele_jmeno": "PhDr. Ing. arch. Lenka Burgerová, Ph.D.",
+  "rok_narozeni": 1978,
+  "strana": "BEZPP",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 1, "poradi": 6}],
+  "role": "inkumbent",
+  "profil": "Lenka Burgerová je urbanistka a vysokoškolská pedagožka, bez politické příslušnosti kandiduje za hnutí PRAHA 7 SOBĚ. V současném volebním období je místostarostkou MČ Praha 7 pro rozvoj (podle brífu ČSÚ). Pro rok 2026 kandiduje na 6. místě listiny.",
+  "vzdelani": "architektura a urbanismus, Ing. arch., Ph.D. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "místostarostka MČ Praha 7 pro rozvoj, urbanistka, vysokoškolská pedagožka",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "místostarostka MČ Praha 7 pro rozvoj", "organizace": "MČ Praha 7", "zdroj_url": "https://www.praha7.cz/radnice/voleni-zastupci-mistni-samospravy/rada-mc-praha-7/clenove-rady/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Má výkonnou funkci (místostarostka pro rozvoj, relevantní pro Bubny-Zátory), ale podrobný zdrojovaný seznam jejích slibů a jejich plnění nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha7.cz - Členové rady MČ Praha 7", "url": "https://www.praha7.cz/radnice/voleni-zastupci-mistni-samospravy/rada-mc-praha-7/clenove-rady/", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 48 let v brífu k říjnu 2026 (1978), neověřeno.",
+    "Fetch stránky s členy rady MČ Praha 7 nezobrazil Burgerovou v devítičlenném výpisu (uvedl jen 8 jmen) - resort místostarostky pro rozvoj je doložen jen brífem ČSÚ, nikoliv samostatně ověřen na webu MČ.",
+    "Konkrétní výsledky agendy rozvoje (např. účast na přípravě Bubny-Zátory) nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

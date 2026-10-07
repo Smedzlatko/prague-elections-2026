@@ -1,0 +1,150 @@
+{
+  "slug": "mc-praha-11-10-ano-2011",
+  "assembly_id": "mc-praha-11",
+  "list_cislo": 10,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO 2011"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Pražský patriot – Hnutí ANO povede do voleb v Praze 11 Petr Sýkora",
+        "url": "https://www.prazskypatriot.cz/hnuti-ano-povede-do-voleb-v-praze-11-petr-sykora/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Lokální program ANO 2011 pro Prahu 11 pro rok 2026 nemá formu samostatného psaného dokumentu, ale byl prezentován v médiu (Pražský patriot) formou výčtu priorit lídra Petra Sýkory: bezpečné ulice a chodníky, dostatek parkovacích míst, kvalitní školy, podpora sportu a sportovní infrastruktury, dostupná zdravotní péče, lepší doprava (včetně řešení tranzitní dopravy v obytných částech), služby pro seniory a rodiny a otevřené hospodaření radnice. Sýkora svůj přístup explicitně staví proti nereálným slibům („Nechci rozdávat nereálné sliby“).",
+    "priority": [
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Bezpečné ulice a chodníky",
+        "popis": "Zlepšení bezpečnosti veřejného prostoru v Jižním Městě.",
+        "citace": "bezpečné ulice; bezpečné chodníky",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétních opatření (např. kamerový systém, osvětlení konkrétních míst) nelze realizovatelnost posoudit."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-povede-do-voleb-v-praze-11-petr-sykora/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Dostatek parkovacích míst a lepší doprava",
+        "popis": "Řešení dlouhodobého nedostatku parkovacích míst a tranzitní dopravy v obytných částech Jižního Města.",
+        "citace": "dostatek parkovacích míst; lepší doprava",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Parkovací politika a tranzitní doprava na sídlišti jsou dlouhodobě neřešené problémy napříč politickým spektrem; bez konkrétního návrhu (počet míst, lokalita, financování) jde o obecný slib."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-povede-do-voleb-v-praze-11-petr-sykora/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Kvalitní školy",
+        "popis": "Obecný slib kvality školství bez konkrétních investic nebo kapacit.",
+        "citace": "kvalitní školy",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétního opatření nelze posoudit."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-povede-do-voleb-v-praze-11-petr-sykora/"
+      },
+      {
+        "oblast": "sport",
+        "nazev": "Podpora sportu a sportovní infrastruktury",
+        "popis": "Rozvoj sportovní infrastruktury a podpora klubů pracujících s dětmi a mládeží – logická vazba na profesi lídra (předseda FK Dukla Jižní Město, trenér mládeže).",
+        "citace": "rozvoj sportovní infrastruktury a podpora klubů, které pracují s dětmi a mládeží",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Lídr má osobní odbornou vazbu na téma (vede fotbalový klub), což zvyšuje důvěryhodnost záměru, ale bez konkrétního rozpočtu nebo projektu zůstává obecným slibem."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-povede-do-voleb-v-praze-11-petr-sykora/"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Dostupná zdravotní péče",
+        "popis": "Obecný slib dostupnosti zdravotní péče v MČ.",
+        "citace": "dostupnou zdravotní péči",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétního opatření nelze posoudit."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-povede-do-voleb-v-praze-11-petr-sykora/"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Služby pro seniory a podpora rodin",
+        "popis": "Obecný slib podpory seniorů a rodin bez konkrétní služby nebo kapacity.",
+        "citace": "služby pro seniory; podpora rodin a seniorů",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétního opatření nelze posoudit."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-povede-do-voleb-v-praze-11-petr-sykora/"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Otevřené hospodaření radnice",
+        "popis": "Obecný slib transparentního hospodaření MČ bez konkrétního nástroje (např. zveřejňování smluv nad určitý limit).",
+        "citace": "otevřené hospodaření radnice",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétního nástroje nelze posoudit."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-povede-do-voleb-v-praze-11-petr-sykora/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "ANO 2011 se celostátně profiluje jako hnutí bez jasné ekonomicko-hodnotové osy, blízké středu s konzervativnějšími akcenty v kulturních otázkách; dohledaný lokální výčet priorit (bezpečnost, parkování, školy, sport, zdravotní péče, senioři) je prakticky apolitická komunální agenda a ideologické zařazení dále nezpřesňuje.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "ANO 2011 bylo od ustavujícího zastupitelstva (12/2022) formálně součástí vládnoucí koalice MČ Praha 11 (spolu s HPP 11, PRAHA 11 SOBĚ a ODS), s deseti mandáty z voleb 2022. Po odvolání starostky Zdeňkové (12/2023) a zvolení Martina Sedeke (ODS) starostou menšinové rady (13. 6. 2024) již MČ nemá formální koaliční smlouvu; ANO poskytovalo nové radě ad hoc hlasovací podporu jako opoziční strana, ale nebylo (podle dostupných zdrojů) formálně v radě zastoupeno.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako koaliční partner byla ANO 2011 součástí vedení MČ v letech 2022–2023, od poloviny 2024 jde formálně o opoziční ad-hoc podporu menšinové rady Martina Sedeke bez koaliční smlouvy. Konkrétní bilanci jejích slibů z roku 2022 ani jmenovité výsledky jejích zastupitelů (vč. Ondřeje Prokopa, který byl v roce 2022 lídrem a zastupitelem MČ i hl. m. Prahy) se nepodařilo dohledat. Pro volby 2026 vede listinu nový lídr Petr Sýkora (předseda fotbalového klubu FK Dukla Jižní Město), Prokop pro komunální volby 2026 již v Praze 11 ani na magistrátu nekandiduje."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu = 1: program má podobu výčtu obecných hesel (bezpečnost, parkování, školy, sport, zdravotní péče, senioři, transparentnost) bez čísel, termínů nebo rozpočtu – lídr sám zdůrazňuje, že nechce „rozdávat nereálné sliby“, což koresponduje s nízkou konkrétností. Důvěryhodnost plnění: ANO zůstalo v koalici po celé období včetně půlroční krize vedení MČ (odvolání starostky Zdeňkové 12/2023, rozpad s Piráty, nástup starosty Sedekeho 6/2024), ale zdrojovaný přehled konkrétních splněných slibů z roku 2022 se nepodařilo dohledat. Výměna celopražského lídra (Prokop již nekandiduje) navíc ztěžuje posouzení kontinuity. Transparentnost: dohledatelná kandidátka (+1) a zveřejněná (byť obecná) programová komunikace v médiu (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "sykora-petr"
+  ],
+  "mezery_v_datech": [
+    "Program ANO 2011 pro Prahu 11 na rok 2026 nemá formu samostatného dokumentu – dohledán jen jako výčet priorit v médiu (Pražský patriot); vlastní psaný program na webu listiny nebyl nalezen. Zkoušeno: detail listiny na programydovoleb.cz (strana/170866, bez odkazu na program), web MČ praha11.cz (přehled voleb bez odkazů na programy listin), doména anobudepraha11.cz (neexistuje), Facebook stránka „ANO, tohle je Praha 11“ (dostupný jen název, obsah přes WebFetch nečitelný).",
+    "Žádný konkrétní, zdrojovaný splněný/nesplněný slib ani jmenovitý výsledek zastupitele ANO v Praze 11 2022–2026 nebyl dohledán i přes opakovaný WebSearch (ověřeno 2026-10-03; zkoušeno hlidacstatu.cz, denikn.cz fulltext na „Praha 11 Prokop“, „Praha 11 ANO 2011 Prokop OR Sýkora zastupitel 2023 2024 projekt investice výsledek“) – bilance (castecne/splnene/nesplnene) proto zůstává prázdná a doveryhodnost_plneni se nemění.",
+    "Přesné důvody a okamžik, kdy ANO v letech 2023–2024 formálně přestalo být členem rady/koalice (na rozdíl od zachování ad hoc hlasovací podpory), se nepodařilo dohledat nezávisle mimo jeden článek Deníku N.",
+    "Bilance 2022–2026 zůstává záměrně bez konkrétních splněných/nesplněných slibů: po opakovaném WebSearch 2026-10-06 (dotaz na radní a splněné sliby ANO v Praze 11) nebyl dohledán žádný zdrojovaný doklad o plnění programu 2022 za ANO; nahrazeno popisem role v koalici a v období po jejím rozpadu."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

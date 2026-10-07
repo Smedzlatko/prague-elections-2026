@@ -1,0 +1,51 @@
+{
+  "slug": "soukup-bara",
+  "name_key": "soukup-bara",
+  "cele_jmeno": "Mgr. Bara Soukup",
+  "rok_narozeni": 1988,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 7,
+      "poradi": 31
+    },
+    {
+      "assembly_id": "mc-praha-3",
+      "list_cislo": 1,
+      "poradi": 11
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Geoinformatička, zastupitelka hl. m. Prahy za Piráty od voleb 2022 (zvolena z 8. místa s přes 67 tisíci preferenčními hlasy). Pro volby 2026 kandiduje na 31. místě pražské kandidátky Pirátů a na 11. místě koaliční kandidátky „Piráti, PRAHA 3 SOBĚ a Edita Janečková“ v Praze 3. Žádný hlubší veřejně dohledaný politický záznam mimo mandát zastupitelky nebyl nalezen.",
+  "vzdelani": "Geoinformatika (Mgr.).",
+  "profese": "Geoinformatička, zastupitelka hl. m. Prahy.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitelka hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastává mandát zastupitelky bez exekutivní (radní) funkce, podle metodiky se plnění slibů u takové role nehodnotí.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Konkrétní činnost a hlasování na Zastupitelstvu hl. m. Prahy za volební období 2022-2026 nebyly v dostupných zdrojích dohledány nad rámec dat ČSÚ."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

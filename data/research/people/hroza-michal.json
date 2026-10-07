@@ -1,0 +1,101 @@
+{
+  "slug": "hroza-michal",
+  "name_key": "hroza-michal",
+  "cele_jmeno": "Bc. Michal Hroza",
+  "rok_narozeni": 1976,
+  "strana": "TOP 09",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 12,
+      "poradi": 2
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Michal Hroza je náměstek primátora hl. m. Prahy pro infrastrukturu (od prosince 2025, předtím od února 2023 radní pro infrastrukturu) a hudebník. V TOP 09 je členem od roku 2010, od roku 2015 krajský předseda TOP 09 pro Prahu 4, od 2018 místopředseda pražské organizace strany. V letech 2019-2023 byl místostarostou MČ Praha 4 pro majetek a kulturu, předtím krátce (2014-2015) radním Prahy 4 pro kulturu. Profesně pracoval 11 let v Ústavu pro studium totalitních režimů jako šéfredaktor a vedl projekt Paměť národa v Post Bellu, který dokumentuje svědectví veteránů a politických vězňů. Hraje saxofon a klarinet, je zakládajícím členem kapel Ahmed má hlad a Neočekávaný dýchánek.",
+  "vzdelani": "studium ukrajinistiky a ruských studií na Filozofické fakultě UK",
+  "profese": "náměstek primátora hl. m. Prahy pro infrastrukturu; hudebník",
+  "politicka_historie": [
+    {
+      "od": "2010",
+      "do": null,
+      "funkce": "člen TOP 09",
+      "organizace": "TOP 09",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Michal_Hroza"
+    },
+    {
+      "od": "2014",
+      "do": "2015",
+      "funkce": "radní MČ Praha 4 pro kulturu",
+      "organizace": "MČ Praha 4",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Michal_Hroza"
+    },
+    {
+      "od": "2015",
+      "do": null,
+      "funkce": "krajský předseda TOP 09 pro Prahu 4",
+      "organizace": "TOP 09",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Michal_Hroza"
+    },
+    {
+      "od": "2018",
+      "do": null,
+      "funkce": "místopředseda pražské organizace TOP 09",
+      "organizace": "TOP 09 - Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Michal_Hroza"
+    },
+    {
+      "od": "2019",
+      "do": "2023",
+      "funkce": "místostarosta MČ Praha 4 (majetek, kultura)",
+      "organizace": "MČ Praha 4",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Michal_Hroza"
+    },
+    {
+      "od": "2023-02",
+      "do": "2025-12",
+      "funkce": "radní hl. m. Prahy pro infrastrukturu",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Michal_Hroza"
+    },
+    {
+      "od": "2025-12",
+      "do": null,
+      "funkce": "náměstek primátora hl. m. Prahy pro infrastrukturu",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Michal_Hroza"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Hroza má od roku 2023 výkonnou funkci v oblasti infrastruktury (od 2025 jako náměstek primátora), ale rešerší se nepodařilo dohledat zdrojovaný přehled konkrétních investičních slibů a jejich plnění v tomto resortu (např. stav metra D, Městského okruhu za jeho gesce) – proto skóre null.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Michal Hroza",
+      "url": "https://cs.wikipedia.org/wiki/Michal_Hroza",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Zastupitelstvo hlavního města Prahy",
+      "url": "https://cs.wikipedia.org/wiki/Zastupitelstvo_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození (1976) je odhad z udaného věku 50 let v brífu k říjnu 2026.",
+    "Chybí doložený přehled konkrétních výsledků/projektů v resortu infrastruktury za jeho působení jako radní/náměstek.",
+    "Nenašla se žádná medializovaná kauza/kontroverze s jeho jménem."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

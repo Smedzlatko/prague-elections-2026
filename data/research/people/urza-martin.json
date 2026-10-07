@@ -1,0 +1,58 @@
+{
+  "slug": "urza-martin",
+  "name_key": "urza-martin",
+  "cele_jmeno": "Martin Urza",
+  "rok_narozeni": 1987,
+  "strana": "Nevolte Urza.cz",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 4,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Martin Urza je anarchokapitalistický autor a lektor, jediný kandidát listiny „Urza.cz“ v magistrátních volbách 2026 a zároveň unikátní případ v rámci celého pražského hlasování: listina explicitně odmítá hlasy voličů a Urza předem prohlašuje, že jakoukoli politickou funkci, pokud by byl zvolen, odmítne. Podle vlastního textu kampaně „ke svobodě se nelze provolit“ a cílem kandidatury je upozornit na toto přesvědčení, nikoli získat mandát. Je autorem první české knihy o anarchokapitalismu, přednáškového cyklu k tomuto tématu a komunitního projektu „Svobodný přístav“ v severních Čechách; publikuje také na vlastním YouTube kanálu. Filozoficky vychází z principu neagrese, respektu k soukromému vlastnictví a svobodného trhu.",
+  "vzdelani": null,
+  "profese": "autor, lektor anarchokapitalismu",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Nikdy nezastával veřejnou funkci a programově ji odmítá i do budoucna, plnění slibů ve smyslu metodiky proto nelze hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Nechceme vaše hlasy; ke svobodě se nelze provolit. Odmítneme každou politickou funkci; nechceme totiž lidem nařizovat, jak mají žít.",
+      "kontext": "Text kandidátní listiny Urza.cz na kandidátní listině ČSÚ",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164926",
+      "datum": "2026-10-02"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – Urza.cz",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164926",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "urza.cz – osobní web",
+      "url": "http://www.urza.cz",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Vzdělání a přesná profesní historie se nepodařilo dohledat mimo autorskou činnost na vlastním webu.",
+    "Rok narození je odhad z uvedeného věku 39 let v brífu k říjnu 2026.",
+    "Nebyl dohledán nezávislý mediální zdroj (celostátní média) o jeho osobě nebo kandidatuře."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

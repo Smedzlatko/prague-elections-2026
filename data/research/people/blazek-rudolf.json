@@ -1,0 +1,27 @@
+{
+  "slug": "blazek-rudolf",
+  "name_key": "blazek-rudolf",
+  "cele_jmeno": "JUDr. Rudolf Blažek",
+  "rok_narozeni": 1968,
+  "strana": "HNP",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 7, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Rudolf Blažek je právník a předseda sportovního klubu SK Motorlet Praha, pro rok 2026 vede jako lídr novou listinu Naše Praha 5 (HNP, nezávislí). V roce 2022 v tomto uskupení nekandidoval, žádný další veřejný politický záznam nebyl dohledán.",
+  "vzdelani": "právo, JUDr. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "právník, předseda SK Motorlet Praha",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez historického záznamu z výkonné funkce na úrovni MČ.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 58 let v brífu k říjnu 2026 (1968), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o nového kandidáta."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

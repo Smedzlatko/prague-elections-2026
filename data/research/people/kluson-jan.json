@@ -1,0 +1,30 @@
+{
+  "slug": "kluson-jan",
+  "name_key": "kluson-jan",
+  "cele_jmeno": "Mgr. Jan Klusoň",
+  "rok_narozeni": 1994,
+  "strana": "ANO",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 3, "poradi": 3}],
+  "role": "inkumbent",
+  "profil": "Jan Klusoň je radní MČ Praha 5 za ANO 2011 (potvrzeno aktuálním seznamem rady MČ, říjen 2026). V roce 2022 získal mandát zastupitele (3353 preferenčních hlasů). Pro rok 2026 kandiduje na 3. místě listiny ANO 2011.",
+  "vzdelani": "Mgr. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "radní MČ Praha 5",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "radní MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Má výkonnou funkci (radní), ale podrobný zdrojovaný seznam jeho slibů a jejich plnění (konkrétní resort) nebyl dohledán.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha5.cz - Rada MČ Praha 5", "url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 32 let v brífu k říjnu 2026 (1994), neověřeno.",
+    "Konkrétní resort (agenda), za kterou jako radní odpovídá, nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "mc-praha-8-1-8zije-praha-sobe-a-zeleni",
+  "assembly_id": "mc-praha-8",
+  "list_cislo": 1,
+  "nazev": "8žije, Praha sobě a Zelení",
+  "zkratka": "8žije",
+  "typ": "koalice",
+  "slozeni": [
+    "8žije",
+    "PRAHA SOBĚ",
+    "Zelení"
+  ],
+  "web": "https://www.8zije.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "8žije.cz: Program pro lepší Prahu 8 (PDF, Vize pro volby 2026)",
+        "url": "https://www.8zije.cz/dokumenty/8zije-program-pro-lepsi-prahu-8.pdf",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Koalice místního hnutí 8žije, PRAHA SOBĚ a Zelených navazuje na předchozí volební období, kdy byla součástí vládnoucí koalice na Praze 8 (starosta Václav Stránský). Program je postaven na 8 bodech: garanti pro každou ze 8 čtvrtí od Čimic po Karlín, dotažení Nové Palmovky, Libeňského mostu a ZŠ Rohan, bezpečná doprava a opravy chodníků (20 mil. Kč/rok), úklid a zeleň u stanic metra, veřejná vybavenost a kultura na sídlištích, nabídka cca 200 prázdných městských bytů učitelům/strážníkům/zdravotníkům/rodinám a navýšení kapacit škol a školek do roku 2028 (i v Karlíně a Libni).",
+    "priority": [
+      {
+        "oblast": "transparentnost",
+        "nazev": "Garant pro každou čtvrť a participativní rozpočet",
+        "popis": "8 garantů/garantek pro jednotlivé čtvrti (Bohnice, Staré Bohnice, Čimice, Kobylisy, Ládví, Holešovičky a Troja, Libeň, Karlín) přebírajících podněty obyvatel; zavedení participativního rozpočtu.",
+        "citace": "Máme 8 garantů a garantek pro všechny čtvrti... Připravíme participativní rozpočet, abyste mohli hlasováním rozhodnout, co ve svém okolí chcete zlepšit.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Organizační opatření plně v gesci MČ, bez nutnosti změn na vyšší úrovni; podobný systém již koalice v minulém období částečně zavedla."
+        },
+        "zdroj_url": "https://www.8zije.cz/dokumenty/8zije-program-pro-lepsi-prahu-8.pdf"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Dotažení Nové Palmovky, Libeňského mostu a ZŠ Rohan",
+        "popis": "Starosta má hned po nástupu zahájit jednání s hl. m. Prahou, státem i dalšími partnery, aby se vyřešily dluhy po předchozích reprezentacích a dokončily nedotažené projekty – Nová Palmovka, Libeňský most a ZŠ Rohan.",
+        "citace": "Starosta Václav Stránský hned po nástupu zahájí jednání s hlavním městem, státem i dalšími partnery, aby se konečně vyřešily dluhy po předchozích reprezentacích a dokončily se nedotažené projekty: Nová Palmovka, Libeňský most a ZŠ Rohan.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Závisí na vyjednávání s hl. m. Prahou a dalšími subjekty mimo kontrolu MČ, bez uvedeného termínu ani rozpočtu."
+        },
+        "zdroj_url": "https://www.8zije.cz/dokumenty/8zije-program-pro-lepsi-prahu-8.pdf"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "20 milionů Kč ročně na opravy chodníků a bezpečnější přechody",
+        "popis": "Každoroční vyčlenění 20 milionů Kč na opravy chodníků, bezpečnější přechody u škol, chytré řízení semaforů a kompenzace za dostavbu Pražského okruhu.",
+        "citace": "Každý rok vyčleníme 20 milionů korun na opravy chodníků. Při dostavbě Pražského okruhu budeme požadovat odpovídající kompenzace za stavbu pro čtvrti Prahy 8.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Konkrétní částka i každoroční závazek, v přímé gesci MČ (rozpočet)."
+        },
+        "zdroj_url": "https://www.8zije.cz/dokumenty/8zije-program-pro-lepsi-prahu-8.pdf"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Nabídka 200 prázdných městských bytů",
+        "popis": "Praha 8 má přes 200 prázdných bytů a nevyužitých komerčních prostor – mají být opraveny a nabídnuty učitelům, strážníkům, zdravotníkům a rodinám; nebytové prostory pronajímány transparentně.",
+        "citace": "Praha 8 má přes 200 prázdných bytů a nevyužitých komerčních prostor. Byty opravíme a nabídneme je lidem, které Praha 8 potřebuje - učitelům, strážníkům, zdravotníkům i rodinám hledajícím dostupné bydlení.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní počet bytů a cílová skupina, ale bez termínu dokončení oprav a bez odhadu nákladů na rekonstrukci."
+        },
+        "zdroj_url": "https://www.8zije.cz/dokumenty/8zije-program-pro-lepsi-prahu-8.pdf"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Dostatek míst ve školkách a školách do roku 2028",
+        "popis": "Rozšíření kapacit škol a školek tak, aby každé tříleté dítě a každý školák na Praze 8 měli do roku 2028 místo v blízké školce či škole, včetně Karlína a Libně; založení první obecní lesní školky.",
+        "citace": "Rozšíříme kapacity škol a školek tak, aby každé tříleté dítě a každý školák na Praze 8 měli do roku 2028 místo v blízké školce či škole, a to i v Karlíně a Libni.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní termín (2028), ale realizace závisí na dostavbě ZŠ Rohan a dalších kapacitách, jejichž harmonogram sama koalice popisuje jako nedotažený."
+        },
+        "zdroj_url": "https://www.8zije.cz/dokumenty/8zije-program-pro-lepsi-prahu-8.pdf"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "Kombinace lokálního hnutí 8žije, celopražské PRAHA SOBĚ (liberálně-progresivní, důraz na transparentnost a veřejný prostor) a Zelených (ekologická levice) ukazuje na středolevou, hodnotově progresivní orientaci. Odhad bez přímé citace ideologického sebeurčení listiny.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Listina navazuje na zastupitele zvolené v roce 2022 za 8žije, PRAHA SOBĚ a BEZPP (9 mandátů, koaliční partner ODS, ANO, TOP09/STAN a Patriotů ve vedení MČ).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Dostavba a otevření Nové Palmovky",
+        "dukaz": "Dostavba byla zadána firmě PORR až v červnu 2025 s plánovaným dokončením 2025-2026 – tedy ke konci volebního období, nikoli v jeho průběhu.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Nov%C3%A1_Palmovka"
+      },
+      {
+        "slib": "Úspora 120 milionů Kč na úklidu a zeleni otevřenou soutěží",
+        "dukaz": "Podle vlastní prezentace 8žije na webu dotlačili radnici k vypsání otevřené soutěže na údržbu zeleně a úklid, což mělo ušetřit 120 milionů Kč. Jde o tvrzení samotné strany na její kampaňové stránce, nezávisle nepotvrzené (např. usnesením rady, auditem nebo médiem).",
+        "zdroj_url": "https://www.8zije.cz/"
+      },
+      {
+        "slib": "Praha 8 bez hazardních heren",
+        "dukaz": "Podle vlastní prezentace 8žije z více než 50 heren na Praze 8 díky místnímu referendu a změně celopražské vyhlášky nezbyla žádná. Jde o tvrzení strany na kampaňové stránce; změna vyhlášky o hazardu je celopražská záležitost ZHMP, ne jen zásluha této listiny.",
+        "zdroj_url": "https://www.8zije.cz/"
+      },
+      {
+        "slib": "Tunelbus mezi Prahou 8 a Prahou 6 skrz tunel Blanka",
+        "dukaz": "Podle vlastní prezentace strany navrhla zastupitelka Vladislava Vojtíšková zřízení tunelbusu – jde o návrh/prosazení myšlenky, ne o doložené zavedení linky do provozu.",
+        "zdroj_url": "https://www.8zije.cz/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice byla součástí vedení MČ celé období 2022-2026 (starosta Václav Stránský). Nejviditelnějším infrastrukturním projektem je dostavba Nové Palmovky, která se k realizaci posunula až v závěru období. Vlastní kampaňová stránka 8žije uvádí jako úspěchy úsporu 120 mil. Kč na úklidu a zeleni, vymizení hazardních heren a návrh tunelbusu Praha 8-Praha 6 – jde o tvrzení strany o sobě, bez nezávislého potvrzení, proto patří mezi částečně doložené, ne splněné sliby. Program pro 2026 sám přiznává, že Nová Palmovka, Libeňský most a ZŠ Rohan zůstávají „nedotažené projekty“, což je implicitní přiznání nesplnění vlastních priorit z minulého období.",
+    "zdroje": [
+      {
+        "nazev": "cs.wikipedia.org: Nová Palmovka",
+        "url": "https://cs.wikipedia.org/wiki/Nov%C3%A1_Palmovka",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "8žije.cz: Co se nám povedlo",
+        "url": "https://www.8zije.cz/",
+        "datum": "2026-10-03"
+      }
+    ]
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "Program z PDF je rozsáhlý a konkrétní (termíny jako rok 2028, částky jako 20 mil. Kč/rok, konkrétní počty bytů), ale bez uvedeného rozpočtového krytí u většiny bodů (3). Doveryhodnost plnění: koalice sama v programu pro 2026 přiznává, že klíčové projekty z minulého období (Nová Palmovka, Libeňský most, ZŠ Rohan) zůstaly nedotažené, a jediné konkrétní doložené posuny (zadání Nové Palmovky firmě PORR) přišly až na konci období; ostatní uváděné úspěchy (úspora 120 mil., zrušení heren, tunelbus) jsou jen tvrzení strany na vlastním webu bez nezávislého zdroje, což samo o sobě neopravňuje k vysokému skóre.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "stransky-vaclav"
+  ],
+  "mezery_v_datech": [
+    "Nezávisle (mimo vlastní kampaňovou stránku) nebylo potvrzeno tvrzení o úspoře 120 mil. Kč na úklidu a zeleni ani o zrušení hazardních heren na Praze 8.",
+    "Nebyl dohledán zdrojovaný přehled všech konkrétních volebních slibů z roku 2022 a jejich individuálního plnění nad rámec vlastní prezentace strany."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

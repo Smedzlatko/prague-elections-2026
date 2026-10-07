@@ -1,0 +1,60 @@
+{
+  "cele_jmeno": "Pavel Opl",
+  "rok_narozeni": 1971,
+  "strana": "BEZPP (LŽPL)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-9",
+      "list_cislo": 6,
+      "poradi": 1
+    },
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 1,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Pavel Opl je podle vlastního životopisu odborník na bezpečnost a emeritní policejní rada Policejního prezídia ČR. Vede kandidátní listinu LŽPL v Praze 9 i celopražskou listinu „LEPŠÍ ŽIVOT PRO LIDI“ do Zastupitelstva hl. m. Prahy, jejíž název je zároveň programem (zrušení daně z nemovitostí, minimální mzda 50 000 Kč, minimální důchod 30 000 Kč, návrat cen energií na úroveň 2019, STOP válce). Mimo kandidátní listinu se nepodařilo dohledat další veřejně dostupný politický záznam.",
+  "vzdelani": null,
+  "profese": "odborník na bezpečnost, emeritní policejní rada Policejního prezídia ČR",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500216",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – LEPŠÍ ŽIVOT PRO LIDI",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164836",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "lzpl.cz – program strany",
+      "url": "https://www.lzpl.cz/?page_id=100",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "opl-pavel",
+  "name_key": "opl-pavel"
+}

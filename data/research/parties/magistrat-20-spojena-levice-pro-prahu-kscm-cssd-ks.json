@@ -1,0 +1,122 @@
+{
+  "slug": "magistrat-20-spojena-levice-pro-prahu-kscm-cssd-ks",
+  "assembly_id": "magistrat",
+  "list_cislo": 20,
+  "nazev": "Spojená levice pro Prahu",
+  "zkratka": "Spojená levice",
+  "typ": "koalice",
+  "slozeni": ["KSČM", "ČSSD", "KSČ"],
+  "web": "https://spojenalevice.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Spojená levice pro Prahu – volební program (PDF)",
+        "url": "https://spojenalevice.cz/kompletniprogram/program_spojena_levice_doplneny-1.pdf",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Spojená levice pro Prahu – web koalice",
+        "url": "https://spojenalevice.cz/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "programydovoleb.cz – Spojená levice pro Prahu",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164340",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice KSČM, ČSSD a mikrostrany KSČ staví kampaň na tezi „město pro lidi, ne pro developery“. Hlavním tématem je masivní rozšíření obecních bytů proti spekulaci s bydlením, dále zajištění toho, aby si učitelé, řidiči MHD a zdravotní sestry mohli dovolit žít v Praze, navrácení energetiky a vodárenství pod městskou kontrolu s cenami na úrovni nákladů a péče o sociální a zdravotní služby jako veřejná, nikoli zisková záležitost. Program je k dispozici jako PDF dokument, jehož text se nepodařilo strojově extrahovat; shrnutí vychází z přehledu priorit na webu koalice.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Masivní rozšíření obecních bytů",
+        "popis": "Výstavba a získávání bytů do majetku města ve velkém rozsahu jako nástroj proti spekulaci s bydlením a růstu nájmů.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Výstavba obecních bytů je v kompetenci města, ale bez uvedeného počtu bytů, rozpočtu a harmonogramu nelze posoudit reálnost; podobné sliby v minulosti narážely na kapacity stavebního trhu a rozpočet."
+        },
+        "zdroj_url": "https://spojenalevice.cz/"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Dostupné bydlení pro zaměstnance veřejných služeb",
+        "popis": "Zajištění toho, aby si učitelé, řidiči MHD, zdravotní sestry a další zaměstnanci veřejných služeb mohli dovolit žít v Praze.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o obecný cíl bez konkrétního nástroje (dotované nájmy, služební byty apod.); bez specifikace nelze posoudit realizovatelnost."
+        },
+        "zdroj_url": "https://spojenalevice.cz/"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Návrat energetiky a vodárenství pod městskou kontrolu",
+        "popis": "Vrácení dodávek energií a vody do městské správy s cenami odpovídajícími nákladům, nikoli ziskové marži.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Pražská vodárenská soustava a energetické sítě jsou dnes z velké části v soukromých či smíšených vlastnických strukturách s dlouhodobými koncesními smlouvami; zpětný odkup by vyžadoval výrazné finanční prostředky a právní kroky, které program nekonkretizuje."
+        },
+        "zdroj_url": "https://spojenalevice.cz/"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Sociální a zdravotní služby jako veřejná záležitost",
+        "popis": "Deklarace, že sociální a zdravotní služby mají být vnímány jako veřejná nezbytnost, nikoli zdroj zisku.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Jde o hodnotovou deklaraci bez konkrétního opatření; realizovatelnost nelze posoudit."
+        },
+        "zdroj_url": "https://spojenalevice.cz/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -2.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "Koalice tří formálně levicových subjektů (KSČM, ČSSD, KSČ) s programem důrazu na obecní bydlení, zestátnění energetiky a vody a sociální stát; hodnotová osa mírně progresivní, ale bez výrazných kulturně-hodnotových akcentů v dostupném programu.",
+    "zdroje": [
+      {
+        "nazev": "Spojená levice pro Prahu – web koalice",
+        "url": "https://spojenalevice.cz/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Žádná ze tří stran koalice (KSČM, ČSSD, KSČ) neměla v Zastupitelstvu hl. m. Prahy 2022–2026 mandát; ČSSD kandidovala v roce 2022 v rámci koalice Solidarita (2,01 %, 0 mandátů), KSČM samostatně (1,47 %, 0 mandátů).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Subjekt bez zastupitelského zázemí na magistrátu v období 2022–2026, hodnocení plnění slibů proto není možné."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program je formulován jako čtyři obecné teze (bydlení, mzdy, energie/voda, sociální a zdravotní služby) bez čísel, termínů nebo rozpočtového krytí – odpovídá stupni 1 (konkrétnost). Transparentnost: zveřejněný program (+1) a transparentní účet (+1, viz programydovoleb.cz); financování kampaně a životopisy kandidátů nebyly v dostupných zdrojích dohledány. Doveryhodnost_plneni je null, protože žádná ze stran koalice neměla v období 2022–2026 mandát na magistrátu.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["vlcek-petr"],
+  "mezery_v_datech": [
+    "Plný text PDF programu se nepodařilo strojově extrahovat, shrnutí vychází jen z přehledu bodů na webu koalice.",
+    "Nebylo dohledáno vysvětlení, proč se KSČM, ČSSD a mikrostrana KSČ spojily do jedné koalice (přímá komunikace o motivaci spojenectví na webu chybí, odvozeno jen z programových priorit).",
+    "Financování kampaně a transparentní účet koalice nebyly ověřeny mimo obecné odkazy na programydovoleb.cz."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

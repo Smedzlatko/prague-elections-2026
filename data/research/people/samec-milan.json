@@ -1,0 +1,86 @@
+{
+  "slug": "samec-milan",
+  "name_key": "samec-milan",
+  "cele_jmeno": "Milan Samec",
+  "rok_narozeni": 1974,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-21",
+      "list_cislo": 5,
+      "poradi": 2
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Milan Samec je členem radniční koalice ODS a TOP 09 v MČ Praha 21. Byl starostou MČ od voleb 2022, ale v roce 2023 z této funkce odstoupil – ve vlastním sloupku v předvolebním Újezdském zpravodaji (10/2026) to sám přiznává („V roce 2023 jsem odešel z funkce starosty“) a dodává, že zůstal radním a chce se v případě znovuzvolení ujmout funkce prvního místostarosty. Důvod odstoupení se nepodařilo dohledat. Podle kandidátky 2026 je profesně ICT specialista, zvolen byl na 2. místě kandidátky ODS a TOP 09 – Společně pro Újezd.",
+  "vzdelani": null,
+  "profese": "radní MČ, ICT specialista",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": "2023",
+      "funkce": "starosta MČ Praha 21",
+      "organizace": "MČ Praha 21",
+      "zdroj_url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force"
+    },
+    {
+      "od": "2023",
+      "do": null,
+      "funkce": "radní MČ, ICT specialista",
+      "organizace": "MČ Praha 21",
+      "zdroj_url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Vyjednání cca 300 mil. Kč z rozpočtu hl. m. Prahy, státu a dalších zdrojů pro MČ",
+      "popis": "Podle kolegy zastupitele Richarda Kozy (ODS a TOP 09) se radě „zejména díky schopnostem pana starosty Hazdry a radního Samce“ podařilo přinést do MČ přes 300 mil. Kč, část již realizována (fotbalové a volejbalové hřiště), část připravena k realizaci (rekonstrukce Hulické).",
+      "stav": "rozpracovano",
+      "hodnoceni": "Jde o tvrzení kolegy ze stejné koalice (zdroj_strana), nebylo ověřeno nezávisle.",
+      "zdroje": [
+        {
+          "nazev": "Újezdský zpravodaj 10/2026",
+          "url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+          "datum": "2026-09-29"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako člen radniční koalice s výkonnou funkcí nese spoluodpovědnost za chod MČ, podrobný audit konkrétní agendy se však nepodařilo samostatně dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "V roce 2023 jsem odešel z funkce starosty. Vím, že část z vás toto rozhodnutí zklamalo nebo ve vás vyvolalo pochybnosti. Zůstal jsem však radním a pokračoval v práci pro naši městskou část.",
+      "kontext": "Sloupek zastupitele v předvolebním Újezdském zpravodaji 10/2026, vysvětlující odstoupení z funkce starosty v roce 2023.",
+      "zdroj_url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+      "datum": "2026-09-29"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 538949",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Újezdský zpravodaj 10/2026",
+      "url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+      "datum": "2026-09-29"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný měsíc odstoupení z funkce starosty v roce 2023 a jeho důvod nebyly dohledány.",
+    "Konkrétní výsledky a agenda v radniční funkci nebyly samostatně dohledány nad rámec kandidátní listiny a vlastního sloupku."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

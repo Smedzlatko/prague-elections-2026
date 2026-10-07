@@ -1,0 +1,66 @@
+{
+  "assembly_id": "mc-praha-3",
+  "nazev": "Praha 3",
+  "charakteristika": "Žižkov, část Vinohrad, Jarov a Strašnice; cca 82 800 obyvatel – nejlidnatější ze tří zpracovávaných MČ. Dominantní lokální téma je Nákladové nádraží Žižkov, největší brownfield v Praze, jehož zástavba se řeší desítky let. Dále hospodaření MČ, bytový fond a veřejný prostor (např. Parukářka).",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "TOP 09",
+      "STAN",
+      "Strana zelených Praha 3"
+    ],
+    "starosta": {
+      "jmeno": "Mgr. Michal Vronský",
+      "strana": "TOP 09",
+      "slug": null
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Michal_Vronský"
+  },
+  "zmeny_v_obdobi": [
+    "Michal Vronský (TOP 09, lídr koalice TOP 09 + STAN 'Žižkov (nejen) sobě') se stal starostou Prahy 3 29. 11. 2022 po předchozím starostovi Jiřím Ptáčkovi (TOP 09), který v radě zůstal jako radní pro životní prostředí. Zdroj popisuje vedení jako 'úzkou většinu' - koalice TOP09+STAN měla z voleb 2022 11 z 35 mandátů, k většině (18) tedy musela přibrat další partnery; dle inkumbentů v kandidátních listinách 2026 (např. Ondřej Rut, Zelení, místostarosta pro bydlení a dopravu) byli pravděpodobně součástí koalice i Zelení."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Nákladové nádraží Žižkov",
+      "popis": "Největší pražský brownfield (více než 30 hektarů) uprostřed Žižkova, jehož budoucí zástavba (bydlení, park, infrastruktura) se plánuje a projednává dlouhodobě. Dle kandidátky č. 5 (TOP09+STAN) měl tuto oblast na starosti místostarosta Pavel Dobeš.",
+      "proc_zalezi": "Rozhodne o charakteru a kapacitě bydlení a veřejného prostoru pro celou MČ na desítky let dopředu.",
+      "zdroje": []
+    },
+    {
+      "nazev": "Parukářka a veřejný prostor",
+      "popis": "Park Parukářka a další veřejné prostory Žižkova jsou předmětem diskuzí o údržbě, revitalizaci a režimu využití (akce, noční klid).",
+      "proc_zalezi": "Ovlivňuje kvalitu každodenního života obyvatel hustě zastavěného Žižkova.",
+      "zdroje": []
+    },
+    {
+      "nazev": "Hospodaření a bytový fond MČ",
+      "popis": "Praha 3 vlastní rozsáhlý bytový fond; opoziční i koaliční listiny dlouhodobě diskutují o transparentnosti pronájmů a privatizace bytů.",
+      "proc_zalezi": "Dotýká se dostupnosti bydlení pro místní obyvatele v rychle se gentrifikující čtvrti.",
+      "zdroje": []
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Nákladové nádraží Žižkov",
+      "stav": "rozpracovano",
+      "popis": "Dlouhodobě plánovaná transformace brownfieldu na novou čtvrť s bydlením a veřejnou zelení; v radě MČ 2022-2026 měl agendu na starosti místostarosta Pavel Dobeš.",
+      "zdroje": []
+    }
+  ],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Michal Vronský",
+      "url": "https://cs.wikipedia.org/wiki/Michal_Vronský",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné složení koalice (kromě TOP09 a STAN) a role Zelených v ní nebylo potvrzeno samostatným zdrojem - odvozeno jen z toho, že Ondřej Rut (Zelení) je v brífu uveden jako současný místostarosta pro bydlení a dopravu.",
+    "Nebyly dohledány konkrétní doložené kauzy MČ Praha 3 2022-2026 ani detailní stav projektu Nákladové nádraží Žižkov - oficiální zápisy zastupitelstva a web praha3.cz nebyly v rešerši ověřeny.",
+    "Mojmír Mikuláš (č. 3 celopražských Motoristů, zastupitel Prahy 3 za AUTO/Motoristé) je zmíněn v briefu jako lídr listiny 'MOTORISTÉ sobě a PATRIOTI' pro 2026 - jeho případná role v koalici/opozici 2022-2026 nebyla ověřena.",
+    "Některá klicova_temata (Nákladové nádraží Žižkov, Parukářka a veřejný prostor, Hospodaření a bytový fond MČ) nemají přiřazený konkrétní zdroj - jde o obecně známá lokální témata bez dohledaného konkrétního článku/dokumentu k říjnu 2026; vyžaduje doplnění při příští rešerši."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

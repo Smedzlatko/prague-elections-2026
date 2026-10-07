@@ -1,0 +1,27 @@
+{
+  "slug": "cahoj-viktor",
+  "name_key": "cahoj-viktor",
+  "cele_jmeno": "Bc. Viktor Čahoj",
+  "rok_narozeni": 1987,
+  "strana": "TOP 09",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 2, "poradi": 5}],
+  "role": "top5",
+  "profil": "Viktor Čahoj je specialista na veřejné investice, člen TOP 09. V roce 2022 mandát nezískal, žádný další veřejný politický záznam nebyl dohledán. Pro rok 2026 kandiduje na 5. místě koaliční listiny TOP Lidovci a Nezávislí.",
+  "vzdelani": "Bc. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "specialista na veřejné investice",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez historického záznamu z výkonné funkce na úrovni MČ Praha 5.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 39 let v brífu k říjnu 2026 (1987), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o nového kandidáta."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

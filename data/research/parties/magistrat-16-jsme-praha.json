@@ -1,0 +1,116 @@
+{
+  "slug": "magistrat-16-jsme-praha",
+  "assembly_id": "magistrat",
+  "list_cislo": 16,
+  "nazev": "JSME PRAHA",
+  "zkratka": "JSME PRAHA",
+  "typ": "koalice",
+  "slozeni": [
+    "JSME TEAM",
+    "Volt Česko"
+  ],
+  "web": "https://www.jsme.team/nase-teamy/praha/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "jsme.team: JSME PRAHA (lokální stránka)",
+        "url": "https://www.jsme.team/nase-teamy/praha/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "jsme.team: JSME TEAM - celostátní hnutí",
+        "url": "https://www.jsme.team/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "JSME PRAHA je pražská kandidátka hnutí JSME TEAM (celostátně založeno Markem Hilšerem, dříve jako „Marek Hilšer do Senátu“, v roce 2026 přejmenováno a vedené Lukášem Wagenknechtem) ve spolupráci s europeistickou stranou Volt Česko. Kandidátku vede Jana Komrsková, dosavadní náměstkyně primátora pro životní prostředí, která v červnu 2026 po devíti letech ukončila členství v Pirátské straně a stala se lídryní JSME TEAM pro Prahu. Program staví na hesle „profesionální správa města založená na datech, odbornosti a transparentnosti“ a kritizuje předchozí vedení za neefektivitu a nedostatečný dohled nad městským majetkem; více kandidátů na listině (Komrsková, Eva Tichá, Petr Beneš, Robert Veverka) byli v roce 2022 zvoleni do zastupitelstev městských částí za Českou pirátskou stranu.",
+    "priority": [
+      {
+        "oblast": "transparentnost",
+        "nazev": "Profesionální správa města založená na datech a transparentnosti",
+        "popis": "Obecný závazek řídit město „odborně“ s důrazem na protikorupční opatření a dohled nad veřejnými zakázkami/majetkem.",
+        "citace": "profesionální správa města založená na datech, odbornosti a transparentnosti",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Jde o programové heslo bez konkrétních opatření, čísel nebo termínů v dostupných zdrojích."
+        },
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Dostupnost bydlení",
+        "popis": "Program zmiňuje řešení dostupnosti bydlení jako jednu z priorit, bez dalších podrobností v dostupných zdrojích.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétních opatření nelze vyhodnotit."
+        },
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha/"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Udržení učitelů a zdravotníků ve městě",
+        "popis": "Program zmiňuje opatření na udržení pedagogů a zdravotníků v Praze (např. dostupnost bydlení pro tyto profese), bez konkrétních čísel v dostupných zdrojích.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétních opatření a rozpočtu nelze vyhodnotit."
+        },
+        "zdroj_url": "https://www.jsme.team/nase-teamy/praha/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": -1,
+    "oduvodneni": "JSME TEAM se celostátně prezentuje jako „centristické“ hnutí důrazem na transparentnost a odbornost spíše než na tradiční levo-pravé dělení, ekonomickou osu proto nelze z dostupných zdrojů určit. Koaliční partner Volt Česko je výslovně „progresivní, sociálně liberální a proevropský“, což posouvá hodnotovou osu koalice mírně k progresivnímu pólu – s nízkou jistotou kvůli malé velikosti a nejasné vlastní ekonomické agendě JSME TEAM.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "JSME PRAHA jako subjekt v roce 2022 neexistovala – jde o nový subjekt vzniklý spojením JSME TEAM a Volt Česko pro volby 2026. Lídryně Jana Komrsková byla ale v letech 2022-2026 (do odchodu z Pirátů v červnu 2026) členkou vládnoucí pirátské části koalice SPOLU-Piráti-STAN, od února 2023 jako náměstkyně primátora pro životní prostředí a klima.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako celek nemá JSME PRAHA historický záznam vládnutí – vzniklo až pro volby 2026 z lidí, kteří v předchozím období z větší části působili jinde (Piráti na magistrátu a v městských částech, JSME TEAM jako celostátní protikorupční hnutí, Volt Česko jako samostatná proevropská strana). Hodnocení doveryhodnost_plneni proto není možné přiřadit (viz metodika – nový subjekt bez historie = null, ne nula); jedinou osobou s přímou výkonnou minulostí na magistrátu je Jana Komrsková, jejíž bilance jako náměstkyně je zpracována v samostatném profilu osoby.",
+    "zdroje": [
+      {
+        "nazev": "jsme.team: JSME TEAM",
+        "url": "https://www.jsme.team/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org: Jana Komrsková",
+        "url": "https://cs.wikipedia.org/wiki/Jana_Komrskov%C3%A1_(politi%C4%8Dka)",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu=1: dostupné programové body jsou obecná přání („profesionální správa“, „dostupnost bydlení“, „udržení učitelů a zdravotníků“) bez konkrétních opatření, čísel či termínů. doveryhodnost_plneni=null: nový subjekt bez vlastní historie vládnutí jako celku – podle metodiky se nehodnotí nulou. transparentnost=3: zveřejněný program a web, dohledatelní lídři s veřejnými (byť neúplnými) životopisy, ale chybí transparentní účet/financování kampaně a podrobné smlouvy/hlasování specificky k tomuto novému subjektu v dostupných zdrojích.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "komrskova-jana"
+  ],
+  "mezery_v_datech": [
+    "Přesný mechanismus a datum vzniku koalice JSME TEAM + Volt Česko pro Prahu (koaliční smlouva, podíl mandátů/funkcí) nebyl dohledán v primárních zdrojích - pouze z fungování lokální stránky jsmepraha.cz jako přesměrování na jsme.team.",
+    "Nebylo možné ověřit, zda Jana Komrsková k říjnu 2026 formálně stále zastává funkci náměstkyně primátora pro životní prostředí, nebo zda po odchodu z Pirátů rezignovala/byla odvolána - dostupné zdroje potvrzují jen odchod z Pirátské strany v červnu 2026, ne změnu výkonné funkce.",
+    "Úplné znění volebního programu JSME PRAHA (nikoliv jen obecné shrnutí) se nepodařilo dohledat.",
+    "Role a politická minulost Adama Le Hanky (spolupředseda Volt Česko, #7 na listině) a Martina Úlovce (#8) nebyly hlouběji zpracovány jako samostatné osoby - nejsou mezi pořadím 1-5 ani inkumbenty 2022, podle instrukcí stačí údaje z briefu."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

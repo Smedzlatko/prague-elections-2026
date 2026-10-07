@@ -1,0 +1,29 @@
+{
+  "slug": "homola-tomas",
+  "name_key": "homola-tomas",
+  "cele_jmeno": "JUDr. Tomáš Homola",
+  "rok_narozeni": 1965,
+  "strana": "STAN",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 11, "poradi": 41}],
+  "role": "inkumbent",
+  "profil": "Tomáš Homola je advokát, zastupitel MČ Praha 5 za STAN, podle vlastního popisu pověřený koordinací stavby ZŠ Madeleine Albrightové na Smíchově. V roce 2022 získal mandát (2019 preferenčních hlasů). Pro rok 2026 kandiduje na posledním, 41. místě listiny.",
+  "vzdelani": "právo, JUDr. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "advokát, zastupitel MČ Praha 5, koordinátor stavby ZŠ Madeleine Albrightové",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 5, koordinátor stavby ZŠ Madeleine Albrightové na Smíchově", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Konkrétní stav stavby ZŠ Madeleine Albrightové (dokončena/rozpracována) nebyl nezávisle ověřen nad rámec vlastního popisu kandidáta a programu STAN zmiňujícího novou ZŠ na Smíchově.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 61 let v brífu k říjnu 2026 (1965), neověřeno.",
+    "Konkrétní stav stavby ZŠ Madeleine Albrightové nebyl nezávisle ověřen."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

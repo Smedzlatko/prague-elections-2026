@@ -1,0 +1,163 @@
+{
+  "slug": "mc-praha-11-5-spolu-pro-prahu-11",
+  "assembly_id": "mc-praha-11",
+  "list_cislo": 5,
+  "nazev": "Spolu pro Prahu 11",
+  "zkratka": "ODS",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "nezávislí"
+  ],
+  "web": "https://spoluproprahu11.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "SPOLU pro Prahu 11 – Program pro komunální volby 2026 (PDF, 24 s.)",
+        "url": "https://spoluproprahu11.cz/assets/program-spolu.pdf",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Program vedený starostou Martinem Sedekem je rozdělen do pěti kapitol (doprava a parkování, veřejný prostor/čistota/bezpečí, rozvoj a investice, školství, služby pro život) a u každé kombinuje bilanci „co už jsme udělali“ s dalšími závazky „co uděláme“. Hlavní důraz je na výstavbu parkovacích domů (Šalounova ulice a min. tři další) a dokončení P+R Opatov, zrychlení revitalizace vnitrobloků (cíl min. 4 ročně), dostavbu KD Opatov a KC Zahrada, rozšíření školských kapacit a udržení Senior taxi. Jde o self-prezentaci vládnoucí strany MČ, část tvrzení o „již hotové“ práci je proto třeba číst jako tvrzení strany, ne nezávisle doložený fakt.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Parkovací domy a dokončení P+R Opatov",
+        "popis": "Výstavba parkovacího domu v Šalounově ulici a minimálně tří dalších, dokončení P+R Opatov s min. 100 místy vyhrazenými pro obyvatele Prahy 11 z celkových 500, dokončení dopravních studií pro zbylou část MČ.",
+        "citace": "Vybudujeme parkovací dům v Šalounově ulici a minimálně tři další parkovací domy... V případě nového parkovacího domu P+R Opatov... jsme vyjednali minimálně 100 míst z celkových 500.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "MČ má pozemky a studie, ale výstavba parkovacích domů vyžaduje víceleté financování a stavební řízení; termíny u nových domů (mimo P+R Opatov) nejsou uvedeny."
+        },
+        "zdroj_url": "https://spoluproprahu11.cz/assets/program-spolu.pdf"
+      },
+      {
+        "oblast": "verejny_prostor",
+        "nazev": "Revitalizace vnitrobloků (min. 4 ročně) a kamerový systém",
+        "popis": "Zrychlení revitalizace vnitrobloků na minimálně čtyři ročně (jmenovitě Blankyt, Matuškova/Šulhofova/Květnového vítězství, Brechtova, Mendelova/Mejstříkova/Borošova/Hlavatého, Podjavorinské, Jašíkova/V Jezírkách, Petýrkova/Dědinova) a dobudování kamerového systému.",
+        "citace": "V příštím volebním období revitalizujeme tyto vnitrobloky: Blankyt (již zahájeno, předpokládaný termín dokončení v roce 2027)...",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o kompetenci MČ s již zpracovanou pasportizací vnitrobloků a konkrétním seznamem lokalit."
+        },
+        "zdroj_url": "https://spoluproprahu11.cz/assets/program-spolu.pdf"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Dokončení KD Opatov, KC Zahrada a revitalizace okolí stanic metra",
+        "popis": "Dokončení revitalizace KD Opatov a KC Zahrada (na KC Zahrada vyjednáno „desítky milionů korun“ z rozpočtu hl. m. Prahy), revitalizace vestibulu stanice Opatov a okolí stanice Háje, nové kulturní centrum na Hájích v bývalé kotelně.",
+        "citace": "Dokončíme rekonstrukci KC Zahrada, na kterou jsme vyjednali desítky milionů korun z rozpočtu hlavního města.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Financování z rozpočtu hl. m. Prahy a spolupráce s dopravním podnikem znamená závislost na aktérech mimo přímou kontrolu MČ."
+        },
+        "zdroj_url": "https://spoluproprahu11.cz/assets/program-spolu.pdf"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Školské kapacity a navýšení míst na Gymnáziu Opatov",
+        "popis": "Garance místa ve spádové ZŠ pro každé dítě, rozšíření školních družin, a na úrovni hl. m. Prahy prosazené budoucí navýšení kapacity Gymnázia Opatov o 900 nových míst.",
+        "citace": "Už se nám podařilo prosadit například budoucí navýšení kapacity Gymnázia Opatov o 900 nových míst.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Střední školství spadá do kompetence hl. m. Prahy, ne přímo MČ – realizace závisí na magistrátu; tvrzení o prosazení navýšení nebylo nezávisle ověřeno."
+        },
+        "zdroj_url": "https://spoluproprahu11.cz/assets/program-spolu.pdf"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Senior taxi a kapacity domovů pro seniory",
+        "popis": "Zachování a rozšíření služby Senior taxi, ve spolupráci s hl. m. Prahou zajištění dalších kapacit v domovech pro seniory.",
+        "citace": "Zajistíme dál provoz služby Senior taxi a rozšíříme rozsah služeb, které poskytuje.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Senior taxi je stávající služba MČ, rozšíření je v jejích rukou; kapacity domovů pro seniory závisí i na hl. m. Praze."
+        },
+        "zdroj_url": "https://spoluproprahu11.cz/assets/program-spolu.pdf"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": 1,
+    "oduvodneni": "ODS je celostátně pravostředová až pravicová strana (nižší daně, podpora podnikání, konzervativnější hodnotový rámec); lokální profilace Spolu pro Prahu 11 nevybočuje z této linie.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Byla členem vládní koalice 2022–2023. Po odvolání starostky Zdeňkové (HPP 11) v prosinci 2023 a téměř půlroční krizi vedení MČ se 13. 6. 2024 stal starostou lídr listiny Martin Sedeke (ODS), dosavadní místostarosta pro územní rozvoj – nikoli však v čele formální koalice: podle Deníku N vede od té doby tzv. menšinovou radu bez koaliční smlouvy, s ad hoc podporou ANO 2011 a TOP 09–STAN (zdroj: denikn.cz/minuta/1452094/, 13. 6. 2024).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Zpracování dopravních studií pro Jižní Město (profily komunikací, bezpečnost, průjezdnost, parkování).",
+        "zdroj_strana": true,
+        "zdroje": [
+          {
+            "nazev": "SPOLU pro Prahu 11 – Program 2026",
+            "url": "https://spoluproprahu11.cz/assets/program-spolu.pdf",
+            "datum": "2026-10-03"
+          }
+        ],
+        "zdroj_url": "https://spoluproprahu11.cz/assets/program-spolu.pdf",
+        "dukaz": "Podle vlastní bilance strany hotovo pro 70 % plochy MČ, zbytek slíben na příští období."
+      },
+      {
+        "slib": "Vyjednání min. 100 parkovacích míst pro obyvatele Prahy 11 v novém P+R Opatov (z celkových 500).",
+        "zdroj_strana": true,
+        "zdroje": [
+          {
+            "nazev": "SPOLU pro Prahu 11 – Program 2026",
+            "url": "https://spoluproprahu11.cz/assets/program-spolu.pdf",
+            "datum": "2026-10-03"
+          }
+        ],
+        "zdroj_url": "https://spoluproprahu11.cz/assets/program-spolu.pdf",
+        "dukaz": "Podle vlastní bilance strany vyjednáno, parkovací dům se v roce 2026 dokončuje; nezávislé potvrzení přesného počtu míst se nepodařilo dohledat."
+      },
+      {
+        "slib": "Zajištění financování rekonstrukce KC Zahrada z rozpočtu hl. m. Prahy.",
+        "zdroj_strana": true,
+        "zdroje": [
+          {
+            "nazev": "SPOLU pro Prahu 11 – Program 2026",
+            "url": "https://spoluproprahu11.cz/assets/program-spolu.pdf",
+            "datum": "2026-10-03"
+          }
+        ],
+        "zdroj_url": "https://spoluproprahu11.cz/assets/program-spolu.pdf",
+        "dukaz": "Podle vlastní bilance strany vyjednány „desítky milionů korun“ z rozpočtu hl. m. Prahy, rekonstrukce k dokončení v příštím období; částka nebyla nezávisle ověřena."
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ODS z koaličního partnera postupně získala vedoucí pozici v MČ poté, co se koalice rozpadla kolem HPP 11 a Zdeňková byla odvolána (12/2023); Martin Sedeke je starostou od 6/2024. Vlastní program 2026 popisuje řadu rozpracovaných investičních akcí (parkovací domy, dopravní studie, revitalizace vnitrobloků, KC Zahrada, KD Opatov) jako „rozdělanou práci“ k dokončení, ale jde o tvrzení strany (zdroj_strana), bez nezávislého dokladu přesného stavu rozpracovanosti; proto skóre plnění zůstává nízké až střední."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 4,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "Program z roku 2026 je rozdělen do pěti kapitol a většina slibů je kvantifikovaná (počty parkovacích míst, počet revitalizovaných vnitrobloků ročně, termíny u konkrétních vnitrobloků, 900 nových míst na gymnáziu) bez uvedení rozpočtového krytí u všech bodů (konkrétnost 4). Důvěryhodnost plnění: ODS byla po celé období koaličním partnerem a od 6/2024 vede MČ (starosta Sedeke) po půlroční krizi vedení (odvolání Zdeňkové 12/2023). Program sám popisuje řadu rozpracovaných projektů jako „co už jsme udělali“, ale jde výhradně o tvrzení strany bez nezávislého zdroje (úřad, médium, kontrolní orgán) – podle metodiky to samo o sobě neopravňuje k vyššímu skóre než 2. Transparentnost: zveřejněný program (+1), dohledatelná kandidátka (+1), jmenovaná exekutivní funkce starosty (+1); chybí dohledatelné financování kampaně a transparentní účet.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "sedeke-martin"
+  ],
+  "mezery_v_datech": [
+    "Přesný stav rozpracovanosti investičních akcí (parkovací domy, KC Zahrada, P+R Opatov) nebyl nezávisle ověřen – jediným zdrojem je vlastní program strany.",
+    "Konkrétní bilance plnění slibů ODS v Praze 11 za 2022–2026 z nezávislého zdroje (zápisy ZMČ, médium, kontrolní zpráva) nebyla dohledána."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

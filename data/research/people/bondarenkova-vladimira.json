@@ -1,0 +1,32 @@
+{
+  "slug": "bondarenkova-vladimira",
+  "name_key": "bondarenkova-vladimira",
+  "cele_jmeno": "JUDr. Vladimíra Bondarenková, D.E.A., MBA",
+  "rok_narozeni": 1976,
+  "strana": "SPD",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": null, "poradi": 21},
+    {"assembly_id": "mc-praha-13", "list_cislo": 1, "poradi": 1}
+  ],
+  "role": "inkumbent",
+  "profil": "Vladimíra Bondarenková je právnička, zastupitelka MČ Praha 13 za SPD, zvolena i v roce 2022 (pozice č. 1, 1125 preferenčních hlasů, tehdy na listině SPD, Trikolora a nezávislí). Pro volby 2026 vede listinu SPD a nezávislí kandidáti pro Prahu 13 a kandiduje i na celopražské kandidátce.",
+  "vzdelani": "právo (JUDr.), D.E.A., MBA",
+  "profese": "právnička",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitelka MČ Praha 13 (opozice)", "organizace": "SPD", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Působila jako opoziční zastupitelka; bez dohledaného podkladu o konkrétní agendě nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 13 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození nebyl nezávisle potvrzen.",
+    "Konkrétní opoziční agenda a výsledky nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

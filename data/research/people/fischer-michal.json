@@ -1,0 +1,92 @@
+{
+  "slug": "fischer-michal",
+  "name_key": "fischer-michal",
+  "cele_jmeno": "Michal Fischer",
+  "rok_narozeni": 1965,
+  "strana": "Společně pro Prahu 15 (ODS, TOP 09)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 7,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Michal Fischer (* 1965) je zastupitelem Prahy 15 od roku 2006 (s přestávkou 2010–2018) a starostou je od 9. 11. 2022, kdy na ustavujícím zasedání nahradil Milana Wenzla (ANO), starostu z let 2014–2022. Vede listinu Společně pro Prahu 15 (ODS a TOP 09), která v roce 2022 získala jen 7 mandátů z 31 (22,64 %) – tedy méně než vítězná Patnáctka náš domov (12 mandátů) – přesto díky tiché podpoře dvou zastupitelů SPD obsadil post starosty. Program 2026 odmítá masivní komerční výstavbu u Hostivařské přehrady a staví se proti rozsáhlému rozvojovému záměru Pirátů a Zelených v okolí.",
+  "vzdelani": null,
+  "profese": "Starosta MČ Praha 15.",
+  "politicka_historie": [
+    {
+      "od": "2006-11",
+      "do": "2010-11",
+      "funkce": "zastupitel MČ Praha 15",
+      "organizace": "MČ Praha 15",
+      "zdroj_url": "https://www.hlidacstatu.cz/osoba/michal-fischer-5"
+    },
+    {
+      "od": "2018-11",
+      "do": "2022-11",
+      "funkce": "zastupitel MČ Praha 15",
+      "organizace": "MČ Praha 15",
+      "zdroj_url": "https://www.hlidacstatu.cz/osoba/michal-fischer-5"
+    },
+    {
+      "od": "2022-11-09",
+      "do": null,
+      "funkce": "starosta MČ Praha 15 (nástup po Milanu Wenzlovi z ANO, starostovi 2014–2022)",
+      "organizace": "MČ Praha 15",
+      "zdroj_url": "https://zpravy.aktualne.cz/domaci/praha-15-koalice/r~c6df96ae60e711ed8b4e0cc47ab5f122/?lp=1"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Zvolení starostou díky tiché podpoře zastupitelů SPD",
+      "typ": "stranicky",
+      "obdobi": "2022-11",
+      "popis": "Koalice Společně pro Prahu 15 (ODS, TOP 09), ANO 2011 a Nezávislí měla na ustavujícím zasedání 9. 11. 2022 jen 14 ze 31 mandátů a ke zvolení Fischera starostou chyběly dva hlasy, které dodali dva zastupitelé SPD. SPD nebyla formální součástí koaliční smlouvy, ale jako kompenzace získal zastupitel SPD Pavel Frydrych post předsedy kontrolního výboru. Vlastní koaliční partner TOP 09 spoluprací se SPD razantně distancoval.",
+      "stav": "potvrzeno",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Fischer spolupráci s SPD nepopřel a připustil, že by na tomto modelu mohla koalice stavět i dál: „Já doufám, že budeme v tomto modelu pokračovat třeba i dále.“ (Aktuálně.cz, 10. 11. 2022)",
+      "zdroje": [
+        {"nazev": "Aktuálně.cz: Ke zvolení pomohly starostovi za ODS hlasy SPD. Doufám, že budeme pokračovat, říká", "url": "https://zpravy.aktualne.cz/domaci/praha-15-koalice/r~c6df96ae60e711ed8b4e0cc47ab5f122/?lp=1", "datum": "2022-11-10"},
+        {"nazev": "Blesk/Volby: V Praze 15 se křehká koalice opírá o hlasy z SPD, neobhajitelné, říká Pekarová Adamová, diví se i Pospíšil", "url": "https://volby.blesk.cz/clanek/volby-komunalni-volby/728067/v-praze-15-se-krehka-koalice-opira-o-hlasy-z-spd-neobhajitelne-rika-pekarova-adamova-divi-se-i-pospisil.html", "datum": "2022-11-11"}
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako starosta od listopadu 2022 nese exekutivní odpovědnost za necelé jedno volební období. Vlastní volební materiál dokládá dokončenou opravu chodníků a ochranu okolí OC Vivo před velkou zástavbou (viz data/research/parties/mc-praha-15-7-spolecne-pro-prahu-15-obcanska-demokrat.json), jde ale o tvrzení koalice o sobě, nezávislý audit se nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Aktuálně.cz: Ke zvolení pomohly starostovi za ODS hlasy SPD",
+      "url": "https://zpravy.aktualne.cz/domaci/praha-15-koalice/r~c6df96ae60e711ed8b4e0cc47ab5f122/?lp=1",
+      "datum": "2022-11-10"
+    },
+    {
+      "nazev": "Hlídač státu: Michal Fischer",
+      "url": "https://www.hlidacstatu.cz/osoba/michal-fischer-5",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "Společně pro Prahu 15 - Vaše Patnáctka",
+      "url": "https://vasepatnactka.cz/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Oprava proti předchozí verzi profilu: Fischer NENÍ starostou od 2014 (chybný údaj přejatý z Wikipedie) — starostou je od 9. 11. 2022, kdy nahradil Milana Wenzla (ANO, starosta 2014–2022). Ověřeno přes aktuálně.cz, blesk.cz a hlidacstatu.cz.",
+    "Mechanismus vzniku koalice byl dohledán (viz pripady a districts/mc-praha-15.json): menšinová koalice ODS/TOP09+ANO+Nezávislí (14/31 mandátů) byla zvolena díky tiché podpoře dvou zastupitelů SPD, zatímco vítěz voleb (Patnáctka náš domov, 12 mandátů) odešel z jednání na protest.",
+    "Podrobnější politický životopis před rokem 2018 nebyl dohledán."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

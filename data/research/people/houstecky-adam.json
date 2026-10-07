@@ -1,0 +1,58 @@
+{
+  "slug": "houstecky-adam",
+  "name_key": "houstecky-adam",
+  "cele_jmeno": "Adam Houštecký",
+  "rok_narozeni": null,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-19",
+      "list_cislo": 1,
+      "poradi": 1
+    },
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 22,
+      "poradi": 25
+    }
+  ],
+  "role": "lidr",
+  "profil": "Devatenáctiletý student a předseda Mladého ANO Praha, bydlištěm v Praze 19 (Kbely). Vede místní listinu ANO 2011 pro komunální volby 2026 v Praze 19 a současně kandiduje i na pozici 25 na celopražské kandidátce ANO pro Zastupitelstvo hl. m. Prahy. Jde o nováčka v komunální politice bez dosavadní veřejné funkce.",
+  "vzdelani": "student (stupeň a obor nebyly dohledány)",
+  "profese": "předseda Mladého ANO Praha, student",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": null,
+      "funkce": "předseda Mladého ANO Praha",
+      "organizace": "Mladé ANO Praha",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547344"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Nováček bez dosavadní výkonné funkce – plnění slibů nelze hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547344",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození a obor studia nebyly dohledány.",
+    "Vlastní program listiny ANO pro Prahu 19 pro volby 2026 nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

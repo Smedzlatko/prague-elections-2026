@@ -1,0 +1,96 @@
+{
+  "slug": "magistrat-3-libertarianska-strana-voluntia",
+  "assembly_id": "magistrat",
+  "list_cislo": 3,
+  "nazev": "Libertariánská strana Voluntia",
+  "zkratka": "Voluntia",
+  "typ": "strana",
+  "slozeni": ["Voluntia"],
+  "web": "https://magistrat.voluntia.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "magistrat.voluntia.cz – volební program",
+        "url": "https://magistrat.voluntia.cz/#program",
+        "datum": "2026-09-07"
+      },
+      {
+        "nazev": "programydovoleb.cz – Libertariánská strana Voluntia",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164790",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Libertariánská strana Voluntia vedená Tadeášem Janků prosazuje co nejnižší daně a minimální zásahy města do rozhodování obyvatel. Program kritizuje přílišnou památkovou ochranu brzdící výstavbu, slibuje zjednodušení povolování bydlení, reformu dotací a poplatků, řešení stavu pražských mostů a kritizuje centrální plánování dopravy (např. rozdělení Smetanova nábřeží mezi auta a chodce/MHD). Strana sama otevřeně připouští, že se libertariánské principy a komunální správa částečně vylučují.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Zjednodušení povolování výstavby a reforma památkové ochrany",
+        "popis": "Omezení přílišné památkové regulace, která brzdí novou výstavbu, a zjednodušení povolovacích procesů pro bydlení.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Památková ochrana v centru Prahy je z velké části upravena celostátním zákonem o státní památkové péči a mezinárodním statusem UNESCO, které město nemůže samo změnit."
+        },
+        "zdroj_url": "https://magistrat.voluntia.cz/#program"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Rekonstrukce pražských mostů",
+        "popis": "Řešení špatného technického stavu pražských mostů vyžadujících naléhavou opravu.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Mosty ve vlastnictví města jsou v kompetenci TSK/města, ale program neuvádí, o které konkrétní mosty jde ani harmonogram a náklady."
+        },
+        "zdroj_url": "https://magistrat.voluntia.cz/#program"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Kritika centrálního plánování dopravy",
+        "popis": "Kritika rozdělení veřejného prostoru (např. Smetanova nábřeží) mezi auta, chodce a MHD rozhodnutím úřadu bez ohledu na individuální preference.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Jde o kritiku existujícího přístupu, nikoli o konkrétní alternativní návrh, realizovatelnost proto nelze posoudit."
+        },
+        "zdroj_url": "https://magistrat.voluntia.cz/#program"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 3,
+    "hodnotova_osa": 1.5,
+    "oduvodneni": "Program explicitně vychází z libertariánství s požadavkem minimálních daní a minimálních zásahů státu/města do života obyvatel; jde o nejvýrazněji pravicově-ekonomickou listinu v pražských volbách 2026.",
+    "zdroje": [
+      {
+        "nazev": "magistrat.voluntia.cz – volební program",
+        "url": "https://magistrat.voluntia.cz/#program",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program obsahuje obecná přání a kritiku stávajícího stavu bez konkrétních opatření s čísly nebo termíny – odpovídá stupni 1. Transparentnost: zveřejněný program (+1), dohledatelní kandidáti na listině (+1); financování kampaně a transparentní účet nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [],
+  "mezery_v_datech": [
+    "Program neuvádí konkrétní čísla, termíny ani rozpočtové dopady svých návrhů.",
+    "Lídr Tadeáš Janků nemá v projektu vytvořený samostatný dossier – listina má 15 kandidátů a žádnou reálnou šanci na mandát."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

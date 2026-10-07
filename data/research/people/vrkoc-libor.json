@@ -1,0 +1,45 @@
+{
+  "slug": "vrkoc-libor",
+  "name_key": "vrkoc-libor",
+  "cele_jmeno": "Bc. Libor Vrkoč",
+  "rok_narozeni": 1966,
+  "strana": "GEN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 11,
+      "poradi": 3
+    }
+  ],
+  "role": "jiny",
+  "profil": "Libor Vrkoč je podle vlastního životopisu investiční specialista a kandiduje na třetím místě celopražské listiny GEN s podporou veřejnosti. Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný veřejně dostupný záznam o jeho politickém působení.",
+  "vzdelani": "vysokoškolské (titul Bc.), obor neupřesněn v dostupných zdrojích",
+  "profese": "investiční specialista",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – GEN s podporou veřejnosti",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/163860",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku 60 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

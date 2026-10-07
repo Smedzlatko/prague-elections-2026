@@ -1,0 +1,44 @@
+{
+  "slug": "sedeke-martin",
+  "name_key": "sedeke-martin",
+  "cele_jmeno": "Ing. Martin Sedeke",
+  "rok_narozeni": 1966,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 12, "poradi": 12},
+    {"assembly_id": "mc-praha-11", "list_cislo": 5, "poradi": 1}
+  ],
+  "role": "inkumbent",
+  "profil": "Martin Sedeke je starosta MČ Praha 11 (od června 2024, nahradil Šárku Zdeňkovou) a zastupitel hl. m. Prahy od roku 2018. Politicky aktivní je od roku 1994, nejprve za ODA (kandidoval do zastupitelstva Prahy-Jižní Město, předseda finančního výboru), po zániku ODA přešel k SNK ED (2006, neúspěšně), od roku 2008 je členem ODS. V letech 2018-2024 byl místostarostou MČ Praha 11 pro územní rozvoj. Po zvolení starostou převzal i předsednictví dopravního výboru ZHMP.",
+  "vzdelani": null,
+  "profese": "starosta MČ Praha 11",
+  "politicka_historie": [
+    {"od": "1994", "do": "2006", "funkce": "zastupitel MČ Praha 11 za ODA, předseda finančního výboru", "organizace": "MČ Praha 11 / ODA", "zdroj_url": "https://cs.wikipedia.org/wiki/Martin_Sedeke"},
+    {"od": "2008", "do": null, "funkce": "člen ODS", "organizace": "ODS", "zdroj_url": "https://cs.wikipedia.org/wiki/Martin_Sedeke"},
+    {"od": "2018", "do": "2024-06", "funkce": "místostarosta MČ Praha 11 (územní rozvoj)", "organizace": "MČ Praha 11", "zdroj_url": "https://cs.wikipedia.org/wiki/Martin_Sedeke"},
+    {"od": "2018", "do": null, "funkce": "zastupitel hl. m. Prahy", "organizace": "Hlavní město Praha", "zdroj_url": "https://cs.wikipedia.org/wiki/Martin_Sedeke"},
+    {"od": "2024-06-13", "do": null, "funkce": "starosta MČ Praha 11 (zvolen po odvolání Šárky Zdeňkové)", "organizace": "MČ Praha 11", "zdroj_url": "https://denikn.cz/minuta/1452094/"},
+    {"od": "2024-06", "do": null, "funkce": "předseda dopravního výboru ZHMP", "organizace": "Hlavní město Praha", "zdroj_url": "https://cs.wikipedia.org/wiki/Martin_Sedeke"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Sedeke je starostou Prahy 11 až od června 2024 (necelé dva roky do voleb 2026) a před tím byl místostarostou pro územní rozvoj; rešerší se nepodařilo dohledat konkrétní zdrojovaný seznam jeho slibů a plnění.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "cs.wikipedia.org: Martin Sedeke", "url": "https://cs.wikipedia.org/wiki/Martin_Sedeke", "datum": "2026-10-02"},
+    {"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"},
+    {"nazev": "Deník N – nový starosta Sedeke", "url": "https://denikn.cz/minuta/1452094/", "datum": "2024-06-13"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obor) se nepodařilo dohledat.",
+    "Přesný rok narození (1966) je odhad z udaného věku 60 let v brífu k říjnu 2026.",
+    "Zdeňková (jeho předchůdkyně) byla odvolána zastupitelstvem 7. 12. 2023 po rozpadu koalice s Piráty (viz denikn.cz/minuta/1302364/); Sedeke byl zvolen novým starostou až 13. 6. 2024 — přesné důvody téměř půlroční prodlevy (kdo MČ v mezidobí vedl, proč trvalo dohodnutí nové koalice tak dlouho) se nepodařilo dohledat."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

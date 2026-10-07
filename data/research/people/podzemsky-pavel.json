@@ -1,0 +1,33 @@
+{
+  "slug": "podzemsky-pavel",
+  "name_key": "podzemsky-pavel",
+  "cele_jmeno": "Mgr. Pavel Podzemský",
+  "rok_narozeni": 1968,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": null, "poradi": 51},
+    {"assembly_id": "mc-praha-13", "list_cislo": 3, "poradi": 1}
+  ],
+  "role": "inkumbent",
+  "profil": "Pavel Podzemský je zastupitel MČ Praha 13, obchodní ředitel pro nadnárodní společnost a personalista, zvolen i v roce 2022 (pozice č. 1, 2174 preferenčních hlasů) jako lídr PRAHA 13 SOBĚ. Pro volby 2026 opět vede tuto listinu jako kandidát na starostu.",
+  "vzdelani": null,
+  "profese": "obchodní ředitel, personalista",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel MČ Praha 13 (opozice)", "organizace": "PRAHA SOBĚ", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Působil jako opoziční zastupitel; bez dohledaného podkladu o konkrétní agendě nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 13 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "PRAHA 13 SOBĚ – web", "url": "https://prahasobe.cz/praha13/", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obor) a přesný rok narození nejsou nezávisle potvrzeny.",
+    "Konkrétní opoziční agenda a výsledky nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

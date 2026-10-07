@@ -1,0 +1,209 @@
+{
+  "slug": "magistrat-7-ceska-piratska-strana",
+  "assembly_id": "magistrat",
+  "list_cislo": 7,
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "typ": "strana",
+  "slozeni": [
+    "Piráti"
+  ],
+  "web": "https://praha.pirati.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Piráti Praha: program2026.praha.pirati.cz",
+        "url": "https://program2026.praha.pirati.cz/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "100 pro Prahu (kampaňový web s bilancí 2022-2026)",
+        "url": "https://100proprahu.cz/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Piráti Praha: Jak měníme Prahu (přehled výsledků)",
+        "url": "https://praha.pirati.cz/jak-menime-prahu/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Piráti staví kampaň na pokračování vlastní vládní bilance (byty, mosty, metro D, stromy) a na nových kvantifikovaných závazcích, zejména v bydlení (10 000 bytů ročně, zdanění prázdných bytů a Airbnb) a dopravě (zprovoznění první části metra D do roku 2032, nové tramvajové tratě). V transparentnosti slibují automatickou datovou kontrolu veřejných zakázek od objednávky až po fakturu.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "10 000 bytů ročně a nové čtvrti",
+        "popis": "Dlouhodobý cíl výstavby/dostupnosti 10 000 bytů ročně, zastavení prodeje městských bytů, zdanění dlouhodobě prázdných bytů a bytů pronajímaných přes Airbnb, výstavba nových čtvrtí (Západní a Východní Město, Nové Kolovraty) s kapacitou pro 200 000 lidí a podpora studentských kolejí.",
+        "citace": "10 000 bytů ročně",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Cíl 10 000 bytů ročně výrazně převyšuje současné tempo výstavby v Praze i po schválení Metropolitního plánu; zdanění prázdných bytů a Airbnb navíc vyžaduje změnu zákona na úrovni státu, kterou město samo nemůže prosadit."
+        },
+        "zdroj_url": "https://program2026.praha.pirati.cz/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Zprovoznění první části metra D do roku 2032",
+        "popis": "Dokončit první úsek metra D do roku 2032, postavit nové tramvajové tratě (Malešice, Jarov, Nové Dvory, Strahov, Komořany) a rozšířit síť oddělených cyklostezek.",
+        "citace": "Metro D: první úsek do roku 2032",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Termín 2032 odpovídá aktuálnímu harmonogramu DPP pro první úseky, je tedy realistický, ale mimo přímou kontrolu jedné politické strany (závisí na zhotovitelích, výkupu pozemků a financování státem)."
+        },
+        "zdroj_url": "https://program2026.praha.pirati.cz/"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Automatická datová kontrola veřejných zakázek",
+        "popis": "Zavést automatickou datovou kontrolu napříč celým cyklem zakázka-smlouva-faktura a jednotný standard řízení městských firem, včetně zveřejňování platů šéfů městských firem.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o navázání na již zavedené nástroje otevřených dat na magistrátu, ale bez uvedeného termínu zavedení nebo rozpočtu na vývoj systému."
+        },
+        "zdroj_url": "https://program2026.praha.pirati.cz/"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Výsadba stromů a zeleně",
+        "popis": "Zvýšit výsadbu stromů a zeleně v ulicích a na sídlištích, prosazovat zelené střechy a propustné povrchy u nových staveb.",
+        "citace": "sázíme v Praze milion stromů",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Číslo (1 milion stromů) je uvedeno na kampaňovém webu, ale bez termínu a bez upřesnění, zda jde o strom v ulici nebo v lese na okraji města, což výrazně měří rozdílnou náročnost."
+        },
+        "zdroj_url": "https://100proprahu.cz/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Školní psycholog do každé školy",
+        "popis": "Zajistit školního psychologa na každé škole, rozšířit kapacity mateřských a základních škol a zřídit nové pedagogicko-psychologické poradny.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní opatření je jmenované, ale chybí termín naplnění a odhad potřebných financí/personálu (nedostatek psychologů je celostátní problém)."
+        },
+        "zdroj_url": "https://program2026.praha.pirati.cz/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2,
+    "oduvodneni": "Piráti v pražském programu prosazují aktivní roli města v bytové výstavbě a regulaci (zdanění prázdných bytů/Airbnb, zastavení prodeje městských bytů), což ukazuje na mírně levou ekonomickou pozici v otázkách bydlení, zároveň ale dlouhodobě podporují otevřenou tržní soutěž a snižování byrokracie jinde, proto jen mírný posun od středu. Hodnotově jde o jednoznačně liberální/progresivní stranu (důraz na transparentnost, otevřená data, životní prostředí, lidská práva), celostátně i pražsky.",
+    "zdroje": [
+      {
+        "nazev": "Piráti Praha: program2026.praha.pirati.cz",
+        "url": "https://program2026.praha.pirati.cz/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Piráti byli druhým nejsilnějším členem pražské koalice SPOLU-Piráti-STAN (13 mandátů z 65 po volbách 2022). Zdeněk Hřib byl primátorem 2018-2023 a po volbách 2022 se stal 1. náměstkem primátora pro dopravu (16. 2. 2023 – 11. 12. 2025); po jeho rezignaci (zvolen poslancem v říjnu 2025) převzal resort dopravy Jaromír Beránek. Adam Zábranský zastává od roku 2018 (s obnovením mandátu 2022) funkci radního, od 16. 2. 2023 pro majetek, transparentnost a legislativu. Jana Komrsková byla za Piráty náměstkyní primátora pro životní prostředí a klimatický plán od února 2023 do června 2026, kdy z Pirátů odešla (viz kontroverze). V souladu s pravidly férovosti (METODIKA.md, „Společné měřítko u koaličních partnerů“) se tato bilance měří podle Programového prohlášení Rady hl. m. Prahy z června 2023 (týž dokument jako u SPOLU a STAN), a pouze v kapitolách odpovídajících vlastním gescím Pirátů: doprava (Hřib/Beránek), majetek, transparentnost a legislativa (Zábranský) a životní prostředí a klimatický plán (Komrsková). Bytová politika a výstavba (fond městských bytů) byla v tomto období v gesci náměstkyně Udženiji (SPOLU) a Pražské developerské společnosti v gesci STAN (Hlaváček), proto se zde – na rozdíl od předchozí verze této bilance, která vycházela z vlastní kampaňové stránky strany – již nehodnotí jako slib Pirátů.",
+    "splnene_sliby": [
+      {
+        "slib": "Programové prohlášení Rady (2023, kapitola „Praha v pohybu“ – doprava, resort Hřib/Beránek): „Dokončíme stavby a rekonstrukce mostů (Barrandovský most, Štvanická lávka, Dvorecký most).“.",
+        "dukaz": "Všechny tři stavby jsou nezávisle (mimo web strany) potvrzené jako dokončené: Štvanická lávka byla slavnostně otevřena 28. 7. 2023; rekonstrukce Barrandovského mostu byla dokončena a most byl v plném provozu od 24. 11. 2024 (náklady ale vzrostly z plánovaných 594,5 mil. na 1,14 mld. Kč); Dvorecký most byl slavnostně otevřen 17. 4. 2026 s pravidelným provozem tramvají a autobusů od následujícího dne. Jde o resort dopravy, který po celé období (do 12/2025 Hřib, poté Beránek) držela pirátská strana.",
+        "zdroj_url": "https://www.dpp.cz/spolecnost/aktuality/detail/66_3297-slavnostni-otevreni-dvoreckeho-mostu"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Programové prohlášení Rady (2023, kapitola „Praha v pohybu“ – doprava, resort Hřib/Beránek): „Zahájíme výstavbu dalších úseků metra D a budeme usilovat o spolufinancování této stavby státem.“.",
+        "dukaz": "Stavba pokračuje (úsek Pankrác-Ryšánka od 2022, úsek Olbrachtova-Nové Dvory od poloviny 2026), ale zprovoznění prvních úseků se posunulo na 2032-2036 oproti dřívějším plánům a náklady dál rostou – jde o rozpracovaný, nikoli dokončený závazek.",
+        "zdroj_url": "https://www.dpp.cz/spolecnost/pro-media/tiskove-zpravy/detail/278_3289-dalsi-usek-metra-d-olbrachtova-nove-dvory-postavi-sdruzeni-vedene-spolecnosti-subterra-dpp-podepsal-smlouvu-se-zhotovitelem"
+      },
+      {
+        "slib": "Programové prohlášení Rady (2023, kapitola „Praha majetkově odpovědná“ – „Praha otevřená“, resort Zábranský): „Zajistíme certifikaci protikorupčního systému dle ISO 37001 na Magistrátu v oblasti zadávání veřejných zakázek a správě majetku.“.",
+        "dukaz": "Hl. m. Praha uzavřelo 9. 3. 2023 smlouvu s Ernst & Young Audit, s.r.o. (5 989 500 Kč) na implementaci systému ČSN ISO 37001; k 23. 9. 2026 existuje již dodatek č. 3 této smlouvy (1 028 500 Kč), což potvrzuje, že implementace běží přes tři roky a k volbám 2026 nebyla dokončená certifikace podle dostupných zdrojů potvrzena – jde o rozpracovaný, ne splněný závazek.",
+        "zdroj_url": "https://www.hlidacstatu.cz/Detail/39757345"
+      },
+      {
+        "slib": "Programové prohlášení Rady (2023, kapitola „Praha udržitelná“ – životní prostředí a klimatický plán, resort Komrsková do 6/2026): „Budeme pokračovat ve výsadbě dalších 500 000 stromů a pečovat o ty již vysazené.“.",
+        "dukaz": "Nezávisle ověřitelná souhrnná čísla výsadby za celé období 2022–2026 se v dostupných zdrojích nepodařilo dohledat. Vlastní kampaňový web strany (100proprahu.cz) uvádí vyšší a jinak formulovaný cíl „sázíme v Praze milion stromů“, který navíc neodpovídá číslu z programového prohlášení Rady (500 000) – jde o tvrzení strany, které se nepodařilo nezávisle ani potvrdit, ani vyvrátit.",
+        "zdroj_url": "https://www.praha.eu/documents/d/praha/programove_prohlaseni_2023_3600794"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Měřeno podle Programového prohlášení Rady z června 2023 a jen ve vlastních gescích (doprava, majetek/transparentnost/legislativa, životní prostředí a klima) má pirátská strana jeden nezávisle doložený, zcela splněný závazek – dokončení tří mostních staveb (Barrandovský most, Štvanická lávka, Dvorecký most). Zbylé hodnocené závazky jsou rozpracované s nejistým nebo zpomaleným postupem: metro D pokračuje, ale s dalším posunem termínů; certifikace ISO 37001 běží bez potvrzeného dokončení přes tři roky; výsadbu stromů nelze nezávisle vyčíslit. Žádný ze tří hodnocených závazků nebyl prokazatelně porušen. Mimo samotné plnění slibů zatěžuje důvěryhodnost strany v roce 2026 odchod skupiny lidí kolem náměstkyně Jany Komrskové (viz kontroverze), který s plněním programu přímo nesouvisí, ale ukazuje na vnitřní napětí uvnitř pražské organizace těsně před volbami."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Rozkol pražské organizace Pirátů a odchod skupiny kolem Jany Komrskové k JSME TEAM",
+      "typ": "stranicky",
+      "obdobi": "2026-05 - 2026-06",
+      "popis": "V květnu 2026 oznámil odchod z Pirátů aktivista za legalizaci konopí Robert Veverka, o měsíc později (červen 2026) ho následovala náměstkyně primátora pro životní prostředí Jana Komrsková, která po devíti letech ukončila členství ve straně. S nimi odešli i Petr Beneš (Komrskové partner), Tomáš Čada a pirátští poradci Ondřej Chrás a Eva Tichá. Komrsková a Veverka přestoupili k hnutí JSME TEAM (vedenému Lukášem Wagenknechtem), kde se Komrsková stala lídryní pražské kandidátky JSME PRAHA pro volby 2026 a zároveň si – k napětí v koalici – ponechala funkci náměstkyně primátora. Podle jednoho zdroje byla jedním z bodů neshody i Komrskové nesouhlas s podobou Metropolitního plánu, který jako jediná z pirátských radních nepodpořila; podle jejích vlastních slov „politikaření zvítězilo nad kompetencemi a odborností“. Veverka kritizoval „transformaci strany na populistický marketingový projekt“. Mluvčí pirátského klubu uvedla, že respektuje její rozhodnutí.",
+      "stav": "bez_zaveru",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Jana Komrsková: „Nejsem už vázaná stranickou poslušností“, resp. podle jiného zdroje „Politikaření zvítězilo nad kompetencemi a odborností.“ Piráti k odchodu uvedli, že respektují její rozhodnutí.",
+      "zdroje": [
+        {
+          "nazev": "Pražský deník: Piráti proti Pirátům. Komrsková odchází k rivalům, funkci si nechá",
+          "url": "https://prazsky.denik.cz/komunalni-volby/pirati-proti-piratum-komrskova-odchazi-k-rivalum-funkci-si-necha/",
+          "datum": "2026-06"
+        },
+        {
+          "nazev": "Novinky.cz: Volby komunální. Piráty v Praze opustila po konopném aktivistovi Veverkovi i náměstkyně primátora Komrsková",
+          "url": "https://www.novinky.cz/clanek/volby-komunalni-piraty-v-praze-opustila-po-konopnem-aktivistovi-veverkovi-i-namestkyne-primatora-komrskova-40584332",
+          "datum": "2026-06"
+        }
+      ]
+    },
+    {
+      "nazev": "Zaměstnání partnera náměstkyně Jany Komrskové jako poradce",
+      "typ": "konflikt_zajmu",
+      "obdobi": "2023",
+      "popis": "V červenci 2023 vyšlo najevo, že náměstkyně primátora pro životní prostředí Jana Komrsková (tehdy Piráti) zaměstnala svého partnera Petra Beneše jako poradce ve svém týmu. Komrsková obhajovala rozhodnutí tím, že partner uspěl v řádném výběrovém řízení podle předem daných kritérií. V pirátských vnitrostranických fórech zazněly výzvy k jeho odvolání; Beneš z poradní pozice během několika týdnů odstoupil.",
+      "stav": "urovnano",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Jana Komrsková: „Ano, je to pravda,“ s tím, že „ve výběrovém řízení byli uchazeči hodnoceni dle předem daných kritérií.“.",
+      "zdroje": [
+        {
+          "nazev": "Deník N: Poradcem pirátské náměstkyně primátora je její partner. Vyhrál výběrové řízení, vysvětluje",
+          "url": "https://denikn.cz/1194537/poradcem-piratske-namestkyne-primatora-je-jeji-partner-vyhral-vyberove-rizeni-vysvetluje/",
+          "datum": "2023-07-17"
+        },
+        {
+          "nazev": "Novinky.cz: Není to v pořádku. Piráti řeší pražskou náměstkyni, která zaměstnala svého partnera",
+          "url": "https://www.novinky.cz/clanek/domaci-neni-to-v-poradku-pirati-resi-prazskou-namestkyni-ktera-zamestnala-sveho-partnera-40438242",
+          "datum": "2023-07-17"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 4,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu=4: většina klíčových slibů je kvantifikovaná a s termínem (10 000 bytů ročně, metro D do 2032, nové čtvrti pro 200 000 lidí), chybí ale uvedení rozpočtového krytí, proto ne 5. doveryhodnost_plneni=3: hodnoceno podle Programového prohlášení Rady z června 2023 – stejného dokumentu a stejné přísnosti jako u koaličních partnerů STAN a SPOLU – a pouze v gescích, které Piráti skutečně měli (doprava, majetek/transparentnost/legislativa, životní prostředí a klimatický plán). Z toho 1 z 3 hodnocených závazků je nezávisle doložený jako zcela splněný (dokončení mostních staveb), zbylé 2 (metro D, certifikace ISO 37001) jsou rozpracované s nejasným nebo zpomaleným postupem a 1 další slib (výsadba stromů) nelze nezávisle vyčíslit; žádný nebyl prokazatelně porušen. Dřívější skóre 3 vycházelo částečně z kampaňové stránky praha.pirati.cz/jak-menime-prahu/, která podle metodiky sama o sobě neopravňuje k žádnému konkrétnímu skóre – po přeměření stejným měřítkem jako u SPOLU a STAN vychází skóre shodně 3 (smíšený obraz), ale nyní na nezávislých zdrojích. Kauza Komrskové a rozkol pražské organizace v roce 2026 se do tohoto skóre nepromítají přímo (nejde o neplnění konkrétního programového závazku), jsou ale uvedeny jako kontext v shrnutí a kontroverzích. transparentnost=3: zveřejněný program a web (+1), dohledatelná hlasování a tiskové zprávy k personálním změnám v radě (+1), dohledatelní lídři s veřejnými profily (+1), ale chybí v dostupných zdrojích informace o financování kampaně a transparentním účtu konkrétně k volbám 2026 (0).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "nislerova-tereza"
+  ],
+  "mezery_v_datech": [
+    "Přesný počet odstupujících/odcházejících osob a jejich dřívější funkce v krajském sdružení nebyly ve všech případech ověřeny z více než dvou zdrojů (Petr Beneš, Tomáš Čada, Ondřej Chrás, Eva Tichá jsou zmíněni jen v jednom článku).",
+    "Nebylo možné ověřit, zda a jak odchod skupiny kolem Komrskové formálně ovlivnil fungování koalice SPOLU-Piráti-STAN do voleb 2026 (zda došlo k formální změně koaliční smlouvy).",
+    "Rozpočtové krytí programových slibů (10 000 bytů ročně, 1 milion stromů) nebylo v dostupných zdrojích uvedeno.",
+    "Aktuální stav kauzy odměn Zdeňka Hřiba v představenstvu PRE Holding (zmíněno jako kauza 2024-2025) nebyl detailně prozkoumán na úrovni strany - je zpracován v profilu osoby.",
+    "Nepodařilo se nezávisle ověřit stav tramvajových tratí Holyně–Slivenec, Modřany–Libuš a Divoká Šárka–Dědinská, uvedených v Programovém prohlášení Rady 2023 jako „v realizaci“.",
+    "Nepodařilo se nezávisle ověřit, zda byla zavedena databáze nespolehlivých dodavatelů zakázek nebo dokončena centralizace dat o nemovitém majetku (majetková koncepce) slíbená v kapitole „Praha majetkově odpovědná“.",
+    "Nepodařilo se nezávisle dohledat souhrnná čísla výsadby stromů za roky 2022–2026, ani ověřit soulad kampaňového cíle (1 milion stromů) s cílem z programového prohlášení Rady (500 000 stromů).",
+    "Oprava cca 3000 městských bytů, kterou Piráti uvádějí na vlastní kampaňové stránce jako svůj výsledek, spadá dle gesčního rozdělení Rady 2023–2026 do resortu bydlení náměstkyně Udženiji (SPOLU), případně Pražské developerské společnosti v gesci STAN – proto to tato bilance Pirátů nehodnotí jako jejich vlastní slib a nezávislé ověření by patřilo do bilance SPOLU/STAN, ne sem."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

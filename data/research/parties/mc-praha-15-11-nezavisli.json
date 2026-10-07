@@ -1,0 +1,115 @@
+{
+  "slug": "mc-praha-15-11-nezavisli",
+  "assembly_id": "mc-praha-15",
+  "list_cislo": 11,
+  "nazev": "NEZÁVISLÍ",
+  "zkratka": "NEZÁVISLÍ",
+  "typ": "strana",
+  "slozeni": [
+    "NEZ"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "NEZÁVISLÍ Praha 15 - volební program",
+        "url": "https://nezavisli-praha15.cz/volebni-program",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Listina vedená Petrou Šikýřovou (starostka Sokola Hostivař) prezentuje deset bodů (odpovědný rozvoj MČ, hospodaření sloužící lidem, rodinám přátelské prostředí, podpora škol a volnočasových aktivit, aktivní senioři, kulturní akce, podpora spolků, bezpečnost napříč generacemi, dostupný sport, příjemný veřejný prostor) s důrazem na dvacetiletou kontinuitu práce v MČ a konkrétní lokální akce (Masopustní průvod v Hostivaři, oprava staré hasičárny na Kozinově náměstí, mezigenerační centrum Gercenka).",
+    "priority": [
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Odpovědný rozvoj Prahy 15",
+        "popis": "Obecně formulovaná priorita rozvoje MČ bez uvedených konkrétních opatření, čísel nebo termínů.",
+        "citace": "NAŠE PRIORITY PRO PRAHU 15: Odpovědný rozvoj Prahy 15",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": null,
+          "oduvodneni": "Bez konkrétního opatření nelze realizovatelnost posoudit."
+        },
+        "zdroj_url": "https://nezavisli-praha15.cz/volebni-program"
+      },
+      {
+        "oblast": "kultura",
+        "nazev": "Oživení veřejného prostoru a tradic",
+        "popis": "Pokračování komunitních akcí (Masopustní průvod v Hostivaři, Velikonoce na Patnáctce, Pestrá Hostivař, Adventní setkání, Den pro spolky, Koncert pro Patnáctku) prezentovaných jako již dosažený výsledek předchozího období.",
+        "citace": "Oživili jsme veřejný prostor a tradice – Masopustní průvod v Hostivaři, Velikonoce na Patnáctce, Pestrá Hostivař, Adventní setkání, Den pro spolky a Koncert pro Patnáctku.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o pokračování již zavedených akcí v plné kompetenci MČ."
+        },
+        "zdroj_url": "https://nezavisli-praha15.cz/volebni-program"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Podpora škol a volnočasových činností",
+        "popis": "Obecná priorita, doplněná odkazem na již realizované kroky (vánoční stromky pro školy a školky, otevření nových mateřských škol).",
+        "citace": "Investovali jsme do dětí a škol – vánoční stromky pro školy a školky, dětská vystoupení na veřejných akcích, otevření nových mateřských škol.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": null,
+          "oduvodneni": "Bez konkrétního budoucího opatření, jen obecná priorita a odkaz na minulé kroky."
+        },
+        "zdroj_url": "https://nezavisli-praha15.cz/volebni-program"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Rekonstrukce a investice do veřejných budov",
+        "popis": "Odkaz na dokončené investice (Stará hasičárna na Kozinově náměstí, Mezigenerační centrum Gercenka, park v Holoubkovské ulici, sál KD Varta, modernizace radnice) jako důkaz dosavadní práce; budoucí vlastní investiční plán v dostupném textu chybí.",
+        "citace": "Rekonstruovali jsme a budujeme dál – Stará hasičárna na Kozinově náměstí, Mezigenerační centrum Gercenka, park v Holoubkovské ulici s důstojným pietním místem, nový sál KD Varta a modernizovaná radnice.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": null,
+          "oduvodneni": "Text popisuje dokončené/probíhající projekty koalice jako celku, ne vlastní budoucí slib listiny NEZÁVISLÍ."
+        },
+        "zdroj_url": "https://nezavisli-praha15.cz/volebni-program"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "NEZÁVISLÍ získali v roce 2022 2 mandáty z 31 (6,11 %). Lídryně Petra Šikýřová zastávala funkci místostarostky MČ a listina byla součástí 16členné radniční většiny (Společně pro Prahu 15, ANO 2011, SPD a nezávislí, NEZÁVISLÍ), která na ustavujícím zasedání 9. 11. 2022 zvolila radu poté, co vítězné sdružení Patnáctka náš domov a Piráti ze sálu na protest odešli.",
+    "splnene_sliby": [
+      {
+        "slib": "Oživení veřejného života a tradic (Velikonoce na Patnáctce, Masopustní průvod Hostivaří, adventní setkávání, kulturní a sportovní akce pro seniory)",
+        "dukaz": "Místostarostka Petra Šikýřová ve svém bilančním příspěvku ve zpravodaji Hlasatel 9/2026 popisuje tyto akce jako obnovené/nově zavedené v uplynulém volebním období (tvrzení strany).",
+        "zdroj_url": "https://www.praha15.cz/assets/File.ashx?id_org=80115&id_dokumenty=29552"
+      }
+    ],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Listina prezentuje svou dvacetiletou kontinuitu v komunální politice a řadu drobných lokálních akcí. Lídryně Šikýřová byla po celé období místostarostkou a ve vlastním bilančním příspěvku v radničním zpravodaji si připisuje zejména obnovu komunitního a kulturního života v MČ; jde ale o měřitelné jen částečně (jde o pokračující akce, ne kvantifikovaný slib) a o tvrzení strany o sobě samé, nezávislý audit se nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "Program spíše vyjmenovává již realizované lokální akce a obecné oblasti zájmu než konkrétní budoucí opatření s čísly nebo termíny. Doveryhodnost_plneni 3: místostarostka Šikýřová dokládá ve zpravodaji MČ pokračování/obnovu komunitních akcí, což odpovídá deklarovanému zaměření listiny na „rodinám přátelské prostředí“ a kulturní akce, ale jde o vlastní tvrzení (zdroj_strana) bez nezávislého ověření a bez kvantifikovaných závazků, proti kterým by šlo přesně měřit. Transparentnost +1 za zveřejněný program, +1 za zápisy zastupitelstva, +1 za dohledatelnou politickou historii lídryně a dalšího inkumbenta na listině.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "sikyrova-petra"
+  ],
+  "mezery_v_datech": [
+    "Program neobsahuje konkrétní kvantifikovaná opatření ani termíny pro příští období.",
+    "Bilance plnění vychází z vlastního příspěvku místostarostky ve zpravodaji MČ (zdroj_strana), nebyla ověřena nezávislým zdrojem."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "udzenija-alexandra",
+  "name_key": "udzenija-alexandra",
+  "cele_jmeno": "Ing. Alexandra Udženija",
+  "rok_narozeni": 1976,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 12,
+      "poradi": 3
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Alexandra Udženija je náměstkyně primátora hl. m. Prahy pro sociální oblast, bydlení a zdravotnictví (od února 2023) a dlouholetá komunální politička ODS na Praze 2 a na magistrátu. Na Praze 2 byla zastupitelkou od roku 2006, místostarostkou 2015-2021 a starostkou 2021-2023, než po nástupu do funkce náměstkyně primátora na magistrátu na starostenský post rezignovala. Na celostátní úrovni ODS byla v letech 2016-2020 první místopředsedkyní strany; v říjnu 2025 byla zvolena předsedkyní pražské organizace ODS.",
+  "vzdelani": null,
+  "profese": "náměstkyně primátora hl. m. Prahy",
+  "politicka_historie": [
+    {
+      "od": "2006",
+      "do": "2015",
+      "funkce": "zastupitelka MČ Praha 2",
+      "organizace": "MČ Praha 2",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Alexandra_Ud%C5%BEenija"
+    },
+    {
+      "od": "2010",
+      "do": "2013",
+      "funkce": "zastupitelka hl. m. Prahy, radní pro majetek",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Alexandra_Ud%C5%BEenija"
+    },
+    {
+      "od": "2015",
+      "do": "2021",
+      "funkce": "místostarostka MČ Praha 2",
+      "organizace": "MČ Praha 2",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Alexandra_Ud%C5%BEenija"
+    },
+    {
+      "od": "2016-01-16",
+      "do": "2020-01",
+      "funkce": "první místopředsedkyně ODS (zvolena 239 z 464 hlasů, 52 %)",
+      "organizace": "ODS",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Alexandra_Ud%C5%BEenija"
+    },
+    {
+      "od": "2021",
+      "do": "2023-06",
+      "funkce": "starostka MČ Praha 2 (mandát obhájen 2022)",
+      "organizace": "MČ Praha 2",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Alexandra_Ud%C5%BEenija"
+    },
+    {
+      "od": "2023-02",
+      "do": null,
+      "funkce": "náměstkyně primátora hl. m. Prahy (sociální oblast, bydlení, zdravotnictví)",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Alexandra_Ud%C5%BEenija"
+    },
+    {
+      "od": "2025-10",
+      "do": null,
+      "funkce": "předsedkyně pražské organizace ODS",
+      "organizace": "ODS - Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Alexandra_Ud%C5%BEenija"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Udženija zastává výkonnou funkci náměstkyně primátora pro sociální oblast, bydlení a zdravotnictví od února 2023, ale rešerší se nepodařilo dohledat zdrojovaný seznam konkrétních slibů a jejich plnění v této agendě (např. konkrétní projekty bydlení pro seniory, kapacity zdravotních služeb) – proto null.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Alexandra Udženija",
+      "url": "https://cs.wikipedia.org/wiki/Alexandra_Ud%C5%BEenija",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Zastupitelstvo hlavního města Prahy",
+      "url": "https://cs.wikipedia.org/wiki/Zastupitelstvo_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obor) se nepodařilo dohledat.",
+    "Přesný rok narození (1976) je odhad z udaného věku 50 let v brífu k říjnu 2026.",
+    "Chybí doložený přehled konkrétních výsledků v agendě bydlení/sociální oblasti/zdravotnictví za její působení jako náměstkyně primátora.",
+    "Nenašla se žádná medializovaná kauza/kontroverze s jejím jménem - může jít o skutečnou absenci, nikoli o mezeru v rešerši, ale nelze to s jistotou odlišit."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

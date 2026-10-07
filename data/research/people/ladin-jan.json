@@ -1,0 +1,30 @@
+{
+  "slug": "ladin-jan",
+  "name_key": "ladin-jan",
+  "cele_jmeno": "Ing. Jan Ladin",
+  "rok_narozeni": 1979,
+  "strana": "TOP 09",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 3, "poradi": 2}],
+  "role": "inkumbent",
+  "profil": "Jan Ladin je tajemník Fakulty informačních technologií ČVUT, pedagog a systémový architekt, člen TOP 09. V roce 2022 vedl tehdejší listinu Společně pro Prahu 7 a získal mandát zastupitele MČ Praha 7 s nejvyšším počtem preferenčních hlasů v klubu (2283). Pro rok 2026 kandiduje na 2. místě nástupnické koaliční listiny SPOLU PRO PRAHU 7.",
+  "vzdelani": "informační technologie, Ing. (ČVUT, FIT - působí tam jako tajemník fakulty)",
+  "profese": "tajemník Fakulty informačních technologií ČVUT, pedagog, systémový architekt",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 7 (klub Společně pro Prahu 7, resp. SPOLU)", "organizace": "MČ Praha 7", "zdroj_url": "https://www.praha7.cz/radnice/zastupitelstvo/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Jako opoziční zastupitel bez funkce v radě MČ nemá přímou výkonnou odpovědnost; podrobné hodnocení jeho konkrétní agendy nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha7.cz - Zastupitelstvo MČ Praha 7", "url": "https://www.praha7.cz/radnice/zastupitelstvo/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 47 let v brífu k říjnu 2026 (1979), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce v období 2022-2026 nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

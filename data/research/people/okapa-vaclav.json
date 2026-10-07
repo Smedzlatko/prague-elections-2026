@@ -1,0 +1,52 @@
+{
+  "cele_jmeno": "Ing. Václav Okapa, MBA",
+  "rok_narozeni": 1987,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-9",
+      "list_cislo": 7,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Václav Okapa je zastupitel MČ Praha 9 za Piráty, manažer a ekonom v oblasti energetiky. Ve volbách 2022 byl zvolen na 4. místě pirátské listiny s 1884 preferenčními hlasy. Pro volby 2026 vede pirátskou listinu na Praze 9.",
+  "vzdelani": null,
+  "profese": "manažer, ekonom v oblasti energetiky",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 9 (opozice)",
+      "organizace": "MČ Praha 9",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500216"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitel bez výkonné funkce nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Praha 9 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500216",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu se nepodařilo dohledat další veřejný záznam o osobě."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "okapa-vaclav",
+  "name_key": "okapa-vaclav"
+}

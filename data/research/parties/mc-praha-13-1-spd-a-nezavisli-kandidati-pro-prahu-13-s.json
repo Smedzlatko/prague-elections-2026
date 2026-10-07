@@ -1,0 +1,46 @@
+{
+  "slug": "mc-praha-13-1-spd-a-nezavisli-kandidati-pro-prahu-13-s",
+  "assembly_id": "mc-praha-13",
+  "list_cislo": 1,
+  "nazev": "SPD a nezávislí kandidáti pro Prahu 13 s podporou tradičních sociálních demokratů",
+  "zkratka": "SPD",
+  "typ": "koalice",
+  "slozeni": ["SPD", "SOCDEM", "nezávislí"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program pro Prahu 13 na rok 2026 se nepodařilo dohledat. Lídryně Vladimíra Bondarenková a Zdeněk Trmota jsou podle dat ČSÚ inkumbenti zvolení v roce 2022 (listina SPD, Trikolora a nezávislí, 2 mandáty).",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 2,
+    "oduvodneni": "SPD se celostátně profiluje jako národně-konzervativní až pravicově populistická strana; lokální program nebyl dohledán.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Předchůdce listiny (SPD, Trikolora a nezávislí kandidáti pro Prahu 13) byl v letech 2022–2026 v opozici vůči koalici ODS, ANO 2011 a TOP 09/KDU-ČSL, se 2 mandáty z voleb 2022.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako malý opoziční subjekt nemohl přímo prosazovat vlastní exekutivní agendu; konkrétní opoziční návrhy a jejich osud za období 2022–2026 nebyly v rámci této rešerše dohledány."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program pro rok 2026 nenalezen (konkrétnost 0). Důvěryhodnost plnění nelze hodnotit u opoziční strany bez dohledaného programu z roku 2022. Transparentnost: dohledatelná kandidátka (+1) a doložená předchozí zastupitelská funkce lídryně (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["bondarenkova-vladimira"],
+  "mezery_v_datech": [
+    "Lokální program listiny pro Prahu 13 na rok 2026 nebyl dohledán.",
+    "Konkrétní opoziční agenda a její výsledky za období 2022–2026 nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

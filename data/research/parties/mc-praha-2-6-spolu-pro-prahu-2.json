@@ -1,0 +1,96 @@
+{
+  "slug": "mc-praha-2-6-spolu-pro-prahu-2",
+  "assembly_id": "mc-praha-2",
+  "list_cislo": 6,
+  "nazev": "SPOLU pro Prahu 2",
+  "zkratka": "SPOLU",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "TOP 09"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "Koalice SPOLU pro Prahu 2 zahajuje kampaň: výsledky místo slibů", "url": "https://zpravy.kurzy.cz/866320-koalice-spolu-pro-prahu-2-zahajuje-kampan-vysledky-misto-slibu/", "datum": "2026-10-03"},
+      {"nazev": "Koalice SPOLU pro Prahu 2 zahájila volební kampaň", "url": "https://prazsky-magazin.cz/politika/koalice-spolu-pro-prahu-2-zahajila-volebni-kampan/", "datum": "2026-10-03"},
+      {
+        "nazev": "programydovoleb.cz - SPOLU pro Prahu 2 (bez odkazu na vlastní detailní program)",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164563",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice SPOLU pro Prahu 2 (ODS, TOP 09) vedená starostou Janem Korseskou staví kampaň na hesle „výsledky místo slibů“ a na pokračování dosavadní politiky. Z tiskových zpráv k zahájení kampaně vyplývají tematické priority v oblastech bydlení (transparentní pronájem obecních bytů), bezpečnosti, veřejného prostoru (zeleň, čistota, omezení vizuálního smogu), školství a dopravy (bezpečnost u škol, kultivace hlavních tahů, jednání o metru D a zastávce Výtoň). Jde o campaign-style shrnutí priorit, nikoli o podrobný psaný programový dokument s jednotlivými opatřeními.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Transparentní bytová politika",
+        "popis": "Transparentní pronájem obecních bytů a podpora seniorů, mladých rodin a samoživitelů, pokračování rekonstrukcí bytového fondu.",
+        "citace": "transparentní pronájem obecních bytů",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Pravidla pronájmu obecních bytů jsou plně v pravomoci rady MČ."},
+        "zdroj_url": "https://zpravy.kurzy.cz/866320-koalice-spolu-pro-prahu-2-zahajuje-kampan-vysledky-misto-slibu/"
+      },
+      {
+        "oblast": "verejny_prostor",
+        "nazev": "Rozvoj zeleně a čistoty ulic",
+        "popis": "Další rozvoj městské zeleně a parků, opatření ke zvyšování čistoty ulic a omezování vizuálního smogu.",
+        "citace": "další rozvoj městské zeleně, parků a opatření vedoucích ke zvyšování čistoty ulic a omezování vizuálního smogu",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Údržba zeleně a veřejného prostoru je běžnou kompetencí MČ."},
+        "zdroj_url": "https://zpravy.kurzy.cz/866320-koalice-spolu-pro-prahu-2-zahajuje-kampan-vysledky-misto-slibu/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Bezpečnost u škol a jednání o nadmístních projektech",
+        "popis": "Bezpečnost dopravy v okolí škol, kultivace hlavních dopravních tahů a účast v diskusích o strategických projektech (metro D, severojižní magistrála, železniční zastávka Výtoň).",
+        "citace": "bezpečnost v okolí škol, kultivaci hlavních dopravních tahů",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "neoveritelne", "oduvodneni": "Metro D, magistrála a zastávka Výtoň jsou nadmístní projekty v gesci hl. m. Prahy a Správy železnic, MČ má jen pozici účastníka řízení/připomínkujícího subjektu."},
+        "zdroj_url": "https://zpravy.kurzy.cz/866320-koalice-spolu-pro-prahu-2-zahajuje-kampan-vysledky-misto-slibu/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "Koalice dvou celostátně pravicových/center-pravicových stran (ODS, TOP 09); lokální program pro Prahu 2 2026 se nepodařilo dohledat, hodnocení je odvozeno z celostátních profilů obou stran.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Jednoznačně vládnoucí koalice – v roce 2022 pod názvem „ODS a TOP 09 – SPOLEČNĚ PRO Prahu 2“ získala 35,60 % a 14 z 35 mandátů, nejsilnější subjekt. Lídryně Alexandra Udženija (ODS) se stala starostkou, v únoru 2023 byla jmenována náměstkyní primátora hl. m. Prahy a pro střet funkcí v březnu 2023 oznámila rezignaci na post starostky Prahy 2, k 19. 6. 2023 funkci opustila. Nahradil ji dosavadní místostarosta Jan Korseska (ODS), lídr listiny pro 2026.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Vyrovnané hospodaření bez dluhu, participativní rozpočet, dokončení sociálního centra „Nový domov“, parkovací dům Pod Nuselskými schody (dle Programového prohlášení Rady MČ Praha 2 2022-2026).",
+        "dukaz": "Programové prohlášení rady (praha2.cz/programove-prohlaseni-rady) tyto závazky deklaruje v gescích místostarostů Pechové (sociální věci/bydlení), Recmana (výstavba/územní rozvoj) a Halvy (doprava, TOP 09). Pokus ověřit aktuální stav zařízení „Nový domov“ přímo na webu MČ se nezdařil (stránka nedostupná). Nezávislé potvrzení dokončení konkrétních projektů se nepodařilo dohledat.",
+        "zdroj_url": "https://www.praha2.cz/programove-prohlaseni-rady"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice ODS+TOP09 (+ANO2011 jako čtvrtý partner, viz party mc-praha-2-4-ano-2011) vedla Prahu 2 celé období 2022-2026 podle společného Programového prohlášení rady, s jedinou výměnou osoby starosty v polovině období (Udženija -> Korseska) kvůli jejímu povýšení na magistrát, nikoli kvůli rozpadu koalice. Rada má 8 křesel: ODS má 4 (finance/majetek – Korseska, sociální věci/zdravotnictví/bydlení – Pechová, životní prostředí/výstavba/územní rozvoj – Recman, školství/mládež – Černochová, kultura – Šolc), TOP 09 má 2 (bezpečnost/sport – Zuna, doprava/podnikání – Halva), ANO 2011 má 1 (IT/smart city/volný čas – Kolář). Nezávisle doložené hodnocení konkrétního naplnění jednotlivých kapitol programového prohlášení se nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": null,
+    "oduvodneni": "konkretnost_programu 2: dohledané tiskové zprávy ke kampani jmenují témata a směr (transparentní bydlení, zeleň, bezpečnost u škol), ale jde o novinářské shrnutí kampaně, ne o psaný programový dokument s konkrétními opatřeními, čísly či termíny. Doveryhodnost_plneni 2: koalice SPOLU vedla radnici po celé období a má podrobné Programové prohlášení rady (společné měřítko dle metodiky), ale nezávislé ověření, které konkrétní body byly splněny/nesplněny, se v rešerši nepodařilo dohledat (web MČ, zápisy zastupitelstva, tisk). Skóre je konzervativní odhad při chybějícím nezávislém zdroji, nikoli zjištění konkrétního selhání.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "korseska-jan"
+  ],
+  "mezery_v_datech": [
+    "Vlastní podrobný psaný programový dokument koalice (s konkrétními opatřeními, čísly, termíny) nebyl dohledán ani na ods.cz/os.praha2, ani jinde - k dispozici jsou jen tiskové zprávy a novinářská shrnutí kampaně (kurzy.cz, prazsky-magazin.cz) a stránka s kandidátkou bez detailního programu.",
+    "Nezávisle doložené naplnění jednotlivých kapitol Programového prohlášení rady 2022-2026 (hospodaření, sociální politika, výstavba, doprava aj.) nebylo ověřeno - zápisy zastupitelstva a web praha2.cz/novy-domov nebyly v rešerši zpracovány (stránka o projektu Nový domov byla při pokusu o ověření nedostupná)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

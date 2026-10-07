@@ -1,0 +1,45 @@
+{
+  "slug": "blaha-ladislav",
+  "name_key": "blaha-ladislav",
+  "cele_jmeno": "Ing. et Ing. Ladislav Blaha",
+  "rok_narozeni": 1977,
+  "strana": "ČSSD",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-13",
+      "list_cislo": 7,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Ladislav Blaha je ekonom, stavař a specialista veřejných zakázek a nakupování, člen ČSSD. Bez dosavadního zastupitelského mandátu v MČ Praha 13 podle briefu ČSÚ; pro volby 2026 vede koaliční listinu Změna pro Prahu 13 – Národní hnutí (KSČM, ČSSD, Směr).",
+  "vzdelani": null,
+  "profese": "ekonom, stavař, specialista veřejných zakázek",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce nelze hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 13 2026",
+      "url": "https://volby.cz",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu nebyl dohledán žádný další veřejný záznam o osobě.",
+    "Rok narození odhadnut z udaného věku (49 let v roce 2026)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

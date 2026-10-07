@@ -1,0 +1,54 @@
+{
+  "slug": "kalous-adam",
+  "name_key": "kalous-adam",
+  "cele_jmeno": "Ing. Adam Kalous",
+  "rok_narozeni": 1979,
+  "strana": "ANO",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 4,
+      "poradi": 4
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Adam Kalous je podle vlastního popisu v kandidátce náměstek ministra dopravy a zastupitel MČ Praha 7; mandát zastupitele získal v roce 2022 na listině ANO 2011 (1798 preferenčních hlasů). Pro rok 2026 kandiduje na 4. místě listiny ANO s podporou Motoristů. Konkrétní ministerstvo, období náměstkovské funkce a její náplň se přes dostupné zdroje (vyhledávače byly při rešerši nefunkční/blokované) nepodařilo ověřit – údaj je převzat jen z vlastního textu kandidáta v brífu ČSÚ.",
+  "vzdelani": null,
+  "profese": "náměstek ministra dopravy (dle vlastního údaje), zastupitel MČ Praha 7",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 7 (ANO 2011)",
+      "organizace": "MČ Praha 7",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Funkce náměstka ministra dopravy nebyla nezávisle ověřena; jako opoziční zastupitel MČ bez funkce v radě nemá přímou výkonnou odpovědnost za vedení Prahy 7.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 47 let v brífu k říjnu 2026 (1979), neověřeno.",
+    "Funkce náměstka ministra dopravy (konkrétní ministerstvo, obor, období) nebyla nezávisle ověřena - vyhledávací nástroje byly při rešerši nedostupné.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce v Praze 7 nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

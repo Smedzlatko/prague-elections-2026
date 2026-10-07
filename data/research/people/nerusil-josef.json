@@ -1,0 +1,72 @@
+{
+  "slug": "nerusil-josef",
+  "name_key": "nerusil-josef",
+  "cele_jmeno": "Mgr. Josef Nerušil",
+  "rok_narozeni": null,
+  "strana": "SPD",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 10,
+      "poradi": 65
+    },
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 4,
+      "poradi": 3
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Podle kandidátní listiny 2026 poslanec Parlamentu ČR a zastupitel MČ Praha 10, kandidující za SPD. V komunálních volbách 2022 byl zvolen zastupitelem hl. m. Prahy jako č. 2 koalice SPD, Trikolora, Hnutí PES a nezávislí (19 795 preferenčních hlasů). V roce 2026 je na listině SPD pro Prahu zařazen na poslední, 65. místo jako tzv. „lokomotiva“ na konci kandidátky.",
+  "vzdelani": null,
+  "profese": "poslanec Poslanecké sněmovny PČR, zastupitel MČ Praha 10",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel hl. m. Prahy (koalice SPD, Trikolora, Hnutí PES a nezávislí)",
+      "organizace": "Zastupitelstvo hl. m. Prahy",
+      "zdroj_url": "https://volby.cz"
+    },
+    {
+      "od": null,
+      "do": null,
+      "funkce": "zastupitel MČ Praha 10",
+      "organizace": "SPD",
+      "zdroj_url": "https://volby.cz"
+    },
+    {
+      "od": null,
+      "do": null,
+      "funkce": "poslanec Poslanecké sněmovny PČR",
+      "organizace": "SPD",
+      "zdroj_url": "https://volby.cz"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitel ZHMP 2022–2026 nebyl v exekutivní funkci; konkrétní hlasování a legislativní aktivita v Poslanecké sněmovně se v rámci této rešerše nepodařilo dohledat (weby SPD a Wikipedie byly při rešerši nedostupné).",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+      "url": "https://volby.cz",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Weby cs.wikipedia.org a hlidacstatu.cz byly v době rešerše nedostupné (síťová chyba), nepodařilo se tak dohledat podrobnější biografii, přesný rok narození ani případné kauzy.",
+    "Nepodařilo se ověřit jeho konkrétní poslanecké návrhy a hlasování."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

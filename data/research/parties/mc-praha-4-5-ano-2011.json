@@ -1,0 +1,68 @@
+{
+  "slug": "mc-praha-4-5-ano-2011",
+  "assembly_id": "mc-praha-4",
+  "list_cislo": 5,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO 2011"
+  ],
+  "web": "https://janhusbauer.cz/",
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "programydovoleb.cz - ANO 2011 Praha 4 (bez odkazu na vlastní lokální program)",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165121",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Vyhledávání Seznam.cz - lokální program ANO 2011 Praha 4 2026",
+        "url": "https://search.seznam.cz/?q=ANO+2011+Praha+4+program+2026+Hu%C5%A1bauer+m%C3%ADstn%C3%AD",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Samostatný program ANO specifický pro Prahu 4 se nepodařilo dohledat. Web lídra Jana Hušbauera (janhusbauer.cz) je zaměřen na jeho celopražskou kandidaturu na primátora a neobsahuje oddělený lokální program pro MČ Praha 4 – zmiňuje jeho roli místostarosty jen jako zkušenostní argument („jako místostarosta Prahy 4 vím, kolik práce stojí proměnit plán v opravenou školu, hřiště nebo náměstí“), nikoli jako konkrétní lokální sliby s čísly.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "Odhad na základě celostátního profilu ANO 2011 jako centristického, populisticko-pragmatického hnutí; lokální program chybí k ověření.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Součást koalice ODS/TOP 09/ANO (23 z 45 mandátů). Jan Hušbauer je místostarostou pro investice, Irena Michalcová 1. místostarostkou pro školství, Radek Lacko radním pro sociální a zdravotní oblast, Tomáš Hrdinka radním.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Investice do škol, hřišť a náměstí (gesce místostarosty Hušbauera) – vlastní kampaňový web lídra zmiňuje zkušenost „jako místostarosta Prahy 4 vím, kolik práce stojí proměnit plán v opravenou školu, hřiště nebo náměstí“.",
+        "dukaz": "Jde o vlastní tvrzení lídra na jeho kampaňovém webu (janhusbauer.cz), nikoli o nezávisle doložený přehled konkrétních dokončených investic – podle metodiky (zdroj_strana) samo o sobě neopravňuje k vysokému skóre.",
+        "zdroj_url": "https://janhusbauer.cz/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ANO drží na Praze 4 tři výkonné funkce (investice, školství, sociální/zdravotní oblast), přesto se v rámci této rešerše nepodařilo dohledat zdrojovaný seznam konkrétních investičních, školských či sociálních projektů, které by šlo ověřit jako splněné či nesplněné – médiální pokrytí lokální politiky Prahy 4 je řídké ve srovnání s celopražskou kandidaturou Jana Hušbauera na primátora."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Konkrétnost 0 – samostatný lokální program nenalezen. Transparentnost 2 body: zveřejněná kandidátka s profesními životopisy a dohledatelný kampaňový web lídra, chybí ale transparentní účet a zveřejněné hlasování zastupitelů specifické pro tuto listinu. Doveryhodnost_plneni = 2: ANO drželo tři výkonné funkce, ale jediný dohledaný doklad o výsledcích je vlastní tvrzení lídra na kampaňovém webu (zdroj_strana), což samo o sobě neopravňuje k vyššímu skóre; nezávislý zdroj chybí.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "husbauer-jan"
+  ],
+  "mezery_v_datech": [
+    "Samostatný volební program ANO 2011 pro Prahu 4 (odlišný od celopražského programu Jana Hušbauera na primátora) se nepodařilo dohledat i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"ANO 2011 Praha 4 Hušbauer program volby 2026\" a \"anopraha4.cz program 2026\" - výsledky obsahují jen Hušbauerův celopražský program (jako lídra ANO pro primátorský boj - parkování, bytová výstavba, okruh, metro D, sport), nikoli samostatný lokální program pro MČ Praha 4.",
+    "Konkrétní investiční, školské a sociální projekty realizované ANO na radnici Prahy 4 v letech 2022-2026 nebyly dohledány - viz i people/husbauer-jan.json.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „ANO Praha 4 volební program 2026 Husbauer“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

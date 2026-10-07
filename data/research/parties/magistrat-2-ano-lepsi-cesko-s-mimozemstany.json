@@ -1,0 +1,121 @@
+{
+  "slug": "magistrat-2-ano-lepsi-cesko-s-mimozemstany",
+  "assembly_id": "magistrat",
+  "list_cislo": 2,
+  "nazev": "ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY",
+  "zkratka": "Mimozemšťané",
+  "typ": "koalice",
+  "slozeni": ["nezávislí kandidáti", "mimozemstani.eu"],
+  "web": "https://mimozemstani.eu/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "mimozemstani.eu – web hnutí (obecný program hnutí, vč. bodů pro komunální úroveň)",
+        "url": "https://mimozemstani.eu/",
+        "datum": "2026-10-03"
+      },
+      {
+        "nazev": "Wikipedie – Ano lepší EU s mimozemšťany (zastavíme drahotu a válku)",
+        "url": "https://cs.wikipedia.org/wiki/Ano_lep%C5%A1%C3%AD_EU_s_mimozem%C5%A1%C5%A5any_(zastav%C3%ADme_drahotu_a_v%C3%A1lku)",
+        "datum": "2026-10-03"
+      },
+      {
+        "nazev": "programydovoleb.cz – ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164921",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Hnutí nemá samostatný psaný program pro pražské komunální volby 2026 – má jen jeden obecný program celého hnutí, zveřejněný na jeho webu, který kombinuje celostátní/krajská témata (ukončení konfliktu na Ukrajině, podpora venkova z fondů EU, klima) s několika body relevantními i pro velké město: dostupnější bydlení, jízdné zdarma školákům a studentům, opravy silnic, lékařské a zubní pohotovosti a dostatek mateřských škol. Jde o krátký výčet hesel bez čísel, termínů nebo rozpočtového krytí, ne o rozpracovaný program pro Prahu.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Dostupnější bydlení",
+        "popis": "Hnutí obecně deklaruje cíl zpřístupnit bydlení, bez konkrétního nástroje (např. výstavba, regulace nájmů) nebo čísel.",
+        "citace": "dostupnější bydlení",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez uvedení konkrétního nástroje nelze posoudit, co by se reálně mělo stát ani v jaké kompetenci (obec/kraj/stát)."
+        },
+        "zdroj_url": "https://mimozemstani.eu/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Jízdné zdarma pro školáky a studenty, bezplatné parkování na okraji Prahy",
+        "popis": "Hnutí slibuje zdarma jízdné ve veřejné dopravě pro školáky a studenty a bezplatné parkování na okraji Prahy (podle znění webu patrně míněno pro obyvatele Středočeského kraje přijíždějící do Prahy).",
+        "citace": "zdarma jízdné školákům a studentům; bezplatné parkování na okraji Prahy",
+        "merytelne": true,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o zásah do cenotvorby pražského dopravního podniku a parkovací politiky bez uvedeného rozpočtového krytí ani návrhu na kompenzaci výpadku příjmů; u parkovacích míst navíc konkuruje stávající zónové politice městských částí."
+        },
+        "zdroj_url": "https://mimozemstani.eu/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Opravy silnic",
+        "popis": "Obecný slib oprav silniční sítě bez určení priorit, úseků nebo harmonogramu.",
+        "citace": "opravy silnic",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez vymezení konkrétních úseků a financování nelze hodnotit."
+        },
+        "zdroj_url": "https://mimozemstani.eu/"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Lékařské a zubní pohotovosti",
+        "popis": "Slib dostatečné sítě lékařských a zubních pohotovostí; na webu formulováno obecně pro „okresy“, nikoli specificky pro pražské obvody.",
+        "citace": "lékařské a zubní pohotovosti v okresech",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Formulace cílí na okresní strukturu mimo Prahu; není jasné, jak by se měla promítnout do pražské samosprávy, která okresy nemá."
+        },
+        "zdroj_url": "https://mimozemstani.eu/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Dostatek mateřských škol",
+        "popis": "Obecný slib dostatečné kapacity mateřských škol bez čísel o chybějících místech nebo plánu výstavby.",
+        "citace": "dostatek mateřských škol",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétního plánu výstavby a lokalit nelze posoudit realizovatelnost."
+        },
+        "zdroj_url": "https://mimozemstani.eu/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program kombinuje protiinflační a protiválečná hesla s jednotlivými sociálně laděnými sliby (bydlení, doprava zdarma); bez jasné ekonomické nebo hodnotové kotvy nelze ideologické zařazení odvodit.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu = 1: program obsahuje jen obecná hesla bez opatření, čísel nebo termínů (odpovídá stupni 1–2 metodiky, hraniční případ blíže k 1, protože jde o stejný obecný text hnutí, ne o lokálně rozpracovaný program pro Prahu). doveryhodnost_plneni = null: nový subjekt bez historického záznamu v pražské samosprávě. transparentnost = 2: +1 za dohledatelné kandidáty na listině, +1 za zveřejněný (byť obecný) program na webu hnutí; financování kampaně a transparentní účet nebyly dohledány.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["dubsky-jiri"],
+  "mezery_v_datech": [
+    "Hnutí nemá samostatný, pražsky specifický program – dohledaný text je obecný program celého hnutí; lokální rozpracování pro Prahu 2026 nebylo nalezeno i přes opakovaný WebSearch (ověřeno 2026-10-03).",
+    "Financování kampaně a existence transparentního účtu nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

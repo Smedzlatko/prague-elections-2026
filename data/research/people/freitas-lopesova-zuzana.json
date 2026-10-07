@@ -1,0 +1,85 @@
+{
+  "slug": "freitas-lopesova-zuzana",
+  "name_key": "freitas-lopesova-zuzana",
+  "cele_jmeno": "Mgr. Zuzana Freitas Lopesová",
+  "rok_narozeni": 1968,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 7,
+      "poradi": 4
+    },
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 7,
+      "poradi": 6
+    }
+  ],
+  "role": "top5",
+  "profil": "Vystudovala informační studia a knihovnictví na Filozofické fakultě UK, dříve pracovala v projektovém řízení, grantové administrativě a médiích. V komunální politice je od roku 2018 (zastupitelka Prahy 10), mandát zastupitelky hl. m. Prahy obhájila ve volbách 2022 (6. místo, přes 5400 preferenčních hlasů). V letech 2022-2024 působila jako náměstkyně ministryně práce a sociálních věcí, kde koordinovala pomoc ukrajinským uprchlíkům a podílela se na legislativě k podpoře bydlení a sociálnímu podnikání. Zaměřuje se na sociální politiku, bydlení a ochranu práv dětí. Pro volby 2026 kandiduje na 4. místě pražské kandidátky Pirátů.",
+  "vzdelani": "Filozofická fakulta UK - informační studia a knihovnictví.",
+  "profese": "Odbornice na sociální politiku a bydlení, zastupitelka hl. m. Prahy, dříve náměstkyně ministryně práce a sociálních věcí.",
+  "politicka_historie": [
+    {
+      "od": "2018-11",
+      "do": null,
+      "funkce": "zastupitelka MČ Praha 10",
+      "organizace": "MČ Praha 10",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Zuzana_Freitas_Lopesov%C3%A1"
+    },
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitelka hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Zuzana_Freitas_Lopesov%C3%A1"
+    },
+    {
+      "od": "2022",
+      "do": "2024",
+      "funkce": "náměstkyně ministryně práce a sociálních věcí",
+      "organizace": "Ministerstvo práce a sociálních věcí ČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Zuzana_Freitas_Lopesov%C3%A1"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Koordinace pomoci ukrajinským uprchlíkům a legislativa k bydlení",
+      "popis": "Jako náměstkyně ministryně práce a sociálních věcí (2022-2024) se podílela na legislativních opatřeních na podporu bydlení, sociálního podnikání a programů péče o děti v sousedství a koordinovala pomoc ukrajinským uprchlíkům.",
+      "stav": "dokonceno",
+      "hodnoceni": "Jde o státní (nikoli přímo magistrátní) funkci, relevantní jako doklad její odbornosti v sociální a bytové politice, kterou by měla uplatnit v případném zvolení do pražské rady.",
+      "zdroje": [
+        {
+          "nazev": "Wikipedie: Zuzana Freitas Lopesová",
+          "url": "https://cs.wikipedia.org/wiki/Zuzana_Freitas_Lopesov%C3%A1",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Na magistrátní úrovni dosud nezastávala výkonnou funkci (radní/náměstkyně), pouze mandát zastupitelky – podle metodiky bez magistrátní výkonné funkce nelze plnění slibů na úrovni města hodnotit; její působení na MPSV je mimo rozsah tohoto hodnocení (jiná úroveň veřejné správy).",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Wikipedie: Zuzana Freitas Lopesová",
+      "url": "https://cs.wikipedia.org/wiki/Zuzana_Freitas_Lopesov%C3%A1",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní výsledky nebo iniciativy na úrovni Zastupitelstva hl. m. Prahy (2022-2026) nebyly v dostupných zdrojích dohledány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

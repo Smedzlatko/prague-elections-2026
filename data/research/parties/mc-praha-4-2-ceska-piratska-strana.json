@@ -1,0 +1,56 @@
+{
+  "slug": "mc-praha-4-2-ceska-piratska-strana",
+  "assembly_id": "mc-praha-4",
+  "list_cislo": 2,
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "typ": "strana",
+  "slozeni": [
+    "Piráti"
+  ],
+  "web": "https://praha4.pirati.cz/programy/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Piráti Praha 4 - Volební programy",
+        "url": "https://praha4.pirati.cz/programy/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Piráti na Praze 4 obhajují post nejsilnější opoziční strany (8 mandátů v roce 2022). Stránka s programem pro rok 2026 existuje, ale konkrétní text priorit se z ní nepodařilo technicky extrahovat (obsahuje jen navigaci a newsletter). Z obecné linie pražských Pirátů a profesního zaměření lídryně (ekonomka, zkušenost z Evropské komise) lze odhadovat důraz na transparentnost hospodaření, cyklodopravu a digitalizaci úřadu, to by však vyžadovalo ověření přímo v textu programu.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "Odhad na základě celostátního profilu Pirátské strany (liberální, progresivní, důraz na transparentnost); lokální program Prahy 4 se nepodařilo získat k ověření.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Druhá nejsilnější strana v zastupitelstvu (8 mandátů), v opozici vůči koalici ODS/TOP 09/ANO. Josef Vlach byl předsedou Kontrolního výboru ZMČ Praha 4.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční strana měli Piráti omezený vliv na realizaci vlastních priorit; konkrétní bilanci jejich působení (např. výstupy kontrolního výboru) se v rámci této rešerše nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Konkrétnost 1 bod – program existuje, ale jeho obsah nebyl ověřitelný z dostupných zdrojů. Transparentnost 3 body: zveřejněná kandidátka se jmény, existence programové stránky a dohledatelní lidé s profesním životopisem v datech ČSÚ.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "nislerova-tereza"
+  ],
+  "mezery_v_datech": [
+    "Obsah volebního programu Pirátů pro Prahu 4 2026 se nepodařilo získat přes WebFetch (stránka je JS navigace bez staticky dostupného textu priorit).",
+    "Bilance kontrolního výboru vedeného Josefem Vlachem v letech 2022-2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

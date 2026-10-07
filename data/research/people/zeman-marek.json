@@ -1,0 +1,29 @@
+{
+  "slug": "zeman-marek",
+  "name_key": "zeman-marek",
+  "cele_jmeno": "MUDr. Marek Zeman, MBA",
+  "rok_narozeni": 1964,
+  "strana": "Motoristé sobě",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 14, "poradi": 4}],
+  "role": "top5",
+  "profil": "Lékař, podle kandidátní listiny zastupitel MČ Praha 3, primář zdravotnického zařízení, člen správní rady VZP a bývalý ředitel Fakultní nemocnice Královské Vinohrady. Podrobnější veřejný záznam (okolnosti odchodu z FNKV, konkrétní působení ve správní radě VZP) se v rámci této rešerše s dostupnými zdroji nepodařilo dohledat.",
+  "vzdelani": "medicína (MUDr.), MBA",
+  "profese": "lékař, primář, bývalý ředitel Fakultní nemocnice Královské Vinohrady",
+  "politicka_historie": [
+    {"od": null, "do": null, "funkce": "zastupitel MČ Praha 3", "organizace": "Motoristé sobě", "zdroj_url": "https://volby.cz"},
+    {"od": null, "do": null, "funkce": "ředitel Fakultní nemocnice Královské Vinohrady (bývalý)", "organizace": "FNKV", "zdroj_url": "https://volby.cz"},
+    {"od": null, "do": null, "funkce": "člen Správní rady VZP", "organizace": "VZP ČR", "zdroj_url": "https://volby.cz"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Jako bývalý ředitel FNKV vykonával exekutivní funkci, ale konkrétní výsledky jeho řízení nemocnice ani okolnosti konce jeho funkce se nepodařilo dohledat s dostupnými nástroji.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [{"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"}],
+  "mezery_v_datech": [
+    "Síťové chyby při rešerši znemožnily ověřit biografii z Wikipedie a médií (okolnosti konce funkce ředitele FNKV, případné kauzy).",
+    "Rok narození odhadnut z uvedeného věku (62 let v roce 2026) v kandidátní listině, nepotvrzen nezávislým zdrojem."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

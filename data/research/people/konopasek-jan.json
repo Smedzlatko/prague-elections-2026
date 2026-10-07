@@ -1,0 +1,52 @@
+{
+  "slug": "konopasek-jan",
+  "name_key": "konopasek-jan",
+  "cele_jmeno": "Ing. Jan Konopásek",
+  "rok_narozeni": 1964,
+  "strana": "Svobodní",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 2,
+      "poradi": 2
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Ing. Jan Konopásek je zastupitel/ka MČ Praha 22, v roce 2022 zvolen/a na listině „Svobodní“ (3. místo, 631 preferenčních hlasů). Pro volby 2026 kandiduje na listině „Naše 22 – Spolky, Svobodní a Patrioti“ (2. místo). Profesně: IT/AV specialista, zastupitel MČ Praha 22, hudebník.",
+  "vzdelani": null,
+  "profese": "IT/AV specialista, zastupitel MČ Praha 22, hudebník",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 22 (zvolen/a za Svobodní)",
+      "organizace": "MČ Praha 22",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 22 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

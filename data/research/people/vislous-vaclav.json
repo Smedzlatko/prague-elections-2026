@@ -1,0 +1,36 @@
+{
+  "slug": "vislous-vaclav",
+  "name_key": "vislous-vaclav",
+  "cele_jmeno": "Václav Vislous, MSc.",
+  "rok_narozeni": 1988,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 7, "poradi": 5},
+    {"assembly_id": "mc-praha-9", "list_cislo": 7, "poradi": 5}
+  ],
+  "role": "top5",
+  "profil": "Ekonom a projektový manažer, zastupitelem MČ Praha 9 od roku 2018 (předseda zastupitelského klubu Pirátů), mandát obhájil 2022. Kandidoval i do Poslanecké sněmovny (2021 jako náhradník, 2025 na 3. místě pražské kandidátky, neúspěšně). V roce 2024 byl zvolen do dozorčí rady Státního fondu dopravní infrastruktury a stal se 1. místopředsedou pražské organizace Pirátů. Na magistrátní úrovni dosud nezastával mandát zastupitele ani radního. Působí ve výborech pro životní prostředí, dopravu/územní rozvoj, energetiku a cyklistiku a elektromobilitu na úrovni Prahy 9.",
+  "vzdelani": "MSc. (ekonomie).",
+  "profese": "Ekonom, podnikatel, projektový manažer, zastupitel MČ Praha 9.",
+  "politicka_historie": [
+    {"od": "2018-10-06", "do": null, "funkce": "zastupitel MČ Praha 9, předseda zastupitelského klubu Pirátů", "organizace": "MČ Praha 9", "zdroj_url": "https://cs.wikipedia.org/wiki/V%C3%A1clav_Vislous"},
+    {"od": "2024", "do": null, "funkce": "1. místopředseda pražské organizace Pirátů; člen dozorčí rady Státního fondu dopravní infrastruktury", "organizace": "Česká pirátská strana / SFDI", "zdroj_url": "https://cs.wikipedia.org/wiki/V%C3%A1clav_Vislous"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Nezastával výkonnou funkci na magistrátní úrovni (pouze mandát zastupitele MČ Praha 9); podle metodiky bez výkonné funkce na úrovni, která je předmětem tohoto hodnocení, nelze přiřadit skóre.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Wikipedie: Václav Vislous", "url": "https://cs.wikipedia.org/wiki/V%C3%A1clav_Vislous", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Konkrétní legislativní či rozpočtové výsledky jeho práce na úrovni Prahy 9 nebyly v dostupných zdrojích podrobněji dohledány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

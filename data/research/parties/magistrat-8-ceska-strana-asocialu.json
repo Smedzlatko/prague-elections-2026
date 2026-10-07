@@ -1,0 +1,64 @@
+{
+  "slug": "magistrat-8-ceska-strana-asocialu",
+  "assembly_id": "magistrat",
+  "list_cislo": 8,
+  "nazev": "Česká strana asociálů",
+  "zkratka": "ČSA",
+  "typ": "strana",
+  "slozeni": ["ČSA"],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "programydovoleb.cz – Česká strana asociálů",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164673",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "boldnews.cz – Do komunálních voleb míří i Česká strana asociálů",
+        "url": "https://boldnews.cz/do-komunalnich-voleb-miri-i-ceska-strana-asocialu",
+        "datum": "2026-04-22"
+      }
+    ],
+    "shrnuti": "Česká strana asociálů je výslovně deklarovaná satirická/žertovná listina (tři kandidáti, založena přes Discord, přihláška podmíněná „symbolickým poplatkem“ a žertovnou přísahou). Její „20bodový program“ kombinuje absurdní národní témata (snížení počtu senátorů, zrušení pravidel pravopisu) s parodickými komunálními hesly o pivu z kohoutků a zmrazení cen bydlení a nájmů v Praze. Žádný bod nemá reálné rozpočtové ani legislativní zakotvení a listina sama svůj program prezentuje jako vtip, nikoli jako seriózní volební nabídku.",
+    "priority": [
+      {
+        "oblast": "jine",
+        "nazev": "Satirický „20bodový program“",
+        "popis": "Listina deklaruje program s body jako snížení počtu senátorů ze 81 na 67, zrušení pravidel pravopisu nebo zajištění piva z kohoutku na veřejných akcích; sama jej prezentuje jako žert, ne jako reálnou nabídku pro komunální správu Prahy.",
+        "citace": "„Proti důchodcům a pro pivo z kohoutku.“",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Listina program explicitně podává jako satiru bez reálného záměru jej prosazovat; neobsahuje rozpočtové ani legislativní kroky a většina bodů (počet senátorů, pravopis) ani nespadá do pravomoci obce."
+        },
+        "zdroj_url": "https://boldnews.cz/do-komunalnich-voleb-miri-i-ceska-strana-asocialu"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Bez dohledaného programu nelze ideologické zařazení odvodit.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program byl dohledán (boldnews.cz, 2026-04-22), ale listina jej sama prezentuje jako satiru bez reálných, ověřitelných opatření – odpovídá stupni 0 (program nenalezen / jen slogany ve smyslu metodiky). Transparentnost: dohledatelní kandidáti na kandidátní listině (+1); zveřejněný seriózní program, financování kampaně a transparentní účet nebyly dohledány.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [],
+  "mezery_v_datech": [
+    "Program listiny byl dohledán přes WebSearch (boldnews.cz, 2026-04-22), ale je explicitně satirický – chybí jakákoli ověřitelná komunální opatření.",
+    "Lídryně Lia Nova nemá v projektu vytvořený samostatný dossier – listina má 3 kandidáty a žádnou reálnou šanci na mandát."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

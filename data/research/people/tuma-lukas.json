@@ -1,0 +1,45 @@
+{
+  "slug": "tuma-lukas",
+  "name_key": "tuma-lukas",
+  "cele_jmeno": "Ing. Bc. Lukáš Tůma, MBA",
+  "rok_narozeni": 1987,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 6,
+      "poradi": 2
+    }
+  ],
+  "role": "top5",
+  "profil": "Lukáš Tůma je ekolog a vedoucí odboru, člen STAN, kandiduje na 2. místě koaliční listiny Piráti a Starostové v Praze 7. Žádný další veřejný politický záznam nebyl dohledán – jde o nového kandidáta na úrovni Prahy 7.",
+  "vzdelani": "ekologie, Ing., Bc., MBA (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "ekolog, vedoucí odboru",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez historického záznamu z výkonné funkce na úrovni MČ Praha 7.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 39 let v brífu k říjnu 2026 (1987), neověřeno.",
+    "Nebylo ověřeno, u kterého odboru/organizace je vedoucím."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

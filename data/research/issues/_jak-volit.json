@@ -1,0 +1,120 @@
+{
+  "slug": "_jak-volit",
+  "nazev": "Jak volit v komunálních volbách 2026 v Praze",
+  "popis": "Praktické informace pro voliče: kdy se volí, co si vzít s sebou, že v komunálních volbách nelze volit na voličský průkaz ani korespondenčně, jak se vyplňují lístky a co způsobuje neplatnost hlasu. Ověřeno 6. 10. 2026 u Ministerstva vnitra („Informace o způsobu hlasování ve volbách do zastupitelstev obcí 2026“). OPRAVA oproti předchozí verzi: dřívější tvrzení, že voličský průkaz platí uvnitř vlastního volebního obvodu, bylo chybné – viz fakta.",
+  "fakta": [
+    {
+      "tvrzeni": "Volby do zastupitelstev obcí (v Praze do Zastupitelstva hl. m. Prahy i do zastupitelstev městských částí) se konají ve dvou dnech.",
+      "hodnota": "pátek 9. 10. 2026 od 14:00 do 22:00 a sobota 10. 10. 2026 od 8:00 do 14:00",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "tvrzeni": "Hlasování probíhá pouze ve dnech voleb ve volebních místnostech na území ČR. Voličský průkaz ani korespondenční hlasování se v komunálních volbách nepoužívají – volit lze jen ve volební místnosti svého okrsku podle trvalého pobytu. (Dřívější verze tohoto souboru uváděla voličský průkaz platný v rámci obvodu; to bylo nesprávné a bylo opraveno.)",
+      "hodnota": "žádný voličský průkaz, žádná korespondenční volba; hlasuje se osobně ve volebním okrsku trvalého bydliště",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "tvrzeni": "Volič v Praze dostane dva hlasovací lístky: jeden pro Zastupitelstvo hl. m. Prahy (označený na levém okraji svislým barevným pruhem) a jeden pro zastupitelstvo své městské části. Právo volit zastupitelstvo MČ má ten, kdo je v den voleb přihlášen k trvalému pobytu (občan EU k trvalému či registrovanému přechodnému pobytu) v dané MČ. Oba lístky vkládá volič do JEDNÉ úřední obálky.",
+      "hodnota": "2 lístky (ZHMP + MČ) do jedné šedé úřední obálky",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "tvrzeni": "Lístky obdrží voliči do schránky nejpozději 3 dny před volbami, tj. do 6. 10. 2026. Okrsková komise vydá na požádání lístek i ve volební místnosti.",
+      "hodnota": "nejpozději 6. 10. 2026",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "tvrzeni": "Volič prokazuje totožnost a státní občanství platným občanským průkazem, platným cestovním, diplomatickým nebo služebním pasem ČR či cestovním průkazem, nebo aplikací eDoklady (doporučeno ji aktualizovat otevřením nejdříve 48 hodin předem). Občan jiného státu EU se prokazuje průkazem o povolení k pobytu, potvrzením o přechodném pobytu, osvědčením o registraci nebo dokladem totožnosti jiného státu. Bez dokladu nelze hlasovat.",
+      "hodnota": "OP / pas / eDoklady",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "tvrzeni": "Lístek lze upravit třemi způsoby: (1) křížek u jedné strany – hlas dostanou kandidáti v pořadí na lístku; (2) křížky u jednotlivých kandidátů z kterékoli strany, nejvýše tolik, kolik členů zastupitelstva se volí; (3) kombinace – jedna strana plus jednotliví kandidáti jiných stran; strana pak dostane hlasy jen na zbývající počet míst. Počet volených členů je v záhlaví lístku.",
+      "hodnota": "jedna strana a/nebo kandidáti (panašování), nejvýše tolik křížků u kandidátů, kolik se volí členů",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "tvrzeni": "Hlas je neplatný, pokud volič vloží do úřední obálky více než jeden lístek pro tutéž volbu, vloží lístek do obálky jiné barvy, použije lístek nevytištěný na předepsaném tiskopise, přetržený lístek, nebo lístek nevložený do úřední obálky.",
+      "hodnota": "viz zdroj (MV ČR)",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "tvrzeni": "Současně s komunálními volbami probíhá 1. kolo voleb do Senátu v obvodech č. 21 (Praha 5), 24 (Praha 9) a 27 (Praha 1); případné 2. kolo je 16.–17. 10. 2026. Obálka a lístky pro komunální volby jsou šedé, pro Senát žluté – lístek musí být v obálce stejné barvy, jinak je hlas neplatný. Přesnou příslušnost svého okrsku k senátnímu obvodu ověřte u úřadu MČ.",
+      "hodnota": "Senát: obvody 21, 24, 27 v Praze",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/seznam-volebnich-obvodu-v-nichz-se-budou-konat-volby-do-senatu-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "tvrzeni": "Z vážných, zejména zdravotních či rodinných důvodů lze požádat o hlasování do přenosné volební schránky (kontaktem na obecní úřad, ve dnech voleb i přímo na okrskovou komisi, i telefonicky); komise může jít jen v rámci svého okrsku. Asistence jiné osoby je možná.",
+      "hodnota": "přenosná schránka na žádost",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx",
+      "datum": "2026-10-06"
+    }
+  ],
+  "co_si_vzit_s_sebou": [
+    "Platný občanský průkaz, cestovní pas ČR nebo aplikaci eDoklady (občan EU doklad podle zdroje MV).",
+    "Hlasovací lístky z poštovní schránky (nejsou nutné – komise vydá nový lístek na požádání), voličský průkaz se NEpoužívá."
+  ],
+  "jak_spravne_volit": {
+    "popis": "Ve volební místnosti prokažte totožnost, převezměte prázdnou šedou úřední obálku, v prostoru za zástěnou upravte lístek ZHMP (barevný pruh na okraji) i lístek své MČ jedním ze tří způsobů a oba vložte do jedné obálky, kterou před komisí vhoďte do schránky. Pokud ve vašem senátním obvodu (21, 24, 27) probíhá i volba do Senátu, má žlutou obálku a lístky zvlášť.",
+    "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx"
+  },
+  "nejcastejsi_chyby": [
+    {
+      "chyba": "Více lístků téže volby (např. dva různé lístky ZHMP) v jedné obálce.",
+      "dusledek": "Hlas pro tuto volbu je neplatný.",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx"
+    },
+    {
+      "chyba": "Označení více kandidátů, než kolik se volí členů zastupitelstva.",
+      "dusledek": "Podle metodiky MV je upravený lístek nesprávný; ověřte přesné důsledky u komise/na mv.gov.cz.",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx"
+    },
+    {
+      "chyba": "Lístek v obálce nesprávné barvy (šedá komunální × žlutá senátní).",
+      "dusledek": "Hlas je neplatný.",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx"
+    },
+    {
+      "chyba": "Očekávání, že půjde volit na voličský průkaz nebo mimo svůj okrsek.",
+      "dusledek": "Nelze – komunální volby voličský průkaz neznají; volí se v okrsku trvalého pobytu.",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx"
+    },
+    {
+      "chyba": "Zapomenutý doklad totožnosti.",
+      "dusledek": "Hlasování nebude umožněno.",
+      "zdroj_url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "MV ČR – Informace o způsobu hlasování ve volbách do zastupitelstev obcí 2026",
+      "url": "https://mv.gov.cz/volby/soubor/informace-o-zpusobu-hlasovani-ve-volbach-do-zastupitelstev-obci-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "nazev": "MV ČR – Seznam volebních obvodů, v nichž se konají volby do Senátu 2026",
+      "url": "https://mv.gov.cz/volby/soubor/seznam-volebnich-obvodu-v-nichz-se-budou-konat-volby-do-senatu-2026.aspx",
+      "datum": "2026-10-06"
+    },
+    {
+      "nazev": "Praha 1 – Volby (senátní obvod 27, 2. kolo 16.–17. 10.)",
+      "url": "https://www.praha1.cz/urad/volby/",
+      "datum": "2026-10-06"
+    }
+  ],
+  "mezery_v_datech": [
+    "Adresa volební místnosti se liší podle okrsku – volič ji najde na obálce s lístky nebo na webu své MČ.",
+    "Přesné rozdělení pražských MČ do senátních obvodů 21, 24, 27 nebylo ověřeno – názvy obvodů (Praha 5, 9, 1) nemusejí odpovídat hranicím MČ.",
+    "Důsledky označení většího počtu kandidátů, než se volí, nejsou v informačním textu MV výslovně popsány; text uvádí jen limit."
+  ],
+  "confidence": "vysoka",
+  "posledni_aktualizace": "2026-10-06"
+}

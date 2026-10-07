@@ -1,0 +1,53 @@
+{
+  "slug": "rothova-jitka",
+  "name_key": "rothova-jitka",
+  "cele_jmeno": "Mgr. Jitka Rothová",
+  "rok_narozeni": 1969,
+  "strana": "TADY 22 – hlas místních",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 3,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Jitka Rothová je zástupkyní ředitele základní školy, v zastupitelstvu MČ Praha 22 zasedá od roku 2022 (zvolena na listině Společně pro Prahu 22, 5 mandátů z 25). Pro volby 2026 vede novou listinu TADY 22 – hlas místních.",
+  "vzdelani": null,
+  "profese": "Zástupkyně ředitele ZŠ, zastupitelka MČ Praha 22.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitelka MČ Praha 22",
+      "organizace": "MČ Praha 22",
+      "zdroj_url": "https://www.praha22.cz"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Role v zastupitelstvu 2022-2026 (koalice vs. opozice) nebyla ověřena, proto nelze spolehlivě hodnotit plnění slibů.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 538931",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebylo ověřeno, zda byla 'Společně pro Prahu 22' v letech 2022-2026 v koalici, nebo v opozici.",
+    "Program nové listiny TADY 22 nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "mairych-petr",
+  "name_key": "mairych-petr",
+  "cele_jmeno": "Petr Mairych",
+  "rok_narozeni": 1984,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 3,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Petr Mairych je konzultant a člen ODS, pro rok 2026 vede jako lídr koaliční listinu SPOLU PRO PRAHU 7 (ODS, TOP 09), která navazuje na klub Společně pro Prahu 7 z let 2022-2026. Podle webu MČ Praha 7 je již nyní členem zastupitelského klubu této koalice. V roce 2022 sám nekandidoval nebo nezískal mandát (v brífu ČSÚ není u něj uveden mandát 2022).",
+  "vzdelani": null,
+  "profese": "konzultant",
+  "politicka_historie": [
+    {
+      "od": "2026",
+      "do": null,
+      "funkce": "lídr koalice SPOLU PRO PRAHU 7 (ODS, TOP 09)",
+      "organizace": "MČ Praha 7",
+      "zdroj_url": "https://www.praha7.cz/radnice/zastupitelstvo/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez dosavadní exekutivní funkce v MČ, bez historického záznamu coby zastupitele – hodnocení plnění slibů se neuvádí.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "praha7.cz - Zastupitelstvo MČ Praha 7",
+      "url": "https://www.praha7.cz/radnice/zastupitelstvo/",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 42 let v brífu k říjnu 2026 (1984), neověřeno.",
+    "Bližší politická historie a případné dřívější veřejné funkce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

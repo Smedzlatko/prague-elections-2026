@@ -1,0 +1,115 @@
+{
+ "slug": "bydleni",
+ "nazev": "Dostupnost a ceny bydlení",
+ "popis": "Praha dlouhodobě čelí nedostatku bytů a vysokým cenám bydlení (nákup i nájem) v poměru k příjmům. Klíčovými nástroji města jsou výstavba městských (obecních) bytů, podmínky pro developerský příspěvek, uvolňování pozemků pro družstevní a dostupnou výstavbu a regulace krátkodobých pronájmů (Airbnb). Tento soubor obsahuje jen fakta, která se podařilo dohledat a ověřit u konkrétního zdroje – viz mezery_v_datech pro rozsáhlé chybějící statistiky (ceny bytů, počty zahájených/dokončených bytů za rok podle ČSÚ), které se v dostupném čase a s dostupnými nástroji nepodařilo nezávisle ověřit.",
+ "fakta": [
+  {
+   "tvrzeni": "V Praze bylo v roce 2025 zahájeno celkem cca 7 380 bytů (meziročně pokles o 9,9 % oproti 8 191 bytům v roce 2024, dle čtvrtletních dat ČSÚ: 1. čtvrtletí 2 866, 2. čtvrtletí 1 761, 3. čtvrtletí 599). I přes pokles byla Praha v absolutním počtu zahájených bytů v roce 2025 první mezi kraji ČR.",
+   "hodnota": "cca 7 380 zahájených bytů v roce 2025 (meziroční pokles -9,9 %)",
+   "zdroj_url": "https://csu.gov.cz/pha/prazska-bytova-vystavba-v-roce-2025",
+   "datum": "2026-10-03"
+  },
+  {
+   "tvrzeni": "V Praze bylo v roce 2025 dokončeno 5 303 bytů, meziročně o 18,3 % méně než v roce 2024. V mezikrajském srovnání dokončených bytů byla Praha v roce 2025 druhá za Středočeským krajem.",
+   "hodnota": "5 303 dokončených bytů v roce 2025 (meziroční pokles -18,3 %)",
+   "zdroj_url": "https://csu.gov.cz/pha/prazska-bytova-vystavba-v-roce-2025",
+   "datum": "2026-10-03"
+  },
+  {
+   "tvrzeni": "Podle ČSÚ se ceny bytů v ČR v roce 2025 meziročně zvýšily o 10,6 % (meziroční index 110,6; ceny rodinných domů o 6,7 %). OPRAVA z 6. 10. 2026: dřívější verze tohoto faktu připisovala 10,6 % přímo Praze, ale ČSÚ uvádí tento údaj za celou ČR; pražská průměrná cena viz další fakt.",
+   "hodnota": "ČR: ceny bytů +10,6 % (2025, ČSÚ); nikoli údaj za Prahu",
+   "zdroj_url": "https://csu.gov.cz/ceny-nemovitosti",
+   "datum": "2026-07-15"
+  },
+  {
+   "tvrzeni": "Realitní portály agregující inzertní nabídky (např. Brivo, Nemovitomat, dle vlastní metodiky, ne ČSÚ) uváděly v průběhu roku 2026 medián nabídkové ceny bytu v Praze kolem 154-161 tis. Kč/m², s rozpětím od cca 141 tis. Kč/m2 (Prosek) do cca 197 tis. Kč/m2 (Karlín); novostavby byly v 1. čtvrtletí 2026 nabízeny v průměru za cca 182 tis. Kč/m2. Jde o DATA Z KOMERČNÍCH REALITNÍCH PORTÁLŮ, ne z ČSÚ, proto je nutné je číst jako orientační tržní odhad, ne jako úřední statistiku.",
+   "hodnota": "medián nabídkové ceny bytu v Praze cca 154-161 tis. Kč/m2 (2026, komerční zdroj, ne ČSÚ)",
+   "zdroj_url": "https://www.brivo.cz/vyvoj-cen-bytu/praha",
+   "datum": "2026-10-03"
+  },
+  {
+   "tvrzeni": "Hl. m. Praha provozuje program Dostupné družstevní bydlení (DDB), ve kterém město poskytuje pozemek a zakládá bytové družstvo; členové hradí část (dle oficiálních materiálů města cca 25 %) pořizovacích náklad formou vstupního vkladu, zbytek splácejí formou měsíčního nájmu, s budoucí možností převodu bytu do osobního vlastnictví. Pilotní projekt v Radlické ulici v Praze 5 na městských pozemcích má nabídnout až 266 družstevních bytů a zastupitelstvo hl. m. Prahy k němu otevřelo cestu. Další plánované/zvažované projekty (k datům z let 2022-2024, nejnovější stav k roku 2026 nebyl ověřen) byly v Praze 13 (cca 150 bytů v ul. Oistrachova a cca 40 bytů v ul. Nad Koulkou) a zájem deklarovaly i MČ Praha 10, 12 a 8.",
+   "hodnota": "pilotní projekt DDB Praha 5 (Radlická) až 266 bytů; další plánované desítky až stovky bytů v Praze 13 a dalších MČ",
+   "zdroj_url": "https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/projekt_dostupne_druzstevni_bydleni_s.html",
+   "datum": "2026-10-03"
+  },
+  {
+   "tvrzeni": "Průměrná cena bytu v Praze byla podle ČSÚ v roce 2025 131 520 Kč/m², zatímco celorepublikový průměr 72 410 Kč/m². Praha tak byla v přepočtu na m² zhruba 1,8× nad průměrem ČR.",
+   "hodnota": "131 520 Kč/m² (Praha, 2025) vs. 72 410 Kč/m² (ČR)",
+   "zdroj_url": "https://csu.gov.cz/ceny-nemovitosti",
+   "datum": "2026-07-15"
+  },
+  {
+   "tvrzeni": "V Praze bylo v roce 2024 dokončeno 6 489 bytů a v roce 2025 5 303 (pokles o 18,3 %); zahájeno bylo 8 191 bytů v roce 2024 a 7 380 v roce 2025 (pokles o 9,9 %). Rok 2025 tak patří k nejslabším ve sledovaném období co do dokončených bytů; data za roky 2022–2023 nejsou ve zdroji uvedena.",
+   "hodnota": "dokončeno 2024: 6 489; 2025: 5 303 | zahájeno 2024: 8 191; 2025: 7 380",
+   "zdroj_url": "https://csu.gov.cz/pha/prazska-bytova-vystavba-v-roce-2025",
+   "datum": "2026-02-24"
+  },
+  {
+   "tvrzeni": "Orientační hodnota staveb v pražských stavebních povoleních za rok 2025 činila 60 169 mil. Kč (údaj ČSÚ z téhož zdroje o pražské bytové výstavbě).",
+   "hodnota": "60,2 mld. Kč (hodnota staveb ve stavebních povoleních, 2025)",
+   "zdroj_url": "https://csu.gov.cz/pha/prazska-bytova-vystavba-v-roce-2025",
+   "datum": "2026-02-24"
+  },
+  {
+   "tvrzeni": "Metropolitní plán (nový územní plán Prahy) podle zprávy ČTK umožňuje na brownfieldech výstavbu až 350 000 nových bytů; schválen byl koncem května 2026 a účinný je od 1. 9. 2026 (údaj o 350 tis. bytů je vyjádření náměstka primátora Petra Hlaváčka, ne nezávislý výpočet).",
+   "hodnota": "až 350 000 bytů na brownfieldech (tvrzení radnice); účinnost od 1. 9. 2026",
+   "zdroj_url": "https://zpravy.kurzy.cz/861422-metropolitni-plan-schvalili-zastupitele-ucinny-bude-od-zari/",
+   "datum": "2026-05-29"
+  }
+ ],
+ "pozice_stran": [
+  {
+   "list_slug": "magistrat-5-praha-sobe",
+   "pozice": "Zastavit prodej městských bytů a pozemků, rozjet vlastní městskou výstavbu, vybírat příspěvky od developerů v hotových bytech místo peněz, zřídit investiční fond pro financování výstavby, napojit nové brownfieldové čtvrti na metro/tramvaje a zpřísnit regulaci Airbnb.",
+   "citace": "Praha už nesmí prodávat další byty a pozemky. Naopak musí svůj bytový fond rozšiřovat a konečně rozjet vlastní výstavbu. [...] Přitvrdíme vůči službám typu Airbnb. Byty mají sloužit k bydlení, ne jako černé hotely.",
+   "zdroj_url": "https://www.prahasobe.cz/program"
+  },
+  {
+   "list_slug": "magistrat-7-ceska-piratska-strana",
+   "pozice": "10 000 bytů ročně a nové čtvrti: Dlouhodobý cíl výstavby/dostupnosti 10 000 bytů ročně, zastavení prodeje městských bytů, zdanění dlouhodobě prázdných bytů a bytů pronajímaných přes Airbnb, výstavba nových čtvrtí (Západní a Východní Město, Nové Kolovraty) s kapacitou pro 200 000 lidí a podpora studentských kolejí.",
+   "citace": "10 000 bytů ročně",
+   "zdroj_url": "https://program2026.praha.pirati.cz/"
+  },
+  {
+   "list_slug": "magistrat-9-starostove-a-nezavisli",
+   "pozice": "2000 nových městských bytů: Zahájit výstavbu 2000 městských bytů v připravených lokalitách a nabídnout je přednostně mladým rodinám, seniorům a klíčovým profesím (učitelé, zdravotníci).",
+   "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+  },
+  {
+   "list_slug": "magistrat-12-spolu-pro-prahu",
+   "pozice": "Zjednodušení povolování výstavby: Zjednodušit všechny procesy povolování staveb a zrychlit tak výstavbu nových bytů; zvažovat směnu pozemků za rychle postavené byty.",
+   "zdroj_url": "https://tempoplan.cz"
+  },
+  {
+   "list_slug": "magistrat-16-jsme-praha",
+   "pozice": "Dostupnost bydlení: Program zmiňuje řešení dostupnosti bydlení jako jednu z priorit, bez dalších podrobností v dostupných zdrojích.",
+   "zdroj_url": "https://www.jsme.team/nase-teamy/praha/"
+  },
+  {
+   "list_slug": "magistrat-22-ano-2011",
+   "pozice": "Tisíc městských bytů ročně: Výstavba nových městských nájemních bytů s cílem dosáhnout tempa tisíce městských bytů ročně do konce volebního období; zároveň opravit a vrátit do užívání prázdné městské byty. Ochrana městského bytového fondu: Zprůhlednit přidělování městských bytů, sledovat jejich zneužívání a chránit bytový fond před spekulativním podnajímáním. U velkých projektů vyjednat jasné příspěvky developerů na školy, parkování a veřejný prostor.",
+   "zdroj_url": "https://janhusbauer.cz/#program"
+  },
+  {
+   "list_slug": "magistrat-24-sen-pro-prahu-s-vaclavem-laskou-s-podpo",
+   "pozice": "Zvýšení podílu městských bytů na 10 %: Program slibuje zvýšit podíl bytů ve vlastnictví města ze současných cca 4 % na 10 % celkového bytového fondu, s přednostním přidělováním seniorům, samoživitelům a klíčovým profesím. Regulace krátkodobého pronájmu (Airbnb): Zákaz nelegálního krátkodobého pronajímání bez povolení, daňové zvýhodnění trvalého bydlení a zpřesnění registru e-Turista.",
+   "citace": "V Praze si už ani střední třída nedokáže kvůli vysokým cenám koupit vlastní bydlení.",
+   "zdroj_url": "https://praha.senprocesko.cz/program/dostupne-bydleni"
+  }
+ ],
+ "zdroje": [
+  {
+   "nazev": "Volební program Praha sobě 2026 (PDF)",
+   "url": "https://www.prahasobe.cz/program",
+   "datum": "2026-10-02"
+  }
+ ],
+ "mezery_v_datech": [
+  "Počet a struktura obecních (městských) bytů ve vlastnictví hl. m. Prahy a jednotlivých MČ nebyl ověřen u primárního zdroje (praha.eu).",
+  "Index cen bytů ČSÚ pro 1. čtvrtletí 2026 (hodnota 286,0 na bázi 2010 = 100, dle jednoho sekundárního zdroje) nebyl ověřen přímo na csu.gov.cz, uveden proto jen orientačně ve zdrojích doprovodně, ne jako samostatné fakta.",
+  "Aktuální stav (k roku 2026) programu Dostupné družstevní bydlení (DDB) - dostavba Radlické, postup projektů v Praze 13, 10, 12 a 8 - nebyl ověřen u primárního zdroje novějšího než 2022-2024; je možné, že se stav od té doby posunul.",
+  "Vývoj cen bytů za celé volební období 2022–2026 (srovnání s rokem 2022) se z dostupných ČSÚ stránek nepodařilo sestavit; ČSÚ publikuje jen průměr za rok 2025 (131 520 Kč/m²). Komerční nabídkové ceny (např. novostavby 176 440 Kč/m² v 1. čtvrtletí 2026 podle developerských reportů) jsou jiná metodika a nejsou zde uvedeny jako fakt."
+ ],
+ "posledni_aktualizace": "2026-10-06"
+}

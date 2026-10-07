@@ -1,0 +1,121 @@
+{
+  "slug": "magistrat-19-rezidenti-rebelove-pro-zmenu-prahy",
+  "assembly_id": "magistrat",
+  "list_cislo": 19,
+  "nazev": "REZIDENTI – REBELOVÉ pro změnu Prahy",
+  "zkratka": "REZIDENTI",
+  "typ": "koalice",
+  "slozeni": ["nezávislí kandidáti", "Národně sociální strana", "Rebelové"],
+  "web": "https://rezidenti.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "REZIDENTI – web hnutí",
+        "url": "https://rezidenti.cz/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "re3elove.cz – volební program",
+        "url": "https://re3elove.cz/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "programydovoleb.cz – REZIDENTI – REBELOVÉ pro změnu Prahy",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164922",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice nezávislých kandidátů, Rebelů a Národně sociální strany vedená Martinem Motlem staví kampaň na heslu „Praha patří Pražanům – jsme tu doma“ a na „desateru“ priorit: vymáhání existujících pravidel (parkování, hluk, veřejný prostor), rozlišení mezi bydlením a spekulací, funkční provázání dopravy pro auta, MHD, cyklisty a chodce, 4 bezplatné jízdy MHD denně pro Pražany, řešení parkování, zajištění kapacity škol u nové výstavby, viditelnější bezpečnost a čistota, péče o zeleň a stín a vymahatelná odpovědnost úřadu (jasné cíle, termíny, rozpočty). Program je formulován jako soubor hesel bez čísel a rozpočtového krytí, s výjimkou konkrétního návrhu 4 bezplatných jízd MHD denně.",
+    "priority": [
+      {
+        "oblast": "transparentnost",
+        "nazev": "Vymáhání existujících pravidel",
+        "popis": "Důraz na skutečné vymáhání již platných pravidel v oblasti parkování, hluku a veřejného prostoru, nikoli na tvorbu nových regulací.",
+        "citace": "Praha nepotřebuje další plány a studie. Potřebuje rozhodnutí a výsledky.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Lepší vymáhání stávajících pravidel je v kompetenci města a MČ a nevyžaduje legislativní změnu, ale bez konkrétních nástrojů (počet kontrol, posílení městské policie) jde o obecný slib."
+        },
+        "zdroj_url": "https://rezidenti.cz/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "4 bezplatné jízdy MHD denně pro Pražany",
+        "popis": "Zavedení 4 bezplatných jízd městskou hromadnou dopravou denně pro obyvatele Prahy.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní a kvantifikovaný slib v kompetenci města jako objednavatele MHD, ale program neuvádí odhad výpadku tržeb ani způsob financování."
+        },
+        "zdroj_url": "https://rezidenti.cz/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Rozlišení bydlení a spekulace",
+        "popis": "Deklarovaný cíl odlišit v bytové politice byty určené k bydlení od spekulativního držení nemovitostí.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétního nástroje (daň z neobydlených bytů, regulace krátkodobých pronájmů apod.) nelze realizovatelnost posoudit."
+        },
+        "zdroj_url": "https://rezidenti.cz/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Kapacita škol u nové výstavby",
+        "popis": "Zajištění, že nová bytová výstavba bude doprovázena odpovídající kapacitou škol.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Koordinace výstavby škol s rozvojovými plochami je v kompetenci města a MČ, ale konkrétní mechanismus (podmínění stavebního povolení, investiční plán) program neuvádí."
+        },
+        "zdroj_url": "https://rezidenti.cz/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 1,
+    "oduvodneni": "Program kombinuje populistický důraz na pořádek, bezpečnost a „zdravý rozum“ s prvky sociální politiky (bezplatná MHD) a postoji proti anti-automobilovým opatřením; jde o smíšený, obtížně jednoznačně zařaditelný profil s mírně pravicově-populistickým akcentem na hodnotové ose.",
+    "zdroje": [
+      {
+        "nazev": "REZIDENTI – web hnutí",
+        "url": "https://rezidenti.cz/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Koalice v této podobě (REZIDENTI – REBELOVÉ) nekandidovala na magistrátní úrovni v roce 2022 a nemá mandát v Zastupitelstvu hl. m. Prahy 2022–2026; lídr Martin Motl je v tomto období zastupitelem MČ Praha 1.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Subjekt bez zastupitelského zázemí na magistrátu v období 2022–2026, hodnocení plnění slibů proto není možné."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program sestává převážně z pojmenovaných opatření bez čísel a termínů, s jedinou výjimkou kvantifikovaného slibu 4 bezplatných jízd MHD denně – odpovídá stupni 2. Transparentnost: zveřejněný program (+1), dohledatelní lídři s pořadím na listině (+1); financování kampaně a transparentní účet nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["motl-martin"],
+  "mezery_v_datech": [
+    "Rozpočtové krytí a harmonogram jednotlivých priorit (zejména bezplatné jízdy MHD) nebyly v programu uvedeny.",
+    "Složka „Národně sociální strana“ v koalici nebyla dále profilována – její program a historie nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

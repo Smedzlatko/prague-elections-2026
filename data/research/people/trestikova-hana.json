@@ -1,0 +1,87 @@
+{
+  "slug": "trestikova-hana",
+  "name_key": "trestikova-hana",
+  "cele_jmeno": "MgA. Hana Třeštíková",
+  "rok_narozeni": 1982,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 5,
+      "poradi": 2
+    },
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 1,
+      "poradi": 2
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Hana Třeštíková je filmová producentka (dokumentární tvorba), dcera dokumentaristky Heleny Třeštíkové. Od roku 2014 je zastupitelkou MČ Praha 7, od roku 2018 místostarostkou Prahy 7 pro kulturu, sport a sousedské vztahy. V letech 2018-2023 byla zároveň zastupitelkou hl. m. Prahy za hnutí PRAHA SOBĚ, v roce 2018 získala druhou nejvyšší podporu na celopražské listině (76 720 preferenčních hlasů). Po volbách 2022 skončila PRAHA SOBĚ v opozici, a v únoru 2023 tak Třeštíková přišla o místo v pražském zastupitelstvu (mandát nebyl obhájen v radě/koalici, zůstala ale místostarostkou Prahy 7). Jako kulturní radní zavedla v Praze funkci „nočního starosty“ podle amsterodamského vzoru a řídila podporu kulturnímu sektoru během covidové pandemie, včetně veřejné obhajoby umělců proti kritice ze strany prezidenta.",
+  "vzdelani": "MgA. - filmová produkce (přesná škola nebyla v dostupných zdrojích upřesněna, rodinná vazba na FAMU/dokumentární tvorbu).",
+  "profese": "místostarostka Prahy 7 pro kulturu, filmová producentka dokumentárních filmů",
+  "politicka_historie": [
+    {
+      "od": "2014",
+      "do": null,
+      "funkce": "zastupitelka MČ Praha 7",
+      "organizace": "MČ Praha 7",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Hana_T%C5%99e%C5%A1t%C3%ADkov%C3%A1"
+    },
+    {
+      "od": "2018",
+      "do": null,
+      "funkce": "místostarostka MČ Praha 7 pro kulturu, sport a sousedské vztahy",
+      "organizace": "MČ Praha 7",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Hana_T%C5%99e%C5%A1t%C3%ADkov%C3%A1"
+    },
+    {
+      "od": "2018",
+      "do": "2023-02",
+      "funkce": "zastupitelka hl. m. Prahy (PRAHA SOBĚ)",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Hana_T%C5%99e%C5%A1t%C3%ADkov%C3%A1"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Zavedení funkce „nočního starosty“ v Praze",
+      "popis": "Jako radní pro kulturu prosadila vznik pozice inspirované amsterodamským modelem, která má zprostředkovávat mezi nočním životem, kulturou a obyvateli.",
+      "stav": "dokonceno",
+      "hodnoceni": "Konkrétní, dotažená institucionální změna v kulturní politice města/městské části.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Hana Třeštíková",
+          "url": "https://cs.wikipedia.org/wiki/Hana_T%C5%99e%C5%A1t%C3%ADkov%C3%A1",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Třeštíková má výkonnou funkci (místostarostka pro kulturu), ale podrobný zdrojovaný seznam jejích volebních slibů z let 2018/2022 a jejich plnění nebyl v dostupných zdrojích dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Hana Třeštíková",
+      "url": "https://cs.wikipedia.org/wiki/Hana_T%C5%99e%C5%A1t%C3%ADkov%C3%A1",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 44 let v brífu k říjnu 2026 (1982) - nebyl ověřen samostatným zdrojem.",
+    "Škola/obor MgA. studia nebyly upřesněny.",
+    "Detailní bilance jejího působení jako místostarostky pro kulturu (konkrétní kulturní projekty, rozpočty) nebyla v této rešerši zaměřené na magistrát hlouběji zpracována."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "mejstrik-roman",
+  "name_key": "mejstrik-roman",
+  "cele_jmeno": "Ing. Roman Mejstřík",
+  "rok_narozeni": 1960,
+  "strana": "GEN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 11,
+      "poradi": 1
+    },
+    {
+      "assembly_id": "mc-praha-6",
+      "list_cislo": 2,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Roman Mejstřík je podle vlastního životopisu galerista a emeritní radní MČ Praha 6, kandiduje jako lídr celopražské listiny „GEN s podporou veřejnosti“ a zároveň jako lídr lokální listiny GEN v Praze 6, kde je dlouholetě spojen s místní politikou jako bývalý radní. Přesné období a resort jeho dřívějšího působení jako radního Prahy 6 se v dostupných zdrojích (Wikipedie, celostátní a místní média) nepodařilo dohledat. Hnutí GEN samo o sobě nemá dohledatelnou samostatnou historii, zakládací datum ani profilovou stránku mimo kandidátní listinu ČSÚ – nebylo možné ověřit, co GEN jako organizace je a odkdy působí.",
+  "vzdelani": "vysokoškolské technické (titul Ing.), obor neupřesněn v dostupných zdrojích",
+  "profese": "galerista, emeritní radní MČ Praha 6",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": null,
+      "funkce": "radní MČ Praha 6 (přesné období nedohledáno)",
+      "organizace": "MČ Praha 6",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/163860"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastával v minulosti výkonnou funkci radního MČ Praha 6, ale zdrojovaný přehled jeho konkrétního resortu a toho, co v něm prosadil či nedotáhl, se nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": "Hlídač státu vrací pro jméno Roman Mejstřík řadu záznamů o zakázkách pro pražská divadla (audiovizuální záznamy inscenací), ale nelze bez dalšího ověření potvrdit, že se jedná o tutéž osobu jako galerista a bývalý radní Prahy 6 – jde pravděpodobně o shodu jména. Záznam proto do dat nezahrnut."
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – GEN s podporou veřejnosti",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/163860",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán žádný biografický zdroj mimo kandidátní listinu ČSÚ, který by potvrdil přesné období a resort jeho působení jako radního Prahy 6.",
+    "Historie, zakládající osoby a datum vzniku hnutí GEN se nepodařilo dohledat v žádném dostupném zdroji.",
+    "Rok narození je odhad z uvedeného věku 66 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

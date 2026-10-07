@@ -1,0 +1,98 @@
+{
+  "slug": "mc-praha-2-1-praha-2-sobe",
+  "assembly_id": "mc-praha-2",
+  "list_cislo": 1,
+  "nazev": "PRAHA 2 SOBĚ",
+  "zkratka": "PRAHA 2 SOBĚ",
+  "typ": "sdruzeni nezavislych kandidatu",
+  "slozeni": [
+    "NK",
+    "PRAHA SOBĚ",
+    "Zelení"
+  ],
+  "web": "https://prahasobe.cz/praha2/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "PRAHA 2 SOBĚ - volební program 2026",
+        "url": "https://prahasobe.cz/praha2/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice PRAHA SOBĚ a Zelených s osmi tematickými oblastmi: doprava (bezpečná cesta do školy, školní ulice, méně jízdních pruhů na ulicích jako Rumunská), bezpečnost (zvelebení rizikových míst, více městské policie), bydlení (oprava a obsazování prázdných obecních bytů, zákaz jejich prodeje, transparentní přidělování), školství (bezplatné kurzy na přijímačky, finanční bonusy učitelům, psychologická péče), rozvoj veřejného prostoru (lavičky, stín, komunitní zahrady), životní prostředí (stromy jako infrastruktura, zadržování dešťové vody), sociální oblast (terénní péče, podpora seniorů, prevence ztráty bydlení) a kultura/podnikání (podpora místních podnikatelů, farmářské trhy, omezení „turistických pastí“).",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Obecní byt nemá být prázdný",
+        "popis": "Oprava a obsazování volných obecních bytů, zákaz jejich prodeje a zavedení transparentních kritérií pro přidělování.",
+        "citace": "Obecní byt nemá být prázdný.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Správa obecního bytového fondu je plně v kompetenci MČ."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha2/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Bezpečná cesta do školy a zklidnění ulic",
+        "popis": "Zavedení školních ulic, kontrola hluku z aut, snížení počtu jízdních pruhů na vybraných ulicích (např. Rumunská) a zlepšení bezpečnosti tramvajových zastávek.",
+        "citace": "bezpečná cesta do školy",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Školní ulice a místní dopravní opatření jsou v kompetenci MČ, ale u větších ulic je nutná spolupráce s magistrátem."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha2/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Finanční bonusy učitelům a psychologická péče ve školách",
+        "popis": "Bezplatné kurzy přípravy na přijímačky, finanční bonusy pro učitele a zavedení psychologické péče ve školách.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "MČ je zřizovatelem základních škol, ale bez uvedené výše bonusů či rozpočtu v dostupném shrnutí."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha2/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": -1,
+    "oduvodneni": "Lokální odnož celopražského hnutí PRAHA SOBĚ s kandidáty Zelených; obvykle progresivně a urbanisticky orientovaná uskupení. Bez textu programu nelze stanovit ekonomickou osu.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "V roce 2022 druhá nejsilnější strana (19,18 %, 7 mandátů), v opozici vůči koalici ODS+TOP09 (SPOLU pro Prahu 2, 14 mandátů). Lídryně Jana Bašusová, Antonín Kokeš (č.1 v roce 2022 s nejvyšším počtem preferenčních hlasů 2728) a další inkumbenti byli zastupiteli.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Čtyři roky v opozici; detailní bilance konkrétních prosazených/neprosazených témat nebyla dohledána."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 2: program jmenuje konkrétní opatření v osmi oblastech, výjimečně i konkrétní ulici (Rumunská), ale většina bodů bez čísel a termínů. transparentnost = 3 za zveřejněný program a dohledatelný web. doveryhodnost_plneni je null – strana byla v letech 2022-2026 v opozici (byla_v_koalici: false), podle metodiky se jí skóre plnění slibů u moci nepřiděluje.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "basusova-jana"
+  ],
+  "mezery_v_datech": [
+    "Program neobsahuje rozpočtové krytí ani termíny u většiny bodů.",
+    "Detailní bilance opoziční práce listiny 2022-2026 (konkrétní prosazená/neprosazená témata v zastupitelstvu) nebyla dohledána."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

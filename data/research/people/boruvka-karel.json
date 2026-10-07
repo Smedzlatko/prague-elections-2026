@@ -1,0 +1,27 @@
+{
+  "slug": "boruvka-karel",
+  "name_key": "boruvka-karel",
+  "cele_jmeno": "Karel Borůvka, MBA",
+  "rok_narozeni": 1998,
+  "strana": "AUTO",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 6, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Karel Borůvka je státní zaměstnanec, člen hnutí Motoristé sobě. Pro rok 2026 vede jako lídr koaliční listinu Motoristé sobě a Svobodní v Praze 5. V roce 2022 mandát nezískal, žádný další veřejný politický záznam nebyl dohledán.",
+  "vzdelani": "MBA (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "státní zaměstnanec",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez historického záznamu z výkonné funkce.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 28 let v brífu k říjnu 2026 (1998), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o nového kandidáta."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

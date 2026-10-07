@@ -1,0 +1,7742 @@
+[
+  {
+    "id": "magistrat::1",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 1,
+    "nazev": "LEPŠÍ ŽIVOT PRO LIDI – zrušení daně z nemovitostí, min. mzda 50.000 Kč, min. důchod 30.000 Kč, návrat cen energií na ceny z roku 2019, v obchodech zboží nejvyšší kvality za ceny dostupné pro každého, STOP válce",
+    "zkratka": "LŽPL",
+    "zkratka30": "LEPŠÍ ŽIVOT PRO LIDI",
+    "vstrana": "121",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "121",
+        "nazev": "LEPŠÍ ŽIVOT PRO LIDI",
+        "zkratka": "LŽPL"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::2",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 2,
+    "nazev": "ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY",
+    "zkratka": "mimozemstani+NK",
+    "zkratka30": "ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY",
+    "vstrana": "1923",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1288",
+        "nazev": "ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY A OBČANY MOTORISTY",
+        "zkratka": "mimozemstani.eu"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::3",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 3,
+    "nazev": "Libertariánská strana Voluntia",
+    "zkratka": "Voluntia",
+    "zkratka30": "Libertariánská strana Voluntia",
+    "vstrana": "1705",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1705",
+        "nazev": "Libertariánská strana Voluntia",
+        "zkratka": "Voluntia"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::4",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 4,
+    "nazev": "Urza.cz: Nechceme vaše hlasy; ke svobodě se nelze provolit. Odmítneme každou politickou funkci; nechceme totiž lidem nařizovat, jak mají žít. Máme jinou vizi. Jdeme jinou cestou — najdete ji na webu www.urza.cz.",
+    "zkratka": "Nevolte Urza.cz",
+    "zkratka30": "Urza.cz: Nechceme vaše hlasy",
+    "vstrana": "1250",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1250",
+        "nazev": "Urza.cz: Nechceme vaše hlasy",
+        "zkratka": "Nevolte Urza.cz"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::5",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 5,
+    "nazev": "PRAHA SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "PRAHA SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::6",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 6,
+    "nazev": "VELKÝ KŘÍŽEK PRO LÍTAČKU ZA KAČKU - SOUSEDÉ PRO PRAHU",
+    "zkratka": "LANO+NK",
+    "zkratka30": "VELKÝ KŘÍŽEK PRO LÍTAČKU ZA KAČKU-SOUSEDÉ PRO PHU",
+    "vstrana": "1690",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1286",
+        "nazev": "Liberální aliance nezávislých občanů",
+        "zkratka": "LANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::7",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 7,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::8",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 8,
+    "nazev": "Česká strana asociálů",
+    "zkratka": "ČSA",
+    "zkratka30": "Česká strana asociálů",
+    "vstrana": "1713",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1713",
+        "nazev": "Česká strana asociálů",
+        "zkratka": "ČSA"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::9",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 9,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::10",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 10,
+    "nazev": "SPD pro Prahu s podporou Trikolory, PRO, Přísahy a nezávislých kandidátů",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro Prahu s podp. Trikolory, PRO, Přísahy a NK",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::11",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 11,
+    "nazev": "GEN s podporou veřejnosti",
+    "zkratka": "GEN+NK",
+    "zkratka30": "GEN s podporou veřejnosti",
+    "vstrana": "1806",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1297",
+        "nazev": "GEN",
+        "zkratka": "GEN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::12",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 12,
+    "nazev": "SPOLU pro Prahu",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "SPOLU pro Prahu",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::13",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 13,
+    "nazev": "Levice",
+    "zkratka": "Levice",
+    "zkratka30": "Levice",
+    "vstrana": "74",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "74",
+        "nazev": "Levice",
+        "zkratka": "Levice"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::14",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 14,
+    "nazev": "Motoristé sobě",
+    "zkratka": "AUTO",
+    "zkratka30": "Motoristé sobě",
+    "vstrana": "1178",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::15",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 15,
+    "nazev": "Svobodní",
+    "zkratka": "Svobodní",
+    "zkratka30": "Svobodní",
+    "vstrana": "714",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::16",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 16,
+    "nazev": "JSME PRAHA",
+    "zkratka": "TEAM+NK",
+    "zkratka30": "JSME PRAHA",
+    "vstrana": "1846",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1194",
+        "nazev": "„JSME TEAM“",
+        "zkratka": "TEAM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::17",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 17,
+    "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT, sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK",
+    "zkratka": "DSZ+NK",
+    "zkratka30": "DSZ - ZA PRÁVA ZVÍŘAT a NK",
+    "vstrana": "482",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "715",
+        "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT",
+        "zkratka": "DSZ-ZA PR.ZVÍŘ."
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::18",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 18,
+    "nazev": "PATRIOTI PRO PRAHU",
+    "zkratka": "Patrioti ČR+NK",
+    "zkratka30": "PATRIOTI PRO PRAHU",
+    "vstrana": "524",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::19",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 19,
+    "nazev": "REZIDENTI – REBELOVÉ pro změnu Prahy",
+    "zkratka": "NSS+Rebelové+NK",
+    "zkratka30": "REZIDENTI – REBELOVÉ pro změnu Prahy",
+    "vstrana": "1926",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1296",
+        "nazev": "Národně sociální strana",
+        "zkratka": "NSS"
+      },
+      {
+        "kod": "1706",
+        "nazev": "Rebelové",
+        "zkratka": "Rebelové"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::20",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 20,
+    "nazev": "Spojená levice pro Prahu (KSČM, ČSSD, KSČ)",
+    "zkratka": "KSČM+KSČ+ČSSD",
+    "zkratka30": "Spojená levice pro Prahu (KSČM, ČSSD, KSČ)",
+    "vstrana": "1689",
+    "typ": "koalice",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      },
+      {
+        "kod": "93",
+        "nazev": "Komunistická strana Československa",
+        "zkratka": "KSČ"
+      },
+      {
+        "kod": "759",
+        "nazev": "ČSSD – Česká suverenita sociální demokracie",
+        "zkratka": "ČSSD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::21",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 21,
+    "nazev": "Volte Pravý Blok - stranu za snadnou a rychlou ODVOLATELNOST politiků a státních úředníků PŘÍMO OBČANY, za NÍZKÉ daně, VYROVNANÝ rozpočet, MINIMALIZACI byrokracie, SPRAVEDLIVOU a NEZKORUMPOVANOU policii a justici, REFERENDA a PŘÍMOU demokracii WWW.CIBULKA.NET, kandidující s nejlepším protikriminálním programem PŘÍMÉ demokracie a hlubokého národního, duchovního a mravního obrození VY NEVĚŘÍTE POLITIKŮM A JEJICH NOVINÁŘŮM? NO KONEČNĚ! VĚŘME SAMI SOBĚ!!! - ale i s mnoha dalšími DŮVODY, proč bychom měli jít tentokrát VŠICHNI K VOLBÁM, ale - pokud nechceme být ZNOVU obelháni, podvedeni a okradeni - NEVOLIT ŽÁDNOU PARLAMENTNÍ TUNEL - STRANU vládnoucí (post) komunistické RUSKO - ČESKÉ totalitní FÍZLOKRACIE a jejich likvidační protinárodní politiku ČÍM HŮŘE, TÍM LÉPE!!! - jenž žádá o volební podporu VŠECHNY ČESKÉ OBČANY a daňové poplatníky, kteří chtějí změnit dnešní kriminální poměry, jejichž jsme všichni obětí, v jejich pravý opak! V BOJI MEZI DOBREM A ZLEM, PRAVDOU A LŽÍ, NELZE BÝT NEUTRÁLNÍ A PŘESTO ZŮSTAT SLUŠNÝ!!! Proto děkujeme za Vaši podporu!!! Nevěříte-li na pokoru u popravčí káry, zdá-li se vám naše kandidátka málo dokonalá nebo postrádáte-li na ní zástupce své obce nebo města a přitom MÁTE ODVAHU v této válce Lidí Dobra s vládnoucími Lidmi Zla povstat z jimi naordinovaného občanského bezvědomí, kterým nás ničí a dnešní DEMOKRATURU, SKRYTOU TOTALITU a OTROKÁŘSTVÍ VYŠŠÍHO ŘÁDU zásadním způsobem změnit, KANDIDUJTE ZA NÁS!!! Kontakt: Volte Pravý Blok www.cibulka.net, PO BOX 595, 170 00 Praha 7",
+    "zkratka": "PB",
+    "zkratka30": "Volte Pravý Blok www.cibulka.net",
+    "vstrana": "98",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "98",
+        "nazev": "Volte Pravý Blok www.cibulka.net",
+        "zkratka": "PB"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::22",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 22,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::23",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 23,
+    "nazev": "Naše Praha SNK ED",
+    "zkratka": "SNK ED+NK",
+    "zkratka30": "Naše Praha SNK ED",
+    "vstrana": "449",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "129",
+        "nazev": "SNK Evropští demokraté",
+        "zkratka": "SNK ED"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "magistrat::24",
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 24,
+    "nazev": "SEN PRO PRAHU s Václavem Láskou, s podporou HPP 11 a strany Mourek",
+    "zkratka": "HPPSENMourekNK",
+    "zkratka30": "SEN PRO PRAHU s Václavem Láskou",
+    "vstrana": "1827",
+    "typ": "D",
+    "pocet_subjektu": 4,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "195",
+        "nazev": "Hnutí pro Prahu 11",
+        "zkratka": "HPP 11"
+      },
+      {
+        "kod": "1187",
+        "nazev": "SEN 21",
+        "zkratka": "SEN 21"
+      },
+      {
+        "kod": "1260",
+        "nazev": "Mourek – politická strana",
+        "zkratka": "Mourek"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::1",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::2",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 2,
+    "nazev": "NEZÁVISLÍ z Jedničky Kateřiny Klasnové a Davida Bodečka",
+    "zkratka": "NEZ+NK",
+    "zkratka30": "NEZÁVISLÍ z Jedničky K. Klasnové a D. Bodečka",
+    "vstrana": "401",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "88",
+        "nazev": "NEZÁVISLÍ",
+        "zkratka": "NEZ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::3",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 3,
+    "nazev": "PRAHA 1 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "PRAHA 1 SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::4",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 4,
+    "nazev": "MODRÁ pro jedničku",
+    "zkratka": "PRO NÁŠ KRAJ+NK",
+    "zkratka30": "MODRÁ pro jedničku",
+    "vstrana": "1924",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1735",
+        "nazev": "PRO NÁŠ KRAJ",
+        "zkratka": "PRO NÁŠ KRAJ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::5",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 5,
+    "nazev": "Naše Praha 1 - ANO 2011 a nezávislí, Staroměstská lípa - sdružení občanů a přátel Starého Města a Josefova v Praze, spolek",
+    "zkratka": "ANO+NK",
+    "zkratka30": "Naše Praha 1 - ANO 2011 a nez., Staroměstská lípa",
+    "vstrana": "532",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::6",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 6,
+    "nazev": "Rozhodujme společně",
+    "zkratka": "Volt+NK",
+    "zkratka30": "Rozhodujme společně",
+    "vstrana": "1688",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1272",
+        "nazev": "Volt Česko",
+        "zkratka": "Volt"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::7",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 7,
+    "nazev": "Motoristé sobě a Svobodní",
+    "zkratka": "Svobodní+AUTO",
+    "zkratka30": "Motoristé sobě a Svobodní",
+    "vstrana": "1697",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::8",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 8,
+    "nazev": "TOP 09 – Srdce Prahy",
+    "zkratka": "TOP 09+NK",
+    "zkratka30": "TOP 09 – Srdce Prahy",
+    "vstrana": "480",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::9",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 9,
+    "nazev": "REZIDENTI 1",
+    "zkratka": "Rebelové+NK",
+    "zkratka30": "REZIDENTI 1",
+    "vstrana": "1816",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1706",
+        "nazev": "Rebelové",
+        "zkratka": "Rebelové"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::10",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 10,
+    "nazev": "Patrioti pro Prahu 1",
+    "zkratka": "Patrioti ČR+NK",
+    "zkratka30": "Patrioti pro Prahu 1",
+    "vstrana": "524",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::11",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 11,
+    "nazev": "GEN a sousedé z Prahy 1",
+    "zkratka": "GEN",
+    "zkratka30": "GEN a sousedé z Prahy 1",
+    "vstrana": "1297",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1297",
+        "nazev": "GEN",
+        "zkratka": "GEN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::12",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 12,
+    "nazev": "Starostové, KDU-ČSL s podporou Iniciativy občanů (My, co tady žijeme)",
+    "zkratka": "KDU-ČSL+IO+STAN",
+    "zkratka30": "Starostové, KDU-ČSL s podporou Iniciativy občanů",
+    "vstrana": "1104",
+    "typ": "koalice",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "86",
+        "nazev": "Iniciativa občanů",
+        "zkratka": "IO"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::13",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 13,
+    "nazev": "Piráti a nezávislí pro Prahu 1",
+    "zkratka": "Piráti+NK",
+    "zkratka30": "Piráti a nezávislí pro Prahu 1",
+    "vstrana": "541",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-1::14",
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 14,
+    "nazev": "SPD pro Prahu 1 s podporou PRO, Trikolory, Přísahy, \"sirotků sociální demokracie (1878)\" a místních obyvatel",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro Prahu 1",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::1",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 1,
+    "nazev": "JSME PRAHA 10",
+    "zkratka": "TEAM+NK",
+    "zkratka30": "JSME PRAHA 10",
+    "vstrana": "1846",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1194",
+        "nazev": "„JSME TEAM“",
+        "zkratka": "TEAM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::2",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 2,
+    "nazev": "TOP 09 SPOLU S OSOBNOSTMI PRAHY 10",
+    "zkratka": "TOP 09+NK",
+    "zkratka30": "TOP 09 SPOLU S OSOBNOSTMI PRAHY 10",
+    "vstrana": "480",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::3",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 3,
+    "nazev": "SDRUŽENÍ PŘÁTEL PRAHY 10",
+    "zkratka": "LANO+NK",
+    "zkratka30": "SDRUŽENÍ PŘÁTEL PRAHY 10",
+    "vstrana": "1690",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1286",
+        "nazev": "Liberální aliance nezávislých občanů",
+        "zkratka": "LANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::4",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 4,
+    "nazev": "SPD pro Prahu 10 s podporou PRO, Trikolory, Přísahy a Svobodných",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro Prahu 10",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::5",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 5,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::6",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 6,
+    "nazev": "Naše Praha 10",
+    "zkratka": "HNP+NK",
+    "zkratka30": "Naše Praha 10",
+    "vstrana": "1898",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1723",
+        "nazev": "Naše Praha",
+        "zkratka": "HNP"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::7",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 7,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::8",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 8,
+    "nazev": "Starostové, Vlasta a Lidovci",
+    "zkratka": "KDU-ČSL+STAN+NK",
+    "zkratka30": "Starostové, Vlasta a Lidovci",
+    "vstrana": "1404",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::9",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 9,
+    "nazev": "Společně pro Prahu 10 (Nejlepší město na světě - ODS a lokální osobnosti)",
+    "zkratka": "ODS+NK",
+    "zkratka30": "Společně pro Prahu 10 (Nejlepší město na světě)",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-10::10",
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 10,
+    "nazev": "PRAHA 10 SOBĚ",
+    "zkratka": "Zele+PHASOBĚ+NK",
+    "zkratka30": "PRAHA 10 SOBĚ",
+    "vstrana": "1918",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::1",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 1,
+    "nazev": "Motoristé sobě a Svobodní",
+    "zkratka": "Svobodní+AUTO",
+    "zkratka30": "Motoristé sobě a Svobodní",
+    "vstrana": "1697",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::2",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 2,
+    "nazev": "TOP 09 a Starostové a nezávislí",
+    "zkratka": "TOP+STAN",
+    "zkratka30": "TOP 09 a Starostové a nezávislí",
+    "vstrana": "659",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::3",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 3,
+    "nazev": "GEN",
+    "zkratka": "GEN",
+    "zkratka30": "GEN",
+    "vstrana": "1297",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1297",
+        "nazev": "GEN",
+        "zkratka": "GEN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::4",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 4,
+    "nazev": "PRAHA 11 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "PRAHA 11 SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::5",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 5,
+    "nazev": "Spolu pro Prahu 11",
+    "zkratka": "ODS+NK",
+    "zkratka30": "Spolu pro Prahu 11",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::6",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 6,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::7",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 7,
+    "nazev": "Výzva pro Prahu 11",
+    "zkratka": "VÝZVA+NK",
+    "zkratka30": "Výzva pro Prahu 11",
+    "vstrana": "1830",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1704",
+        "nazev": "VÝZVA 2025",
+        "zkratka": "VÝZVA"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::8",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 8,
+    "nazev": "Hnutí pro Prahu 11",
+    "zkratka": "HPP 11",
+    "zkratka30": "Hnutí pro Prahu 11",
+    "vstrana": "195",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "195",
+        "nazev": "Hnutí pro Prahu 11",
+        "zkratka": "HPP 11"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::9",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 9,
+    "nazev": "SPD pro Prahu 11 s podporou Trikolora, PRO, Přísahy a nezávislých kandidátů",
+    "zkratka": "SPD+Trikol+NK",
+    "zkratka30": "SPD pro P-11 s podp. Trikolora, PRO, Přísahy a NK",
+    "vstrana": "1491",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-11::10",
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 10,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::1",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 1,
+    "nazev": "TOP 09 & SOUSEDÉ PRO DVANÁCTKU",
+    "zkratka": "TOP 09+NK",
+    "zkratka30": "TOP 09 & SOUSEDÉ PRO DVANÁCTKU",
+    "vstrana": "480",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::2",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 2,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::3",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 3,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::4",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 4,
+    "nazev": "Naše Dvanáctka",
+    "zkratka": "MY+NK",
+    "zkratka30": "Naše Dvanáctka",
+    "vstrana": "1479",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1228",
+        "nazev": "MY",
+        "zkratka": "MY"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::5",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 5,
+    "nazev": "Svobodní",
+    "zkratka": "Svobodní",
+    "zkratka30": "Svobodní",
+    "vstrana": "714",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::6",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 6,
+    "nazev": "OBČANÉ DVANÁCTKY",
+    "zkratka": "O12+NK",
+    "zkratka30": "OBČANÉ DVANÁCTKY",
+    "vstrana": "1919",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1731",
+        "nazev": "Občané Dvanáctky",
+        "zkratka": "O12"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::7",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 7,
+    "nazev": "SPD pro Prahu 12 s podporou Sociální demokracie a PŘÍSAHA občanské hnutí",
+    "zkratka": "SOCD+SPD+PŘÍ+NK",
+    "zkratka30": "SPD pro Prahu 12 s podporou SOCDEM a PŘÍSAHA",
+    "vstrana": "1968",
+    "typ": "D",
+    "pocet_subjektu": 4,
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::8",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 8,
+    "nazev": "Starostové se Změnou pro Prahu 12",
+    "zkratka": "KDU+STAN+ZPP 12",
+    "zkratka30": "Starostové se Změnou pro Prahu 12",
+    "vstrana": "1878",
+    "typ": "koalice",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "1274",
+        "nazev": "Změna pro Prahu 12",
+        "zkratka": "ZPP 12"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::9",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 9,
+    "nazev": "Piráti Praha 12",
+    "zkratka": "Piráti+NK",
+    "zkratka30": "Piráti Praha 12",
+    "vstrana": "541",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::10",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 10,
+    "nazev": "Motoristé sobě",
+    "zkratka": "AUTO",
+    "zkratka30": "Motoristé sobě",
+    "vstrana": "1178",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-12::11",
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 11,
+    "nazev": "PRAHA 12 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "PRAHA 12 SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-13::1",
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 1,
+    "nazev": "SPD a nezávislí kandidáti pro Prahu 13 s podporou tradičních sociálních demokratů",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD a NK pro P-13 s podporou tradičních soc. dem.",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-13::2",
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-13::3",
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 3,
+    "nazev": "PRAHA 13 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "PRAHA 13 SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-13::4",
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 4,
+    "nazev": "Společně pro Prahu 13 - TOP 09 a KDU-ČSL",
+    "zkratka": "KDU-ČSL+TOP 09",
+    "zkratka30": "Společně pro Prahu 13 - TOP 09 a KDU-ČSL",
+    "vstrana": "1058",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-13::5",
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 5,
+    "nazev": "Zelení a Piráti pro 13",
+    "zkratka": "Zelení+Piráti",
+    "zkratka30": "Zelení a Piráti pro 13",
+    "vstrana": "1066",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-13::6",
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 6,
+    "nazev": "SEN PRO PRAHU 13 s podporou senátora Václava Lásky a Společnosti na ochranu Prokopského údolí",
+    "zkratka": "SOPU+SEN 21+NK",
+    "zkratka30": "SEN PRO PRAHU 13 s podporou senátora Lásky a SOPU",
+    "vstrana": "1855",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1041",
+        "nazev": "Společnost na ochranu Prokopského údolí",
+        "zkratka": "SOPU"
+      },
+      {
+        "kod": "1187",
+        "nazev": "SEN 21",
+        "zkratka": "SEN 21"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-13::7",
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 7,
+    "nazev": "Změna pro Prahu 13 - Národní hnutí",
+    "zkratka": "KSČM+ČSSD+Směr",
+    "zkratka30": "Změna pro Prahu 13 - Národní hnutí",
+    "vstrana": "1908",
+    "typ": "koalice",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      },
+      {
+        "kod": "759",
+        "nazev": "ČSSD – Česká suverenita sociální demokracie",
+        "zkratka": "ČSSD"
+      },
+      {
+        "kod": "1248",
+        "nazev": "Směr Česká republika",
+        "zkratka": "Směr"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-13::8",
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 8,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-13::9",
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 9,
+    "nazev": "ODS s podporou nezávislých",
+    "zkratka": "ODS+NK",
+    "zkratka30": "ODS s podporou nezávislých",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-14::1",
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 1,
+    "nazev": "Svoboda a přímá demokracie pro Prahu 14 s podporou občanského hnutí Přísaha, České strany národně sociální a nezávislých kandidátů",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro Prahu 14 s podporou Přísaha, ČSNS a NK",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-14::2",
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 2,
+    "nazev": "SRDCEM PRO PRAHU 14 - NEZÁVISLÍ A NOVÍ LIDOVCI",
+    "zkratka": "KDU-ČSL+NK",
+    "zkratka30": "SRDCEM PRO PRAHU 14 - NEZÁVISLÍ A NOVÍ LIDOVCI",
+    "vstrana": "355",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-14::3",
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 3,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-14::4",
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 4,
+    "nazev": "Svobodní",
+    "zkratka": "Svobodní",
+    "zkratka30": "Svobodní",
+    "vstrana": "714",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-14::5",
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 5,
+    "nazev": "NAŠE Čtrnáctka",
+    "zkratka": "N14",
+    "zkratka30": "NAŠE Čtrnáctka",
+    "vstrana": "1210",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1210",
+        "nazev": "NAŠE Čtrnáctka",
+        "zkratka": "N14"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-14::6",
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 6,
+    "nazev": "Česká levice",
+    "zkratka": "SOCDEM+KSČM+NK",
+    "zkratka30": "Česká levice",
+    "vstrana": "474",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-14::7",
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 7,
+    "nazev": "MY pro Prahu 14 - Piráti, Praha 14 sobě, Zelení",
+    "zkratka": "Zel+Pir+PHASOBĚ",
+    "zkratka30": "MY pro Prahu 14 - Piráti, Praha 14 sobě, Zelení",
+    "vstrana": "1905",
+    "typ": "koalice",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-14::8",
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 8,
+    "nazev": "ODS SPOLU s TOP 09 a Sousedy pro Prahu 14",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "ODS SPOLU s TOP 09 a Sousedy pro Prahu 14",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-14::9",
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 9,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::1",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 1,
+    "nazev": "SPD, PRO a nezávislí kandidáti pro Prahu 15",
+    "zkratka": "SPD+PRO+NK",
+    "zkratka30": "SPD, PRO a nezávislí kandidáti pro Prahu 15",
+    "vstrana": "1804",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1265",
+        "nazev": "PRO Právo Respekt Odbornost",
+        "zkratka": "PRO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::2",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 2,
+    "nazev": "Patnáctka náš domov",
+    "zkratka": "SNK",
+    "zkratka30": "Patnáctka náš domov",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::3",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 3,
+    "nazev": "HNUTÍ ANTONÍNA ŠVEHLY – HAŠ",
+    "zkratka": "HAŠ",
+    "zkratka30": "HNUTÍ ANTONÍNA ŠVEHLY – HAŠ",
+    "vstrana": "1714",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1714",
+        "nazev": "HNUTÍ ANTONÍNA ŠVEHLY – HAŠ",
+        "zkratka": "HAŠ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::4",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 4,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::5",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 5,
+    "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+    "zkratka": "Koruna Česká",
+    "zkratka30": "Koruna Česká (monarch.str.Čech, Moravy a Slezska)",
+    "vstrana": "55",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "55",
+        "nazev": "Koruna Česká (monarch.str.Čech, Moravy a Slezska)",
+        "zkratka": "Koruna Česká"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::6",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 6,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "zkratka30": "Komunistická strana Čech a Moravy",
+    "vstrana": "47",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::7",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 7,
+    "nazev": "Společně pro Prahu 15 (Občanská demokratická strana, TOP 09 a nezávislí kandidáti)",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "Společně pro Prahu 15 (ODS, TOP 09 a NK)",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::8",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 8,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::9",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 9,
+    "nazev": "Piráti a Praha 15 sobě",
+    "zkratka": "Piráti+PHA SOBĚ",
+    "zkratka30": "Piráti a Praha 15 sobě",
+    "vstrana": "1922",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::10",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 10,
+    "nazev": "Česká strana asociálů",
+    "zkratka": "ČSA",
+    "zkratka30": "Česká strana asociálů",
+    "vstrana": "1713",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1713",
+        "nazev": "Česká strana asociálů",
+        "zkratka": "ČSA"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-15::11",
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 11,
+    "nazev": "NEZÁVISLÍ",
+    "zkratka": "NEZ",
+    "zkratka30": "NEZÁVISLÍ",
+    "vstrana": "88",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "88",
+        "nazev": "NEZÁVISLÍ",
+        "zkratka": "NEZ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-16::1",
+    "assembly_id": "mc-praha-16",
+    "kodzastup": "539601",
+    "cislo": 1,
+    "nazev": "Společně pro Radotín",
+    "zkratka": "KDUZelSTANTOPNK",
+    "zkratka30": "Společně pro Radotín",
+    "vstrana": "1822",
+    "typ": "D",
+    "pocet_subjektu": 5,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-16::2",
+    "assembly_id": "mc-praha-16",
+    "kodzastup": "539601",
+    "cislo": 2,
+    "nazev": "Občanská demokratická strana Radotín",
+    "zkratka": "ODS+NK",
+    "zkratka30": "Občanská demokratická strana Radotín",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-16::3",
+    "assembly_id": "mc-praha-16",
+    "kodzastup": "539601",
+    "cislo": 3,
+    "nazev": "GEN",
+    "zkratka": "GEN+NK",
+    "zkratka30": "GEN",
+    "vstrana": "1806",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1297",
+        "nazev": "GEN",
+        "zkratka": "GEN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-16::4",
+    "assembly_id": "mc-praha-16",
+    "kodzastup": "539601",
+    "cislo": 4,
+    "nazev": "Piráti a nezávislí kandidáti",
+    "zkratka": "Piráti+NK",
+    "zkratka30": "Piráti a nezávislí kandidáti",
+    "vstrana": "541",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-16::5",
+    "assembly_id": "mc-praha-16",
+    "kodzastup": "539601",
+    "cislo": 5,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-17::1",
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 1,
+    "nazev": "sdružení Občanské demokratické strany a nezávislých kandidátů",
+    "zkratka": "ODS+NK",
+    "zkratka30": "sdružení ODS a nezávislých kandidátů",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-17::2",
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 2,
+    "nazev": "ŘEPY SOBĚ",
+    "zkratka": "SNK ED+NK",
+    "zkratka30": "ŘEPY SOBĚ",
+    "vstrana": "449",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "129",
+        "nazev": "SNK Evropští demokraté",
+        "zkratka": "SNK ED"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-17::3",
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 3,
+    "nazev": "KDU-ČSL",
+    "zkratka": "KDU-ČSL",
+    "zkratka30": "KDU-ČSL",
+    "vstrana": "1",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-17::4",
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 4,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-17::5",
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 5,
+    "nazev": "SPD pro Prahu 17 s podporou Trikolory, Manifest a PRO",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro P-17 s podporou Trikolory, Manifest a PRO",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-17::6",
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 6,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "zkratka30": "Komunistická strana Čech a Moravy",
+    "vstrana": "47",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-17::7",
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 7,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-17::8",
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 8,
+    "nazev": "Řepští sousedé",
+    "zkratka": "ŘS",
+    "zkratka30": "Řepští sousedé",
+    "vstrana": "1737",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1737",
+        "nazev": "Řepští sousedé",
+        "zkratka": "ŘS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::1",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 1,
+    "nazev": "Motoristé sobě",
+    "zkratka": "AUTO",
+    "zkratka30": "Motoristé sobě",
+    "vstrana": "1178",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::2",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::3",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 3,
+    "nazev": "SPOLU pro Letňany",
+    "zkratka": "ODS+Svob+TOP09",
+    "zkratka30": "SPOLU pro Letňany",
+    "vstrana": "1334",
+    "typ": "koalice",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::4",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 4,
+    "nazev": "Náš Domov Letňany",
+    "zkratka": "Patrioti ČR+NK",
+    "zkratka30": "Náš Domov Letňany",
+    "vstrana": "524",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::5",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 5,
+    "nazev": "Naše Česko",
+    "zkratka": "NČ",
+    "zkratka30": "Naše Česko",
+    "vstrana": "1722",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1722",
+        "nazev": "Naše Česko",
+        "zkratka": "NČ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::6",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 6,
+    "nazev": "Zdravé Letňany s podporou Prahy sobě, Pirátů, Lidovců a Zelených",
+    "zkratka": "KDUZelPirPHASNK",
+    "zkratka30": "Zdravé Letňany",
+    "vstrana": "1823",
+    "typ": "D",
+    "pocet_subjektu": 5,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::7",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 7,
+    "nazev": "SPD pro Letňany s podporou Sociální demokracie, Trikolora, PRO",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro Letňany s podporou SOCDEM, Trikolora, PRO",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::8",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 8,
+    "nazev": "Česká strana asociálů",
+    "zkratka": "ČSA",
+    "zkratka30": "Česká strana asociálů",
+    "vstrana": "1713",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1713",
+        "nazev": "Česká strana asociálů",
+        "zkratka": "ČSA"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::9",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 9,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::10",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 10,
+    "nazev": "JSME TEAM LETŇANY",
+    "zkratka": "TEAM+NK",
+    "zkratka30": "JSME TEAM LETŇANY",
+    "vstrana": "1846",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1194",
+        "nazev": "„JSME TEAM“",
+        "zkratka": "TEAM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-18::11",
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 11,
+    "nazev": "KRÁSNÉ LETŇANY",
+    "zkratka": "APB+NK",
+    "zkratka30": "KRÁSNÉ LETŇANY",
+    "vstrana": "1399",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1173",
+        "nazev": "Aliance pro budoucnost",
+        "zkratka": "APB"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-19::1",
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 1,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-19::2",
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 2,
+    "nazev": "Sdružení nezávislých kandidátů Kbely náš domov",
+    "zkratka": "SNK",
+    "zkratka30": "Sdružení nezávislých kandidátů Kbely náš domov",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-19::3",
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 3,
+    "nazev": "OK-19",
+    "zkratka": "KDU-ČSL+NK",
+    "zkratka30": "OK-19",
+    "vstrana": "355",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-19::4",
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 4,
+    "nazev": "NAŠE KBELY - NAŠE ČESKO",
+    "zkratka": "NČ+NK",
+    "zkratka30": "NAŠE KBELY - NAŠE ČESKO",
+    "vstrana": "1695",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1722",
+        "nazev": "Naše Česko",
+        "zkratka": "NČ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-19::5",
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 5,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-19::6",
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 6,
+    "nazev": "Maják pro Kbely",
+    "zkratka": "Maják+NK",
+    "zkratka30": "Maják pro Kbely",
+    "vstrana": "1944",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1720",
+        "nazev": "Maják",
+        "zkratka": "Maják"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-2::1",
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 1,
+    "nazev": "PRAHA 2 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "PRAHA 2 SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-2::2",
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 2,
+    "nazev": "JSME PRAHA 2",
+    "zkratka": "TEAM+NK",
+    "zkratka30": "JSME PRAHA 2",
+    "vstrana": "1846",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1194",
+        "nazev": "„JSME TEAM“",
+        "zkratka": "TEAM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-2::3",
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 3,
+    "nazev": "SPD pro Prahu 2 s podporou PRO, Svobodných a nezávislých kandidátů",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro Prahu 2 s podporou PRO, Svobodných a NK",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-2::4",
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 4,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-2::5",
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 5,
+    "nazev": "Lidovci a nezávislí Praha 2",
+    "zkratka": "KDU-ČSL+NK",
+    "zkratka30": "Lidovci a nezávislí Praha 2",
+    "vstrana": "355",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-2::6",
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 6,
+    "nazev": "SPOLU pro Prahu 2",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "SPOLU pro Prahu 2",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-2::7",
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 7,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-2::8",
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 8,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-20::1",
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 1,
+    "nazev": "Hnutí Občanů Počernic a NEZÁVISLÍ",
+    "zkratka": "NEZ+NK",
+    "zkratka30": "Hnutí Občanů Počernic a NEZÁVISLÍ",
+    "vstrana": "401",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "88",
+        "nazev": "NEZÁVISLÍ",
+        "zkratka": "NEZ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-20::2",
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-20::3",
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 3,
+    "nazev": "PRO Počernice – Naše Česko",
+    "zkratka": "NČ+NK",
+    "zkratka30": "PRO Počernice – Naše Česko",
+    "vstrana": "1695",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1722",
+        "nazev": "Naše Česko",
+        "zkratka": "NČ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-20::4",
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 4,
+    "nazev": "Místní pro Horní Počernice",
+    "zkratka": "SNK ED+NK",
+    "zkratka30": "Místní pro Horní Počernice",
+    "vstrana": "449",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "129",
+        "nazev": "SNK Evropští demokraté",
+        "zkratka": "SNK ED"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-20::5",
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 5,
+    "nazev": "Hnutí Šance pro Počernice",
+    "zkratka": "Šance pro Počer",
+    "zkratka30": "Hnutí Šance pro Počernice",
+    "vstrana": "1716",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1716",
+        "nazev": "Hnutí Šance pro Počernice",
+        "zkratka": "Šance pro Počer"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-20::6",
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 6,
+    "nazev": "Počernice JINAK",
+    "zkratka": "PRO Zdraví+NK",
+    "zkratka30": "Počernice JINAK",
+    "vstrana": "566",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "785",
+        "nazev": "Zdraví Sport Vzdělání",
+        "zkratka": "PRO Zdraví"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-20::7",
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 7,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-20::8",
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 8,
+    "nazev": "SPOLU (ODS a TOP09 s podporou nezávislých kandidátů Horních Počernic)",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "SPOLU (ODS A TOP09 s podporou NK Horních Počernic)",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-21::1",
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 1,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-21::2",
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ – ÚJEZD ŽIJE",
+    "zkratka": "STAN+NK",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ – ÚJEZD ŽIJE",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-21::3",
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 3,
+    "nazev": "ÚJEZD21",
+    "zkratka": "SNK",
+    "zkratka30": "ÚJEZD21",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-21::4",
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 4,
+    "nazev": "Otevřený Újezd – pro dobrý život bez planých slibů",
+    "zkratka": "KDU+Zel+Souk+NK",
+    "zkratka30": "Otevřený Újezd – pro dobrý život bez planých slibů",
+    "vstrana": "1602",
+    "typ": "D",
+    "pocet_subjektu": 4,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "716",
+        "nazev": "Strana soukromníků České republiky",
+        "zkratka": "Soukromníci"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-21::5",
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 5,
+    "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO ÚJEZD",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "ODS a TOP 09 - SPOLEČNĚ PRO ÚJEZD",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-22::1",
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 1,
+    "nazev": "DvacetDvojka",
+    "zkratka": "HOSp+NK",
+    "zkratka30": "DvacetDvojka",
+    "vstrana": "1970",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1717",
+        "nazev": "Hnutí za občanskou spokojenost",
+        "zkratka": "HOSp"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-22::2",
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 2,
+    "nazev": "Naše 22 – Spolky, Svobodní a Patrioti",
+    "zkratka": "Svobodní+NK",
+    "zkratka30": "Naše 22 – Spolky, Svobodní a Patrioti",
+    "vstrana": "477",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-22::3",
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 3,
+    "nazev": "TADY 22 – hlas místních",
+    "zkratka": "KDUČSL+TOP09+NK",
+    "zkratka30": "TADY 22 – hlas místních",
+    "vstrana": "540",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-22::4",
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 4,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-22::5",
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 5,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-22::6",
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 6,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-22::7",
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 7,
+    "nazev": "OK22 s podporou PRAHA SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "OK22 s podporou PRAHA SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-22::8",
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 8,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-3::1",
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 1,
+    "nazev": "Piráti, PRAHA 3 SOBĚ a Edita Janečková",
+    "zkratka": "Pir+PHASOBĚ+NK",
+    "zkratka30": "Piráti, PRAHA 3 SOBĚ a Edita Janečková",
+    "vstrana": "1888",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-3::2",
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 2,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-3::3",
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 3,
+    "nazev": "MOTORISTÉ sobě a PATRIOTI s podporou spoluvlastníků a sousedů",
+    "zkratka": "PatriotiČR+AUTO",
+    "zkratka30": "MOTORISTÉ sobě a PATRIOTI",
+    "vstrana": "1879",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      },
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-3::4",
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 4,
+    "nazev": "Praha 3 srdcem",
+    "zkratka": "KDU-ČSL+GEN",
+    "zkratka30": "Praha 3 srdcem",
+    "vstrana": "1887",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "1297",
+        "nazev": "GEN",
+        "zkratka": "GEN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-3::5",
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 5,
+    "nazev": "TOP 09 + Starostové a nezávislí s podporou Žižkov (nejen) sobě",
+    "zkratka": "TOP+STAN",
+    "zkratka30": "TOP 09 + STAN s podporou Žižkov (nejen) sobě",
+    "vstrana": "659",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-3::6",
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 6,
+    "nazev": "SPOLEČNĚ pro Prahu 3 (ODS, Soukromníci)",
+    "zkratka": "ODS+Soukromníci",
+    "zkratka30": "SPOLEČNĚ pro Prahu 3 (ODS, Soukromníci)",
+    "vstrana": "1154",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "716",
+        "nazev": "Strana soukromníků České republiky",
+        "zkratka": "Soukromníci"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-3::7",
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 7,
+    "nazev": "Strana zelených",
+    "zkratka": "Zelení",
+    "zkratka30": "Strana zelených",
+    "vstrana": "5",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-3::8",
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 8,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "zkratka30": "Komunistická strana Čech a Moravy",
+    "vstrana": "47",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-3::9",
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 9,
+    "nazev": "SPD, Trikolora a nezávislí kandidáti pro Prahu 3 s podporou strany PRO a Přísahy",
+    "zkratka": "SPD+Trikolora",
+    "zkratka30": "SPD,Trikolora a NK pro P3 s podporou PRO a Přísahy",
+    "vstrana": "1487",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-4::1",
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 1,
+    "nazev": "Spojená levice pro Prahu 4",
+    "zkratka": "KSČM+ČSSD",
+    "zkratka30": "Spojená levice pro Prahu 4",
+    "vstrana": "1843",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      },
+      {
+        "kod": "759",
+        "nazev": "ČSSD – Česká suverenita sociální demokracie",
+        "zkratka": "ČSSD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-4::2",
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 2,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-4::3",
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 3,
+    "nazev": "Motoristé sobě a Svobodní",
+    "zkratka": "Svobodní+AUTO",
+    "zkratka30": "Motoristé sobě a Svobodní",
+    "vstrana": "1697",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-4::4",
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 4,
+    "nazev": "SPD pro Prahu 4 s podporou PRO, Sociálních demokratů, Trikolory a nezávislých kandidátů",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro Prahu 4 s podp. PRO, SOCDEM, Trikolory, NK",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-4::5",
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 5,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-4::6",
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 6,
+    "nazev": "SPOLU pro PRAHU 4",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "SPOLU pro PRAHU 4",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-4::7",
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 7,
+    "nazev": "SPOLEČNĚ PRO ZMĚNU – KOALICE STAROSTOVÉ, PRAHA SOBĚ, LIDOVCI A ZELENÍ",
+    "zkratka": "KDUZelSTANPSOBĚ",
+    "zkratka30": "SPOLEČNĚ PRO ZMĚNU – STAN,PR.SOBĚ,LIDOVCI A ZELENÍ",
+    "vstrana": "1814",
+    "typ": "koalice",
+    "pocet_subjektu": 4,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::1",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 1,
+    "nazev": "SPD pro Prahu 5 s podporou PRO a nezávislých kandidátů",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro Prahu 5 s podporou PRO a NK",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::2",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 2,
+    "nazev": "TOP Lidovci a Nezávislí",
+    "zkratka": "KDU-ČSL+TOP 09",
+    "zkratka30": "TOP Lidovci a Nezávislí",
+    "vstrana": "1058",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::3",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 3,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::4",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 4,
+    "nazev": "PRAHA 5 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "PRAHA 5 SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::5",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 5,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::6",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 6,
+    "nazev": "Motoristé sobě a Svobodní",
+    "zkratka": "Svobodní+AUTO",
+    "zkratka30": "Motoristé sobě a Svobodní",
+    "vstrana": "1697",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::7",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 7,
+    "nazev": "Naše Praha 5",
+    "zkratka": "HNP+NK",
+    "zkratka30": "Naše Praha 5",
+    "vstrana": "1898",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1723",
+        "nazev": "Naše Praha",
+        "zkratka": "HNP"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::8",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 8,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::9",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 9,
+    "nazev": "Česká strana asociálů",
+    "zkratka": "ČSA",
+    "zkratka30": "Česká strana asociálů",
+    "vstrana": "1713",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1713",
+        "nazev": "Česká strana asociálů",
+        "zkratka": "ČSA"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::10",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 10,
+    "nazev": "REZIDENTI 5P",
+    "zkratka": "SOCDEM+NK",
+    "zkratka30": "REZIDENTI 5P",
+    "vstrana": "371",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::11",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 11,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-5::12",
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 12,
+    "nazev": "SEN PRO PRAHU 5 s podporou senátora Václava Lásky a Společnosti na ochranu Prokopského údolí",
+    "zkratka": "SOPU+SEN 21+NK",
+    "zkratka30": "SEN PRO PRAHU 5 s podporou senátora Lásky a SOPU",
+    "vstrana": "1855",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1041",
+        "nazev": "Společnost na ochranu Prokopského údolí",
+        "zkratka": "SOPU"
+      },
+      {
+        "kod": "1187",
+        "nazev": "SEN 21",
+        "zkratka": "SEN 21"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::1",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 1,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::2",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 2,
+    "nazev": "GEN",
+    "zkratka": "GEN",
+    "zkratka30": "GEN",
+    "vstrana": "1297",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1297",
+        "nazev": "GEN",
+        "zkratka": "GEN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::3",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 3,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "zkratka30": "Komunistická strana Čech a Moravy",
+    "vstrana": "47",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::4",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 4,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::5",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 5,
+    "nazev": "SPD s podporou Trikolory a PRO",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD s podporou Trikolory a PRO",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::6",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 6,
+    "nazev": "PRAHA 6 SOBĚ",
+    "zkratka": "Zelení+PHA SOBĚ",
+    "zkratka30": "PRAHA 6 SOBĚ",
+    "vstrana": "1910",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::7",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 7,
+    "nazev": "ODS a KDU-ČSL",
+    "zkratka": "KDU-ČSL+ODS",
+    "zkratka30": "ODS a KDU-ČSL",
+    "vstrana": "210",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::8",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 8,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::9",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 9,
+    "nazev": "TOP 09",
+    "zkratka": "TOP 09",
+    "zkratka30": "TOP 09",
+    "vstrana": "721",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::10",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 10,
+    "nazev": "Motoristé sobě a Svobodní",
+    "zkratka": "Svobodní+AUTO",
+    "zkratka30": "Motoristé sobě a Svobodní",
+    "vstrana": "1697",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-6::11",
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 11,
+    "nazev": "JSME PRAHA 6",
+    "zkratka": "TEAM+NK",
+    "zkratka30": "JSME PRAHA 6",
+    "vstrana": "1846",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1194",
+        "nazev": "„JSME TEAM“",
+        "zkratka": "TEAM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-7::1",
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 1,
+    "nazev": "PRAHA 7 SOBĚ",
+    "zkratka": "SNK",
+    "zkratka30": "PRAHA 7 SOBĚ",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-7::2",
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 2,
+    "nazev": "Spojená levice pro Prahu 7",
+    "zkratka": "KSČM+ČSSD",
+    "zkratka30": "Spojená levice pro Prahu 7",
+    "vstrana": "1843",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      },
+      {
+        "kod": "759",
+        "nazev": "ČSSD – Česká suverenita sociální demokracie",
+        "zkratka": "ČSSD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-7::3",
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 3,
+    "nazev": "SPOLU PRO PRAHU 7",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "SPOLU PRO PRAHU 7",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-7::4",
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 4,
+    "nazev": "ANO s podporou Motoristů",
+    "zkratka": "ANO+NK",
+    "zkratka30": "ANO s podporou Motoristů",
+    "vstrana": "532",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-7::5",
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 5,
+    "nazev": "SPD pro Prahu 7 s podporou PRO a nezávislých kandidátů",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro Prahu 7 s podporou PRO a NK",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-7::6",
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 6,
+    "nazev": "Piráti a Starostové",
+    "zkratka": "STAN+Piráti",
+    "zkratka30": "Piráti a Starostové",
+    "vstrana": "1350",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-8::1",
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 1,
+    "nazev": "8žije, Praha sobě a Zelení",
+    "zkratka": "8žije+NK",
+    "zkratka30": "8žije, Praha sobě a Zelení",
+    "vstrana": "1586",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1263",
+        "nazev": "Osmička žije",
+        "zkratka": "8žije"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-8::2",
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 2,
+    "nazev": "Spojená levice pro Prahu (KSČM - ČSSD)",
+    "zkratka": "KSČM+ČSSD",
+    "zkratka30": "Spojená levice pro Prahu (KSČM - ČSSD)",
+    "vstrana": "1843",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      },
+      {
+        "kod": "759",
+        "nazev": "ČSSD – Česká suverenita sociální demokracie",
+        "zkratka": "ČSSD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-8::3",
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 3,
+    "nazev": "PATRIOTI PRO PRAHU 8",
+    "zkratka": "Patrioti ČR+NK",
+    "zkratka30": "PATRIOTI PRO PRAHU 8",
+    "vstrana": "524",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-8::4",
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 4,
+    "nazev": "ODS s podporou KDU-ČSL",
+    "zkratka": "KDU-ČSL+ODS",
+    "zkratka30": "ODS s podporou KDU-ČSL",
+    "vstrana": "210",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-8::5",
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 5,
+    "nazev": "Mourek s podporou SEN PRO PRAHU s Václavem Láskou",
+    "zkratka": "Mourek+NK",
+    "zkratka30": "Mourek s podporou SEN PRO PRAHU s Václavem Láskou",
+    "vstrana": "1844",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1260",
+        "nazev": "Mourek – politická strana",
+        "zkratka": "Mourek"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-8::6",
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 6,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-8::7",
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 7,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ + TOP 09 – Společně pro Prahu 8",
+    "zkratka": "TOP+STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ + TOP 09 – Společně pro P-8",
+    "vstrana": "659",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-8::8",
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 8,
+    "nazev": "SPD pro Prahu 8 s podporou Česká párty, PRO a Svobodní",
+    "zkratka": "SPD+NK",
+    "zkratka30": "SPD pro P-8 s podporou Česká párty, PRO a Svobodní",
+    "vstrana": "1305",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-8::9",
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 9,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-9::1",
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 1,
+    "nazev": "Svoboda a přímá demokracie (SPD) a Svobodní pro Prahu 9",
+    "zkratka": "Svobodní+SPD",
+    "zkratka30": "SPD a Svobodní pro Prahu 9",
+    "vstrana": "1682",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-9::2",
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-9::3",
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 3,
+    "nazev": "SPOLU PRO PRAHU 9 (ODS a TOP 09) s podporou nestraníků",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "SPOLU PRO PRAHU 9 (ODS a TOP 09) s podporou nestr.",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-9::4",
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 4,
+    "nazev": "ZMĚNA s podporou SEN pro Prahu",
+    "zkratka": "SEN 21+NK",
+    "zkratka30": "ZMĚNA s podporou SEN pro Prahu",
+    "vstrana": "1500",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1187",
+        "nazev": "SEN 21",
+        "zkratka": "SEN 21"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-9::5",
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 5,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-9::6",
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 6,
+    "nazev": "LEPŠÍ ŽIVOT PRO LIDI – zrušení daně z nemovitostí, min. mzda 50.000 Kč, min. důchod 30.000 Kč, návrat cen energií na ceny z roku 2019, v obchodech zboží nejvyšší kvality za ceny dostupné pro každého, STOP válce",
+    "zkratka": "LŽPL",
+    "zkratka30": "LEPŠÍ ŽIVOT PRO LIDI",
+    "vstrana": "121",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "121",
+        "nazev": "LEPŠÍ ŽIVOT PRO LIDI",
+        "zkratka": "LŽPL"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-9::7",
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 7,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "zkratka30": "Česká pirátská strana",
+    "vstrana": "720",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-9::8",
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 8,
+    "nazev": "PRAHA 9 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "PRAHA 9 SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-bechovice::1",
+    "assembly_id": "mc-praha-bechovice",
+    "kodzastup": "538060",
+    "cislo": 1,
+    "nazev": "Spolu pro Běchovice",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "Spolu pro Běchovice",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-benice::1",
+    "assembly_id": "mc-praha-benice",
+    "kodzastup": "538078",
+    "cislo": 1,
+    "nazev": "BENICE – MÍSTO PRO SPOKOJENÝ ŽIVOT",
+    "zkratka": "SNK",
+    "zkratka30": "BENICE – MÍSTO PRO SPOKOJENÝ ŽIVOT",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-brezineves::1",
+    "assembly_id": "mc-praha-brezineves",
+    "kodzastup": "538124",
+    "cislo": 1,
+    "nazev": "OBČANÉ PRO BŘEZINĚVES 2026 - sdružení pro výstavbu ZŠ, Centra služeb a silničního obchvatu Březiněvsi",
+    "zkratka": "SNK",
+    "zkratka30": "OBČANÉ PRO BŘEZINĚVES 2026",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-cakovice::1",
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 1,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-cakovice::2",
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 2,
+    "nazev": "Pro Prahu Čakovice, Miškovice, Třeboradice",
+    "zkratka": "NEZ+NK",
+    "zkratka30": "Pro Prahu Čakovice, Miškovice, Třeboradice",
+    "vstrana": "401",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "88",
+        "nazev": "NEZÁVISLÍ",
+        "zkratka": "NEZ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-cakovice::3",
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 3,
+    "nazev": "KDU-ČSL",
+    "zkratka": "KDU-ČSL",
+    "zkratka30": "KDU-ČSL",
+    "vstrana": "1",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-cakovice::4",
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 4,
+    "nazev": "Spolu pro Čakovice, Miškovice a Třeboradice",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "Spolu pro Čakovice, Miškovice a Třeboradice",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-cakovice::5",
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 5,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dablice::1",
+    "assembly_id": "mc-praha-dablice",
+    "kodzastup": "547298",
+    "cislo": 1,
+    "nazev": "ŽIVÉ ĎÁBLICE S PODPOROU STAROSTŮ",
+    "zkratka": "STAN+NK",
+    "zkratka30": "ŽIVÉ ĎÁBLICE S PODPOROU STAROSTŮ",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dablice::2",
+    "assembly_id": "mc-praha-dablice",
+    "kodzastup": "547298",
+    "cislo": 2,
+    "nazev": "Česká strana asociálů",
+    "zkratka": "ČSA",
+    "zkratka30": "Česká strana asociálů",
+    "vstrana": "1713",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1713",
+        "nazev": "Česká strana asociálů",
+        "zkratka": "ČSA"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dablice::3",
+    "assembly_id": "mc-praha-dablice",
+    "kodzastup": "547298",
+    "cislo": 3,
+    "nazev": "Volba 2010 s podporou Sen pro Prahu",
+    "zkratka": "SEN 21+NK",
+    "zkratka30": "Volba 2010 s podporou Sen pro Prahu",
+    "vstrana": "1500",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1187",
+        "nazev": "SEN 21",
+        "zkratka": "SEN 21"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dablice::4",
+    "assembly_id": "mc-praha-dablice",
+    "kodzastup": "547298",
+    "cislo": 4,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dablice::5",
+    "assembly_id": "mc-praha-dablice",
+    "kodzastup": "547298",
+    "cislo": 5,
+    "nazev": "Ďáblice Spolu",
+    "zkratka": "SNK",
+    "zkratka30": "Ďáblice Spolu",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dablice::6",
+    "assembly_id": "mc-praha-dablice",
+    "kodzastup": "547298",
+    "cislo": 6,
+    "nazev": "ODS a nezávislí",
+    "zkratka": "ODS+NK",
+    "zkratka30": "ODS a nezávislí",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-chabry::1",
+    "assembly_id": "mc-praha-dolni-chabry",
+    "kodzastup": "547301",
+    "cislo": 1,
+    "nazev": "18400.CZ - ZA LEPŠÍ CHABRY S PODPOROU STAROSTŮ",
+    "zkratka": "STAN+NK",
+    "zkratka30": "18400.CZ - ZA LEPŠÍ CHABRY S PODPOROU STAROSTŮ",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-chabry::2",
+    "assembly_id": "mc-praha-dolni-chabry",
+    "kodzastup": "547301",
+    "cislo": 2,
+    "nazev": "ODS a Chaberáci",
+    "zkratka": "ODS+NK",
+    "zkratka30": "ODS a Chaberáci",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-chabry::3",
+    "assembly_id": "mc-praha-dolni-chabry",
+    "kodzastup": "547301",
+    "cislo": 3,
+    "nazev": "VOLBA PRO CHABRY",
+    "zkratka": "Patrioti ČR+NK",
+    "zkratka30": "VOLBA PRO CHABRY",
+    "vstrana": "524",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-chabry::4",
+    "assembly_id": "mc-praha-dolni-chabry",
+    "kodzastup": "547301",
+    "cislo": 4,
+    "nazev": "Budoucnost pro Chabry",
+    "zkratka": "SNK",
+    "zkratka30": "Budoucnost pro Chabry",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-chabry::5",
+    "assembly_id": "mc-praha-dolni-chabry",
+    "kodzastup": "547301",
+    "cislo": 5,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-mecholupy::1",
+    "assembly_id": "mc-praha-dolni-mecholupy",
+    "kodzastup": "547379",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-mecholupy::2",
+    "assembly_id": "mc-praha-dolni-mecholupy",
+    "kodzastup": "547379",
+    "cislo": 2,
+    "nazev": "Měcholupy Společně – s podporou Starostů",
+    "zkratka": "STAN+NK",
+    "zkratka30": "Měcholupy Společně – s podporou Starostů",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-mecholupy::3",
+    "assembly_id": "mc-praha-dolni-mecholupy",
+    "kodzastup": "547379",
+    "cislo": 3,
+    "nazev": "Sdružení nezávislých kandidátů PRO Měcholupy",
+    "zkratka": "SNK",
+    "zkratka30": "Sdružení nezávislých kandidátů PRO Měcholupy",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-pocernice::1",
+    "assembly_id": "mc-praha-dolni-pocernice",
+    "kodzastup": "538175",
+    "cislo": 1,
+    "nazev": "Občané Dolních Počernic",
+    "zkratka": "SNK",
+    "zkratka30": "Občané Dolních Počernic",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-pocernice::2",
+    "assembly_id": "mc-praha-dolni-pocernice",
+    "kodzastup": "538175",
+    "cislo": 2,
+    "nazev": "DOLNÍ 2030",
+    "zkratka": "SMS+NK",
+    "zkratka30": "DOLNÍ 2030",
+    "vstrana": "1316",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1202",
+        "nazev": "Sdružení pro Místní Správu",
+        "zkratka": "SMS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-pocernice::3",
+    "assembly_id": "mc-praha-dolni-pocernice",
+    "kodzastup": "538175",
+    "cislo": 3,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-pocernice::4",
+    "assembly_id": "mc-praha-dolni-pocernice",
+    "kodzastup": "538175",
+    "cislo": 4,
+    "nazev": "Dolní Počernice sobě s Lidovci",
+    "zkratka": "SNK",
+    "zkratka30": "Dolní Počernice sobě s Lidovci",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dolni-pocernice::5",
+    "assembly_id": "mc-praha-dolni-pocernice",
+    "kodzastup": "538175",
+    "cislo": 5,
+    "nazev": "POČERNICKÁ PATNÁCTKA S PODPOROU STAROSTŮ",
+    "zkratka": "STAN+NK",
+    "zkratka30": "POČERNICKÁ PATNÁCTKA S PODPOROU STAROSTŮ",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dubec::1",
+    "assembly_id": "mc-praha-dubec",
+    "kodzastup": "538205",
+    "cislo": 1,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dubec::2",
+    "assembly_id": "mc-praha-dubec",
+    "kodzastup": "538205",
+    "cislo": 2,
+    "nazev": "Impuls pro Dubeč",
+    "zkratka": "SNK",
+    "zkratka30": "Impuls pro Dubeč",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dubec::3",
+    "assembly_id": "mc-praha-dubec",
+    "kodzastup": "538205",
+    "cislo": 3,
+    "nazev": "Nezávislí kandidáti pro Dubeč a Dubeček",
+    "zkratka": "MY+NK",
+    "zkratka30": "Nezávislí kandidáti pro Dubeč a Dubeček",
+    "vstrana": "1479",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1228",
+        "nazev": "MY",
+        "zkratka": "MY"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dubec::4",
+    "assembly_id": "mc-praha-dubec",
+    "kodzastup": "538205",
+    "cislo": 4,
+    "nazev": "Občanská demokratická strana a TOP 09",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "Občanská demokratická strana a TOP 09",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-dubec::5",
+    "assembly_id": "mc-praha-dubec",
+    "kodzastup": "538205",
+    "cislo": 5,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-klanovice::1",
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 1,
+    "nazev": "Klánovice společně",
+    "zkratka": "SNK",
+    "zkratka30": "Klánovice společně",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-klanovice::2",
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 2,
+    "nazev": "KLÁNOVICE 365",
+    "zkratka": "STAN+NK",
+    "zkratka30": "KLÁNOVICE 365",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-klanovice::3",
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 3,
+    "nazev": "HLAS KLÁNOVIC, sdružení KDU-ČSL, Sociální demokracie a nezávislých kandidátů",
+    "zkratka": "KDU+SOCDEM+NK",
+    "zkratka30": "HLAS KLÁNOVIC, sdružení KDU-ČSL, SOCDEM a NK",
+    "vstrana": "424",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-klanovice::4",
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 4,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kolodeje::1",
+    "assembly_id": "mc-praha-kolodeje",
+    "kodzastup": "538353",
+    "cislo": 1,
+    "nazev": "ALTERNATIVA PRO KOLODĚJE",
+    "zkratka": "SNK",
+    "zkratka30": "ALTERNATIVA PRO KOLODĚJE",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kolodeje::2",
+    "assembly_id": "mc-praha-kolodeje",
+    "kodzastup": "538353",
+    "cislo": 2,
+    "nazev": "TJ Slavoj Koloděje",
+    "zkratka": "SNK",
+    "zkratka30": "TJ Slavoj Koloděje",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kolodeje::3",
+    "assembly_id": "mc-praha-kolodeje",
+    "kodzastup": "538353",
+    "cislo": 3,
+    "nazev": "Naděje pro Koloděje",
+    "zkratka": "SNK",
+    "zkratka30": "Naděje pro Koloděje",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kolovraty::1",
+    "assembly_id": "mc-praha-kolovraty",
+    "kodzastup": "538361",
+    "cislo": 1,
+    "nazev": "SPOLEČNĚ pro Kolovraty a Lipany",
+    "zkratka": "SNK",
+    "zkratka30": "SPOLEČNĚ pro Kolovraty a Lipany",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kolovraty::2",
+    "assembly_id": "mc-praha-kolovraty",
+    "kodzastup": "538361",
+    "cislo": 2,
+    "nazev": "NAŠE KOLOVRATY S PODPOROU STAN, KDU-ČSL A ODS",
+    "zkratka": "KDU+ODS+STAN+NK",
+    "zkratka30": "NAŠE KOLOVRATY S PODPOROU STAN, KDU-ČSL A ODS",
+    "vstrana": "1873",
+    "typ": "D",
+    "pocet_subjektu": 4,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kralovice::1",
+    "assembly_id": "mc-praha-kralovice",
+    "kodzastup": "538388",
+    "cislo": 1,
+    "nazev": "SDRUŽENÍ NAŠE KRÁLOVICE 2026",
+    "zkratka": "SNK",
+    "zkratka30": "SDRUŽENÍ NAŠE KRÁLOVICE 2026",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kreslice::1",
+    "assembly_id": "mc-praha-kreslice",
+    "kodzastup": "538400",
+    "cislo": 1,
+    "nazev": "Spolu pro Křeslice",
+    "zkratka": "ODS+NK",
+    "zkratka30": "Spolu pro Křeslice",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kreslice::2",
+    "assembly_id": "mc-praha-kreslice",
+    "kodzastup": "538400",
+    "cislo": 2,
+    "nazev": "Křeslice 2030",
+    "zkratka": "SNK",
+    "zkratka30": "Křeslice 2030",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kreslice::3",
+    "assembly_id": "mc-praha-kreslice",
+    "kodzastup": "538400",
+    "cislo": 3,
+    "nazev": "KROK pro Křeslice",
+    "zkratka": "SNK",
+    "zkratka30": "KROK pro Křeslice",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kreslice::4",
+    "assembly_id": "mc-praha-kreslice",
+    "kodzastup": "538400",
+    "cislo": 4,
+    "nazev": "NEZÁVISLÍ PRO KŘESLICE",
+    "zkratka": "SNK",
+    "zkratka30": "NEZÁVISLÍ PRO KŘESLICE",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kunratice::1",
+    "assembly_id": "mc-praha-kunratice",
+    "kodzastup": "547042",
+    "cislo": 1,
+    "nazev": "TOP 09 SPOLU PRO KUNRATICE",
+    "zkratka": "TOP 09+NK",
+    "zkratka30": "TOP 09 SPOLU PRO KUNRATICE",
+    "vstrana": "480",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kunratice::2",
+    "assembly_id": "mc-praha-kunratice",
+    "kodzastup": "547042",
+    "cislo": 2,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kunratice::3",
+    "assembly_id": "mc-praha-kunratice",
+    "kodzastup": "547042",
+    "cislo": 3,
+    "nazev": "Hnutí Praha-Kunratice \"HPK\" v koalici STAN",
+    "zkratka": "STAN+„HPK“",
+    "zkratka30": "Hnutí Praha-Kunratice \"HPK\" v koalici STAN",
+    "vstrana": "1341",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "1042",
+        "nazev": "„Hnutí Praha-Kunratice“",
+        "zkratka": "„HPK“"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kunratice::4",
+    "assembly_id": "mc-praha-kunratice",
+    "kodzastup": "547042",
+    "cislo": 4,
+    "nazev": "Kunratice sobě",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "Kunratice sobě",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-kunratice::5",
+    "assembly_id": "mc-praha-kunratice",
+    "kodzastup": "547042",
+    "cislo": 5,
+    "nazev": "ODS a Přátelé, s podporou KDU-ČSL",
+    "zkratka": "KDU-ČSL+ODS",
+    "zkratka30": "ODS a Přátelé, s podporou KDU-ČSL",
+    "vstrana": "210",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-libus::1",
+    "assembly_id": "mc-praha-libus",
+    "kodzastup": "547051",
+    "cislo": 1,
+    "nazev": "PATRIOTI LIBUŠE A PÍSNICE",
+    "zkratka": "SOCD+SPD+PRO+NK",
+    "zkratka30": "PATRIOTI LIBUŠE A PÍSNICE",
+    "vstrana": "1863",
+    "typ": "D",
+    "pocet_subjektu": 4,
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1265",
+        "nazev": "PRO Právo Respekt Odbornost",
+        "zkratka": "PRO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-libus::2",
+    "assembly_id": "mc-praha-libus",
+    "kodzastup": "547051",
+    "cislo": 2,
+    "nazev": "SPOLEČNĚ PRO LIBUŠ A PÍSNICI",
+    "zkratka": "KDU-ČSL+ODS+NK",
+    "zkratka30": "SPOLEČNĚ PRO LIBUŠ A PÍSNICI",
+    "vstrana": "353",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-libus::3",
+    "assembly_id": "mc-praha-libus",
+    "kodzastup": "547051",
+    "cislo": 3,
+    "nazev": "Sdružení nezávislých kandidátů – Radnice pro lidi",
+    "zkratka": "SNK",
+    "zkratka30": "Sdružení nezávislých kandidátů – Radnice pro lidi",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-libus::4",
+    "assembly_id": "mc-praha-libus",
+    "kodzastup": "547051",
+    "cislo": 4,
+    "nazev": "SOUSEDÉ LIBUŠE A PÍSNICE - STAN, TOP 09 A NEZÁVISLÍ",
+    "zkratka": "TOP 09+STAN+NK",
+    "zkratka30": "SOUSEDÉ LIBUŠE A PÍSNICE",
+    "vstrana": "495",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-libus::5",
+    "assembly_id": "mc-praha-libus",
+    "kodzastup": "547051",
+    "cislo": 5,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-lipence::1",
+    "assembly_id": "mc-praha-lipence",
+    "kodzastup": "539449",
+    "cislo": 1,
+    "nazev": "Sdružení pro Lipence",
+    "zkratka": "SNK",
+    "zkratka30": "Sdružení pro Lipence",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-lipence::2",
+    "assembly_id": "mc-praha-lipence",
+    "kodzastup": "539449",
+    "cislo": 2,
+    "nazev": "HaFo Lipaňáků",
+    "zkratka": "SNK",
+    "zkratka30": "HaFo Lipaňáků",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-lipence::3",
+    "assembly_id": "mc-praha-lipence",
+    "kodzastup": "539449",
+    "cislo": 3,
+    "nazev": "ZaLep – Za Lepší Lipence",
+    "zkratka": "SNK",
+    "zkratka30": "ZaLep – Za Lepší Lipence",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-lipence::4",
+    "assembly_id": "mc-praha-lipence",
+    "kodzastup": "539449",
+    "cislo": 4,
+    "nazev": "ODS Lipence",
+    "zkratka": "ODS+NK",
+    "zkratka30": "ODS Lipence",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-lochkov::1",
+    "assembly_id": "mc-praha-lochkov",
+    "kodzastup": "539465",
+    "cislo": 1,
+    "nazev": "\"Sdružení Lochkov 2026\"",
+    "zkratka": "SNK",
+    "zkratka30": "\"Sdružení Lochkov 2026\"",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-lysolaje::1",
+    "assembly_id": "mc-praha-lysolaje",
+    "kodzastup": "547140",
+    "cislo": 1,
+    "nazev": "NAŠE LYSOLAJE S PODPOROU STAROSTŮ",
+    "zkratka": "STAN+NK",
+    "zkratka30": "NAŠE LYSOLAJE S PODPOROU STAROSTŮ",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-lysolaje::2",
+    "assembly_id": "mc-praha-lysolaje",
+    "kodzastup": "547140",
+    "cislo": 2,
+    "nazev": "NEZÁVISLÉ – LYSOLAJE",
+    "zkratka": "SNK",
+    "zkratka30": "NEZÁVISLÉ – LYSOLAJE",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-lysolaje::3",
+    "assembly_id": "mc-praha-lysolaje",
+    "kodzastup": "547140",
+    "cislo": 3,
+    "nazev": "TOP 09 a ODS pro Lysolaje",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "TOP 09 a ODS pro Lysolaje",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-nebusice::1",
+    "assembly_id": "mc-praha-nebusice",
+    "kodzastup": "547158",
+    "cislo": 1,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-nebusice::2",
+    "assembly_id": "mc-praha-nebusice",
+    "kodzastup": "547158",
+    "cislo": 2,
+    "nazev": "Pěkné Nebušice",
+    "zkratka": "SNK",
+    "zkratka30": "Pěkné Nebušice",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-nebusice::3",
+    "assembly_id": "mc-praha-nebusice",
+    "kodzastup": "547158",
+    "cislo": 3,
+    "nazev": "SPOLU pro Nebušice",
+    "zkratka": "ODS+TOP 09",
+    "zkratka30": "SPOLU pro Nebušice",
+    "vstrana": "687",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-nebusice::4",
+    "assembly_id": "mc-praha-nebusice",
+    "kodzastup": "547158",
+    "cislo": 4,
+    "nazev": "Strana soukromníků České republiky",
+    "zkratka": "Soukromníci",
+    "zkratka30": "Strana soukromníků České republiky",
+    "vstrana": "716",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "716",
+        "nazev": "Strana soukromníků České republiky",
+        "zkratka": "Soukromníci"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-nedvezi::1",
+    "assembly_id": "mc-praha-nedvezi",
+    "kodzastup": "538531",
+    "cislo": 1,
+    "nazev": "Sdružení nezávislých kandidátů Nedvězí",
+    "zkratka": "SNK",
+    "zkratka30": "Sdružení nezávislých kandidátů Nedvězí",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-petrovice::1",
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 1,
+    "nazev": "NAŠE PETROVICE – s podporou nezávislých kandidátů a Sociální demokracie",
+    "zkratka": "SOCDEM+NK",
+    "zkratka30": "NAŠE PETROVICE – s podporou NK a SOCDEM",
+    "vstrana": "371",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-petrovice::2",
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 2,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-petrovice::3",
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 3,
+    "nazev": "JSME SDRUŽENÍ OBČANŮ PETROVIC",
+    "zkratka": "TEAM+NK",
+    "zkratka30": "JSME SDRUŽENÍ OBČANŮ PETROVIC",
+    "vstrana": "1846",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1194",
+        "nazev": "„JSME TEAM“",
+        "zkratka": "TEAM"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-petrovice::4",
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 4,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-petrovice::5",
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 5,
+    "nazev": "Žijeme Petrovice",
+    "zkratka": "Piráti+NK",
+    "zkratka30": "Žijeme Petrovice",
+    "vstrana": "541",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-predni-kopanina::1",
+    "assembly_id": "mc-praha-predni-kopanina",
+    "kodzastup": "539589",
+    "cislo": 1,
+    "nazev": "ZA KOPANINU KRÁSNĚJŠÍ S PODPOROU STAN",
+    "zkratka": "STAN+NK",
+    "zkratka30": "ZA KOPANINU KRÁSNĚJŠÍ S PODPOROU STAN",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-reporyje::1",
+    "assembly_id": "mc-praha-reporyje",
+    "kodzastup": "539635",
+    "cislo": 1,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "zkratka30": "ANO 2011",
+    "vstrana": "768",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-reporyje::2",
+    "assembly_id": "mc-praha-reporyje",
+    "kodzastup": "539635",
+    "cislo": 2,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-reporyje::3",
+    "assembly_id": "mc-praha-reporyje",
+    "kodzastup": "539635",
+    "cislo": 3,
+    "nazev": "PŘÍVĚTIVÉ ŘEPORYJE",
+    "zkratka": "KDU+STAN+Piráti",
+    "zkratka30": "PŘÍVĚTIVÉ ŘEPORYJE",
+    "vstrana": "1691",
+    "typ": "koalice",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-reporyje::4",
+    "assembly_id": "mc-praha-reporyje",
+    "kodzastup": "539635",
+    "cislo": 4,
+    "nazev": "TOP 09",
+    "zkratka": "TOP 09",
+    "zkratka30": "TOP 09",
+    "vstrana": "721",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-satalice::1",
+    "assembly_id": "mc-praha-satalice",
+    "kodzastup": "538736",
+    "cislo": 1,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-satalice::2",
+    "assembly_id": "mc-praha-satalice",
+    "kodzastup": "538736",
+    "cislo": 2,
+    "nazev": "ODS, Sportovci a Nezávislí",
+    "zkratka": "ODS+NK",
+    "zkratka30": "ODS, Sportovci a Nezávislí",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-satalice::3",
+    "assembly_id": "mc-praha-satalice",
+    "kodzastup": "538736",
+    "cislo": 3,
+    "nazev": "SATALICE SOBĚ",
+    "zkratka": "SNK",
+    "zkratka30": "SATALICE SOBĚ",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-seberov::1",
+    "assembly_id": "mc-praha-seberov",
+    "kodzastup": "539724",
+    "cislo": 1,
+    "nazev": "PRO LEPŠÍ OBEC S PODPOROU STAROSTŮ A ODS",
+    "zkratka": "ODS+STAN+NK",
+    "zkratka30": "PRO LEPŠÍ OBEC S PODPOROU STAROSTŮ A ODS",
+    "vstrana": "1367",
+    "typ": "D",
+    "pocet_subjektu": 3,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-seberov::2",
+    "assembly_id": "mc-praha-seberov",
+    "kodzastup": "539724",
+    "cislo": 2,
+    "nazev": "TOP 09 a Náš domov dobrá adresa",
+    "zkratka": "TOP 09+NK",
+    "zkratka30": "TOP 09 a Náš domov dobrá adresa",
+    "vstrana": "480",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-slivenec::1",
+    "assembly_id": "mc-praha-slivenec",
+    "kodzastup": "539678",
+    "cislo": 1,
+    "nazev": "Tým pro Slivenec a Holyni",
+    "zkratka": "ODS+NK",
+    "zkratka30": "Tým pro Slivenec a Holyni",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-slivenec::2",
+    "assembly_id": "mc-praha-slivenec",
+    "kodzastup": "539678",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ",
+    "vstrana": "166",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-slivenec::3",
+    "assembly_id": "mc-praha-slivenec",
+    "kodzastup": "539678",
+    "cislo": 3,
+    "nazev": "PŘÍSAHA občanské hnutí",
+    "zkratka": "PŘÍSAHA",
+    "zkratka30": "PŘÍSAHA občanské hnutí",
+    "vstrana": "1245",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-sterboholy::1",
+    "assembly_id": "mc-praha-sterboholy",
+    "kodzastup": "547409",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "zkratka30": "Občanská demokratická strana",
+    "vstrana": "53",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-suchdol::1",
+    "assembly_id": "mc-praha-suchdol",
+    "kodzastup": "547271",
+    "cislo": 1,
+    "nazev": "Sdružení občanů pro rozvoj Suchdola, SORS",
+    "zkratka": "ODS+NK",
+    "zkratka30": "Sdružení občanů pro rozvoj Suchdola, SORS",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-suchdol::2",
+    "assembly_id": "mc-praha-suchdol",
+    "kodzastup": "547271",
+    "cislo": 2,
+    "nazev": "SDRUŽENÍ OBČANŮ SUCHDOLA (SOS)",
+    "zkratka": "SNK",
+    "zkratka30": "SDRUŽENÍ OBČANŮ SUCHDOLA (SOS)",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-suchdol::3",
+    "assembly_id": "mc-praha-suchdol",
+    "kodzastup": "547271",
+    "cislo": 3,
+    "nazev": "Suchdol Srdcem",
+    "zkratka": "SNK",
+    "zkratka30": "Suchdol Srdcem",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-troja::1",
+    "assembly_id": "mc-praha-troja",
+    "kodzastup": "547328",
+    "cislo": 1,
+    "nazev": "TROJSKÝ KŮŇ 2026",
+    "zkratka": "SNK",
+    "zkratka30": "TROJSKÝ KŮŇ 2026",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-ujezd::1",
+    "assembly_id": "mc-praha-ujezd",
+    "kodzastup": "539791",
+    "cislo": 1,
+    "nazev": "Újezdské Fórum Občanů",
+    "zkratka": "SNK",
+    "zkratka30": "Újezdské Fórum Občanů",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-ujezd::2",
+    "assembly_id": "mc-praha-ujezd",
+    "kodzastup": "539791",
+    "cislo": 2,
+    "nazev": "Sdružení vlastníků Újezda a Kateřinek",
+    "zkratka": "Směr+NK",
+    "zkratka30": "Sdružení vlastníků Újezda a Kateřinek",
+    "vstrana": "1921",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1248",
+        "nazev": "Směr Česká republika",
+        "zkratka": "Směr"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-ujezd::3",
+    "assembly_id": "mc-praha-ujezd",
+    "kodzastup": "539791",
+    "cislo": 3,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ PRO ÚJEZD A KATEŘINKY",
+    "zkratka": "STAN+NK",
+    "zkratka30": "STAROSTOVÉ A NEZÁVISLÍ PRO ÚJEZD A KATEŘINKY",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-ujezd::4",
+    "assembly_id": "mc-praha-ujezd",
+    "kodzastup": "539791",
+    "cislo": 4,
+    "nazev": "Normální",
+    "zkratka": "Normální",
+    "zkratka30": "Normální",
+    "vstrana": "1727",
+    "typ": "strana",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "1727",
+        "nazev": "Normální",
+        "zkratka": "Normální"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-ujezd::5",
+    "assembly_id": "mc-praha-ujezd",
+    "kodzastup": "539791",
+    "cislo": 5,
+    "nazev": "ODS a nezávislí kandidáti",
+    "zkratka": "ODS+NK",
+    "zkratka30": "ODS a nezávislí kandidáti",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-ujezd::6",
+    "assembly_id": "mc-praha-ujezd",
+    "kodzastup": "539791",
+    "cislo": 6,
+    "nazev": "KATEŘINKY SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "zkratka30": "KATEŘINKY SOBĚ",
+    "vstrana": "1373",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-velka-chuchle::1",
+    "assembly_id": "mc-praha-velka-chuchle",
+    "kodzastup": "547115",
+    "cislo": 1,
+    "nazev": "LaNka – Lidovci a nezávislí kandidáti",
+    "zkratka": "KDU-ČSL+NK",
+    "zkratka30": "LaNka – Lidovci a nezávislí kandidáti",
+    "vstrana": "355",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-velka-chuchle::2",
+    "assembly_id": "mc-praha-velka-chuchle",
+    "kodzastup": "547115",
+    "cislo": 2,
+    "nazev": "Nezávislí kandidáti a Chuchelští sousedé",
+    "zkratka": "SD-SN+NK",
+    "zkratka30": "Nezávislí kandidáti a Chuchelští sousedé",
+    "vstrana": "427",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "143",
+        "nazev": "Spojení demokraté - Sdružení nezávislých",
+        "zkratka": "SD-SN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-velka-chuchle::3",
+    "assembly_id": "mc-praha-velka-chuchle",
+    "kodzastup": "547115",
+    "cislo": 3,
+    "nazev": "Občanská demokratická strana a nezávislí kandidáti s podporou Lepší Chuchle z.s.",
+    "zkratka": "ODS+NK",
+    "zkratka30": "ODS a NK s podporou Lepší Chuchle z.s.",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-vinor::1",
+    "assembly_id": "mc-praha-vinor",
+    "kodzastup": "539007",
+    "cislo": 1,
+    "nazev": "ODS a NEZÁVISLÍ",
+    "zkratka": "ODS+NK",
+    "zkratka30": "ODS a NEZÁVISLÍ",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-vinor::2",
+    "assembly_id": "mc-praha-vinor",
+    "kodzastup": "539007",
+    "cislo": 2,
+    "nazev": "Mourek s podporou SEN PRO PRAHU S VÁCLAVEM LÁSKOU",
+    "zkratka": "Mourek+NK",
+    "zkratka30": "Mourek s podporou SEN PRO PRAHU S VÁCLAVEM LÁSKOU",
+    "vstrana": "1844",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1260",
+        "nazev": "Mourek – politická strana",
+        "zkratka": "Mourek"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-vinor::3",
+    "assembly_id": "mc-praha-vinor",
+    "kodzastup": "539007",
+    "cislo": 3,
+    "nazev": "Vinořáci – Alternativa pro Vinoř, z.s.",
+    "zkratka": "SNK",
+    "zkratka30": "Vinořáci – Alternativa pro Vinoř, z.s.",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-vinor::4",
+    "assembly_id": "mc-praha-vinor",
+    "kodzastup": "539007",
+    "cislo": 4,
+    "nazev": "SDRUŽENÍ PRO VINOŘ",
+    "zkratka": "STAN+NK",
+    "zkratka30": "SDRUŽENÍ PRO VINOŘ",
+    "vstrana": "470",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-zbraslav::1",
+    "assembly_id": "mc-praha-zbraslav",
+    "kodzastup": "539864",
+    "cislo": 1,
+    "nazev": "Nezávislá Zbraslav",
+    "zkratka": "NEZ+NK",
+    "zkratka30": "Nezávislá Zbraslav",
+    "vstrana": "401",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "88",
+        "nazev": "NEZÁVISLÍ",
+        "zkratka": "NEZ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-zbraslav::2",
+    "assembly_id": "mc-praha-zbraslav",
+    "kodzastup": "539864",
+    "cislo": 2,
+    "nazev": "100pro Zbraslav",
+    "zkratka": "ZelPirPHASOBĚNK",
+    "zkratka30": "100pro Zbraslav",
+    "vstrana": "1920",
+    "typ": "D",
+    "pocet_subjektu": 4,
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-zbraslav::3",
+    "assembly_id": "mc-praha-zbraslav",
+    "kodzastup": "539864",
+    "cislo": 3,
+    "nazev": "ODS a STAN",
+    "zkratka": "ODS+STAN",
+    "zkratka30": "ODS a STAN",
+    "vstrana": "1323",
+    "typ": "koalice",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-zlicin::1",
+    "assembly_id": "mc-praha-zlicin",
+    "kodzastup": "539899",
+    "cislo": 1,
+    "nazev": "Sdružení nezávislých kandidátů s podporou TOP 09",
+    "zkratka": "TOP 09+NK",
+    "zkratka30": "Sdružení nezávislých kandidátů s podporou TOP 09",
+    "vstrana": "480",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-zlicin::2",
+    "assembly_id": "mc-praha-zlicin",
+    "kodzastup": "539899",
+    "cislo": 2,
+    "nazev": "PRO ZLIČÍN A SOBÍN 2026 - sdružení nezávislých kandidátů",
+    "zkratka": "SNK",
+    "zkratka30": "PRO ZLIČÍN A SOBÍN 2026",
+    "vstrana": "90",
+    "typ": "M",
+    "pocet_subjektu": 1,
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  },
+  {
+    "id": "mc-praha-zlicin::3",
+    "assembly_id": "mc-praha-zlicin",
+    "kodzastup": "539899",
+    "cislo": 3,
+    "nazev": "ODS Praha Zličín - Sobín s podporou nezávislých",
+    "zkratka": "ODS+NK",
+    "zkratka30": "ODS Praha Zličín - Sobín s podporou nezávislých",
+    "vstrana": "389",
+    "typ": "D",
+    "pocet_subjektu": 2,
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "research_slug": null
+  }
+]

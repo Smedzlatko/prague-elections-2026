@@ -1,0 +1,27 @@
+{
+  "slug": "turkova-nikola",
+  "name_key": "turkova-nikola",
+  "cele_jmeno": "Mgr. Nikola Turková",
+  "rok_narozeni": 1994,
+  "strana": "STAN",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-12", "list_cislo": 8, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Nikola Turková je advokátka se specializací na fungování měst a rozvoj sportu, podle vlastního popisu na kandidátce „aktivní máma“. Bez dosavadního zastupitelského mandátu v MČ Praha 12; pro volby 2026 vede koaliční listinu Starostové se Změnou pro Prahu 12 (STAN, KDU-ČSL, ZPP 12), na níž kandidují i inkumbenti jako poslanec Tom Philipp (KDU-ČSL) a předseda hnutí Změna pro Prahu 12 Michael Valášek.",
+  "vzdelani": "právo (Mgr.)",
+  "profese": "advokátka",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez výkonné funkce nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 12 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu nebyl dohledán žádný další veřejný záznam o osobě.",
+    "Rok narození odhadnut z udaného věku (32 let v roce 2026)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

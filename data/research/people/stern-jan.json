@@ -1,0 +1,72 @@
+{
+  "slug": "stern-jan",
+  "name_key": "stern-jan",
+  "cele_jmeno": "Ing. Jan Štern",
+  "rok_narozeni": 1953,
+  "strana": "TEAM",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 16,
+      "poradi": 2
+    }
+  ],
+  "role": "top5",
+  "profil": "Jan Štern je televizní dramaturg a producent, vystudoval Vysokou školu ekonomickou v Praze (1977). Po roce 1989 byl poslancem Federálního shromáždění (1990-1992), nejprve za Občanské fórum, později za Občanskou demokratickou alianci. V médiích působil jako šéfredaktor časopisu Forum, vedoucí zpravodajství ČT2 a dramaturg/producent pořadů jako Nadoraz, Aréna a Uvolněte se, prosím; byl také místopředsedou Asociace českých filmových klubů/televizní asociace. V roce 2023 neúspěšně kandidoval na generálního ředitele České televize, poté byl programovým ředitelem ČT2 a od roku 2024 dramaturgem pro dokumentární a nové formáty. Od března 2026 je místopředsedou hnutí JSME TEAM a kandiduje i do Senátu za Prahu 1. Na kandidátce JSME PRAHA je na druhém místě.",
+  "vzdelani": "Vysoká škola ekonomická v Praze (1977)",
+  "profese": "televizní dramaturg a producent (Česká televize), publicista",
+  "politicka_historie": [
+    {
+      "od": "1990",
+      "do": "1992",
+      "funkce": "poslanec Federálního shromáždění (Občanské fórum, později Občanská demokratická aliance)",
+      "organizace": "Federální shromáždění ČSFR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_%C5%A0tern_(producent)"
+    },
+    {
+      "od": "2026-03",
+      "do": null,
+      "funkce": "místopředseda hnutí JSME TEAM",
+      "organizace": "JSME TEAM",
+      "zdroj_url": "https://www.jsme.team/"
+    },
+    {
+      "od": "2026",
+      "do": null,
+      "funkce": "kandidát do Senátu za Prahu 1",
+      "organizace": "JSME TEAM",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_%C5%A0tern_(producent)"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Štern nezastával v komunální politice výkonnou funkci – jde o nového komunálního kandidáta s dlouhou kariérou v médiích a krátkou epizodou federálního poslance před více než 30 lety; podle metodiky bez výkonné komunální funkce skóre null.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Jan Štern (producent)",
+      "url": "https://cs.wikipedia.org/wiki/Jan_%C5%A0tern_(producent)",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "jsme.team: JSME TEAM",
+      "url": "https://www.jsme.team/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Brífová charakteristika 'zakladatel Občanského fóra' nebyla přesně potvrzena - dohledaný zdroj uvádí jen členství/poslanectví za Občanské fórum po roce 1989, nikoli roli zakladatele.",
+    "Důvody a okolnosti jeho přechodu k hnutí JSME TEAM / vzniku kandidátky JSME PRAHA nebyly dohledány nad rámec faktu, že je místopředsedou hnutí."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

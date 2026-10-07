@@ -1,0 +1,52 @@
+{
+  "slug": "dolansky-miroslav",
+  "name_key": "dolansky-miroslav",
+  "cele_jmeno": "Miroslav Dolanský",
+  "rok_narozeni": 1977,
+  "strana": "Svoboda a přímá demokracie (SPD)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 1,
+      "poradi": 2
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Miroslav Dolanský je zastupitel/ka MČ Praha 15, v roce 2022 zvolen/a na listině „Svoboda a přímá demokracie (SPD)“ (2. místo, 718 preferenčních hlasů). Pro volby 2026 kandiduje na listině „SPD, PRO a nezávislí kandidáti pro Prahu 15“ (2. místo). Profesně: technický manažer, zastupitel MČ Praha 15.",
+  "vzdelani": null,
+  "profese": "technický manažer, zastupitel MČ Praha 15",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 15 (zvolen/a za Svoboda a přímá demokracie (SPD))",
+      "organizace": "MČ Praha 15",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 15 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

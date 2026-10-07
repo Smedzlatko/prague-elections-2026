@@ -1,0 +1,53 @@
+{
+  "slug": "janku-tadeas",
+  "name_key": "janku-tadeas",
+  "cele_jmeno": "Tadeáš Janků",
+  "rok_narozeni": 2002,
+  "strana": "Libertariánská strana Voluntia",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 3, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Tadeáš Janků (24 let, bydliště Praha 8) je student matematicko-fyzikální fakulty, PKI konzultant a sebeidentifikovaný „odborník na městské plánování se zkušenostmi ze hry Cities: Skylines“. Je lídrem a kandidátem na primátora za Libertariánskou stranu Voluntia, která v Praze 2026 staví 15kandidátní listinu. Strana se hlásí k libertariánským principům – co nejnižší daně a minimální zásahy státu do života jednotlivce – s vědomím, že na komunální úrovni jde především o hospodaření s rozpočtem, ne o rozsah státní moci. Mezi programové priority strany patří omezení přemíry památkové ochrany, zjednodušení stavebního řízení pro dostupnější bydlení, údržba mostů, doprava a parkování a řešení pozůstatků z komunistické éry. Janků je politickým nováčkem bez dřívější veřejné politické historie.",
+  "vzdelani": "student Matematicko-fyzikální fakulty UK (probíhající)",
+  "profese": "student, PKI konzultant",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Politický nováček bez výkonné funkce, bez historického záznamu.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Chceme, aby daně byly co nejnižší, stát do našich životů zasahoval co nejméně.",
+      "kontext": "Shrnutí ideologie strany Voluntia na kampaňovém webu k volbám 2026.",
+      "zdroj_url": "https://magistrat.voluntia.cz/",
+      "datum": "2026-10-03"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 (data/core/candidates_2026.json)",
+      "url": "https://volby.cz",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Voluntia – kampaňový web pro Prahu 2026",
+      "url": "https://magistrat.voluntia.cz/",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození je dopočten z udaného věku 24 let v brífu k říjnu 2026 (přesné datum narození nedohledáno).",
+    "Žádný nezávislý medailonek, rozhovor ani dřívější politická aktivita Tadeáše Janků se nepodařilo dohledat i přes WebSearch (ověřeno 2026-10-03) – jde o politického nováčka."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

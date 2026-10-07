@@ -1,0 +1,54 @@
+{
+  "slug": "nekolny-stanislav",
+  "name_key": "nekolny-stanislav",
+  "cele_jmeno": "Stanislav Nekolný, MBA",
+  "rok_narozeni": 1975,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 22,
+      "poradi": 19
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Stanislav Nekolný je místostarosta MČ Praha 18 (Letňany) za ANO a člen ZHMP, zvolen ve volbách 2022 (11. místo kandidátky ANO). Podrobnější veřejně dohledatelný politický životopis se v dostupné rešerši nepodařilo ověřit nad rámec údajů z brífu ČSÚ.",
+  "vzdelani": "MBA",
+  "profese": "místostarosta MČ Praha 18 (Letňany)",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "člen ZHMP (ANO, zvolen z 11. místa kandidátky)",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    },
+    {
+      "od": null,
+      "do": null,
+      "funkce": "místostarosta MČ Praha 18 (Letňany)",
+      "organizace": "MČ Praha 18",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "ANO je na magistrátu v opozici bez exekutivní bilance; na úrovni MČ Praha 18 chybí dohledaný zdrojovaný přehled slibů a jejich plnění. Zajímavostí je, že Nekolný i starosta Prahy 18 Zdeněk Kučera (poradi 3 na téže kandidátce ANO) jsou oba z téže MČ – vztah mezi nimi (spolupráce ve vedení MČ) se nepodařilo blíže doložit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat samostatný veřejný profil s daty politické historie.",
+    "Přesný rok narození (1975) je odhad z udaného věku 51 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

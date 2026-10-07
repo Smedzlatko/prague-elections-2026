@@ -1,0 +1,31 @@
+{
+  "slug": "kos-ladislav",
+  "name_key": "kos-ladislav",
+  "cele_jmeno": "Ing. Ladislav Kos",
+  "rok_narozeni": 1958,
+  "strana": "bez politické příslušnosti",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-11", "list_cislo": 7, "poradi": 1}],
+  "role": "inkumbent",
+  "profil": "Ladislav Kos byl senátorem za volební obvod zahrnující Prahu 11 v letech 2016–2022, nyní v důchodu. Podle dat ČSÚ získal i mandát zastupitele MČ Praha 11 v roce 2022 (pozice č. 4, 5995 preferenčních hlasů). Pro volby 2026 vede novou listinu Výzva pro Prahu 11.",
+  "vzdelani": null,
+  "profese": "v důchodu (dříve senátor)",
+  "politicka_historie": [
+    {"od": "2016", "do": "2022", "funkce": "senátor", "organizace": "Senát PČR", "zdroj_url": null},
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel MČ Praha 11", "organizace": "nedohledaná listina z roku 2022", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez dohledaného podkladu o jeho konkrétní zastupitelské agendě v Praze 11 nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 11 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Pod jakou listinou kandidoval a byl zvolen zastupitelem v roce 2022, nebylo dohledáno.",
+    "Vzdělání (obor) nebylo dohledáno.",
+    "Jeho senátorské působení (2016–2022) nebylo v rámci této rešerše blíže doloženo konkrétními výsledky."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

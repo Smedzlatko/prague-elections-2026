@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "nazev": "Komunální volby v Praze 2026",
+  "volby": {
+    "datum": [
+      "2026-10-09",
+      "2026-10-10"
+    ],
+    "hodiny": {
+      "2026-10-09": "14:00–22:00",
+      "2026-10-10": "08:00–14:00"
+    },
+    "poznamka": "Souběžně probíhá 1. kolo senátních voleb ve vybraných obvodech."
+  },
+  "zdroje_dat": [
+    {
+      "nazev": "ČSÚ – otevřená data KV2026 (registrace, stav k 23. 9. 2026)",
+      "url": "https://volby.gov.cz/opendata/kv2026/kv2026_opendata.htm"
+    },
+    {
+      "nazev": "ČSÚ – otevřená data KV2022 (výsledky a mandáty)",
+      "url": "https://volby.gov.cz/opendata/kv2022/kv2022_opendata.htm"
+    }
+  ],
+  "souhrn": {
+    "pocet_zastupitelstev": 58,
+    "pocet_listin": 330,
+    "pocet_kandidatu": 8607,
+    "mandatu_celkem": 1206,
+    "inkumbentu_2022_znovu_kandiduje": 983
+  }
+}

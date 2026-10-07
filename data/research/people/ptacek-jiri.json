@@ -1,0 +1,29 @@
+{
+  "slug": "ptacek-jiri",
+  "name_key": "ptacek-jiri",
+  "cele_jmeno": "Jiří Ptáček",
+  "rok_narozeni": 1979,
+  "strana": "TOP 09",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 12, "poradi": 5}],
+  "role": "inkumbent",
+  "profil": "Jiří Ptáček je radní MČ Praha 3 pro životní prostředí a podnikatel, zastupitel hl. m. Prahy od voleb 2022. Podrobnější veřejně dohledatelný politický životopis (data nástupu do funkcí, předchozí mandáty) se v dostupné rešerši nepodařilo ověřit nad rámec údajů z brífu ČSÚ.",
+  "vzdelani": null,
+  "profese": "radní MČ Praha 3 pro životní prostředí, podnikatel",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel hl. m. Prahy (SPOLU, zvolen přímo)", "organizace": "Hlavní město Praha", "zdroj_url": null},
+    {"od": null, "do": null, "funkce": "radní MČ Praha 3 pro životní prostředí", "organizace": "MČ Praha 3", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Chybí dohledaný zdrojovaný přehled konkrétních slibů a jejich plnění v agendě životního prostředí na Praze 3.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": "Jako podnikatel může mít obchodní zájmy relevantní pro střet zájmů, ale konkrétní firmy se nepodařilo dohledat."},
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat samostatný veřejný profil (Wikipedia, web MČ Praha 3) s daty politické historie.",
+    "Přesný rok narození (1979) je odhad z udaného věku 47 let v brífu k říjnu 2026.",
+    "Chybí informace o podnikatelské činnosti a případném střetu zájmů v agendě životního prostředí."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

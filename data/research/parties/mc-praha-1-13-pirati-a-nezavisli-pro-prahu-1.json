@@ -1,0 +1,134 @@
+{
+  "slug": "mc-praha-1-13-pirati-a-nezavisli-pro-prahu-1",
+  "assembly_id": "mc-praha-1",
+  "list_cislo": 13,
+  "nazev": "Piráti a nezávislí pro Prahu 1",
+  "zkratka": "Piráti",
+  "typ": "sdruzeni nezavislych kandidatu",
+  "slozeni": [
+    "NK",
+    "Piráti"
+  ],
+  "web": "https://praha1.pirati.cz/komunalni-volby-2026/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Programové prohlášení 2026-2030 - Piráti a nezávislí pro Prahu 1 (PDF, verze 04, 28. 6. 2026)",
+        "url": "https://majak.pirati.cz/documents/645/PROGRAM_Pirati_a_nezavisli_Praha1_V04_28-06-2026.pdf",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Třináctistránkový program rozdělený do 13 oblastí: bydlení (rozvoj obecního bytového fondu, ochrana proti zneužití na krátkodobé ubytování), dopady overturismu (úklid, noční klid, využití turistických poplatků pro rezidenty), doprava (humanizace magistrály, ochrana rezidentského parkování, 30 km/h zóny), transparentnost a participace (jmenovité hlasování rady, zveřejňování smluv a investičních záměrů), hospodaření (přehledný rozpočet, kontrola výdajů), životní prostředí a územní rozvoj (revitalizace Malostranského náměstí, Uhelného trhu, Pohořelce, humanizace magistrály), podnikání (podpora služeb pro rezidenty, regulace předzahrádek), senioři, zdravotnictví (udržitelný model Nemocnice Na Františku, renovace polikliniky Palackého), sociální oblast (komunitní plánování, pomoc lidem bez domova), bezpečnost, školství a kultura/sport.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Rozvoj obecního bytového fondu a ochrana proti krátkodobým pronájmům",
+        "popis": "Zpracování koncepce bytové politiky, investice do nákupu/rekonstrukcí/výstavby dostupných bytů, ochrana bytů před zneužitím pro ubytovací podnikání typu Airbnb a vymáhání stávající legislativy.",
+        "citace": "Ponecháme byty v obecním vlastnictví a budeme aktivně rozvíjet obecní bytový fond. ... Budeme chránit byty před zneužíváním pro ubytovací podnikání a důsledně vymáhat stávající legislativu.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Nákup a rekonstrukce bytů je v kompetenci MČ, ale bez čísel (kolik bytů, za kolik) a bez termínů."
+        },
+        "zdroj_url": "https://majak.pirati.cz/documents/645/PROGRAM_Pirati_a_nezavisli_Praha1_V04_28-06-2026.pdf"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Humanizace severojižní magistrály a ochrana rezidentského parkování",
+        "popis": "Přeměna magistrály na městskou třídu, zavedení zón 30 km/h, ochrana rezidentského parkování a omezení parkování pro návštěvníky v modrých zónách.",
+        "citace": "Podpoříme změnu severojižní magistrály v městskou třídu (tzv. humanizace magistrály). ... Zavedeme rychlost 30 km/h v místech, kde to chrání bezpečnost a kvalitu života.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Humanizace magistrály je velký projekt sdílený s hl. m. Prahou, dlouhodobě diskutovaný bez jasného termínu realizace."
+        },
+        "zdroj_url": "https://majak.pirati.cz/documents/645/PROGRAM_Pirati_a_nezavisli_Praha1_V04_28-06-2026.pdf"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Jmenovité hlasování Rady MČ a zveřejňování materiálů",
+        "popis": "Zavedení jmenovitého hlasování rady a komisí se zveřejňovaným odůvodněním, zveřejňování všech materiálů pro radu a zastupitelstvo předem, umožnění zastupitelům přítomnosti na jednání rady.",
+        "citace": "Zavedeme jmenovité hlasování Rady MČ a komisí, zveřejňované včetně odůvodnění. ... Budeme zveřejňovat všechny materiály pro Radu a Zastupitelstvo v předstihu, včetně příloh a analýz.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o procedurální opatření plně v kompetenci rady a zastupitelstva MČ, bez nutnosti vnějšího souhlasu."
+        },
+        "zdroj_url": "https://majak.pirati.cz/documents/645/PROGRAM_Pirati_a_nezavisli_Praha1_V04_28-06-2026.pdf"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Udržitelný model správy Nemocnice Na Františku a renovace polikliniky Palackého",
+        "popis": "Prosazení transparentního a odborně obhajitelného modelu správy Nemocnice Na Františku a příprava renovace polikliniky Palackého.",
+        "citace": "Budeme usilovat o udržitelný, transparentní a odborně obhajitelný model správy Nemocnice Na Františku. ... Připravíme a prosadíme renovaci polikliniky Palackého.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Nemocnice a poliklinika jsou v přímé správě MČ, ale bez rozpočtu a termínu renovace."
+        },
+        "zdroj_url": "https://majak.pirati.cz/documents/645/PROGRAM_Pirati_a_nezavisli_Praha1_V04_28-06-2026.pdf"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2,
+    "oduvodneni": "Celostátní Piráti jsou standardně klasifikováni jako hodnotově liberální/progresivní, ekonomicky středoví; lokální program se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "V roce 2022 kandidovala pod názvem „Piráti a občané z Prahy 1“ a získala 16,26 % a 4 mandáty. Piráti byli jednou z pěti koaličních stran, které v listopadu 2022 zvolily starostkou Terezii Radoměřskou (TOP09+ODS+Piráti+ANO+REZIDENTI1, 16 z 27 hlasů); za Piráty získal post 1. místostarosty Mgr. David Bodeček (gesce kultura, sport, školství, spolky, vnitřní chod úřadu), kandidující jako nezávislý na pirátské listině.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Transparentní a legitimní vedení radnice (obecný pirátský princip, promítnutý do podmínek vstupu do koalice).",
+        "dukaz": "Vstup do koalice byl schválen jen částí místní organizace (13 lidí kolem Bodečka) a byl v rozporu s rozhodnutím celostátního fóra Pirátů, které souhlas nejprve pozastavilo a poté zrušilo; rozhodčí komise strany dala v únoru 2023 zčásti za pravdu kritikům. Jde o doložený vnitrostranický spor o legitimitu, ne o konkrétní programový slib voličům, proto je zařazen jako částečné naplnění, ne jako prokázané porušení.",
+        "zdroj_url": "https://denikn.cz/1089453/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Účast Pirátů v koalici byla od začátku sporná uvnitř samotné strany: podle Deníku N (26. 2. 2023, denikn.cz/1089453) schválilo v listopadu 2022 koaliční vstup jen 13 místních pirátů kolem Davida Bodečka, celostátní pirátské fórum souhlas nejprve pozastavilo a poté zcela zrušilo (mj. kvůli spolupráci s trestně stíhanými zastupiteli ODS a vlivu bývalého starosty Filipa Dvořáka) – Bodeček i přesto hlasoval pro novou radnici a následně vyloučil z klubu kritičku Nikol Švecovou. Rozhodčí komise strany v únoru 2023 rozhodla z větší části ve prospěch kritiků koalice, což ohrozilo stabilitu vedení MČ. Tento vnitrostranický spor je sám o sobě doložen, ale jde o stranicko-procedurální konflikt, ne o plnění/neplnění konkrétního volebního slibu vůči voličům Prahy 1 – pro hodnocení konkrétních slibů chybí nezávislý zdroj."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Spor o legitimitu vstupu do koalice na radnici Prahy 1",
+      "typ": "stranicky",
+      "obdobi": "2022-2023",
+      "popis": "Místní organizace Pirátů v Praze 1 (vedená Davidem Bodečkem) v listopadu 2022 odhlasovala vstup do koalice s ODS, TOP 09, ANO a REZIDENTI 1 a získala post 1. místostarosty. Celostátní pirátské fórum souhlas s koalicí nejprve pozastavilo a poté zrušilo, mimo jiné s odkazem na spolupráci s trestně stíhanými zastupiteli ODS a přetrvávající vliv bývalého starosty Filipa Dvořáka. Bodeček i tak hlasoval pro zvolení nové radnice a následně vyloučil z klubu kritičku koalice Nikol Švecovou. Rozhodčí komise strany dala v únoru 2023 zčásti za pravdu kritikům.",
+      "stav": "bez_zaveru",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Deník N: Koaliční krize na radnici Prahy 1",
+          "url": "https://denikn.cz/1089453/",
+          "datum": "2023-02-26"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 2: program (dohledán jako PDF na majak.pirati.cz) pojmenovává konkrétní opatření ve 13 oblastech, ale většina bodů je bez čísel a termínů – jde o jmenovaná opatření, ne kvantifikované závazky. Doveryhodnost_plneni = 2: samotný vstup do koalice byl provázen vnitrostranickým sporem o legitimitu a prosazen navzdory postoji celostátního fóra, což snižuje důvěryhodnost vedení místní organizace, ale netýká se přímo plnění konkrétních volebních slibů vůči voličům, u kterých chybí nezávislý zdroj. transparentnost = 3 za zveřejněný podrobný program a dohledatelný web místní organizace.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "raiter-tomas"
+  ],
+  "mezery_v_datech": [
+    "Program neobsahuje rozpočtové krytí ani termíny u většiny bodů.",
+    "Nový lídr 2026 Tomáš Raiter nebyl v roce 2022 na kandidátce (tehdejším lídrem byl pravděpodobně David Bodeček) - přesná personální kontinuita s 'Piráti a občané z Prahy 1' z roku 2022 nebyla ověřena mimo inkumbenty uvedené v briefu.",
+    "Nebylo ověřeno, zda a jak byl spor s celostátním fórem Pirátů definitivně urovnán, ani jaký měl další dopad na fungování koalice po únoru 2023."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

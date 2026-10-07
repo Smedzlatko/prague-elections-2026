@@ -1,0 +1,64 @@
+{
+  "assembly_id": "mc-praha-8",
+  "list_cislo": 4,
+  "nazev": "ODS s podporou KDU-ČSL",
+  "zkratka": "ODS",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "KDU-ČSL"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz dostupný formou odkazu ani textu. ODS vedla MČ Praha 8 v letech 2022-2026 se starostou Ondřejem Grosem; na základě koaličních priorit šlo zejména o dostavbu Nové Palmovky a rozvoj Karlína/Rohanského ostrova.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2.0,
+    "hodnotova_osa": 1.0,
+    "oduvodneni": "ODS je celostátně pravicová strana (nižší daně, podpora podnikání), s podporou KDU-ČSL (konzervativnější hodnotová orientace). Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Vedla koalici na Praze 8, starosta Ondřej Gros (ODS).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Dostavba Nové Palmovky",
+        "dukaz": "Zhotovitel PORR byl vybrán v červnu 2025, dokončení plánováno na 2025-2026, tedy ke konci volebního období po letech přípravy.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Nov%C3%A1_Palmovka"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ODS jako vedoucí koaliční síla dovedla k realizaci dostavbu Nové Palmovky, i když až na konci volebního období. Detailní zdrojovaný seznam dalších volebních slibů z roku 2022 a jejich plnění se nepodařilo dohledat.",
+    "zdroje": [
+      {
+        "nazev": "cs.wikipedia.org: Nová Palmovka",
+        "url": "https://cs.wikipedia.org/wiki/Nov%C3%A1_Palmovka",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 2,
+    "oduvodneni": "Program nebyl dohledán v konkrétní podobě (0). Doveryhodnost plnění střední – klíčový dlouhodobý projekt (Nová Palmovka) se pohnul k realizaci, ale s velkým zpožděním způsobeným už dřívějšími spory, ne jen aktuální koalicí.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "gros-ondrej"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 nebyl dohledán.",
+    "Chybí zdrojovaný přehled konkrétních slibů ODS z roku 2022 a jejich individuálního plnění mimo kauzu Nové Palmovky."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-8-4-ods-s-podporou-kdu-csl"
+}

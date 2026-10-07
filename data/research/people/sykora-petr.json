@@ -1,0 +1,30 @@
+{
+  "slug": "sykora-petr",
+  "name_key": "sykora-petr",
+  "cele_jmeno": "Petr Sýkora",
+  "rok_narozeni": 1965,
+  "strana": "ANO",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-11", "list_cislo": 10, "poradi": 1}],
+  "role": "inkumbent",
+  "profil": "Petr Sýkora je předseda fotbalového klubu FK Dukla Jižní Město a trenér mládeže, zastupitel MČ Praha 11 za ANO 2011 (zvolen i v roce 2022, pozice č. 6, 5483 preferenčních hlasů). Pro volby 2026 je novým lídrem ANO 2011 v Praze 11 — nahradil v této roli Ondřeje Prokopa, dřívějšího pražského lídra ANO, který v Praze 11 ani na magistrátu v roce 2026 nekandiduje (v červnu 2026 odstoupil z kandidatury na primátora po medializaci kauzy nezveřejněných bytů a nesrovnalostí v majetkových přiznáních).",
+  "vzdelani": null,
+  "profese": "předseda fotbalového klubu, trenér mládeže",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel MČ Praha 11", "organizace": "ANO 2011", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Působil jako řadový zastupitel koaličního ANO bez exekutivní funkce; bez dohledaného podkladu nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 11 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "Deník N – ANO hledá kandidáta na primátora Prahy, místo Prokopa čtyři jména", "url": "https://denikn.cz/2108889/ano-hleda-kandidata-na-primatora-prahy-miste-prokopa-jsou-zatim-ve-hre-ctyri-jmena/", "datum": "2026-06-26"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obor) a přesný rok narození nejsou nezávisle potvrzeny.",
+    "Konkrétní zastupitelská aktivita za roky 2022–2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

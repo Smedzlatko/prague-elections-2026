@@ -1,0 +1,115 @@
+{
+  "slug": "hlavacek-petr",
+  "name_key": "hlavacek-petr",
+  "cele_jmeno": "doc. Ing. arch. Petr Hlaváček",
+  "rok_narozeni": 1961,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 9,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Architekt a urbanista, dlouholetý pedagog na Fakultě architektury ČVUT. V letech 2015-2016 vedl jako ředitel Institut plánování a rozvoje hl. m. Prahy (IPR), kde měl na starosti přípravu Metropolitního plánu – z funkce byl v září 2016 odvolán kvůli zpoždění příprav a sporu s vedením města. Do komunální politiky vstoupil přes koalici Spojené síly pro Prahu (TOP 09/STAN) ve volbách 2018, od té doby zastává funkci náměstka primátora pro územní rozvoj. Ve volbách 2022 vedl kandidátku STAN a obhájil mandát; od února 2023 je 1. náměstkem primátora pro územní a strategický rozvoj v koalici SPOLU-Piráti-STAN. Pro volby 2026 je jediným lídrem a tváří pražské kandidátky STAN.",
+  "vzdelani": "Fakulta architektury ČVUT v Praze (absolvoval 1985), docent.",
+  "profese": "Architekt, urbanista, vysokoškolský pedagog (FA ČVUT, 1990-2010, proděkan pro rozvoj 2010-2015).",
+  "politicka_historie": [
+    {
+      "od": "2015-01",
+      "do": "2016-09",
+      "funkce": "ředitel Institutu plánování a rozvoje hl. m. Prahy (IPR)",
+      "organizace": "Institut plánování a rozvoje hl. m. Prahy",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Petr_Hlav%C3%A1%C4%8Dek_(architekt)"
+    },
+    {
+      "od": "2018-11",
+      "do": "2022-11",
+      "funkce": "1. náměstek primátora pro územní rozvoj (koalice Spojené síly pro Prahu)",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Petr_Hlav%C3%A1%C4%8Dek_(architekt)"
+    },
+    {
+      "od": "2023-02-16",
+      "do": null,
+      "funkce": "1. náměstek primátora pro územní a strategický rozvoj",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://web.archive.org/web/20230217100451/https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/prazsti_zastupitele_zvolili_novou_radu.html"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Schválení Metropolitního plánu Prahy",
+      "popis": "Jako náměstek pro územní rozvoj vedl tým přípravy nového územního plánu, který zastupitelstvo schválilo 29. 5. 2026 (účinnost od 1. 9. 2026) – nahrazuje plán z roku 1999 a má otevřít prostor pro až 350 tisíc nových bytů, zejména využitím brownfieldů. Primátor Bohuslav Svoboda schválení označil za „jeden z nejdůležitějších kroků pro budoucnost metropole za poslední roky“.",
+      "stav": "dokonceno",
+      "hodnoceni": "Jde o dovršení přípravy, která probíhala od roku 2015 (s přestávkou po jeho odvolání z IPR v roce 2016) a dlouhodobě se posouvala; schválení těsně před volbami 2026 je pro Hlaváčka hlavním kampaňovým argumentem.",
+      "zdroje": [
+        {
+          "nazev": "IPR Praha: Metropolitní plán schválen",
+          "url": "https://iprpraha.cz/metropolitni-plan-schvalen",
+          "datum": "2026-05-29"
+        },
+        {
+          "nazev": "Seznam Zprávy: Praha otevírá cestu k tisícům bytů. Schválila nový Metropolitní plán",
+          "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-reality-ceka-se-na-razitko-pod-sto-tisic-stran-praze-otevre-cestu-k-novym-bytum-307241",
+          "datum": "2026-05-28"
+        }
+      ]
+    },
+    {
+      "nazev": "Pokračování výstavby metra D",
+      "popis": "Jako náměstek odpovědný za územní rozvoj je spoluzodpovědný za přípravu podmínek pro pokračující výstavbu metra D (úsek Pankrác-Ryšánka od 2022, smlouva na úsek Olbrachtova-Nové Dvory podepsána v dubnu 2026).",
+      "stav": "rozpracovano",
+      "hodnoceni": "Projekt pokračuje, ale oproti plánům z roku 2015 (zahájení výstavby 2018) se zprovoznění posunulo na období 2032-2036 a náklady vzrostly z cca 50 na téměř 98 mld. Kč; zpoždění je z větší části dědictvím před rokem 2018 (výkup pozemků, soudní spory), nikoli výhradně výsledkem současného vedení.",
+      "zdroje": [
+        {
+          "nazev": "DPP: Další úsek metra D Olbrachtova-Nové Dvory postaví sdružení vedené společností Subterra",
+          "url": "https://www.dpp.cz/spolecnost/pro-media/tiskove-zpravy/detail/278_3289-dalsi-usek-metra-d-olbrachtova-nove-dvory-postavi-sdruzeni-vedene-spolecnosti-subterra-dpp-podepsal-smlouvu-se-zhotovitelem",
+          "datum": "2026-04-07"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": 4,
+    "oduvodneni": "V klíčové osobní agendě (územní rozvoj, Metropolitní plán) dosáhl Hlaváček hlavního cíle – schválení plánu v roce 2026. U dopravních staveb (metro D) jde o pokračování projektu s posunutými, ale aktuálně plněnými dílčími termíny. Skóre není 5, protože dokončení plánu přišlo až na úplném konci volebního období a dílčí slib 2000 městských bytů nelze ověřit.",
+    "priklady": [
+      {
+        "slib": "Dotáhnout přípravu a schválení Metropolitního plánu",
+        "vysledek": "Schváleno zastupitelstvem 29. 5. 2026, účinné od 1. 9. 2026.",
+        "zdroj_url": "https://iprpraha.cz/metropolitni-plan-schvalen"
+      }
+    ]
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": "Majetková přiznání veřejných funkcionářů hl. m. Prahy nebyla v rámci této rešerše dohledána a ověřena."
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Wikipedie: Petr Hlaváček (architekt)",
+      "url": "https://cs.wikipedia.org/wiki/Petr_Hlav%C3%A1%C4%8Dek_(architekt)",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "IPR Praha: Metropolitní plán schválen",
+      "url": "https://iprpraha.cz/metropolitni-plan-schvalen",
+      "datum": "2026-05-29"
+    },
+    {
+      "nazev": "Starostové.cz: Zastupitelstvo hl. města Prahy",
+      "url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný text a URL archivu odvolání z IPR Praha (2016) v Respektu nebyl dohledán, pouze bibliografický údaj z Wikipedie.",
+    "Majetková přiznání nebyla ověřena."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

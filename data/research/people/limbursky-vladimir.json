@@ -1,0 +1,45 @@
+{
+  "slug": "limbursky-vladimir",
+  "name_key": "limbursky-vladimir",
+  "cele_jmeno": "Vladimír Limburský",
+  "rok_narozeni": 1991,
+  "strana": "Bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 4,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Vladimír Limburský vede kandidátní listinu „STAROSTOVÉ A NEZÁVISLÍ“ pro MČ Praha 15 ve volbách 2026. Profesně: předseda sportovního klubu, trenér karate. Veřejně dohledaný záznam o dřívější politické činnosti nebyl v rešerši nalezen – jde patrně o politického nováčka na úrovni MČ.",
+  "vzdelani": null,
+  "profese": "předseda sportovního klubu, trenér karate",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Chybí dohledaný zdrojovaný přehled konkrétních slibů a jejich plnění; kandidát/ka nemá dohledanou dřívější výkonnou funkci.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 15 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547387",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny.",
+    "Pozor: stejný name_key „limbursky-vladimir“ (odvozený ze jména Vladimír Limburský) sdílí v datech ČSÚ i jiná osoba kandidující v jiné MČ nebo na jiné listině - podle věku a povolání z brífu jde prokazatelně o odlišné lidi; v kandidatury_2026 je uvedena jen tato konkrétní kandidatura."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

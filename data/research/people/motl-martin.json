@@ -1,0 +1,79 @@
+{
+  "slug": "motl-martin",
+  "name_key": "motl-martin",
+  "cele_jmeno": "Martin Motl",
+  "rok_narozeni": 1970,
+  "strana": "bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 19,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Martin Motl je zastupitel MČ Praha 1, předseda jejího Výboru pro participaci a lídr celopražské koaliční listiny REZIDENTI – REBELOVÉ pro změnu Prahy. Podle vlastního životopisu prosadil, aby o části veřejných peněz v participativním rozpočtu Prahy 1 rozhodovali přímo občané včetně dětí. Hnutí REZIDENTI staví kampaň na heslu „Praha patří Pražanům – jsme tu doma“ a klade důraz na vymáhání již existujících pravidel (parkování, hluk, veřejný prostor) spíše než na nové plány a studie. Mimo kandidátní listinu ČSÚ a vlastní web hnutí se nepodařilo dohledat další veřejně dostupný biografický záznam (celostátní média o něm v dostupných zdrojích nepsala).",
+  "vzdelani": null,
+  "profese": "zastupitel MČ Praha 1, předseda Výboru pro participaci",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 1, předseda Výboru pro participaci",
+      "organizace": "MČ Praha 1",
+      "zdroj_url": "https://rezidenti.cz/"
+    },
+    {
+      "od": "2026",
+      "do": null,
+      "funkce": "lídr celopražské listiny REZIDENTI – REBELOVÉ pro změnu Prahy",
+      "organizace": "REZIDENTI",
+      "zdroj_url": "https://rezidenti.cz/"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Participativní rozpočet Prahy 1 s rozhodováním dětí",
+      "popis": "Motl podle vlastního životopisu prosadil, aby o části peněz v participativním rozpočtu MČ Praha 1 mohli rozhodovat i děti, nejen dospělí obyvatelé.",
+      "stav": "dokonceno",
+      "hodnoceni": "Tvrzení pochází z vlastního životopisu kandidáta na kandidátní listině; nezávislé potvrzení rozsahu a fungování opatření v médiích nebylo dohledáno.",
+      "zdroje": [
+        {
+          "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164922",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako předseda výboru (nikoli radní) má omezený výkonný dosah; nezávislý zdrojovaný přehled jeho konkrétní agendy v Praze 1 nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – REZIDENTI – REBELOVÉ pro změnu Prahy",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164922",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "REZIDENTI – web hnutí",
+      "url": "https://rezidenti.cz/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán žádný nezávislý (mediální) zdroj o jeho osobě mimo kandidátní listinu a web hnutí.",
+    "Rok narození je odhad z uvedeného věku 56 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "miksik-radek",
+  "name_key": "miksik-radek",
+  "cele_jmeno": "Radek Mikšík",
+  "rok_narozeni": 1966,
+  "strana": "ANO",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 4, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Radek Mikšík je podnikatel ve stavebnictví, v roce 2022 vedl listinu ANO 2011 v Praze 7 a získal mandát zastupitele s nejvyšším počtem preferenčních hlasů v klubu (1811). Pro rok 2026 znovu vede listinu, nyní jako „ANO s podporou Motoristů“.",
+  "vzdelani": null,
+  "profese": "podnikatel ve stavebnictví, zastupitel MČ Praha 7",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 7, lídr klubu ANO 2011", "organizace": "MČ Praha 7", "zdroj_url": "https://www.praha7.cz/radnice/zastupitelstvo/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Jako opoziční zastupitel bez funkce v radě MČ nemá přímou výkonnou odpovědnost; podrobné hodnocení jeho agendy nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha7.cz - Zastupitelstvo MČ Praha 7", "url": "https://www.praha7.cz/radnice/zastupitelstvo/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 60 let v brífu k říjnu 2026 (1966), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

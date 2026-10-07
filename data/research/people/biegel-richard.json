@@ -1,0 +1,53 @@
+{
+  "slug": "biegel-richard",
+  "name_key": "biegel-richard",
+  "cele_jmeno": "doc. PhDr. Richard Biegel, Ph.D.",
+  "rok_narozeni": 1976,
+  "strana": "BEZPP",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 1,
+      "poradi": 3
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Richard Biegel je historik umění a vysokoškolský pedagog, bez politické příslušnosti kandiduje za hnutí PRAHA 7 SOBĚ. V současném volebním období je zastupitelem MČ Praha 7 a předsedou Komise rozvoje Prahy 7 – tedy klíčové poradní komise k projektům jako Bubny-Zátory. Pro rok 2026 kandiduje na 3. místě listiny; v roce 2022 obdržel 7048 preferenčních hlasů.",
+  "vzdelani": "historie umění, doc., PhDr., Ph.D. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "vysokoškolský pedagog, historik umění, předseda Komise rozvoje MČ Praha 7",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 7, předseda Komise rozvoje",
+      "organizace": "MČ Praha 7",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jde o poradní (nikoliv exekutivní) roli předsedy komise, podrobné hodnocení plnění slibů nebylo dohledáno.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 50 let v brífu k říjnu 2026 (1976), neověřeno.",
+    "Konkrétní působení v Komisi rozvoje (projednané projekty, hlasování) nebylo dohledáno nad rámec brífu ČSÚ."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

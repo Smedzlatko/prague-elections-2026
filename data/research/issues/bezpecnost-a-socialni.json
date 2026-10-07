@@ -1,0 +1,97 @@
+{
+  "slug": "bezpecnost-a-socialni",
+  "nazev": "Bezpečnost a sociální oblast",
+  "popis": "Bezdomovectví a drogová scéna (zejména okolí Hlavního nádraží), Městská policie hl. m. Prahy. Nezávislé aktuální statistiky bezdomovectví v Praze se v dostupném čase nepodařilo dohledat u primárního zdroje.",
+  "fakta": [
+    {
+      "tvrzeni": "Park Vrchlického sady před Hlavním nádražím (lidově přezdívaný „Sherwood“) je dlouhodobě spojován s výskytem bezdomovců, uživatelů drog a mužskou homosexuální prostitucí. Po rekonstrukci odbavovací haly nádraží dokončené v roce 2011 se bezpečnostní situace v samotné hale výrazně zlepšila, problém se ale přesunul do přilehlého parku. Obnova parku byla plánována už od roku 2009, opakovaně odkládána a podle dostupných informací se k roku 2026 plánuje na rok 2028.",
+      "hodnota": "obnova parku Vrchlického sady plánována na rok 2028 (opakovaně odkládáno od 2009)",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD_(Praha)",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Strana Praha sobě ve svém programu pro volby 2026 plánuje proměnu parku před Hlavním nádražím – mimo jiné přivedení tramvajové trati až k budově nádraží a propojení s Václavským náměstím.",
+      "hodnota": "plán na proměnu Vrchlického sadů (volební slib)",
+      "zdroj_url": "https://www.prahasobe.cz/program",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Městská policie hl. m. Prahy byla založena 11. 5. 1992 (zákon o obecní policii), od 3. 6. 1992 reálně fungovala s 87, resp. zpočátku 40 strážníky v Praze 1. K roku 2025 měla 2 054 zaměstnanců. Ředitelem je Ludvík Klema.",
+      "hodnota": "2 054 zaměstnanců (2025)",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/M%C4%9Bstsk%C3%A1_policie_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Podle celostátního sčítání Ministerstva práce a sociálních věcí (jaro 2024) bylo v ČR bez domova cca 18 000 lidí (z toho 12 000 na ulici/noclehárnách, cca 6 000 v azylových domech) – o cca 250 víc než o tři roky dřív. Podle pražského Centra sociálních služeb se bezdomovectví a bytová nouze dotýká přibližně 20 tisíc obyvatel Prahy, z toho 4-5 tisíc lidí žije přímo na ulici; jde o odhad městské organizace, nikoli o nezávislé sčítání.",
+      "hodnota": "ČR celkem cca 18 000 bez domova (MPSV, jaro 2024); Praha cca 20 000 v bytové nouzi, z toho 4 000-5 000 přímo na ulici (odhad CSSP)",
+      "zdroj_url": "https://www.ceskenoviny.cz/zpravy/2293690",
+      "datum": "2026-10-03"
+    },
+    {
+      "tvrzeni": "V roce 2025 bylo v Praze podle Policie ČR registrováno 34 853 trestných činů (nejvíce ze všech krajů; ČR 170 051), objasněno bylo 9 344 skutků, tj. 26,8 % – nejméně ze všech 14 krajů (celorepublikově 45,2 %).",
+      "hodnota": "Praha 2025: 34 853 trestných činů, objasněnost 26,8 % (ČR 45,2 %)",
+      "zdroj_url": "https://policie.gov.cz/soubor/bilance-kriminality-2025-pdf.aspx",
+      "datum": "2026-05-13"
+    },
+    {
+      "tvrzeni": "ČSÚ ve zprávě z 23. 6. 2026 uvádí, že kriminalita v ČR v roce 2025 mírně klesla (pokles v sedmi ze čtrnácti krajů, v absolutních hodnotách nejvýrazněji v Praze).",
+      "hodnota": "pokles registrované kriminality v ČR i v Praze (2025)",
+      "zdroj_url": "https://csu.gov.cz/produkty/kriminalita-v-cesku-loni-mirne-klesla-pribylo-ale-mravnostnich-deliktu",
+      "datum": "2026-06-23"
+    }
+  ],
+  "pozice_stran": [
+    {
+      "list_slug": "magistrat-5-praha-sobe",
+      "pozice": "Chtějí proměnit park před Hlavním nádražím (Vrchlického sady) na „zelenou oázu“ a propojit ho tramvajovou tratí s Václavským náměstím. V souvislosti s bezpečností a korupcí odkazují na vlastní podíl na odhalení kauzy Dozimetr (trestní oznámení podal jejich lídr Adam Scheinherr).",
+      "citace": "Chceme z Vrchlického sadů udělat místo, které v návštěvnících po příjezdu do Prahy zanechá dobrý dojem a místním bude sloužit jako zelená oáza uprostřed města. [...] Kauza Dozimetr se před lety rozjela díky trestnímu oznámení, které podal náš kandidát na primátora Adam Scheinherr.",
+      "zdroj_url": "https://www.prahasobe.cz/program"
+    },
+    {
+      "list_slug": "magistrat-9-starostove-a-nezavisli",
+      "pozice": "270 nových strážníků městské policie: Posílit složky IZS, doplnit 270 chybějících strážníků městské policie a řešit drogovou problematiku prevencí.",
+      "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+    },
+    {
+      "list_slug": "magistrat-14-motoriste-sobe",
+      "pozice": "Bezpečná města: Veřejný pořádek a ochrana obyvatel jako jedna ze čtyř hlavních priorit.",
+      "citace": "Veřejný pořádek a ochrana obyvatel.",
+      "zdroj_url": "https://motoristesobe.cz/komunalni-volby"
+    },
+    {
+      "list_slug": "magistrat-16-jsme-praha",
+      "pozice": "Udržení učitelů a zdravotníků ve městě: Program zmiňuje opatření na udržení pedagogů a zdravotníků v Praze (např. dostupnost bydlení pro tyto profese), bez konkrétních čísel v dostupných zdrojích.",
+      "zdroj_url": "https://www.jsme.team/nase-teamy/praha/"
+    },
+    {
+      "list_slug": "magistrat-22-ano-2011",
+      "pozice": "Posílení městské policie a okrskáři: Zvýšit přítomnost městské policie ve stanicích metra, na sídlištích a v parcích; v každé městské části zavést známé okrskáře; posílit ostrahu ve večerní a noční MHD. Propojit městskou policii se sociálními pracovníky v problémových lokalitách a nabízet lidem v krizi pomoc s ubytováním, léčbou, doklady a návratem do práce.",
+      "zdroj_url": "https://janhusbauer.cz/#program"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Hlavní nádraží (Praha) - Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/Hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD_(Praha)",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Městská policie hlavního města Prahy - Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/M%C4%9Bstsk%C3%A1_policie_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Volební program Praha sobě 2026 (PDF)",
+      "url": "https://www.prahasobe.cz/program",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesnější, nezávisle ověřené sčítání bezdomovců specificky pro Prahu (na rozdíl od celostátního odhadu MPSV a odhadu městské organizace CSSP) nebylo dohledáno u primárního zdroje.",
+    "Konkrétní podoba a rozsah drogové scény v okolí Hlavního nádraží (statistiky Městské policie, Policie ČR, harm reduction programy) nebyla ověřena mimo obecný popis z Wikipedie.",
+    "Případné kontroverze/kauzy Městské policie hl. m. Prahy (zásahy, stížnosti) nebyly dohledány.",
+    "Počet strážníků Městské policie hl. m. Prahy a její rozpočet nebyly doloženy primárním zdrojem (strany slibují např. 270 nových strážníků, výchozí stav nebyl ověřen).",
+    "Pozice listin 7, 10, 12, 24 k bezpečnosti a sociální politice: v programech zachycených v parties/ není samostatná priorita z těchto oblastí."
+  ],
+  "posledni_aktualizace": "2026-10-06"
+}

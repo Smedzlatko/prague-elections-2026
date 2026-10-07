@@ -1,0 +1,29 @@
+{
+  "slug": "kryl-milan",
+  "name_key": "kryl-milan",
+  "cele_jmeno": "Ing. Milan Kryl",
+  "rok_narozeni": 1961,
+  "strana": "BEZPP",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 8, "poradi": 6}],
+  "role": "inkumbent",
+  "profil": "Milan Kryl je jednatel Spolku na ochranu Barrandova, bez politické příslušnosti kandiduje za Piráty. V roce 2022 získal mandát zastupitele MČ Praha 5 s nejvyšším počtem preferenčních hlasů v klubu (3301). Pro rok 2026 kandiduje na 6. místě listiny.",
+  "vzdelani": "Ing. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "jednatel Spolku na ochranu Barrandova, zastupitel MČ Praha 5",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 65 let v brífu k říjnu 2026 (1961), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

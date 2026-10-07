@@ -1,0 +1,28 @@
+{
+  "slug": "nepil-radomir",
+  "name_key": "nepil-radomir",
+  "cele_jmeno": "Radomír Nepil",
+  "rok_narozeni": 1985,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 22, "poradi": 7}],
+  "role": "inkumbent",
+  "profil": "Radomír Nepil je místostarosta MČ Praha 8 za ANO a zastupitel hl. m. Prahy, zvolen ve volbách 2022 (9. místo kandidátky ANO). Podrobnější veřejně dohledatelný politický životopis se v dostupné rešerši nepodařilo ověřit nad rámec údajů z brífu ČSÚ.",
+  "vzdelani": null,
+  "profese": "místostarosta MČ Praha 8",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel hl. m. Prahy (ANO, zvolen z 9. místa kandidátky)", "organizace": "Hlavní město Praha", "zdroj_url": null},
+    {"od": null, "do": null, "funkce": "místostarosta MČ Praha 8", "organizace": "MČ Praha 8", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "ANO je na magistrátu v opozici bez exekutivní bilance; na úrovni MČ Praha 8 chybí dohledaný zdrojovaný přehled slibů a jejich plnění.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat samostatný veřejný profil s daty politické historie.",
+    "Přesný rok narození (1985) je odhad z udaného věku 41 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

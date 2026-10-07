@@ -1,0 +1,48 @@
+{
+  "slug": "sovova-klara",
+  "name_key": "sovova-klara",
+  "cele_jmeno": "Mgr. Klára Sovová",
+  "rok_narozeni": 1966,
+  "strana": "Motoristé sobě",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 14, "poradi": 1},
+    {"assembly_id": "mc-praha-6", "list_cislo": 10, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Advokátka a podnikatelka v oblasti horského cestovního ruchu (spolumajitelka Luční a Labské boudy v Krkonoších), lídryně pražské kandidátky Motoristů sobě pro komunální volby 2026 a zároveň lídryně lokální kandidátky koalice Motoristé sobě a Svobodní v Praze 6. V minulosti vystupovala mediálně v souvislosti s podnikáním v cestovním ruchu; v komunální politice Prahy ani Prahy 6 dosud nepůsobila. V září 2026 se o ní psalo v souvislosti s majetkovou provázaností na firmu řešící ekologickou zátěž v NP Šumava.",
+  "vzdelani": "Právo (Mgr.)",
+  "profese": "advokátka, podnikatelka v horském cestovním ruchu",
+  "politicka_historie": [
+    {"od": "2025", "do": null, "funkce": "členka strany, kandidátka", "organizace": "Motoristé sobě", "zdroj_url": "https://motoristesobe.cz/komunalni-volby"}
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Majetková provázanost se sanačními pracemi v NP Šumava",
+      "typ": "konflikt_zajmu",
+      "obdobi": "2026",
+      "popis": "Deník N upozornil, že Sovová je majetkově zainteresována ve společnosti Dekonta, která prováděla a doporučovala sanační zásahy v areálu v NP Šumava zasaženém únikem toxických látek po armádě — tématu, které veřejně komentoval ministr životního prostředí za Motoristé Igor Červený. Podle serveru Ekolist.cz je Sovová od roku 2000 minoritní akcionářkou s podílem 7,5 % v Dekonta Holding; mandát v dozorčí radě firmy jí skončil v červnu 2026 poté, co oznámila kandidaturu do komunálních voleb. Vláda následně rozhodla, že sanaci provede armáda, ne Dekonta. Nejde o trestní ani přestupkové řízení, pouze o zjištěnou majetkovou provázanost zveřejněnou investigativní žurnalistikou.",
+      "stav": "bez_zaveru",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Generální ředitel Dekonty Karel Petrželka uvedl, že Sovová jako minoritní akcionářka nikdy nerozhodovala o jednotlivých zakázkách ani o běžném řízení firmy. Přímé vyjádření samotné Sovové se v dostupných zdrojích nepodařilo dohledat.",
+      "zdroje": [
+        {"nazev": "Deník N – Jedy na Šumavě: Kdo o sudech věděl, komu vyplatili miliony a jak s tím souvisí politička Motoristů", "url": "https://denikn.cz/2177897/jedy-na-sumave-kdo-o-sudech-vedel-komu-vyplatili-miliony-a-jak-s-tim-souvisi-politicka-motoristu/", "datum": "2026-09-08"},
+        {"nazev": "Ekolist.cz – Dekonta, jež zkoumala oblast s jedy na Šumavě, odmítla spojování s politikou", "url": "https://ekolist.cz/cz/zpravodajstvi/zpravy/dekonta-jez-zkoumala-oblast-s-jedy-na-sumave-odmitla-spojovani-s-politikou", "datum": "2026-09-09"}
+      ]
+    }
+  ],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez výkonné funkce v pražské samosprávě nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": ["spolumajitelka Luční boudy a Labské boudy (Krkonoše)", "minoritní akcionářka (7,5 %) Dekonta Holding od roku 2000, do 6/2026 členka dozorčí rady"], "registr_oznameni_url": null, "poznamka": "Majetkové propojení s Dekontou potvrzeno i vyjádřením generálního ředitele firmy pro Ekolist.cz (9/2026), nejen mediální zprávou Deníku N."},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "Deník N – Jedy na Šumavě", "url": "https://denikn.cz/2177897/jedy-na-sumave-kdo-o-sudech-vedel-komu-vyplatili-miliony-a-jak-s-tim-souvisi-politicka-motoristu/", "datum": "2026-09-08"},
+    {"nazev": "Ekolist.cz – Dekonta, jež zkoumala oblast s jedy na Šumavě, odmítla spojování s politikou", "url": "https://ekolist.cz/cz/zpravodajstvi/zpravy/dekonta-jez-zkoumala-oblast-s-jedy-na-sumave-odmitla-spojovani-s-politikou", "datum": "2026-09-09"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození dohledán jen orientačně (dopočet z uvedeného věku 60 let v kandidátní listině k roku 2026); nepodařilo se potvrdit z nezávislého zdroje.",
+    "Nepodařilo se dohledat přímé vyjádření samotné Sovové k případu Šumava (dostupný je jen komentář generálního ředitele Dekonty)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,6793 @@
+[
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 14,
+    "nazev": "SPOLU pro Prahu (ODS, TOP 09, KDU-ČSL)",
+    "zkratka": "KDU+ODS+TOP 09",
+    "vstrana": "1327",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 5828523,
+    "procent": 24.72,
+    "mandaty": 19
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 21,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 4559782,
+    "procent": 19.33,
+    "mandaty": 14
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 8,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 4180324,
+    "procent": 17.72,
+    "mandaty": 13
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 4,
+    "nazev": "PRAHA SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "vstrana": "1373",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "hlasy": 3472648,
+    "procent": 14.72,
+    "mandaty": 11
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 6,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 1831696,
+    "procent": 7.76,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 16,
+    "nazev": "SPD, Trikolora, Hnutí PES a nezávislí společně pro Prahu",
+    "zkratka": "SPD+Trik+PES+NK",
+    "vstrana": "1545",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      },
+      {
+        "kod": "1244",
+        "nazev": "1244",
+        "zkratka": "1244"
+      }
+    ],
+    "hlasy": 1218622,
+    "procent": 5.16,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 9,
+    "nazev": "Motoristé sobě",
+    "zkratka": "AUTO",
+    "vstrana": "1178",
+    "slozeni": [
+      {
+        "kod": "1178",
+        "nazev": "Motoristé sobě",
+        "zkratka": "AUTO"
+      }
+    ],
+    "hlasy": 540209,
+    "procent": 2.29,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 15,
+    "nazev": "Solidarita – koalice ČSSD, Zelených, Budoucnosti a Idealistů",
+    "zkratka": "Ze+ČSSD+Bud+Ide",
+    "vstrana": "1604",
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "1232",
+        "nazev": "Budoucnost",
+        "zkratka": "Budoucnost"
+      },
+      {
+        "kod": "1233",
+        "nazev": "Hnutí Idealisté",
+        "zkratka": "Idealisté"
+      }
+    ],
+    "hlasy": 475968,
+    "procent": 2.01,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 13,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 347643,
+    "procent": 1.47,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 1,
+    "nazev": "Svobodní",
+    "zkratka": "Svobodní",
+    "vstrana": "714",
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      }
+    ],
+    "hlasy": 281478,
+    "procent": 1.19,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 5,
+    "nazev": "LEPŠÍ PRAHA PRO PRAŽANY – snížení daně z nemovitých věcí o 50%, městská hromadná doprava zdarma, internet zdarma…",
+    "zkratka": "ND+ANS",
+    "vstrana": "1572",
+    "slozeni": [
+      {
+        "kod": "79",
+        "nazev": "Národní demokracie",
+        "zkratka": "ND"
+      },
+      {
+        "kod": "762",
+        "nazev": "762",
+        "zkratka": "762"
+      }
+    ],
+    "hlasy": 207719,
+    "procent": 0.88,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 10,
+    "nazev": "Přísaha s Patrioty",
+    "zkratka": "PatrČR+PŘÍSAHA",
+    "vstrana": "1603",
+    "slozeni": [
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      },
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "hlasy": 195426,
+    "procent": 0.82,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 3,
+    "nazev": "Praha bez chaosu",
+    "zkratka": "P bez chaosu+NK",
+    "vstrana": "1516",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "142",
+        "nazev": "Koalice PRO kraj",
+        "zkratka": "Koal. PRO kraj"
+      }
+    ],
+    "hlasy": 157626,
+    "procent": 0.67,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 7,
+    "nazev": "Volte Pravý Blok - stranu za ODVOLATELNOST politiků a státních úředníků PŘÍMO OBČANY",
+    "zkratka": "PB",
+    "vstrana": "98",
+    "slozeni": [
+      {
+        "kod": "98",
+        "nazev": "Volte Pravý Blok www.cibulka.net",
+        "zkratka": "PB"
+      }
+    ],
+    "hlasy": 2071,
+    "procent": 0.57,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 20,
+    "nazev": "S.O.S. ZA PRÁVA ZVÍŘAT — Demokratická strana zelených - ZA PRÁVA ZVÍŘAT — sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK",
+    "zkratka": "DSZ+NK",
+    "vstrana": "482",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "715",
+        "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT",
+        "zkratka": "DSZ-ZA PR.ZVÍŘ."
+      }
+    ],
+    "hlasy": 42216,
+    "procent": 0.55,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 17,
+    "nazev": "Společnost proti developerské výstavbě v Prokopském údolí",
+    "zkratka": "SPDV",
+    "vstrana": "1041",
+    "slozeni": [
+      {
+        "kod": "1041",
+        "nazev": "Společ. proti develop. výstavbě v Prokop. údolí",
+        "zkratka": "SPDV"
+      }
+    ],
+    "hlasy": 71216,
+    "procent": 0.5,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 2,
+    "nazev": "PRAHA NÁŠ DOMOV",
+    "zkratka": "Rozum+Suver+DOM",
+    "vstrana": "1587",
+    "slozeni": [
+      {
+        "kod": "137",
+        "nazev": "137",
+        "zkratka": "137"
+      },
+      {
+        "kod": "759",
+        "nazev": "ČSSD – Česká suverenita sociální demokracie",
+        "zkratka": "ČSSD"
+      },
+      {
+        "kod": "1221",
+        "nazev": "DOMOV",
+        "zkratka": "DOMOV"
+      }
+    ],
+    "hlasy": 100579,
+    "procent": 0.42,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 12,
+    "nazev": "Urza.cz: Nechceme vaše hlasy; ke svobodě se nelze provolit... Máme jinou vizi. Jdeme jinou cestou.",
+    "zkratka": "Nevolte Urza.cz",
+    "vstrana": "1250",
+    "slozeni": [
+      {
+        "kod": "1250",
+        "nazev": "Urza.cz: Nechceme vaše hlasy",
+        "zkratka": "Nevolte Urza.cz"
+      }
+    ],
+    "hlasy": 1002,
+    "procent": 0.27,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 22,
+    "nazev": "Strana soukromníků ČR, Koruna Česká (monarch. strana Čech, Moravy a Slezska), Konzervat. strana, Klub angaž. nestraníků",
+    "zkratka": "KONSKANMonSoukr",
+    "vstrana": "1571",
+    "slozeni": [
+      {
+        "kod": "24",
+        "nazev": "Konzervativní strana",
+        "zkratka": "KONS"
+      },
+      {
+        "kod": "40",
+        "nazev": "Klub angažovaných nestraníků",
+        "zkratka": "KAN"
+      },
+      {
+        "kod": "55",
+        "nazev": "Koruna Česká (monarch.str.Čech, Moravy a Slezska)",
+        "zkratka": "Koruna Česká"
+      },
+      {
+        "kod": "716",
+        "nazev": "Strana soukromníků České republiky",
+        "zkratka": "Soukromníci"
+      }
+    ],
+    "hlasy": 52497,
+    "procent": 0.22,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 18,
+    "nazev": "Volt",
+    "zkratka": "VČR",
+    "vstrana": "1272",
+    "slozeni": [
+      {
+        "kod": "1272",
+        "nazev": "Volt Česko",
+        "zkratka": "Volt"
+      }
+    ],
+    "hlasy": 4816,
+    "procent": 0.14,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 11,
+    "nazev": "Za bezpečné ulice v Praze",
+    "zkratka": "DSSS+BEZ-UL",
+    "vstrana": "600",
+    "slozeni": [
+      {
+        "kod": "156",
+        "nazev": "156",
+        "zkratka": "156"
+      },
+      {
+        "kod": "761",
+        "nazev": "BEZPEČNÉ ULICE",
+        "zkratka": "BEZ-UL"
+      }
+    ],
+    "hlasy": 4709,
+    "procent": 0.09,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "magistrat",
+    "kodzastup": "554782",
+    "cislo": 19,
+    "nazev": "DOST",
+    "zkratka": "DOST",
+    "vstrana": "1243",
+    "slozeni": [
+      {
+        "kod": "1243",
+        "nazev": "1243",
+        "zkratka": "1243"
+      }
+    ],
+    "hlasy": 1187,
+    "procent": 0.05,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 5,
+    "nazev": "PRAHA 1 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "vstrana": "1373",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "hlasy": 46372,
+    "procent": 22.86,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 9,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 36395,
+    "procent": 17.94,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 2,
+    "nazev": "Piráti a občané z Prahy 1",
+    "zkratka": "Piráti+NK",
+    "vstrana": "541",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 32986,
+    "procent": 16.26,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 6,
+    "nazev": "My, co tady žijeme - Starostové a nezávislí, KDU-ČSL, Iniciativa občanů",
+    "zkratka": "KDU-ČSL+IO+STAN",
+    "vstrana": "1104",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "86",
+        "nazev": "Iniciativa občanů",
+        "zkratka": "IO"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 26673,
+    "procent": 13.15,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 3,
+    "nazev": "Naše PRAHA 1 - ANO 2011, Staroměstská lípa – sdružení občanů a přátel Starého Města a Josefova v Praze, B’nai B’rith…",
+    "zkratka": "ANO+NK",
+    "vstrana": "532",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 19925,
+    "procent": 10.2,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 7,
+    "nazev": "TOP 09",
+    "zkratka": "TOP 09",
+    "vstrana": "721",
+    "slozeni": [
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 15740,
+    "procent": 7.76,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 1,
+    "nazev": "REZIDENTI 1",
+    "zkratka": "ČSSD+NK",
+    "vstrana": "371",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 15426,
+    "procent": 7.6,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 4,
+    "nazev": "PATRIOTI PRO PRAHU 1",
+    "zkratka": "Patrioti ČR+NK",
+    "vstrana": "524",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "hlasy": 6609,
+    "procent": 3.25,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-1",
+    "kodzastup": "500054",
+    "cislo": 8,
+    "nazev": "Radnice pro občany",
+    "zkratka": "SD-SN+NK",
+    "vstrana": "427",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "143",
+        "nazev": "Spojení demokraté - Sdružení nezávislých",
+        "zkratka": "SD-SN"
+      }
+    ],
+    "hlasy": 2694,
+    "procent": 1.32,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 7,
+    "nazev": "Společně pro Prahu 10 - ODS a TOP 09",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 377754,
+    "procent": 27.15,
+    "mandaty": 14
+  },
+  {
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 6,
+    "nazev": "VLASTA a STAN s podporou KDU-ČSL",
+    "zkratka": "KDU-ČSL+STAN+NK",
+    "vstrana": "1404",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 260962,
+    "procent": 18.75,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 2,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 245960,
+    "procent": 17.67,
+    "mandaty": 9
+  },
+  {
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 3,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 233459,
+    "procent": 16.77,
+    "mandaty": 8
+  },
+  {
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 4,
+    "nazev": "SPD, Trikolora a nezávislí kandidáti pro Prahu 10",
+    "zkratka": "SPD+Trikol+NK",
+    "vstrana": "1491",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "hlasy": 108747,
+    "procent": 7.81,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 5,
+    "nazev": "Nezávislí pro Prahu – Zelená pro přátelskou desítku",
+    "zkratka": "SNK ED+NK",
+    "vstrana": "449",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "129",
+        "nazev": "SNK Evropští demokraté",
+        "zkratka": "SNK ED"
+      }
+    ],
+    "hlasy": 63247,
+    "procent": 4.54,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 1,
+    "nazev": "Praha bez chaosu",
+    "zkratka": "PHA bez chaosu",
+    "vstrana": "142",
+    "slozeni": [
+      {
+        "kod": "142",
+        "nazev": "Koalice PRO kraj",
+        "zkratka": "Koal. PRO kraj"
+      }
+    ],
+    "hlasy": 56666,
+    "procent": 4.07,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 8,
+    "nazev": "Solidarita pro Prahu 10",
+    "zkratka": "ČSSD+Zel+Budouc",
+    "vstrana": "1469",
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "1232",
+        "nazev": "Budoucnost",
+        "zkratka": "Budoucnost"
+      }
+    ],
+    "hlasy": 42867,
+    "procent": 3.08,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-10",
+    "kodzastup": "500224",
+    "cislo": 9,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 1689,
+    "procent": 0.68,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 5,
+    "nazev": "Hnutí pro Prahu 11",
+    "zkratka": "HPP 11",
+    "vstrana": "195",
+    "slozeni": [
+      {
+        "kod": "195",
+        "nazev": "Hnutí pro Prahu 11",
+        "zkratka": "HPP 11"
+      }
+    ],
+    "hlasy": 201497,
+    "procent": 26.89,
+    "mandaty": 11
+  },
+  {
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 2,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 186773,
+    "procent": 24.93,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 8,
+    "nazev": "Společně pro Prahu 11 - ODS a nezávislí kandidáti",
+    "zkratka": "ODS+NK",
+    "vstrana": "389",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 82681,
+    "procent": 11.03,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 1,
+    "nazev": "PRAHA 11 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "vstrana": "1373",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "hlasy": 80765,
+    "procent": 10.78,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 7,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 69796,
+    "procent": 9.31,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 6,
+    "nazev": "TOP 09 a Starostové a nezávislí",
+    "zkratka": "TOP+STAN",
+    "vstrana": "659",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 64940,
+    "procent": 8.66,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 3,
+    "nazev": "Robert Vašíček – MY CO TU ŽIJEME: Prosadíme pořádek! Čisté a bezpečné ulice! Zeleň namísto betonu! Úspory namísto…",
+    "zkratka": "ČSNS+NK",
+    "vstrana": "361",
+    "slozeni": [
+      {
+        "kod": "2",
+        "nazev": "Česká strana národně sociální",
+        "zkratka": "ČSNS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 22776,
+    "procent": 3.04,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 4,
+    "nazev": "Koalice pro důstojný život na Jižním Městě",
+    "zkratka": "SvoSPDTrikPESNK",
+    "vstrana": "1628",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      },
+      {
+        "kod": "1244",
+        "nazev": "1244",
+        "zkratka": "1244"
+      }
+    ],
+    "hlasy": 21311,
+    "procent": 2.84,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-11",
+    "kodzastup": "547034",
+    "cislo": 9,
+    "nazev": "Sdružení pro Jižní Město - sociální demokraté, KSČM a nezávislí kandidáti",
+    "zkratka": "KSČM+NK",
+    "vstrana": "387",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 18568,
+    "procent": 2.55,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 6,
+    "nazev": "ODS a TOP 09 společně pro Prahu 12",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 144028,
+    "procent": 25.28,
+    "mandaty": 9
+  },
+  {
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 1,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 138749,
+    "procent": 24.35,
+    "mandaty": 9
+  },
+  {
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 2,
+    "nazev": "Piráti Praha 12",
+    "zkratka": "Piráti+NK",
+    "vstrana": "541",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 120194,
+    "procent": 21.09,
+    "mandaty": 8
+  },
+  {
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 7,
+    "nazev": "PRAHA 12 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "vstrana": "1373",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "hlasy": 63719,
+    "procent": 11.18,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 5,
+    "nazev": "ZMĚNA PRO PRAHU 12 – KOALICE STRAN a NK: hnutí ZMĚNA PRO PRAHU 12, KDU-ČSL,hnutí STAN, KONZER. STRANA-VE VAŠICH SLUŽBÁCH",
+    "zkratka": "KDUKONSSTAZPPNK",
+    "vstrana": "1620",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "24",
+        "nazev": "Konzervativní strana",
+        "zkratka": "KONS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "1274",
+        "nazev": "Změna pro Prahu 12",
+        "zkratka": "ZPP 12"
+      }
+    ],
+    "hlasy": 52434,
+    "procent": 9.2,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 3,
+    "nazev": "OBČANÉ DVANÁCTKY, sdružení nezávislých kandidátů a KSČM",
+    "zkratka": "KSČM+NK",
+    "vstrana": "387",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 32656,
+    "procent": 5.73,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-12",
+    "kodzastup": "547107",
+    "cislo": 4,
+    "nazev": "PŘÍSAHA – občanské hnutí Roberta Šlachty",
+    "zkratka": "PŘÍSAHA",
+    "vstrana": "1245",
+    "slozeni": [
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "hlasy": 17881,
+    "procent": 3.32,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 162280,
+    "procent": 27.72,
+    "mandaty": 11
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 4,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 94653,
+    "procent": 16.17,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 7,
+    "nazev": "Zelení a Piráti pro 13",
+    "zkratka": "Zelení+Piráti",
+    "vstrana": "1066",
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 88287,
+    "procent": 15.08,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 9,
+    "nazev": "PRAHA 13 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "vstrana": "1373",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "hlasy": 64494,
+    "procent": 11.01,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 3,
+    "nazev": "SEN 21 pro Prahu 13 a Společnost proti developerské výstavbě v Prokopském údolí s podporou senátora Václava Lásky",
+    "zkratka": "SPDV+SEN 21",
+    "vstrana": "1546",
+    "slozeni": [
+      {
+        "kod": "1041",
+        "nazev": "Společ. proti develop. výstavbě v Prokop. údolí",
+        "zkratka": "SPDV"
+      },
+      {
+        "kod": "1187",
+        "nazev": "SEN 21",
+        "zkratka": "SEN 21"
+      }
+    ],
+    "hlasy": 55799,
+    "procent": 9.53,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 11,
+    "nazev": "SPD, Trikolora a nezávislí kandidáti pro Prahu 13",
+    "zkratka": "SPD+Trikol+NK",
+    "vstrana": "1491",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "hlasy": 34659,
+    "procent": 5.92,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 10,
+    "nazev": "Společně pro Prahu 13 - TOP 09 a KDU-ČSL",
+    "zkratka": "KDU-ČSL+TOP 09",
+    "vstrana": "1058",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 34250,
+    "procent": 5.85,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 8,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 28553,
+    "procent": 4.87,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 6,
+    "nazev": "PRAHA 13 BEZ CHAOSU",
+    "zkratka": "ČSSDSNKPZdAPBPŘ",
+    "vstrana": "1489",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "129",
+        "nazev": "SNK Evropští demokraté",
+        "zkratka": "SNK ED"
+      },
+      {
+        "kod": "142",
+        "nazev": "Koalice PRO kraj",
+        "zkratka": "Koal. PRO kraj"
+      },
+      {
+        "kod": "785",
+        "nazev": "Zdraví Sport Vzdělání 2012",
+        "zkratka": "PRO Zdraví"
+      },
+      {
+        "kod": "1173",
+        "nazev": "Aliance pro budoucnost",
+        "zkratka": "APB"
+      },
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "hlasy": 11125,
+    "procent": 1.9,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 2,
+    "nazev": "Svobodní",
+    "zkratka": "Svobodní",
+    "vstrana": "714",
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      }
+    ],
+    "hlasy": 6496,
+    "procent": 1.76,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-13",
+    "kodzastup": "539694",
+    "cislo": 5,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 4652,
+    "procent": 1.73,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 4,
+    "nazev": "ODS SPOLU S NEZÁVISLÝMI KANDIDÁTY",
+    "zkratka": "ODS+NK",
+    "vstrana": "389",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 70153,
+    "procent": 20.46,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 10,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 56580,
+    "procent": 16.5,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 8,
+    "nazev": "Sousedé pro Prahu 14",
+    "zkratka": "TOP 09+NK",
+    "vstrana": "480",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 53056,
+    "procent": 15.47,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 1,
+    "nazev": "PRAHA 14 SOBĚ",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 37810,
+    "procent": 11.02,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 7,
+    "nazev": "NAŠE Čtrnáctka",
+    "zkratka": "N14",
+    "vstrana": "1210",
+    "slozeni": [
+      {
+        "kod": "1210",
+        "nazev": "NAŠE Čtrnáctka",
+        "zkratka": "N14"
+      }
+    ],
+    "hlasy": 34062,
+    "procent": 9.93,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 2,
+    "nazev": "Piráti a nezávislí s podporou Zelených",
+    "zkratka": "Zel.+Piráti+NK",
+    "vstrana": "529",
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 32173,
+    "procent": 9.38,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 9,
+    "nazev": "SPD a Trikolora s podporou nezávislých kandidátů pro Prahu 14",
+    "zkratka": "SPD+Trikol+NK",
+    "vstrana": "1491",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "hlasy": 22877,
+    "procent": 6.67,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 3,
+    "nazev": "SRDCEM PRO PRAHU 14 - STAROSTOVÉ A NEZÁVISLÍ, KDU-ČSL",
+    "zkratka": "KDU-ČSL+STAN",
+    "vstrana": "340",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 22706,
+    "procent": 6.62,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 5,
+    "nazev": "ČSSD + PŘÍSAHA – občanské hnutí Roberta Šlachty s podporou hnutí Zdraví Sport Prosperita a SNK Evropští demokraté",
+    "zkratka": "ČSSDSNKPROZPŘÍS",
+    "vstrana": "1544",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "129",
+        "nazev": "SNK Evropští demokraté",
+        "zkratka": "SNK ED"
+      },
+      {
+        "kod": "785",
+        "nazev": "Zdraví Sport Vzdělání 2012",
+        "zkratka": "PRO Zdraví"
+      },
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "hlasy": 6984,
+    "procent": 2.03,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-14",
+    "kodzastup": "547361",
+    "cislo": 6,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 6473,
+    "procent": 1.88,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 6,
+    "nazev": "Patnáctka náš domov – KDU-ČSL, Strana zelených, Naše Obec a nezávislí kandidáti",
+    "zkratka": "KDU+Zel+NAŠE+NK",
+    "vstrana": "1499",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1215",
+        "nazev": "Naše Obec",
+        "zkratka": "NAŠE"
+      }
+    ],
+    "hlasy": 110084,
+    "procent": 37.32,
+    "mandaty": 12
+  },
+  {
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 2,
+    "nazev": "Společně pro Prahu 15",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 66792,
+    "procent": 22.64,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 7,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 48890,
+    "procent": 16.57,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 5,
+    "nazev": "Piráti a občané Prahy 15",
+    "zkratka": "Piráti+NK",
+    "vstrana": "541",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 27913,
+    "procent": 9.46,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 3,
+    "nazev": "SPD a nezávislí pro Prahu 15",
+    "zkratka": "SPD+NK",
+    "vstrana": "1305",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "hlasy": 20948,
+    "procent": 7.1,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 4,
+    "nazev": "NEZÁVISLÍ",
+    "zkratka": "NEZ",
+    "vstrana": "88",
+    "slozeni": [
+      {
+        "kod": "88",
+        "nazev": "NEZÁVISLÍ",
+        "zkratka": "NEZ"
+      }
+    ],
+    "hlasy": 18021,
+    "procent": 6.11,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-15",
+    "kodzastup": "547387",
+    "cislo": 1,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 2284,
+    "procent": 2.0,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-16",
+    "kodzastup": "539601",
+    "cislo": 2,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 27200,
+    "procent": 61.06,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-16",
+    "kodzastup": "539601",
+    "cislo": 3,
+    "nazev": "Společně pro Radotín",
+    "zkratka": "KDU+Zel+TOP+NK",
+    "vstrana": "1344",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 12615,
+    "procent": 28.32,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-16",
+    "kodzastup": "539601",
+    "cislo": 1,
+    "nazev": "Piráti a nezávislí kandidáti",
+    "zkratka": "Piráti+NK",
+    "vstrana": "541",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 4726,
+    "procent": 10.61,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 1,
+    "nazev": "Řepští sousedé",
+    "zkratka": "TOP 09+NK",
+    "vstrana": "480",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 38460,
+    "procent": 26.05,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 6,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 32297,
+    "procent": 21.87,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 10,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 29874,
+    "procent": 20.23,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ PRO ŘEPY",
+    "zkratka": "STAN+NK",
+    "vstrana": "470",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 14565,
+    "procent": 9.86,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 9,
+    "nazev": "KDU-ČSL + PLUS",
+    "zkratka": "KDU-ČSL+PLUS",
+    "vstrana": "1490",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "1174",
+        "nazev": "PLUS",
+        "zkratka": "PLUS"
+      }
+    ],
+    "hlasy": 8843,
+    "procent": 5.99,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 4,
+    "nazev": "ŘEPY SOBĚ",
+    "zkratka": "P bez chaosu+NK",
+    "vstrana": "1516",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "142",
+        "nazev": "Koalice PRO kraj",
+        "zkratka": "Koal. PRO kraj"
+      }
+    ],
+    "hlasy": 8831,
+    "procent": 5.98,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 3,
+    "nazev": "Náš hlas pro Řepy – Sdružení za rozvoj Řep",
+    "zkratka": "SPDManfestPRONK",
+    "vstrana": "1548",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1247",
+        "nazev": "1247",
+        "zkratka": "1247"
+      },
+      {
+        "kod": "1265",
+        "nazev": "PRO Právo Respekt Odbornost",
+        "zkratka": "PRO"
+      }
+    ],
+    "hlasy": 7319,
+    "procent": 4.95,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 8,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 4409,
+    "procent": 2.98,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 5,
+    "nazev": "Česká strana sociálně demokratická",
+    "zkratka": "ČSSD",
+    "vstrana": "7",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      }
+    ],
+    "hlasy": 2729,
+    "procent": 1.84,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-17",
+    "kodzastup": "547174",
+    "cislo": 7,
+    "nazev": "Strana Práv Občanů ZEMANOVCI",
+    "zkratka": "SPOZ",
+    "vstrana": "724",
+    "slozeni": [
+      {
+        "kod": "724",
+        "nazev": "724",
+        "zkratka": "724"
+      }
+    ],
+    "hlasy": 302,
+    "procent": 0.2,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 4,
+    "nazev": "Zdravé Letňany",
+    "zkratka": "KDUZelSTANPRSNK",
+    "vstrana": "1583",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "hlasy": 29811,
+    "procent": 24.76,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 8,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 28483,
+    "procent": 23.66,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 3,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 20014,
+    "procent": 16.62,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 2,
+    "nazev": "Piráti a nezávislí občané",
+    "zkratka": "Piráti+NK",
+    "vstrana": "541",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 12017,
+    "procent": 9.98,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 6,
+    "nazev": "TOP 09",
+    "zkratka": "TOP 09",
+    "vstrana": "721",
+    "slozeni": [
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 10189,
+    "procent": 8.46,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 1,
+    "nazev": "PŘÍSAHA – občanské hnutí Roberta Šlachty a Náš Domov Letňany s podporou Patriotů České republiky",
+    "zkratka": "PŘÍSAHA+NK",
+    "vstrana": "1537",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "hlasy": 8176,
+    "procent": 6.79,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 5,
+    "nazev": "Letňany pro život - Svoboda a přímá demokracie (SPD) a Trikolora",
+    "zkratka": "SPD+Trikolora",
+    "vstrana": "1487",
+    "slozeni": [
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "hlasy": 7572,
+    "procent": 6.29,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-18",
+    "kodzastup": "547417",
+    "cislo": 7,
+    "nazev": "KRÁSNÉ LETŇANY",
+    "zkratka": "APB+NK",
+    "vstrana": "1399",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1173",
+        "nazev": "Aliance pro budoucnost",
+        "zkratka": "APB"
+      }
+    ],
+    "hlasy": 4092,
+    "procent": 3.39,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 2,
+    "nazev": "Sdružení nezávislých kandidátů Kbely náš domov",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 24019,
+    "procent": 63.09,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 5,
+    "nazev": "OK-19",
+    "zkratka": "KDU-ČSL+NK",
+    "vstrana": "355",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 8665,
+    "procent": 22.76,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 3,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 2452,
+    "procent": 6.44,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 4,
+    "nazev": "SPOLEČNĚ pro Kbely",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 2345,
+    "procent": 6.15,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-19",
+    "kodzastup": "547344",
+    "cislo": 1,
+    "nazev": "Změna pro Kbely",
+    "zkratka": "P bez chaosu+NK",
+    "vstrana": "1516",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "142",
+        "nazev": "Koalice PRO kraj",
+        "zkratka": "Koal. PRO kraj"
+      }
+    ],
+    "hlasy": 589,
+    "procent": 2.9,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 3,
+    "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO Prahu 2",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 152561,
+    "procent": 35.6,
+    "mandaty": 14
+  },
+  {
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 4,
+    "nazev": "PRAHA 2 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "vstrana": "1373",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "hlasy": 82207,
+    "procent": 19.18,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 1,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 79371,
+    "procent": 18.52,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 6,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 48733,
+    "procent": 11.37,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 5,
+    "nazev": "Hnutí SPD pro Prahu 2 s podporou Trikolory a nezávislých kandidátů",
+    "zkratka": "SPD+NK",
+    "vstrana": "1305",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "hlasy": 24007,
+    "procent": 5.6,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 7,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 17943,
+    "procent": 5.05,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 2,
+    "nazev": "Dvojka solidární a zelená",
+    "zkratka": "KDU+Zelen.+ČSSD",
+    "vstrana": "699",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      }
+    ],
+    "hlasy": 20233,
+    "procent": 4.72,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-2",
+    "kodzastup": "500089",
+    "cislo": 8,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 3483,
+    "procent": 1.18,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 3,
+    "nazev": "Hnutí Občanů Počernic, PRO Počernice a NEZÁVISLÍ",
+    "zkratka": "NEZ+NK",
+    "vstrana": "401",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "88",
+        "nazev": "NEZÁVISLÍ",
+        "zkratka": "NEZ"
+      }
+    ],
+    "hlasy": 27581,
+    "procent": 24.93,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 7,
+    "nazev": "ODS a TOP 09 s podporou nezávislých kandidátů Horních Počernic",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 26933,
+    "procent": 24.34,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 1,
+    "nazev": "ŠANCE pro Počernice",
+    "zkratka": "Patrioti ČR+NK",
+    "vstrana": "524",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "hlasy": 21670,
+    "procent": 19.58,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 2,
+    "nazev": "SPOLEČNĚ PRO POČERNICE",
+    "zkratka": "SMS+NK",
+    "vstrana": "1316",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1202",
+        "nazev": "Sdružení pro Místní Správu",
+        "zkratka": "SMS"
+      }
+    ],
+    "hlasy": 11390,
+    "procent": 10.29,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 8,
+    "nazev": "Počernice JINAK",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 11238,
+    "procent": 10.15,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 6,
+    "nazev": "Místní pro Horní Počernice",
+    "zkratka": "PRO Zdraví+NK",
+    "vstrana": "566",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "785",
+        "nazev": "Zdraví Sport Vzdělání 2012",
+        "zkratka": "PRO Zdraví"
+      }
+    ],
+    "hlasy": 7159,
+    "procent": 6.47,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 5,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 673,
+    "procent": 3.8,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-20",
+    "kodzastup": "538213",
+    "cislo": 4,
+    "nazev": "POČERŇÁCI A SOUKROMNÍCI",
+    "zkratka": "Soukromníci+NK",
+    "vstrana": "497",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "716",
+        "nazev": "Strana soukromníků České republiky",
+        "zkratka": "Soukromníci"
+      }
+    ],
+    "hlasy": 3986,
+    "procent": 3.6,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 4,
+    "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO ÚJEZD",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 35725,
+    "procent": 56.75,
+    "mandaty": 11
+  },
+  {
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 3,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 10127,
+    "procent": 16.08,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 5,
+    "nazev": "ÚJEZD ŽIJE",
+    "zkratka": "STAN+Piráti+NK",
+    "vstrana": "1483",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 8449,
+    "procent": 13.42,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 2,
+    "nazev": "Otevřený Újezd, KDU-ČSL, Soukromníci a Zelení",
+    "zkratka": "KDU+Zel+Souk+NK",
+    "vstrana": "1602",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "716",
+        "nazev": "Strana soukromníků České republiky",
+        "zkratka": "Soukromníci"
+      }
+    ],
+    "hlasy": 3855,
+    "procent": 6.5,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 6,
+    "nazev": "Patrioti - Trikolora - Přísaha",
+    "zkratka": "PatrČRTrikoPŘÍS",
+    "vstrana": "1550",
+    "slozeni": [
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      },
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "hlasy": 2529,
+    "procent": 4.01,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-21",
+    "kodzastup": "538949",
+    "cislo": 1,
+    "nazev": "Česká strana sociálně demokratická + Zdraví Sport Prosperita + nezávislí kandidáti",
+    "zkratka": "ČSSD+PROZdr+NK",
+    "vstrana": "1498",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "785",
+        "nazev": "Zdraví Sport Vzdělání 2012",
+        "zkratka": "PRO Zdraví"
+      }
+    ],
+    "hlasy": 2259,
+    "procent": 3.58,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 4,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 20648,
+    "procent": 22.44,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 1,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 17201,
+    "procent": 18.69,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 2,
+    "nazev": "DvacetDvojka + SVOBODNÍ",
+    "zkratka": "Svobodní+NK",
+    "vstrana": "477",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      }
+    ],
+    "hlasy": 15764,
+    "procent": 17.13,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 3,
+    "nazev": "Společně pro Prahu 22",
+    "zkratka": "KDU-ČSL+ODS",
+    "vstrana": "210",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 15397,
+    "procent": 16.73,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 8,
+    "nazev": "Občanská kandidátka 22",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 8603,
+    "procent": 9.34,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 5,
+    "nazev": "Praha 22. Naše město.",
+    "zkratka": "Piráti+TOP09+NK",
+    "vstrana": "1331",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 6522,
+    "procent": 7.08,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 6,
+    "nazev": "Šance 22 s podporou hnutí HLAS",
+    "zkratka": "Hlas+NK",
+    "vstrana": "1542",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1220",
+        "nazev": "Hnutí HLAS",
+        "zkratka": "Hlas"
+      }
+    ],
+    "hlasy": 4427,
+    "procent": 4.81,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-22",
+    "kodzastup": "538931",
+    "cislo": 7,
+    "nazev": "Patrioti PRO PRAHU 22",
+    "zkratka": "Patrioti ČR+NK",
+    "vstrana": "524",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "hlasy": 3451,
+    "procent": 3.75,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 7,
+    "nazev": "TOP 09 + Starostové a nezávislí s podporou Žižkov (nejen) sobě",
+    "zkratka": "TOP+STAN",
+    "vstrana": "659",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 191031,
+    "procent": 28.56,
+    "mandaty": 11
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 2,
+    "nazev": "Koalice pro Prahu 3 - ODS, KDU-ČSL",
+    "zkratka": "KDU-ČSL+ODS",
+    "vstrana": "210",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 101468,
+    "procent": 15.17,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 5,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 100092,
+    "procent": 14.96,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 4,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 82161,
+    "procent": 12.28,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 8,
+    "nazev": "PRAHA 3 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "vstrana": "1373",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "hlasy": 48633,
+    "procent": 7.27,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 10,
+    "nazev": "Zelení Praha 3",
+    "zkratka": "Zelení+NK",
+    "vstrana": "364",
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 45003,
+    "procent": 6.72,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 3,
+    "nazev": "Trikolora a hnutí SPD pro Prahu 3",
+    "zkratka": "SPD+Trikol+NK",
+    "vstrana": "1491",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "hlasy": 38892,
+    "procent": 5.81,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 1,
+    "nazev": "PATRIOTI PRO PRAHU 3",
+    "zkratka": "Patrioti ČR+NK",
+    "vstrana": "524",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "hlasy": 37137,
+    "procent": 5.55,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 9,
+    "nazev": "Praha 3 pro všechny – ČSSD a Budoucnost",
+    "zkratka": "ČSSD+Budoucnost",
+    "vstrana": "1580",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "1232",
+        "nazev": "Budoucnost",
+        "zkratka": "Budoucnost"
+      }
+    ],
+    "hlasy": 18551,
+    "procent": 2.77,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 6,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 5760,
+    "procent": 1.25,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-3",
+    "kodzastup": "500097",
+    "cislo": 11,
+    "nazev": "PRAHA BEZ CHAOSU",
+    "zkratka": "P bez chaosu+NK",
+    "vstrana": "1516",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "142",
+        "nazev": "Koalice PRO kraj",
+        "zkratka": "Koal. PRO kraj"
+      }
+    ],
+    "hlasy": 88,
+    "procent": 0.46,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 8,
+    "nazev": "SPOLEČNĚ ODS a TOP 09",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 404504,
+    "procent": 24.99,
+    "mandaty": 13
+  },
+  {
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 6,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 327250,
+    "procent": 20.22,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 7,
+    "nazev": "Praha 4 sobě – sousedé a nezávislí",
+    "zkratka": "Zelení+NK",
+    "vstrana": "364",
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 273219,
+    "procent": 16.88,
+    "mandaty": 8
+  },
+  {
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 9,
+    "nazev": "Piráti a nezávislí",
+    "zkratka": "Piráti+NK",
+    "vstrana": "541",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 247443,
+    "procent": 15.28,
+    "mandaty": 8
+  },
+  {
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 3,
+    "nazev": "SPOLEČNĚ PRO PRAHU 4 – STAROSTOVÉ A NEZÁVISLÍ A KDU - ČSL",
+    "zkratka": "KDU-ČSL+STAN",
+    "vstrana": "340",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 199177,
+    "procent": 12.3,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 5,
+    "nazev": "Pražská čtyřka (P4)",
+    "zkratka": "SPD+Trik+PES+NK",
+    "vstrana": "1545",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      },
+      {
+        "kod": "1244",
+        "nazev": "1244",
+        "zkratka": "1244"
+      }
+    ],
+    "hlasy": 64639,
+    "procent": 3.99,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 1,
+    "nazev": "Svobodní Patrioti pro Prahu 4",
+    "zkratka": "Patrioti ČR+NK",
+    "vstrana": "524",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "hlasy": 43639,
+    "procent": 2.69,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 2,
+    "nazev": "ČSSD a nezávislí: Solidarita pro Prahu 4",
+    "zkratka": "ČSSD+NK",
+    "vstrana": "371",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 37343,
+    "procent": 2.3,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-4",
+    "kodzastup": "500119",
+    "cislo": 4,
+    "nazev": "KOMUNISTICKÁ STRANA ČECH A MORAVY",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 21142,
+    "procent": 2.02,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 4,
+    "nazev": "PRAHA 5 SOBĚ",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 209131,
+    "procent": 21.38,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 7,
+    "nazev": "SPOLEČNĚ PRO PRAHU 5 (ODS, TOP 09)",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 208605,
+    "procent": 21.32,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 12,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 135445,
+    "procent": 13.84,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 8,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 114871,
+    "procent": 11.74,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 6,
+    "nazev": "Koalice SEN 21 pro Prahu 5 se senátorem Václavem Láskou a Společnosti proti developerské výstavbě v Prokopském údolí",
+    "zkratka": "SPDV+SEN 21",
+    "vstrana": "1546",
+    "slozeni": [
+      {
+        "kod": "1041",
+        "nazev": "Společ. proti develop. výstavbě v Prokop. údolí",
+        "zkratka": "SPDV"
+      },
+      {
+        "kod": "1187",
+        "nazev": "SEN 21",
+        "zkratka": "SEN 21"
+      }
+    ],
+    "hlasy": 105102,
+    "procent": 11.01,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 3,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 68285,
+    "procent": 6.98,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 2,
+    "nazev": "Svoboda a přímá demokracie (SPD) s podporou Trikolory",
+    "zkratka": "SPD+NK",
+    "vstrana": "1305",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "hlasy": 46819,
+    "procent": 4.78,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 5,
+    "nazev": "KDU-ČSL, Zelení a Nezávislí",
+    "zkratka": "KDU-ČSL+Zelení",
+    "vstrana": "303",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      }
+    ],
+    "hlasy": 41873,
+    "procent": 4.28,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 1,
+    "nazev": "„Solidarita pro Prahu 5“ Koalice ČSSD a Živá Praha 5, Společnosti pro ochranu Prokopského a Dalejského údolí a nez. kan.",
+    "zkratka": "ČSSD+ŽP5",
+    "vstrana": "1547",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "1199",
+        "nazev": "1199",
+        "zkratka": "1199"
+      }
+    ],
+    "hlasy": 27935,
+    "procent": 2.85,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 9,
+    "nazev": "Svobodní",
+    "zkratka": "Svobodní",
+    "vstrana": "714",
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      }
+    ],
+    "hlasy": 8502,
+    "procent": 1.14,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 11,
+    "nazev": "PŘÍSAHA a SNOP 5",
+    "zkratka": "PŘÍSAHA+NK",
+    "vstrana": "1537",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "hlasy": 6337,
+    "procent": 0.64,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-5",
+    "kodzastup": "500143",
+    "cislo": 10,
+    "nazev": "PRAHA BEZ CHAOSU",
+    "zkratka": "P bez chaosu+NK",
+    "vstrana": "1516",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "142",
+        "nazev": "Koalice PRO kraj",
+        "zkratka": "Koal. PRO kraj"
+      }
+    ],
+    "hlasy": 5149,
+    "procent": 0.61,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 6,
+    "nazev": "Koalice ODS a KDU-ČSL",
+    "zkratka": "KDU-ČSL+ODS",
+    "vstrana": "210",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 333431,
+    "procent": 21.77,
+    "mandaty": 11
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 8,
+    "nazev": "TOP 09",
+    "zkratka": "TOP 09",
+    "vstrana": "721",
+    "slozeni": [
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 225097,
+    "procent": 14.69,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 1,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 210728,
+    "procent": 13.76,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 9,
+    "nazev": "STAN s podporou Zelených",
+    "zkratka": "Zelení+STAN",
+    "vstrana": "1585",
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 199126,
+    "procent": 13.0,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 4,
+    "nazev": "PRAHA 6 SOBĚ",
+    "zkratka": "PRAHA SOBĚ+NK",
+    "vstrana": "1373",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1180",
+        "nazev": "Pražská městská strana PRAHA SOBĚ",
+        "zkratka": "PRAHA SOBĚ"
+      }
+    ],
+    "hlasy": 195058,
+    "procent": 12.73,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 10,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 186380,
+    "procent": 12.73,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 2,
+    "nazev": "Trikolora, hnutí SPD a nezávislí kandidáti pro Prahu 6",
+    "zkratka": "SPD+Trikol+NK",
+    "vstrana": "1491",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "hlasy": 81443,
+    "procent": 5.31,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 5,
+    "nazev": "Solidarita pro Prahu 6 – koalice ČSSD, strany Levice a nestraníků",
+    "zkratka": "ČSSD+Levice",
+    "vstrana": "233",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "74",
+        "nazev": "Levice",
+        "zkratka": "Levice"
+      }
+    ],
+    "hlasy": 40980,
+    "procent": 2.67,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 7,
+    "nazev": "PATRIOTI PRO PRAHU 6",
+    "zkratka": "PbezchaSvobPaČR",
+    "vstrana": "1584",
+    "slozeni": [
+      {
+        "kod": "142",
+        "nazev": "Koalice PRO kraj",
+        "zkratka": "Koal. PRO kraj"
+      },
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "hlasy": 34487,
+    "procent": 2.25,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-6",
+    "kodzastup": "500178",
+    "cislo": 3,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 24577,
+    "procent": 1.6,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 4,
+    "nazev": "PRAHA 7 SOBĚ",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 199745,
+    "procent": 52.99,
+    "mandaty": 18
+  },
+  {
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 5,
+    "nazev": "SPOLEČNĚ PRO PRAHU 7 (ODS A TOP 09)",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 63626,
+    "procent": 16.88,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 3,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 51359,
+    "procent": 13.62,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 2,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 29016,
+    "procent": 7.69,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 6,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 15610,
+    "procent": 4.14,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 1,
+    "nazev": "ZELENÍ a nezávislí",
+    "zkratka": "Zelení+NK",
+    "vstrana": "364",
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 13423,
+    "procent": 3.56,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 8,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 2927,
+    "procent": 1.5,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-7",
+    "kodzastup": "500186",
+    "cislo": 7,
+    "nazev": "Česká strana sociálně demokratická",
+    "zkratka": "ČSSD",
+    "vstrana": "7",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      }
+    ],
+    "hlasy": 1203,
+    "procent": 0.84,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 254745,
+    "procent": 19.28,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 4,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 237578,
+    "procent": 17.98,
+    "mandaty": 9
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 11,
+    "nazev": "8ŽIJE a PRAHA SOBĚ, kandidáti podpoření podpisy občanů",
+    "zkratka": "8žije+NK",
+    "vstrana": "1586",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1263",
+        "nazev": "Osmička žije",
+        "zkratka": "8žije"
+      }
+    ],
+    "hlasy": 225040,
+    "procent": 17.03,
+    "mandaty": 9
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 5,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 153198,
+    "procent": 11.59,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 6,
+    "nazev": "Společně pro Prahu 8 - TOP 09 a Starostové a nezávislí",
+    "zkratka": "TOP+STAN",
+    "vstrana": "659",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 147787,
+    "procent": 11.18,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 12,
+    "nazev": "PATRIOTI PRO PRAHU 8",
+    "zkratka": "Svob+PatrČR+NK",
+    "vstrana": "1549",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "hlasy": 89885,
+    "procent": 6.8,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 2,
+    "nazev": "SPD a Trikolora pro Osmičku",
+    "zkratka": "SPD+Trikolora",
+    "vstrana": "1487",
+    "slozeni": [
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "hlasy": 78981,
+    "procent": 5.97,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 8,
+    "nazev": "Libeňský mourek",
+    "zkratka": "Libeňský mourek",
+    "vstrana": "1260",
+    "slozeni": [
+      {
+        "kod": "1260",
+        "nazev": "Mourek – politická strana",
+        "zkratka": "Mourek"
+      }
+    ],
+    "hlasy": 55873,
+    "procent": 4.22,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 7,
+    "nazev": "ČSSD, KDU-ČSL a Zelení s podporou Osmičky sobě",
+    "zkratka": "KDU+Zelen.+ČSSD",
+    "vstrana": "699",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      }
+    ],
+    "hlasy": 46150,
+    "procent": 3.49,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 10,
+    "nazev": "Komunistická strana Čech a Moravy",
+    "zkratka": "KSČM",
+    "vstrana": "47",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      }
+    ],
+    "hlasy": 17304,
+    "procent": 2.03,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 3,
+    "nazev": "LEPŠÍ OSMIČKA PRO LIDI A ZVÍŘATA",
+    "zkratka": "ND+ANS",
+    "vstrana": "1572",
+    "slozeni": [
+      {
+        "kod": "79",
+        "nazev": "Národní demokracie",
+        "zkratka": "ND"
+      },
+      {
+        "kod": "762",
+        "nazev": "762",
+        "zkratka": "762"
+      }
+    ],
+    "hlasy": 2644,
+    "procent": 1.8,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-8",
+    "kodzastup": "500208",
+    "cislo": 9,
+    "nazev": "Praha 8 bez chaosu s krizovými manažery",
+    "zkratka": "PRO Zdraví+NK",
+    "vstrana": "566",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "785",
+        "nazev": "Zdraví Sport Vzdělání 2012",
+        "zkratka": "PRO Zdraví"
+      }
+    ],
+    "hlasy": 11859,
+    "procent": 0.89,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 3,
+    "nazev": "SPOLEČNĚ pro DEVÍTKU",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 209572,
+    "procent": 43.26,
+    "mandaty": 15
+  },
+  {
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 2,
+    "nazev": "ANO 2011 (s podporou ČSSD)",
+    "zkratka": "ČSSD+ANO",
+    "vstrana": "1452",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 85841,
+    "procent": 17.72,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 1,
+    "nazev": "PRAHA 9 SOBĚ",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 67793,
+    "procent": 13.99,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 5,
+    "nazev": "Česká pirátská strana",
+    "zkratka": "Piráti",
+    "vstrana": "720",
+    "slozeni": [
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 56553,
+    "procent": 11.67,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 4,
+    "nazev": "NAŠE DEVÍTKA - STAROSTOVÉ A NEZÁVISLÍ S PODPOROU KDU-ČSL",
+    "zkratka": "KDU-ČSL+STAN",
+    "vstrana": "340",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 32381,
+    "procent": 6.68,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-9",
+    "kodzastup": "500216",
+    "cislo": 6,
+    "nazev": "SPD, Svobodní a Trikolora pro Prahu 9",
+    "zkratka": "Svob+SPD+Trikol",
+    "vstrana": "1486",
+    "slozeni": [
+      {
+        "kod": "714",
+        "nazev": "Svobodní",
+        "zkratka": "Svobodní"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      },
+      {
+        "kod": "1227",
+        "nazev": "Trikolora",
+        "zkratka": "Trikolora"
+      }
+    ],
+    "hlasy": 32272,
+    "procent": 6.66,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-bechovice",
+    "kodzastup": "538060",
+    "cislo": 1,
+    "nazev": "SPOLEČNĚ pro Běchovice",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 8167,
+    "procent": 100.0,
+    "mandaty": 15
+  },
+  {
+    "assembly_id": "mc-praha-benice",
+    "kodzastup": "538078",
+    "cislo": 1,
+    "nazev": "BENICE – MÍSTO PRO SPOKOJENÝ ŽIVOT",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1685,
+    "procent": 100.0,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-brezineves",
+    "kodzastup": "538124",
+    "cislo": 1,
+    "nazev": "OBČANÉ PRO BŘEZINĚVES - sdružení pro výstavbu ZŠ, Centra služeb a silničního obchvatu Březiněvsi",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 4555,
+    "procent": 74.12,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-brezineves",
+    "kodzastup": "538124",
+    "cislo": 2,
+    "nazev": "SPOLEČNĚ ZA BŘEZINĚVES",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1590,
+    "procent": 25.87,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 1,
+    "nazev": "Společně pro Čakovice",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 31556,
+    "procent": 43.64,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 5,
+    "nazev": "Pro Prahu Čakovice, Miškovice, Třeboradice",
+    "zkratka": "NEZ+NK",
+    "vstrana": "401",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "88",
+        "nazev": "NEZÁVISLÍ",
+        "zkratka": "NEZ"
+      }
+    ],
+    "hlasy": 19465,
+    "procent": 26.92,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 2,
+    "nazev": "ČMT+STAN+KDU",
+    "zkratka": "KDU-ČSL+STAN+NK",
+    "vstrana": "1404",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 12215,
+    "procent": 16.89,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 4,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 8609,
+    "procent": 11.9,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-cakovice",
+    "kodzastup": "547310",
+    "cislo": 3,
+    "nazev": "DOST",
+    "zkratka": "DOST",
+    "vstrana": "1243",
+    "slozeni": [
+      {
+        "kod": "1243",
+        "nazev": "1243",
+        "zkratka": "1243"
+      }
+    ],
+    "hlasy": 455,
+    "procent": 2.2,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-dablice",
+    "kodzastup": "547298",
+    "cislo": 3,
+    "nazev": "ŽIVÉ ĎÁBLICE S PODPOROU STAROSTŮ",
+    "zkratka": "STAN+NK",
+    "vstrana": "470",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 8611,
+    "procent": 44.55,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-dablice",
+    "kodzastup": "547298",
+    "cislo": 1,
+    "nazev": "Volba 2010",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 5802,
+    "procent": 30.01,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-dablice",
+    "kodzastup": "547298",
+    "cislo": 2,
+    "nazev": "Ďáblice Spolu",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 4915,
+    "procent": 25.42,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-dolni-chabry",
+    "kodzastup": "547301",
+    "cislo": 3,
+    "nazev": "18400.CZ S PODPOROU STAROSTŮ",
+    "zkratka": "STAN+NK",
+    "vstrana": "470",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 12145,
+    "procent": 45.03,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-dolni-chabry",
+    "kodzastup": "547301",
+    "cislo": 2,
+    "nazev": "VOLBA PRO CHABRY",
+    "zkratka": "Patrioti ČR+NK",
+    "vstrana": "524",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      }
+    ],
+    "hlasy": 7716,
+    "procent": 28.61,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-dolni-chabry",
+    "kodzastup": "547301",
+    "cislo": 1,
+    "nazev": "Budoucnost pro Chabry",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 4497,
+    "procent": 16.67,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-dolni-chabry",
+    "kodzastup": "547301",
+    "cislo": 4,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 2609,
+    "procent": 9.67,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-dolni-mecholupy",
+    "kodzastup": "547379",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 7657,
+    "procent": 47.17,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-dolni-mecholupy",
+    "kodzastup": "547379",
+    "cislo": 3,
+    "nazev": "Naše Obec",
+    "zkratka": "NAŠE",
+    "vstrana": "1215",
+    "slozeni": [
+      {
+        "kod": "1215",
+        "nazev": "Naše Obec",
+        "zkratka": "NAŠE"
+      }
+    ],
+    "hlasy": 5077,
+    "procent": 31.27,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-dolni-mecholupy",
+    "kodzastup": "547379",
+    "cislo": 2,
+    "nazev": "TOP 09",
+    "zkratka": "TOP 09",
+    "vstrana": "721",
+    "slozeni": [
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 3498,
+    "procent": 21.55,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-dolni-pocernice",
+    "kodzastup": "538175",
+    "cislo": 4,
+    "nazev": "DOLNÍ",
+    "zkratka": "Monarchiste+SMS",
+    "vstrana": "1605",
+    "slozeni": [
+      {
+        "kod": "55",
+        "nazev": "Koruna Česká (monarch.str.Čech, Moravy a Slezska)",
+        "zkratka": "Koruna Česká"
+      },
+      {
+        "kod": "1202",
+        "nazev": "Sdružení pro Místní Správu",
+        "zkratka": "SMS"
+      }
+    ],
+    "hlasy": 4971,
+    "procent": 32.07,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-dolni-pocernice",
+    "kodzastup": "538175",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 4278,
+    "procent": 27.6,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-dolni-pocernice",
+    "kodzastup": "538175",
+    "cislo": 2,
+    "nazev": "Občané Dolních Počernic",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 3562,
+    "procent": 22.98,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-dolni-pocernice",
+    "kodzastup": "538175",
+    "cislo": 3,
+    "nazev": "POČERNICKÁ PATNÁCTKA",
+    "zkratka": "STAN+NK",
+    "vstrana": "470",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 2687,
+    "procent": 17.33,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-dubec",
+    "kodzastup": "538205",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 9745,
+    "procent": 51.42,
+    "mandaty": 8
+  },
+  {
+    "assembly_id": "mc-praha-dubec",
+    "kodzastup": "538205",
+    "cislo": 3,
+    "nazev": "ANO 2011",
+    "zkratka": "ANO",
+    "vstrana": "768",
+    "slozeni": [
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 5524,
+    "procent": 29.14,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-dubec",
+    "kodzastup": "538205",
+    "cislo": 2,
+    "nazev": "ČSSD a nezávislí kandidáti pro Prahu – Dubeč",
+    "zkratka": "ČSSD+NK",
+    "vstrana": "371",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 3682,
+    "procent": 19.42,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 1,
+    "nazev": "KLIDNÉ KLÁNOVICE 22",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 6229,
+    "procent": 28.75,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 2,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 4783,
+    "procent": 22.08,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 5,
+    "nazev": "ČAS PRO KLÁNOVICE - Sdružení strany LES a nezávislých kandidátů s podporou Pirátů",
+    "zkratka": "Piráti+LES+NK",
+    "vstrana": "552",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      },
+      {
+        "kod": "795",
+        "nazev": "Liberálně ekologická strana",
+        "zkratka": "LES"
+      }
+    ],
+    "hlasy": 4550,
+    "procent": 21.0,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 3,
+    "nazev": "VIVAT KLÁNOVICE",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 2838,
+    "procent": 13.1,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 6,
+    "nazev": "STAN KLÁNOVICE",
+    "zkratka": "STAN+NK",
+    "vstrana": "470",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 1737,
+    "procent": 8.01,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-klanovice",
+    "kodzastup": "538302",
+    "cislo": 4,
+    "nazev": "HLAS KLÁNOVIC, sdružení KDU-ČSL, ČSSD a nezávislých kandidátů",
+    "zkratka": "KDU-ČSL+ČSSD+NK",
+    "vstrana": "424",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1523,
+    "procent": 7.03,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-kolodeje",
+    "kodzastup": "538353",
+    "cislo": 3,
+    "nazev": "Naděje pro Koloděje",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 2933,
+    "procent": 67.62,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-kolodeje",
+    "kodzastup": "538353",
+    "cislo": 1,
+    "nazev": "MUDr. Martin Vlček, Ph.D.",
+    "zkratka": "NK",
+    "vstrana": "80",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 179,
+    "procent": 28.89,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-kolodeje",
+    "kodzastup": "538353",
+    "cislo": 2,
+    "nazev": "TJ Slavoj Koloděje",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1225,
+    "procent": 28.24,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-kolovraty",
+    "kodzastup": "538361",
+    "cislo": 2,
+    "nazev": "NAŠE KOLOVRATY",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 15881,
+    "procent": 75.43,
+    "mandaty": 12
+  },
+  {
+    "assembly_id": "mc-praha-kolovraty",
+    "kodzastup": "538361",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 5172,
+    "procent": 24.56,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-kralovice",
+    "kodzastup": "538388",
+    "cislo": 1,
+    "nazev": "SDRUŽENÍ NAŠE KRÁLOVICE 2022",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 619,
+    "procent": 100.0,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-kreslice",
+    "kodzastup": "538400",
+    "cislo": 2,
+    "nazev": "Okolo Křeslic",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 2133,
+    "procent": 47.09,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-kreslice",
+    "kodzastup": "538400",
+    "cislo": 3,
+    "nazev": "MY ZA KŘESLICE",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1361,
+    "procent": 30.05,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-kreslice",
+    "kodzastup": "538400",
+    "cislo": 1,
+    "nazev": "Společně pro Křeslice - ODS a nezávislí kandidáti",
+    "zkratka": "ODS+NK",
+    "vstrana": "389",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1035,
+    "procent": 22.85,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-kunratice",
+    "kodzastup": "547042",
+    "cislo": 4,
+    "nazev": "„Hnutí Praha-Kunratice“",
+    "zkratka": "„HPK“",
+    "vstrana": "1042",
+    "slozeni": [
+      {
+        "kod": "1042",
+        "nazev": "„Hnutí Praha-Kunratice“",
+        "zkratka": "„HPK“"
+      }
+    ],
+    "hlasy": 16760,
+    "procent": 52.45,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-kunratice",
+    "kodzastup": "547042",
+    "cislo": 2,
+    "nazev": "KUNRATICE SOBĚ",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 8583,
+    "procent": 26.86,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-kunratice",
+    "kodzastup": "547042",
+    "cislo": 3,
+    "nazev": "Společně pro Kunratice ODS a KDU-ČSL",
+    "zkratka": "KDU-ČSL+ODS",
+    "vstrana": "210",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 4777,
+    "procent": 14.95,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-kunratice",
+    "kodzastup": "547042",
+    "cislo": 1,
+    "nazev": "TOP 09",
+    "zkratka": "TOP 09",
+    "vstrana": "721",
+    "slozeni": [
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 1830,
+    "procent": 5.72,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-libus",
+    "kodzastup": "547051",
+    "cislo": 1,
+    "nazev": "Spojené síly pro Libuš a Písnici - TOP 09, STAN a nezávislí kandidáti",
+    "zkratka": "TOP 09+STAN+NK",
+    "vstrana": "495",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 20745,
+    "procent": 47.47,
+    "mandaty": 8
+  },
+  {
+    "assembly_id": "mc-praha-libus",
+    "kodzastup": "547051",
+    "cislo": 2,
+    "nazev": "SPOLEČNĚ PRO LIBUŠ A PÍSNICI. Koalice ODS, KDU-ČSL a nezávislých kandidátů",
+    "zkratka": "KDU-ČSL+ODS+NK",
+    "vstrana": "353",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 12001,
+    "procent": 27.46,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-libus",
+    "kodzastup": "547051",
+    "cislo": 3,
+    "nazev": "Patrioti Libuše a Písnice - ANO 2011, ČSSD a nezávislí kandidáti",
+    "zkratka": "ANO+NK",
+    "vstrana": "532",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "768",
+        "nazev": "ANO 2011",
+        "zkratka": "ANO"
+      }
+    ],
+    "hlasy": 10949,
+    "procent": 25.05,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-lipence",
+    "kodzastup": "539449",
+    "cislo": 2,
+    "nazev": "Sdružení pro Lipence",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 5123,
+    "procent": 29.87,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-lipence",
+    "kodzastup": "539449",
+    "cislo": 5,
+    "nazev": "HaFo Lipaňáků",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 4669,
+    "procent": 27.22,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-lipence",
+    "kodzastup": "539449",
+    "cislo": 1,
+    "nazev": "SPOLU pro Lipence (ODS, KDU-ČSL, TOP 09)",
+    "zkratka": "KDU+ODS+TOP 09",
+    "vstrana": "1327",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 2895,
+    "procent": 16.88,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-lipence",
+    "kodzastup": "539449",
+    "cislo": 4,
+    "nazev": "ZaLep – Za Lepší Lipence",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 2563,
+    "procent": 14.94,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-lipence",
+    "kodzastup": "539449",
+    "cislo": 3,
+    "nazev": "Lipenečtí nezávislí patrioti",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1899,
+    "procent": 11.07,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-lochkov",
+    "kodzastup": "539465",
+    "cislo": 1,
+    "nazev": "„Sdružení Lochkov 2022“",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1965,
+    "procent": 100.0,
+    "mandaty": 9
+  },
+  {
+    "assembly_id": "mc-praha-lysolaje",
+    "kodzastup": "547140",
+    "cislo": 2,
+    "nazev": "Nezávislí - Lysolaje",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 3222,
+    "procent": 61.81,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-lysolaje",
+    "kodzastup": "547140",
+    "cislo": 1,
+    "nazev": "Sdružení nezávislých kandidátů - Lysolaje",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1341,
+    "procent": 25.72,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-lysolaje",
+    "kodzastup": "547140",
+    "cislo": 3,
+    "nazev": "SPOLU pro Lysolaje",
+    "zkratka": "KDU+ODS+TOP 09",
+    "vstrana": "1327",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 649,
+    "procent": 16.0,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-nebusice",
+    "kodzastup": "547158",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 7225,
+    "procent": 75.58,
+    "mandaty": 9
+  },
+  {
+    "assembly_id": "mc-praha-nebusice",
+    "kodzastup": "547158",
+    "cislo": 1,
+    "nazev": "Strana soukromníků České republiky",
+    "zkratka": "Soukromníci",
+    "vstrana": "716",
+    "slozeni": [
+      {
+        "kod": "716",
+        "nazev": "Strana soukromníků České republiky",
+        "zkratka": "Soukromníci"
+      }
+    ],
+    "hlasy": 2334,
+    "procent": 24.41,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-nedvezi",
+    "kodzastup": "538531",
+    "cislo": 1,
+    "nazev": "Sdružení nezávislých kandidátů Nedvězí",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 495,
+    "procent": 100.0,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 1,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 7493,
+    "procent": 29.14,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 6,
+    "nazev": "Sdružení občanů Petrovic",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 6409,
+    "procent": 24.92,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 5,
+    "nazev": "Změna – občané Petrovic a Piráti",
+    "zkratka": "Piráti+NK",
+    "vstrana": "541",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 3886,
+    "procent": 15.11,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 2,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 3354,
+    "procent": 13.04,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 4,
+    "nazev": "Společně pro Petrovice",
+    "zkratka": "KDU-ČSL+TOP 09",
+    "vstrana": "1058",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 2852,
+    "procent": 11.09,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-petrovice",
+    "kodzastup": "547395",
+    "cislo": 3,
+    "nazev": "Sdružení občanů Petrovic s podporou České strany sociálně demokratické",
+    "zkratka": "ČSSD+NK",
+    "vstrana": "371",
+    "slozeni": [
+      {
+        "kod": "7",
+        "nazev": "Sociální demokracie",
+        "zkratka": "SOCDEM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1714,
+    "procent": 6.66,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-predni-kopanina",
+    "kodzastup": "539589",
+    "cislo": 1,
+    "nazev": "ZA KOPANINU KRÁSNĚJŠÍ S PODPOROU STAN",
+    "zkratka": "STAN+NK",
+    "vstrana": "470",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 1120,
+    "procent": 100.0,
+    "mandaty": 9
+  },
+  {
+    "assembly_id": "mc-praha-reporyje",
+    "kodzastup": "539635",
+    "cislo": 5,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 7506,
+    "procent": 37.13,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-reporyje",
+    "kodzastup": "539635",
+    "cislo": 2,
+    "nazev": "NEZÁVISLÍ PRO ŘEPORYJE",
+    "zkratka": "STAN+NK",
+    "vstrana": "470",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 6317,
+    "procent": 31.25,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-reporyje",
+    "kodzastup": "539635",
+    "cislo": 1,
+    "nazev": "Občané za lepší Řeporyje bez zbytečného betonu a neúspěšných komiků",
+    "zkratka": "Piráti+NK",
+    "vstrana": "541",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 2895,
+    "procent": 14.32,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-reporyje",
+    "kodzastup": "539635",
+    "cislo": 4,
+    "nazev": "TOP 09",
+    "zkratka": "TOP 09",
+    "vstrana": "721",
+    "slozeni": [
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 2443,
+    "procent": 12.08,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-reporyje",
+    "kodzastup": "539635",
+    "cislo": 3,
+    "nazev": "KDU-ČSL",
+    "zkratka": "KDU-ČSL",
+    "vstrana": "1",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      }
+    ],
+    "hlasy": 1052,
+    "procent": 5.2,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-satalice",
+    "kodzastup": "538736",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 5244,
+    "procent": 52.23,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-satalice",
+    "kodzastup": "538736",
+    "cislo": 1,
+    "nazev": "SATALICE SOBĚ",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 3236,
+    "procent": 32.23,
+    "mandaty": 4
+  },
+  {
+    "assembly_id": "mc-praha-satalice",
+    "kodzastup": "538736",
+    "cislo": 3,
+    "nazev": "SPOLU",
+    "zkratka": "KDU+ODS+TOP 09",
+    "vstrana": "1327",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 1560,
+    "procent": 15.53,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-seberov",
+    "kodzastup": "539724",
+    "cislo": 1,
+    "nazev": "PRO LEPŠÍ OBEC A STAN",
+    "zkratka": "STAN+NK",
+    "vstrana": "470",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 11036,
+    "procent": 65.51,
+    "mandaty": 11
+  },
+  {
+    "assembly_id": "mc-praha-seberov",
+    "kodzastup": "539724",
+    "cislo": 3,
+    "nazev": "TOP 09 a Náš Domov - dobrá adresa",
+    "zkratka": "TOP 09+NK",
+    "vstrana": "480",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 3853,
+    "procent": 22.87,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-seberov",
+    "kodzastup": "539724",
+    "cislo": 2,
+    "nazev": "Společně ODS a nezávislí",
+    "zkratka": "ODS+NK",
+    "vstrana": "389",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1957,
+    "procent": 11.61,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-slivenec",
+    "kodzastup": "539678",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+    "zkratka": "STAN",
+    "vstrana": "166",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 10343,
+    "procent": 66.23,
+    "mandaty": 8
+  },
+  {
+    "assembly_id": "mc-praha-slivenec",
+    "kodzastup": "539678",
+    "cislo": 1,
+    "nazev": "SPOLU pro Slivenec (ODS, KDU-ČSL, TOP 09)",
+    "zkratka": "KDU+ODS+TOP 09",
+    "vstrana": "1327",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 3498,
+    "procent": 22.4,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-slivenec",
+    "kodzastup": "539678",
+    "cislo": 3,
+    "nazev": "Nová síla pro Slivenec",
+    "zkratka": "PatrČR+PŘÍSAHA",
+    "vstrana": "1603",
+    "slozeni": [
+      {
+        "kod": "1004",
+        "nazev": "Patrioti České republiky",
+        "zkratka": "Patrioti ČR"
+      },
+      {
+        "kod": "1245",
+        "nazev": "PŘÍSAHA občanské hnutí",
+        "zkratka": "PŘÍSAHA"
+      }
+    ],
+    "hlasy": 1774,
+    "procent": 11.36,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-sterboholy",
+    "kodzastup": "547409",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 3629,
+    "procent": 100.0,
+    "mandaty": 9
+  },
+  {
+    "assembly_id": "mc-praha-suchdol",
+    "kodzastup": "547271",
+    "cislo": 1,
+    "nazev": "SDRUŽENÍ OBČANŮ SUCHDOLA (SOS)",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 23164,
+    "procent": 74.77,
+    "mandaty": 12
+  },
+  {
+    "assembly_id": "mc-praha-suchdol",
+    "kodzastup": "547271",
+    "cislo": 2,
+    "nazev": "JUDr. Milan Listík, LL.M., M.JAE – nezávislý kandidát",
+    "zkratka": "NK",
+    "vstrana": "80",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 643,
+    "procent": 31.13,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-suchdol",
+    "kodzastup": "547271",
+    "cislo": 3,
+    "nazev": "Koalice SPOLU pro Suchdol",
+    "zkratka": "KDU+ODS+TOP 09",
+    "vstrana": "1327",
+    "slozeni": [
+      {
+        "kod": "1",
+        "nazev": "KDU-ČSL",
+        "zkratka": "KDU-ČSL"
+      },
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 7173,
+    "procent": 23.15,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-troja",
+    "kodzastup": "547328",
+    "cislo": 1,
+    "nazev": "TROJSKÝ KŮŇ 2022",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 3731,
+    "procent": 78.43,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-troja",
+    "kodzastup": "547328",
+    "cislo": 2,
+    "nazev": "SPOLEČNĚ pro Troju (TOP 09, ODS a nezávislí)",
+    "zkratka": "ODS+TOP 09+NK",
+    "vstrana": "523",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 1026,
+    "procent": 21.56,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-ujezd",
+    "kodzastup": "539791",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 6300,
+    "procent": 56.08,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-ujezd",
+    "kodzastup": "539791",
+    "cislo": 2,
+    "nazev": "STAROSTOVÉ A NEZÁVISLÍ A TOP 09",
+    "zkratka": "TOP+STAN",
+    "vstrana": "659",
+    "slozeni": [
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 4932,
+    "procent": 43.91,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-velka-chuchle",
+    "kodzastup": "547115",
+    "cislo": 4,
+    "nazev": "Lepší Chuchle",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 4869,
+    "procent": 47.39,
+    "mandaty": 6
+  },
+  {
+    "assembly_id": "mc-praha-velka-chuchle",
+    "kodzastup": "547115",
+    "cislo": 5,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 2157,
+    "procent": 20.99,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-velka-chuchle",
+    "kodzastup": "547115",
+    "cislo": 2,
+    "nazev": "Chuchelští sousedé",
+    "zkratka": "SD-SN+NK",
+    "vstrana": "427",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "143",
+        "nazev": "Spojení demokraté - Sdružení nezávislých",
+        "zkratka": "SD-SN"
+      }
+    ],
+    "hlasy": 1686,
+    "procent": 16.41,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-velka-chuchle",
+    "kodzastup": "547115",
+    "cislo": 3,
+    "nazev": "Nezávislí",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 1562,
+    "procent": 15.2,
+    "mandaty": 1
+  },
+  {
+    "assembly_id": "mc-praha-velka-chuchle",
+    "kodzastup": "547115",
+    "cislo": 1,
+    "nazev": "TOP 09 a nezávislí kandidáti",
+    "zkratka": "TOP 09+NK",
+    "vstrana": "480",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 0,
+    "procent": 0.0,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-vinor",
+    "kodzastup": "539007",
+    "cislo": 3,
+    "nazev": "SDRUŽENÍ PRO VINOŘ",
+    "zkratka": "STAN+NK",
+    "vstrana": "470",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      }
+    ],
+    "hlasy": 11148,
+    "procent": 51.06,
+    "mandaty": 8
+  },
+  {
+    "assembly_id": "mc-praha-vinor",
+    "kodzastup": "539007",
+    "cislo": 1,
+    "nazev": "Občanská demokratická strana",
+    "zkratka": "ODS",
+    "vstrana": "53",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      }
+    ],
+    "hlasy": 7451,
+    "procent": 34.13,
+    "mandaty": 5
+  },
+  {
+    "assembly_id": "mc-praha-vinor",
+    "kodzastup": "539007",
+    "cislo": 2,
+    "nazev": "Libeňský mourek",
+    "zkratka": "Libeňský mourek",
+    "vstrana": "1260",
+    "slozeni": [
+      {
+        "kod": "1260",
+        "nazev": "Mourek – politická strana",
+        "zkratka": "Mourek"
+      }
+    ],
+    "hlasy": 3232,
+    "procent": 14.8,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-zbraslav",
+    "kodzastup": "539864",
+    "cislo": 2,
+    "nazev": "Nezávislá Zbraslav",
+    "zkratka": "NEZ+NK",
+    "vstrana": "401",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "88",
+        "nazev": "NEZÁVISLÍ",
+        "zkratka": "NEZ"
+      }
+    ],
+    "hlasy": 24692,
+    "procent": 42.02,
+    "mandaty": 8
+  },
+  {
+    "assembly_id": "mc-praha-zbraslav",
+    "kodzastup": "539864",
+    "cislo": 4,
+    "nazev": "100pro Zbraslav",
+    "zkratka": "Zel+STAN+Pir+NK",
+    "vstrana": "562",
+    "slozeni": [
+      {
+        "kod": "5",
+        "nazev": "Strana zelených",
+        "zkratka": "Zelení"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "166",
+        "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+        "zkratka": "STAN"
+      },
+      {
+        "kod": "720",
+        "nazev": "Česká pirátská strana",
+        "zkratka": "Piráti"
+      }
+    ],
+    "hlasy": 23848,
+    "procent": 40.58,
+    "mandaty": 7
+  },
+  {
+    "assembly_id": "mc-praha-zbraslav",
+    "kodzastup": "539864",
+    "cislo": 3,
+    "nazev": "Společně pro Zbraslav (ODS, TOP 09)",
+    "zkratka": "ODS+TOP 09",
+    "vstrana": "687",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 7719,
+    "procent": 13.13,
+    "mandaty": 2
+  },
+  {
+    "assembly_id": "mc-praha-zbraslav",
+    "kodzastup": "539864",
+    "cislo": 1,
+    "nazev": "Občané Zbraslavi s podporou KSČM a SPD",
+    "zkratka": "KSČM+SPD+NK",
+    "vstrana": "1606",
+    "slozeni": [
+      {
+        "kod": "47",
+        "nazev": "Komunistická strana Čech a Moravy",
+        "zkratka": "KSČM"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "1114",
+        "nazev": "Svoboda a přímá demokracie (SPD)",
+        "zkratka": "SPD"
+      }
+    ],
+    "hlasy": 2495,
+    "procent": 4.81,
+    "mandaty": 0
+  },
+  {
+    "assembly_id": "mc-praha-zlicin",
+    "kodzastup": "539899",
+    "cislo": 1,
+    "nazev": "Pro Zličín a Sobín",
+    "zkratka": "SNK",
+    "vstrana": "90",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 16932,
+    "procent": 62.82,
+    "mandaty": 10
+  },
+  {
+    "assembly_id": "mc-praha-zlicin",
+    "kodzastup": "539899",
+    "cislo": 3,
+    "nazev": "ODS společně s nezávislými",
+    "zkratka": "ODS+NK",
+    "vstrana": "389",
+    "slozeni": [
+      {
+        "kod": "53",
+        "nazev": "Občanská demokratická strana",
+        "zkratka": "ODS"
+      },
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      }
+    ],
+    "hlasy": 5503,
+    "procent": 20.41,
+    "mandaty": 3
+  },
+  {
+    "assembly_id": "mc-praha-zlicin",
+    "kodzastup": "539899",
+    "cislo": 2,
+    "nazev": "Sdružení nezávislých kandidátů s podporou TOP 09",
+    "zkratka": "TOP 09+NK",
+    "vstrana": "480",
+    "slozeni": [
+      {
+        "kod": "80",
+        "nazev": "Nezávislý kandidát",
+        "zkratka": "NK"
+      },
+      {
+        "kod": "721",
+        "nazev": "TOP 09",
+        "zkratka": "TOP 09"
+      }
+    ],
+    "hlasy": 4518,
+    "procent": 16.76,
+    "mandaty": 2
+  }
+]

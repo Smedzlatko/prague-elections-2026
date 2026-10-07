@@ -1,0 +1,54 @@
+{
+  "slug": "kolar-jan",
+  "name_key": "kolar-jan",
+  "cele_jmeno": "Bc. Jan Kolář",
+  "rok_narozeni": 1984,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 22,
+      "poradi": 22
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Jan Kolář je místostarosta MČ Praha 2 za ANO a zastupitel hl. m. Prahy, zvolen ve volbách 2022 (5. místo kandidátky ANO). Podrobnější veřejně dohledatelný politický životopis se v dostupné rešerši nepodařilo ověřit nad rámec údajů z brífu ČSÚ – stejnojmenná osoba na české Wikipedii neodpovídá tomuto politikovi.",
+  "vzdelani": null,
+  "profese": "místostarosta MČ Praha 2",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel hl. m. Prahy (ANO, zvolen z 5. místa kandidátky)",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    },
+    {
+      "od": null,
+      "do": null,
+      "funkce": "místostarosta MČ Praha 2",
+      "organizace": "MČ Praha 2",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "ANO je na magistrátu v opozici bez exekutivní bilance; na úrovni MČ Praha 2 chybí dohledaný zdrojovaný přehled slibů a jejich plnění.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat samostatný veřejný profil s daty politické historie.",
+    "Přesný rok narození (1984) je odhad z udaného věku 42 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

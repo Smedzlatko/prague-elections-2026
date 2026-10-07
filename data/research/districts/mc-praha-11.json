@@ -1,0 +1,124 @@
+{
+  "assembly_id": "mc-praha-11",
+  "nazev": "Praha 11",
+  "charakteristika": "Praha 11 tvoří katastrální území Chodov a Háje v jihovýchodní části Prahy, cca 8 km od centra. Je prakticky totožná s největším pražským panelovým sídlištěm Jižní Město (Jižní Město I a II, lidově „Jižňák“), které vznikalo od 70. let 20. století. Žije tu přes 78 000 obyvatel. Území obsluhuje metro C (Roztyly, Opatov, Háje, Chodov) a dominuje mu obchodní centrum Westfield Chodov (otevřeno 2005, rozšířeno 2017). Klíčová lokální témata se dlouhodobě týkají regenerace sídliště, občanské vybavenosti (KC Zahrada, Chodovec) a hospodaření městské části.",
+  "soucasna_koalice": {
+    "obdobi": "2022–2026",
+    "strany": ["Hnutí pro Prahu 11 (do 12/2023)", "PRAHA 11 SOBĚ", "ANO 2011", "ODS (Spolu pro Prahu 11)"],
+    "starosta": {
+      "jmeno": "Ing. Martin Sedeke",
+      "strana": "ODS",
+      "slug": "sedeke-martin"
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Praha_11"
+  },
+  "zmeny_v_obdobi": [
+    "21. 12. 2022: Šárka Zdeňková (Hnutí pro Prahu 11) zvolena starostkou v čele koalice HPP 11, Praha 11 sobě, ANO 2011 a ODS. Zdroj: cs.wikipedia.org/wiki/Šárka_Zdeňková.",
+    "5.–7. 12. 2023: Piráti vypověděli koalici a zastupitelstvo (19 z 35 hlasů) odvolalo Zdeňkovou z funkce starostky. Opozice i odstupující koaliční partneři jako důvod uváděli neřešení kauzy ubytovny Sandra (hrozba ztráty cca 180 mil. Kč dotace), blokování a odmítání navýšit dotaci kulturní společnosti Jižní Město a nevhodné chování k úředníkům. Zdeňková důvody označila za „vykonstruované“ a tvrdila, že šlo o odvetu za její snahu o transparentní vztahy k městským společnostem. Zdroj: denikn.cz/minuta/1302364/ (7. 12. 2023).",
+    "MČ byla bez řádně zvoleného starosty přibližně půl roku; kdo přesně úřad v mezidobí dočasně vedl, se v rámci této rešerše nepodařilo doložit (mezera).",
+    "13. 6. 2024: zastupitelstvo zvolilo starostou Martina Sedeke (ODS), dosavadního místostarostu pro územní rozvoj. Zdroj: denikn.cz/minuta/1452094/ (13. 6. 2024).",
+    "15. 2. 2024: zastupitelstvo (19 z 35 hlasů) odvolalo radního pro majetek Jiřího Dohnala (Piráti) – Piráti tak ztratili poslední zastoupení v radě MČ. Šlo o jeho druhé odvolání z funkce v tomto období (poprvé odvolán 20. 4. 2023, do funkce se vrátil 8. 6. 2023). Návrh podala bývalá radní Ivana Hovorková (HPP 11) s odůvodněním, že Piráti destabilizovali radu odvoláním starostky Zdeňkové a že Dohnalova práce byla nekvalitní; opozice mu konkrétně vyčítala neřešené parkování u rekonstruované ubytovny Sandra. Dohnal odvolání označil za účelové „vyřizování účtů“. Zdroje: blesk.cz (15. 2. 2024), prazsky.denik.cz (21. 2. 2024).",
+    "Od 13. 6. 2024 vede MČ tzv. menšinová rada Martina Sedeke (ODS) bez formální koaliční smlouvy, s podporou 11 z 35 zastupitelů; ad hoc hlasovací podporu poskytují i opoziční ANO 2011 a TOP 09–STAN, aniž by byly formálně členy koalice/rady. Zdroj: denikn.cz/minuta/1452094/ (13. 6. 2024)."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Odvolání starostky Zdeňkové a stabilita koalice",
+      "popis": "Necelý rok po zvolení byla starostka Šárka Zdeňková (HPP 11) v prosinci 2023 odvolána zastupitelstvem po rozpadu koalice s Piráty. Předsedkyně HPP 11 pro volby 2026 kandiduje už jen na celopražské kandidátce SEN PRO PRAHU.",
+      "proc_zalezi": "Ukazuje na nestabilitu místní politiky a je klíčovým testem důvěryhodnosti HPP 11 i jejích koaličních partnerů pro voliče v roce 2026.",
+      "zdroje": [
+        {"nazev": "Deník N – odvolání starostky Prahy 11 (7. 12. 2023)", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"},
+        {"nazev": "Deník N – nový starosta Sedeke (13. 6. 2024)", "url": "https://denikn.cz/minuta/1452094/", "datum": "2024-06-13"}
+      ]
+    },
+    {
+      "nazev": "Ubytovna Sandra a dotace",
+      "popis": "Spor o řešení bývalé ubytovny Sandra, u které hrozila ztráta dotace v řádu cca 180 milionů Kč kvůli zpoždění stavby, byl jedním z hlavních důvodů, které opozice uváděla pro odvolání starostky Zdeňkové na konci roku 2023, a následně i jedním z vyčítaných témat při druhém odvolání radního Jiřího Dohnala v únoru 2024 (neřešené parkování v okolí). Rekonstrukce byla nakonec dokončena (174 bytů pro rodiny a seniory), dotace z fondu rozvoje bydlení hl. m. Prahy (373 mil. Kč dotace + 200 mil. Kč půjčka vůči celkovým nákladům cca 750 mil. Kč) nebyla ztracena.",
+      "proc_zalezi": "Jde o výrazný finanční risk pro rozpočet MČ, který se nakonec nenaplnil – rekonstrukce byla dokončena a dotace zachována.",
+      "zdroje": [
+        {"nazev": "Deník N – odvolání starostky Prahy 11 (7. 12. 2023)", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"},
+        {"nazev": "PrahaTV archiv – Praha 11 dokončila přestavbu ubytovny Sandra na bytový dům", "url": "https://archiv.prahatv.eu/zpravy/praha/praha-11/20451/praha-11-dokoncila-prestavbu-ubytovny-sandra-na-bytovy-dum", "datum": "2026-10-02"}
+      ]
+    },
+    {
+      "nazev": "Regenerace sídliště Jižní Město",
+      "popis": "Dlouhodobá údržba a modernizace největšího pražského panelového sídliště – veřejné prostory, občanská vybavenost, doprava v klidu (např. P+R Opatov).",
+      "proc_zalezi": "Stav a tempo regenerace sídliště je dlouhodobě hlavním tématem místní politiky a dotýká se kvality života většiny obyvatel MČ.",
+      "zdroje": [
+        {"nazev": "Praha11.cz – úvodní stránka MČ", "url": "https://www.praha11.cz", "datum": "2026-10-02"}
+      ]
+    },
+    {
+      "nazev": "Ondřej Prokop (ANO) a konec jeho kandidatury",
+      "popis": "Ondřej Prokop (ANO 2011) byl v roce 2022 lídrem ANO v Praze 11 (zvolen zastupitelem s 5579 pref. hlasy) a současně zvolen i do Zastupitelstva hl. m. Prahy. V červnu 2026 byl schválen jako kandidát ANO na pražského primátora, ale po zveřejnění informací o zamlčených bytech a nesrovnalostech v majetkových přiznáních (podle Seznam Zpráv) z kandidatury odstoupil a oznámil, že se podzimních voleb 2026 nezúčastní. Nahradil ho Jan Hušbauer. Podle ověřených dat ČSÚ pro volby 2026 Ondřej Prokop nekandiduje ani v Praze 11, ani na magistrát — na kandidátce ANO 2011 v Praze 11 pro 2026 je novým lídrem Petr Sýkora.",
+      "proc_zalezi": "Jde o jednu z nejvýraznějších pražských personálních kauz volebního cyklu 2026 s přímým dopadem na politickou mapu Prahy 11, odkud Prokop pocházel.",
+      "zdroje": [
+        {"nazev": "Deník N – ANO hledá kandidáta na primátora Prahy, místo Prokopa čtyři jména", "url": "https://denikn.cz/2108889/ano-hleda-kandidata-na-primatora-prahy-miste-prokopa-jsou-zatim-ve-hre-ctyri-jmena/", "datum": "2026-06-26"}
+      ]
+    },
+    {
+      "nazev": "KC Zahrada a kulturní společnost Jižní Město",
+      "popis": "Financování a provoz komunitního centra KC Zahrada a městské kulturní společnosti Jižní Město (KJM) bylo opakovaně předmětem politických sporů. V prosinci 2023 šlo konkrétně o návrh Pirátů navýšit dotaci KJM o 2 mil. Kč (firma měla vnitřní dluh 3,5 mil. Kč a byla podezřelá z neoprávněného nakládání s dotacemi); HPP 11/starostka Zdeňková navýšení odmítla do doby provedení auditu, což Piráti uváděli jako jeden z důvodů k vypovězení koalice a odvolání starostky.",
+      "proc_zalezi": "Jde o jedno z mála velkých kulturních/komunitních zařízení na sídlišti, jeho provoz je dlouhodobě politicky křehký.",
+      "zdroje": [
+        {"nazev": "Deník N – odvolání starostky Prahy 11 (7. 12. 2023)", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"}
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "P+R Opatov",
+      "stav": "rozpracovano",
+      "popis": "Záchytné parkoviště P+R u stanice metra Opatov, zmiňované mezi aktuálními iniciativami MČ.",
+      "zdroje": [{"nazev": "Praha11.cz – úvodní stránka", "url": "https://www.praha11.cz", "datum": "2026-10-02"}]
+    }
+  ],
+  "kontroverze_mc": [
+    {
+      "nazev": "Odvolání starostky Šárky Zdeňkové",
+      "typ": "stranicky",
+      "obdobi": "2023-12",
+      "popis": "Zastupitelstvo MČ Praha 11 odvolalo starostku Šárku Zdeňkovou (HPP 11) 7. 12. 2023 poměrem 19 z 35 hlasů, poté co koalici vypověděli Piráti. Opozice a odstupující koaliční partneři jako důvody uváděli neřešení ubytovny Sandra, spor o dotaci kulturní společnosti Jižní Město a chování k úředníkům. Zdeňková důvody odmítla jako vykonstruované.",
+      "stav": "bez_zaveru",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Zdeňková uvedla, že důvody odvolání jsou vykonstruované a že skutečným motivem byla její snaha o transparentní vztahy k městským společnostem. Piráti naopak ve svém stanovisku uvedli, že pro odvolání hlasovali kvůli jejímu chování poškozujícímu ekonomické zájmy MČ a neschopnosti řešit financování městských firem.",
+      "zdroje": [
+        {"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"},
+        {"nazev": "Piráti Praha 11 – Šárka Zdeňková je opět odvolána", "url": "https://praha11.pirati.cz/aktuality/sarka-zdenkova-je-opet-odvolana/", "datum": "2023-12-07"}
+      ]
+    },
+    {
+      "nazev": "Druhé odvolání radního Jiřího Dohnala",
+      "typ": "stranicky",
+      "obdobi": "2024-02",
+      "popis": "Zastupitelstvo 15. 2. 2024 (19 z 35 hlasů) odvolalo radního pro majetek Jiřího Dohnala (Piráti), čímž Piráti ztratili poslední zastoupení v radě MČ. Šlo o jeho druhé odvolání v tomto období. Důvodem podle navrhovatelky Ivany Hovorkové (HPP 11) byla destabilizace rady, kterou podle ní Piráti způsobili odvoláním starostky Zdeňkové, a nekvalitní práce Dohnala; opozice mu konkrétně vyčítala neřešené parkování u rekonstruované ubytovny Sandra.",
+      "stav": "potvrzeno",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Dohnal odvolání označil za účelové „vyřizování účtů“.",
+      "zdroje": [
+        {"nazev": "Blesk.cz – Praha 11: Pirátského radního Dohnala odvolali", "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/779272/boure-na-radnici-prahy-11-piratskeho-radniho-dohnala-odvolali-vyrizovani-uctu-brani-se.html", "datum": "2024-02-15"},
+        {"nazev": "Pražský deník – Krize na Praze 11: Pirátský radní Dohnal opět odvolán", "url": "https://prazsky.denik.cz/z_regionu/praha-11-krize-radni-jiri-dohnal-radnice-odvolani-nova-koalice-20240221.html", "datum": "2024-02-21"}
+      ]
+    }
+  ],
+  "zdroje": [
+    {"nazev": "Wikipedie – Praha 11", "url": "https://cs.wikipedia.org/wiki/Praha_11", "datum": "2026-10-02"},
+    {"nazev": "Wikipedie – Šárka Zdeňková", "url": "https://cs.wikipedia.org/wiki/Šárka_Zdeňková", "datum": "2026-10-02"},
+    {"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"},
+    {"nazev": "Deník N – nový starosta Sedeke", "url": "https://denikn.cz/minuta/1452094/", "datum": "2024-06-13"},
+    {"nazev": "Praha11.cz", "url": "https://www.praha11.cz", "datum": "2026-10-02"},
+    {"nazev": "Deník N – ANO hledá kandidáta na primátora Prahy, místo Prokopa čtyři jména", "url": "https://denikn.cz/2108889/ano-hleda-kandidata-na-primatora-prahy-miste-prokopa-jsou-zatim-ve-hre-ctyri-jmena/", "datum": "2026-06-26"},
+    {"nazev": "Blesk.cz – Praha 11: Pirátského radního Dohnala odvolali", "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/779272/boure-na-radnici-prahy-11-piratskeho-radniho-dohnala-odvolali-vyrizovani-uctu-brani-se.html", "datum": "2024-02-15"},
+    {"nazev": "Pražský deník – Krize na Praze 11: Pirátský radní Dohnal opět odvolán", "url": "https://prazsky.denik.cz/z_regionu/praha-11-krize-radni-jiri-dohnal-radnice-odvolani-nova-koalice-20240221.html", "datum": "2024-02-21"},
+    {"nazev": "PrahaTV archiv – Praha 11 dokončila přestavbu ubytovny Sandra na bytový dům", "url": "https://archiv.prahatv.eu/zpravy/praha/praha-11/20451/praha-11-dokoncila-prestavbu-ubytovny-sandra-na-bytovy-dum", "datum": "2026-10-02"},
+    {"nazev": "Piráti Praha 11 – Šárka Zdeňková je opět odvolána", "url": "https://praha11.pirati.cz/aktuality/sarka-zdenkova-je-opet-odvolana/", "datum": "2023-12-07"}
+  ],
+  "mezery_v_datech": [
+    "Původní článek Seznam Zpráv o majetkovém přiznání Ondřeje Prokopa (zamlčené byty) se nepodařilo přímo dohledat a fetchnout — citován je jen odkaz na něj v Deníku N.",
+    "Kdo přesně vedl MČ dočasně mezi odvoláním Zdeňkové (12/2023) a zvolením Sedeke (6/2024), se nepodařilo doložit.",
+    "Konečný výsledek kauzy ubytovny Sandra byl dodatečně dohledán (viz klicova_temata) – dotace nebyla ztracena, rekonstrukce byla dokončena.",
+    "Přesné podrobnosti o aktuálním stavu projektu regenerace sídliště a KC Zahrada po roce 2024 (iprpraha.cz a praha.eu nebyly v rámci rešerše dostupné) nebyly dohledány.",
+    "Nebylo možné ověřit, zda se v letech 2024–2026 dále měnilo složení koalice po nástupu Sedeke."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "kunstat-miroslav",
+  "name_key": "kunstat-miroslav",
+  "cele_jmeno": "PhDr. Miroslav Kunštát, Ph.D.",
+  "rok_narozeni": 1958,
+  "strana": "KDU-ČSL",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 1, "poradi": 26}],
+  "role": "inkumbent",
+  "profil": "Miroslav Kunštát je vysokoškolský pedagog Fakulty sociálních věd Univerzity Karlovy, kandiduje za KDU-ČSL na listině PRAHA 7 SOBĚ. V roce 2022 získal mandát zastupitele MČ Praha 7 (6966 preferenčních hlasů). Pro rok 2026 kandiduje na 26. místě listiny. Konkrétní agenda v zastupitelstvu nebyla v dostupných zdrojích dohledána.",
+  "vzdelani": "PhDr., Ph.D. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny, působí na FSV UK)",
+  "profese": "vysokoškolský pedagog FSV UK, zastupitel MČ Praha 7",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 7", "organizace": "MČ Praha 7", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez exekutivní funkce, podrobné hodnocení jeho práce v zastupitelstvu nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 68 let v brífu k říjnu 2026 (1958), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

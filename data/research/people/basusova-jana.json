@@ -1,0 +1,36 @@
+{
+  "slug": "basusova-jana",
+  "name_key": "basusova-jana",
+  "cele_jmeno": "Bc. Jana Bašusová",
+  "rok_narozeni": null,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [
+    {"assembly_id": "mc-praha-2", "list_cislo": 1, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Projektová manažerka, od voleb 2022 zastupitelka MČ Praha 2 (zvolena jako nezávislá kandidátka na listině PRAHA 2 SOBĚ, 3. místo v roce 2022). Organizátorka komunitní akce Nusle dětem. Pro rok 2026 vede listinu PRAHA 2 SOBĚ, která byla v roce 2022 v opozici vůči koalici ODS+TOP09 (SPOLU). Věk podle briefu 41 let.",
+  "vzdelani": "Bakalářský titul (Bc.), obor neověřen.",
+  "profese": "Projektová manažerka; zastupitelka MČ Praha 2.",
+  "politicka_historie": [
+    {"od": "2022-11", "do": "2026-10", "funkce": "zastupitelka MČ Praha 2 (opozice)", "organizace": "MČ Praha 2", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitelka bez výkonné funkce v radě MČ nemá podle metodiky přiřazené skóre plnění slibů.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "programydovoleb.cz: PRAHA 2 SOBĚ - kandidáti", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164198", "datum": "2026-10-03"}
+  ],
+  "mezery_v_datech": [
+    "Rok narození a obor vzdělání nebyly ověřeny nad rámec briefu.",
+    "Program listiny PRAHA 2 SOBĚ pro 2026 se nepodařilo dohledat (web www.praha2sobe.cz vedl jen na celopražskou stránku PRAHA SOBĖ, lokální program nebyl nalezen).",
+    "Detailní bilance jejího opozičního působení 2022-2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

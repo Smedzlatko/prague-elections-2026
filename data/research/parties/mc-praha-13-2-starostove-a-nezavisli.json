@@ -1,0 +1,39 @@
+{
+  "slug": "mc-praha-13-2-starostove-a-nezavisli",
+  "assembly_id": "mc-praha-13",
+  "list_cislo": 2,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "typ": "strana",
+  "slozeni": ["STAN"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program STAN pro Prahu 13 na rok 2026 se nepodařilo dohledat. Listina nemá mandát z roku 2022 (STAN tehdy v Praze 13 získal 4,87 % bez mandátu) a žádný z kandidátů podle dat ČSÚ nebyl v roce 2022 zvolen.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "STAN se celostátně profiluje středově s důrazem na komunální samosprávu a transparentnost.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nenalezen (konkrétnost 0). Bez historie v zastupitelstvu MČ nelze hodnotit důvěryhodnost plnění. Transparentnost: dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["ludvik-vojtech"],
+  "mezery_v_datech": [
+    "Lokální program STAN pro Prahu 13 na rok 2026 nebyl dohledán.",
+    "Žádný dosavadní záznam o politické činnosti kandidátů v MČ Praha 13 nebyl nalezen."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

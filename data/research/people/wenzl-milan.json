@@ -1,0 +1,53 @@
+{
+  "slug": "wenzl-milan",
+  "name_key": "wenzl-milan",
+  "cele_jmeno": "Milan Wenzl",
+  "rok_narozeni": 1959,
+  "strana": "HNUTÍ ANTONÍNA ŠVEHLY – HAŠ",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-15",
+      "list_cislo": 3,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Milan Wenzl je podnikatel a bývalý starosta MČ Praha 15. HAŠ jako samostatná listina v roce 2022 na Praze 15 nekandidovalo, Wenzl je ale podle dat ČSÚ veden jako inkumbent – přesná listina, na které byl v roce 2022 zvolen, a přesné období jeho funkce starosty se v rešerši nepodařilo ověřit. Pro volby 2026 vede nově založené Hnutí Antonína Švehly.",
+  "vzdelani": null,
+  "profese": "Podnikatel, bývalý starosta MČ Praha 15.",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": null,
+      "funkce": "starosta MČ Praha 15 (přesné období se nepodařilo doložit)",
+      "organizace": "MČ Praha 15",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako bývalý starosta nesl v minulosti exekutivní odpovědnost za MČ, přesné časové období ani podrobný audit jeho působení se však nepodařilo doložit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Hnutí Antonína Švehly - program",
+      "url": "https://www.hnutiantoninasvehly.cz/kopie-z-o-nas/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné období, kdy byl Milan Wenzl starostou Prahy 15, a listina, na které byl zvolen v roce 2022, nebyly dohledány.",
+    "Důvody konce jeho funkce starosty nebyly doloženy."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": "mc-praha-19",
+  "nazev": "Praha 19",
+  "charakteristika": "Kbely – menší městská část na severovýchodě Prahy při letišti Kbely (vojenské letiště a Letecké muzeum), cca 8 150 obyvatel, 19 mandátů. Volby 2022 ovládlo s drtivou většinou (63 %, 10 ze 19 mandátů) lokální Sdružení nezávislých kandidátů Kbely náš domov vedené starostkou Ivanou Šestákovou.",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "Kbely náš domov"
+    ],
+    "starosta": {
+      "jmeno": "Ivana Šestáková",
+      "strana": "Kbely náš domov (NK)",
+      "slug": "sestakova-ivana"
+    },
+    "zdroj_url": "https://praha19.cz/kbely-maji-noveho-starostu/"
+  },
+  "zmeny_v_obdobi": [
+    "Starostou byl po volbách 2022 dlouholetý starosta Pavel Žďárský (podle MČ po 28 letech ve funkci); v prosinci 2025 rezignoval ze zdravotních důvodů a zastupitelé všemi přítomnými hlasy zvolili starostkou jeho dlouholetou zástupkyni Ivanu Šestákovou (první starostka v historii Kbel).",
+    "Kbely náš domov měl po volbách 2022 absolutní většinu (10/19 mandátů), vládnutí tedy pravděpodobně nevyžadovalo klasickou koaliční smlouvu s dalším subjektem; podrobnosti složení rady se nepodařilo ověřit nad rámec výsledků voleb."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Hluk a provoz letiště Kbely",
+      "popis": "Kbely sousedí s vojenským letištěm, což je dlouhodobě citlivé téma v souvislosti s hlukovou zátěží obytné zóny.",
+      "proc_zalezi": "Blízkost letiště přímo ovlivňuje kvalitu bydlení v okolních ulicích.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 19",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547344",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Dopravní obslužnost",
+      "popis": "Malá okrajová MČ je závislá na autobusových linkách a kapacitě silnic do centra a na metro.",
+      "proc_zalezi": "Omezená kapacitní doprava je typickým problémem okrajových MČ bez vlastní stanice metra.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 19",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547344",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Suburbánní výstavba",
+      "popis": "Tlak na novou bytovou výstavbu v okrajové lokalitě vyvolává spory o kapacitu škol a infrastruktury.",
+      "proc_zalezi": "Nová výstavba bez odpovídající infrastruktury zatěžuje malou obec s omezenými kapacitami škol a kanalizace.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 19",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547344",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: Praha 19 (Kbely)",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547344",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "MČ Praha 19: Kbely mají novou starostku",
+      "url": "https://praha19.cz/kbely-maji-noveho-starostu/",
+      "datum": "2025-12-17"
+    }
+  ],
+  "mezery_v_datech": [
+    "Oficiální web kbely.cz byl při WebFetch dostupný jen jako výchozí WordPress 'Hello world' stránka bez obsahu - informace o radě a konkrétních projektech se nepodařilo ověřit.",
+    "Cíleně ověřeno přes WebSearch (starostka Ivana Šestáková + kauza): nebyla dohledána žádná kauza ani kontroverze starostky ani MČ. Jde o doložený nulový nález, ne jen o mezeru v rešerši.",
+    "Opraveno 6. 10. 2026: starostkou je Šestáková od prosince 2025, ne od voleb 2022."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

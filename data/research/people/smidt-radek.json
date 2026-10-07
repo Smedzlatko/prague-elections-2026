@@ -1,0 +1,36 @@
+{
+  "slug": "smidt-radek",
+  "name_key": "smidt-radek",
+  "cele_jmeno": "Radek Šmídt",
+  "rok_narozeni": null,
+  "strana": "SPD",
+  "kandidatury_2026": [
+    {"assembly_id": "mc-praha-2", "list_cislo": 3, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Asistent poslance SPD, od voleb 2022 zastupitel MČ Praha 2 (zvolen z 2. místa kandidátky SPD). Pro rok 2026 vede listinu SPD pro Prahu 2 s podporou PRO, Svobodných a nezávislých kandidátů. Věk podle briefu 47 let.",
+  "vzdelani": null,
+  "profese": "Asistent poslance; zastupitel MČ Praha 2.",
+  "politicka_historie": [
+    {"od": "2022-11", "do": "2026-10", "funkce": "zastupitel MČ Praha 2 (opozice)", "organizace": "MČ Praha 2", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitel bez výkonné funkce v radě MČ nemá podle metodiky přiřazené skóre plnění slibů.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "programydovoleb.cz: SPD pro Prahu 2 - kandidáti", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165113", "datum": "2026-10-03"}
+  ],
+  "mezery_v_datech": [
+    "Rok narození a vzdělání nebyly dohledány.",
+    "Program listiny pro 2026 se nepodařilo dohledat (žádný odkaz na vlastní web na programydovoleb.cz).",
+    "Detailní bilance jeho opozičního působení 2022-2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

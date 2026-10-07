@@ -1,0 +1,72 @@
+{
+  "slug": "klecanda-antonin",
+  "name_key": "klecanda-antonin",
+  "cele_jmeno": "Mgr. et Mgr. Antonín Klecanda",
+  "rok_narozeni": 1980,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 9,
+      "poradi": 3
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Pedagog základní a vysoké školy, od roku 2014 starosta městské části Praha-Kolovraty (hnutí Naše Kolovraty), mandát obhájil 2018 i 2022. Od voleb 2022 je zároveň zastupitelem hl. m. Prahy za STAN. V listopadu 2022 se stal předsedou pražské organizace STAN poté, co z funkce odstoupil Petr Hlubuček v souvislosti s obviněním v kauze Dozimetr. Od 16. 2. 2023 je radním hl. m. Prahy pro školství, sport a volnočasové aktivity v koalici SPOLU-Piráti-STAN.",
+  "vzdelani": "Pedagogika - Masarykova univerzita, Pražská vysoká škola psychosociálních studií, Univerzita Jana Amose Komenského.",
+  "profese": "Učitel základní školy a vysokoškolský pedagog.",
+  "politicka_historie": [
+    {
+      "od": "2014-11",
+      "do": "2022-11",
+      "funkce": "starosta MČ Praha-Kolovraty (hnutí Naše Kolovraty)",
+      "organizace": "MČ Praha-Kolovraty",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Anton%C3%ADn_Klecanda"
+    },
+    {
+      "od": "2022-11-23",
+      "do": null,
+      "funkce": "předseda pražské organizace STAN",
+      "organizace": "STAN",
+      "zdroj_url": "https://www.seznamzpravy.cz/clanek/domaci-politika-prazske-stan-povede-starosta-kolovrat-antonin-klecanda-219991"
+    },
+    {
+      "od": "2023-02-16",
+      "do": null,
+      "funkce": "radní hl. m. Prahy pro školství, sport a volnočasové aktivity",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Anton%C3%ADn_Klecanda"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Konkrétní, číselně ověřitelné výsledky jeho práce jako radního pro školství (např. navýšení kapacit škol a školek) se v dostupných zdrojích nepodařilo dohledat – viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Wikipedie: Antonín Klecanda",
+      "url": "https://cs.wikipedia.org/wiki/Anton%C3%ADn_Klecanda",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Seznam Zprávy: STAN v Praze povede Antonín Klecanda. Spolupráci s ANO si dovede představit",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-prazske-stan-povede-starosta-kolovrat-antonin-klecanda-219991",
+      "datum": "2023-02-09"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní výsledky resortu školství a sportu (nové kapacity škol/školek, investice do sportovišť) za období 2023-2026 nebyly dohledány v ověřitelné podobě s čísly.",
+    "Žádné doložené kontroverze nebo kauzy s jeho jménem nebyly v dostupných zdrojích nalezeny."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

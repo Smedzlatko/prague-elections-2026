@@ -1,0 +1,52 @@
+{
+  "slug": "valdmanova-magdalena",
+  "name_key": "valdmanova-magdalena",
+  "cele_jmeno": "Magdalena Valdmanová",
+  "rok_narozeni": 1981,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 7,
+      "poradi": 6
+    },
+    {
+      "assembly_id": "mc-praha-2",
+      "list_cislo": 8,
+      "poradi": 1
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Zastupitelka hl. m. Prahy za Piráty od voleb 2022 (zvolena z 1. místa listiny v Praze 2) a předsedkyně Výboru pro bydlení a bytovou výstavbu Zastupitelstva hl. m. Prahy. Pro volby 2026 kandiduje na 6. místě pražské kandidátky Pirátů a znovu vede kandidátku v Praze 2. Žádný hlubší veřejně dohledaný politický záznam mimo tuto funkci nebyl nalezen.",
+  "vzdelani": null,
+  "profese": "Předsedkyně Výboru pro bydlení a bytovou výstavbu ZHMP.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitelka hl. m. Prahy; předsedkyně Výboru pro bydlení a bytovou výstavbu ZHMP",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastává funkci předsedkyně výboru zastupitelstva (kontrolní/iniciační role), nikoli exekutivní funkci radní – podle metodiky se přímé plnění slibů u takové role nehodnotí stejnou stupnicí jako u radní s rozpočtovou pravomocí; konkrétní výstupy výboru nebyly dohledány.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Konkrétní výstupy a doporučení Výboru pro bydlení a bytovou výstavbu ZHMP za její předsednictví nebyly v dostupných zdrojích dohledány.",
+    "Žádný rozsáhlejší veřejně dostupný životopis nad rámec dat ČSÚ a stručné charakteristiky funkce nebyl nalezen."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

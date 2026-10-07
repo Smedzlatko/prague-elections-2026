@@ -1,0 +1,25 @@
+{
+  "slug": "fajmonova-veronika",
+  "name_key": "fajmonova-veronika",
+  "cele_jmeno": "PhDr. Ing. Veronika Fajmonová, Ph.D.",
+  "rok_narozeni": 1984,
+  "strana": "SEN 21",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 24, "poradi": 5}],
+  "role": "top5",
+  "profil": "Akademická pracovnice, kandiduje za SEN 21 na celopražské listině SEN PRO PRAHU. Širší veřejný záznam o politické činnosti se v rámci této rešerše nepodařilo dohledat.",
+  "vzdelani": "vysokoškolské (PhDr., Ing., Ph.D.)",
+  "profese": "akademická pracovnice",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez výkonné funkce nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [{"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"}],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný další veřejný záznam o osobě.",
+    "Rok narození odhadnut z uvedeného věku (42 let v roce 2026) v kandidátní listině, nepotvrzen nezávislým zdrojem."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,82 @@
+{
+  "assembly_id": "mc-praha-9",
+  "list_cislo": 3,
+  "nazev": "SPOLU PRO PRAHU 9 (ODS a TOP 09) s podporou nestraníků",
+  "zkratka": "SPOLU",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "TOP 09"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program listiny nebyl na programydovoleb.cz dohledán formou odkazu ani textu. Jde o vedoucí koalici MČ Praha 9 v letech 2022-2026 (jako SPOLEČNĚ pro DEVÍTKU, 43,26 %, 15 z 33 mandátů), v jejímž čele je od března 2021 starosta Tomáš Portlík (ODS), zároveň celopražský lídr SPOLU pro Prahu a kandidát na primátora pro volby 2026.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2.0,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "ODS (pravice) a TOP 09 (středopravá, konzervativně-liberální) tvoří koalici SPOLU, celostátně i na Praze 9 jasně pravicově orientovanou. Odhad bez lokální programové citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Vedla koalici MČ Praha 9 celé období, starosta Tomáš Portlík (ODS), místostarosta Adam Vážanský (ODS), 1. místostarostka Jana Nowaková Těmínová (TOP 09).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Rozvoj brownfieldů ve Vysočanech na bydlení",
+        "dukaz": "Transformace průmyslových ploch ve Vysočanech pokračuje dlouhodobě, ale konkrétní zdrojovaná bilance jednotlivých developerských projektů za období 2022-2026 se nepodařilo dohledat.",
+        "zdroj_url": "https://prahasobe.cz/praha9sobe/program/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Portlík byl v dubnu 2025 vyhodnocen jako nejpopulárnější pražský starosta, což nasvědčuje vysoké spokojenosti voličů s vedením MČ, nicméně konkrétní zdrojovaný přehled splněných/nesplněných slibů z roku 2022 se nepodařilo dohledat. V září 2026 byla medializována otázka neúplně uvedeného majetku starosty Portlíka (vlastnil přes firmu i byty neuvedené ve veřejných prohlášeních) – jde o otázku transparentnosti, ne prokázané protiprávní jednání.",
+    "zdroje": [
+      {
+        "nazev": "Deník N: Dvě, nebo pět nemovitostí? Kandidát na pražského primátora Portlík vlastní byty také přes firmu",
+        "url": "https://denikn.cz/2182150/dve-nebo-pet-nemovitosti-kandidat-na-prazskeho-primatora-portlik-vlastni-byty-take-pres-firmu/",
+        "datum": "2026-09-11"
+      }
+    ]
+  },
+  "kontroverze": [
+    {
+      "nazev": "Neúplně uvedený majetek starosty Portlíka",
+      "typ": "jine",
+      "obdobi": "2026",
+      "popis": "Deník N zjistil, že Portlík coby kandidát na primátora vlastní celkem pět nemovitostí (část přes vlastní firmu), ačkoliv ve starších veřejných vyjádřeních uváděl jen dvě (podíly na rodinném domě a bytě). Téma otevřel na zastupitelstvu hl. m. Prahy zastupitel Pavel Zelenka (Praha sobě), kritizoval i předseda Pirátů Zdeněk Hřib.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Deník N: Dvě, nebo pět nemovitostí?",
+          "url": "https://denikn.cz/2182150/dve-nebo-pet-nemovitosti-kandidat-na-prazskeho-primatora-portlik-vlastni-byty-take-pres-firmu/",
+          "datum": "2026-09-11"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 2,
+    "oduvodneni": "Program pro rok 2026 nebyl dohledán v konkrétní podobě (0). Doveryhodnost plnění hodnocena na středu stupnice – vysoká voličská spokojenost (nejpopulárnější starosta 2025), ale bez zdrojovaného seznamu konkrétních splněných slibů a s otazníkem nad úplností majetkových přiznání lídra.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "portlik-tomas"
+  ],
+  "mezery_v_datech": [
+    "Konkrétní text volebního programu pro rok 2026 nebyl dohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"'SPOLU PRO PRAHU 9' ODS TOP 09 Portlík program komunální volby 2026\", plus přímé WebFetch ověření stránky ods.cz/os.praha9/volby2026/komunalni/3468-praha-9 (obsahuje jen kandidátní listinu 33 jmen, žádný program) a programydovoleb.cz/strana/165159 (totéž). Dohledány byly pouze celopražské priority Tomáše Portlíka jako lídra koalice SPOLU pro Prahu (rychlejší bytová výstavba, dopravní okruhy, kapacity středních škol, duševní zdraví) - jde o jeho celopražskou kandidaturu na primátora, ne o samostatný lokální program listiny pro Prahu 9.",
+    "Chybí zdrojovaný přehled konkrétních developerských projektů ve Vysočanech a jejich stavu za období 2022-2026.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „SPOLU pro Prahu 9 ODS TOP 09 s podporou nestraníků program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-06",
+  "slug": "mc-praha-9-3-spolu-pro-prahu-9-ods-a-top-09-s-podpo"
+}

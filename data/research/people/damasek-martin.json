@@ -1,0 +1,30 @@
+{
+  "slug": "damasek-martin",
+  "name_key": "damasek-martin",
+  "cele_jmeno": "Bc. Martin Damašek, M.A.",
+  "rok_narozeni": 1981,
+  "strana": "TOP 09",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 2, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Martin Damašek je učitel a místostarosta MČ Praha 5 za TOP 09 (potvrzeno aktuálním seznamem rady MČ na webu praha5.cz, říjen 2026). V roce 2022 získal mandát zastupitele s nejvyšším počtem preferenčních hlasů v klubu (5311). Pro rok 2026 vede jako lídr koaliční listinu TOP Lidovci a Nezávislí (TOP 09, KDU-ČSL).",
+  "vzdelani": "učitelství, Bc., M.A. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "místostarosta MČ Praha 5, učitel",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "místostarosta MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Má výkonnou funkci (místostarosta) po celé období 2022-2026, ale podrobný zdrojovaný seznam jeho slibů a jejich plnění (konkrétní resort) nebyl dohledán.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha5.cz - Rada MČ Praha 5", "url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 45 let v brífu k říjnu 2026 (1981), neověřeno.",
+    "Konkrétní resort (agenda), za kterou jako místostarosta odpovídá, nebyl dohledán nad rámec obecného zjištění, že je místostarostou."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

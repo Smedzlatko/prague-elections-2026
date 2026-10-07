@@ -1,0 +1,35 @@
+{
+  "slug": "simkova-radka",
+  "name_key": "simkova-radka",
+  "cele_jmeno": "Mgr. Radka Šimková",
+  "rok_narozeni": 1971,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 4, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Radka Šimková je advokátka, bývalá starostka MČ Praha 5 (zvolena po volbách 2022 za PRAHA 5 SOBĚ, nejsilnější subjekt s 10 mandáty) a dnes předsedkyně kontrolního výboru Prahy 5. V dubnu 2025 byla ve funkci starosty vystřídána Lukášem Heroldem (ODS); podle aktuálního seznamu rady MČ (říjen 2026) již PRAHA 5 SOBĚ v radě MČ není zastoupena vůbec. Pro rok 2026 kandiduje znovu jako lídryně listiny PRAHA 5 SOBĚ.",
+  "vzdelani": "právo, Mgr. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "advokátka, předsedkyně kontrolního výboru MČ Praha 5, bývalá starostka",
+  "politicka_historie": [
+    {"od": "2022", "do": "2025-04", "funkce": "starostka MČ Praha 5", "organizace": "MČ Praha 5", "zdroj_url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/"},
+    {"od": "2025-04", "do": null, "funkce": "zastupitelka MČ Praha 5, předsedkyně kontrolního výboru", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Měla výkonnou funkci (starostka 2022-2025), ale podrobný zdrojovaný seznam jejích slibů a jejich plnění za toto období nebyl dohledán; důvody jejího odvolání/výměny také nebyly nezávisle médii dohledány.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha5.cz - Rada MČ Praha 5", "url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesné důvody a okolnosti výměny ve funkci starosty v dubnu 2025 nebyly nezávisle médii dohledány.",
+    "Konkrétní výsledky jejího působení coby starostky (2022-2025) nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "mc-praha-18-9-ano-2011",
+  "assembly_id": "mc-praha-18",
+  "list_cislo": 9,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Listina ANO 2011 vedená dosavadním starostou Zdeňkem Kučerou, obhajující 6 mandátů z voleb 2022 a vedoucí post starosty MČ. Samostatný lokální program pro volby 2026 nebyl na programydovoleb.cz ani jinde dohledán.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "ANO 2011 vedlo radniční koalici s ODS a TOP 09 (6+4+2 = 12 z 23 mandátů); lídr Zdeněk Kučera je starostou MČ Praha 18 od podzimu 2018, tedy i v celém období 2022–2026 (tento post obhájil už potřetí).",
+    "splnene_sliby": [
+      {
+        "slib": "Rozšíření kapacit škol a školek, nová sportovní hala, workoutové hřiště na Staré návsi (z participativního rozpočtu)",
+        "dukaz": "Předvolební Letňanské listy 10/2026 ve „Slově starosty“ Zdeňka Kučery uvádějí jako dokončené za uplynulé období: nové třídy a místa ve školách/školkách, novou sportovní halu, opravy ulic a chodníků, výsadbu stromů, hřiště a sportoviště, rozšíření kapacit zdravotní péče a byty pro seniory.",
+        "zdroj_url": "http://letnany.cz/letnanske-listy-2026-10"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Rozšíření ZŠ Fryčovická a další úpravy veřejných prostranství.",
+        "dukaz": "Letňanské listy 10/2026: starosta uvádí, že rozšíření ZŠ Fryčovická a další sportoviště/úpravy veřejných prostranství se k závěru období „dokončují“ nebo „připravují“, nejde o hotové projekty.",
+        "zdroj_url": "http://letnany.cz/letnanske-listy-2026-10"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Starosta Kučera (ANO) ve vlastním bilančním textu v radničním zpravodaji vyjmenovává řadu dokončených investic z uplynulých let (školy, sportovní hala, zdravotní péče, byty pro seniory) i rozpracovaných projektů. Jde o tvrzení strany/starosty o sobě samém (zdroj_strana) v periodiku vydávaném samotnou MČ, nezávislé médium bilanci nepotvrzuje. Vlastní psaný volební program ANO pro Letňany z roku 2022 ani 2026 se nepodařilo dohledat, bilance tak vychází z deklarovaných výsledků, ne z porovnání s konkrétními předvolebními sliby."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Odvolání místostarosty Pavla Sehnala starostou Kučerou (2020)",
+      "typ": "stranicky",
+      "obdobi": "2020",
+      "popis": "Starosta Zdeněk Kučera (ANO) nechal v nepřítomnosti (v době dovolené) odvolat 1. místostarostu Pavla Sehnala (ODA) s odůvodněním, že Sehnal coby majitel firem v Letňanech prosazoval na magistrátních komisích územního rozvoje změny územního plánu ve vlastním podnikatelském zájmu. Sehnal předtím Kučerovi zaslal vytýkací dopis kritizující vedení jednání rady.",
+      "stav": "urovnano",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Sehnal: odvolání je „zakleknutí“ ze strany ANO. Kučera: Sehnal „aktivně prosazoval obchodní zájmy společností, které vlastní“, odvolání „nešlo udělat jinak“.",
+      "zdroje": [
+        {
+          "nazev": "Novinky.cz: Miliardář Sehnal skončil jako místostarosta Letňan. Šel proti nám, zdůvodnili zastupitelé",
+          "url": "https://www.novinky.cz/domaci/clanek/miliardar-sehnal-skoncil-jako-mistostarosta-letnan-sel-proti-nam-zduvodnili-zastupitele-40334565",
+          "datum": "2020"
+        },
+        {
+          "nazev": "ODA: Vytýkací dopis Krásné Letňany vs. Kučera Zdeněk",
+          "url": "https://www.oda.cz/wp-content/uploads/2020/08/2020-04-14-Krasne-Letnany-x-Kucera-Zdenek-Vytykaci-dopis-podepsany.pdf",
+          "datum": "2020-04-14"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán. doveryhodnost_plneni 3: radniční zpravodaj dokládá řadu konkrétních dokončených investic za osm let Kučerova starostování, ale bez dohledaného volebního programu z roku 2022 nelze měřit poměr vůči konkrétním slibům a zdrojem je výhradně zdroj_strana (periodikum MČ, ne nezávislé médium), proto skóre nejde výš. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "kucera-zdenek"
+  ],
+  "mezery_v_datech": [
+    "Lokální program ANO pro Letňany nebyl dohledán - stránka na programydovoleb.cz odkazuje jen obecně na portál.",
+    "Bilance starosty Zdeňka Kučery vychází výhradně z jeho vlastního textu v radničním zpravodaji (zdroj_strana), nebyla ověřena nezávislým zdrojem.",
+    "Program nedohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"ANO 2011\" Letňany Praha 18 program komunální volby 2026 Kučera; ANO 2011 Letňany program 2026 Kučera priority facebook kandidátka; anobudelip.cz - jen obecné informace o kandidátce a koalici ANO/ODS/TOP09, bez psaného lokálního programu.",
+    "Cíleně ověřeno přes WebSearch: mimo spor se Sehnalem (2020, viz kontroverze) nebyla dohledána žádná další kauza starosty Kučery ani vedení MČ.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „ANO Praha 18 program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-06"
+}

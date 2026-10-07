@@ -1,0 +1,69 @@
+{
+  "slug": "mc-praha-13-5-zeleni-a-pirati-pro-13",
+  "assembly_id": "mc-praha-13",
+  "list_cislo": 5,
+  "nazev": "Zelení a Piráti pro 13",
+  "zkratka": "Zelení/Piráti",
+  "typ": "koalice",
+  "slozeni": ["Piráti", "Zelení"],
+  "web": "https://praha13.pirati.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "Zelení a Piráti pro 13 – web", "url": "https://praha13.pirati.cz", "datum": "2026-10-02"}
+    ],
+    "shrnuti": "Koalice Zelených a Pirátů, spolu kandidující od roku 2010, se profiluje jako dlouhodobá opozice k vedení ODS. Zmiňuje výstavbu dostupného bydlení v lokalitě Třebonice, rozšíření veřejné vybavenosti a modernizaci technické infrastruktury a analýzu rozpočtu MČ a developerských smluv z opoziční perspektivy. Kompletní program pro rok 2026 se nepodařilo z webu stáhnout celý.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Dostupné bydlení v Třebonicích",
+        "popis": "Podpora výstavby dostupného bydlení v lokalitě Třebonice.",
+        "citace": "Výstavbu dostupného bydlení.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Záleží na vlastnictví pozemků a spolupráci s investorem/magistrátem, které MČ sama nekontroluje v plném rozsahu."},
+        "zdroj_url": "https://praha13.pirati.cz"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Kontrola rozpočtu a developerských smluv",
+        "popis": "Analýza rozpočtu MČ na rok 2026 a developerských smluv z pozice opozice.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Jde o standardní kontrolní agendu zastupitelů, kterou mohou vykonávat i v opozici."},
+        "zdroj_url": "https://praha13.pirati.cz"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1,
+    "hodnotova_osa": -2,
+    "oduvodneni": "Koalice Zelených a Pirátů se profiluje jako liberálně-progresivní s důrazem na dostupné bydlení, životní prostředí a transparentnost.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Koalice byla v letech 2022–2026 nejsilnější opoziční silou se 6 mandáty z voleb 2022, v opozici vůči koalici ODS, ANO 2011 a TOP 09/KDU-ČSL.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční subjekt nemohla přímo prosazovat vlastní exekutivní agendu; konkrétní opoziční návrhy a jejich osud za období 2022–2026 nebyly v rámci této rešerše dohledány."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Program obsahuje jmenovaná opatření (bydlení v Třebonicích, kontrola smluv), ale bez čísel a termínů (konkrétnost 2). Důvěryhodnost plnění nelze hodnotit u opoziční strany bez dohledaného programu z roku 2022. Transparentnost: zveřejněný program (+1), dohledatelná kandidátka (+1), dlouhodobá stabilní koaliční spolupráce od 2010 (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["murnak-tomas"],
+  "mezery_v_datech": [
+    "Kompletní text programu pro rok 2026 nebyl z webu stažen celý.",
+    "Konkrétní opoziční agenda a její výsledky za období 2022–2026 nebyly dohledány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

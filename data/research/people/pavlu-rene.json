@@ -1,0 +1,45 @@
+{
+  "slug": "pavlu-rene",
+  "name_key": "pavlu-rene",
+  "cele_jmeno": "René Pavlů",
+  "rok_narozeni": 1965,
+  "strana": "bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 18,
+      "poradi": 2
+    }
+  ],
+  "role": "jiny",
+  "profil": "René Pavlů je podle vlastního životopisu podnikatel a sám se označuje jako „patriot Prahy 1“; kandiduje na druhém místě celopražské listiny PATRIOTI PRO PRAHU. Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný veřejně dostupný záznam o jeho politickém působení.",
+  "vzdelani": null,
+  "profese": "podnikatel",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – PATRIOTI PRO PRAHU",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164929",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku 61 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "novacek-ondrej",
+  "name_key": "novacek-ondrej",
+  "cele_jmeno": "Ondřej Nováček",
+  "rok_narozeni": 1986,
+  "strana": "ODS",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-11", "list_cislo": 5, "poradi": 2}],
+  "role": "inkumbent",
+  "profil": "Ondřej Nováček je radní MČ Praha 11 za ODS, zvolen zastupitelem i v roce 2022 (pozice č. 4, 2444 preferenčních hlasů). Je součástí vedení listiny Spolu pro Prahu 11 pro volby 2026, kterou vede starosta Martin Sedeke.",
+  "vzdelani": null,
+  "profese": "radní MČ Praha 11",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel a radní MČ Praha 11", "organizace": "ODS", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez dohledaného podkladu o jeho konkrétní agendě jako radního nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 11 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Oblast jeho radní agendy (resort) nebyla dohledána.",
+    "Rok narození odhadnut z udaného věku (40 let v roce 2026)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "mc-praha-5-12-sen-pro-prahu-5-s-podporou-senatora-vacl",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 12,
+  "nazev": "SEN PRO PRAHU 5 s podporou senátora Václava Lásky a Společnosti na ochranu Prokopského údolí",
+  "zkratka": "SEN 21",
+  "typ": "koalice",
+  "slozeni": [
+    "SEN 21",
+    "Společnost na ochranu Prokopského údolí",
+    "nezávislí kandidáti"
+  ],
+  "web": "https://praha5.senprocesko.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "SEN PRO PRAHU 5 - program",
+        "url": "https://praha5.senprocesko.cz/program",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice kolem SEN 21 a senátora Václava Lásky navazuje na listinu „Koalice SEN 21 pro Prahu 5 se senátorem Václavem Láskou“, která v roce 2022 získala 11,01 % a 5 mandátů. Program zdůrazňuje dostatečnou kapacitu školek a škol jako „hlavní povinnost obce“, čistotu a zeleň, bezpečnost veřejných prostor (zejména Anděl), proaktivní (nikoli jen reaktivní) dopravní plánování, rozšíření sociálních a seniorských služeb, podmínku souběžné výstavby škol a sociální/sportovní vybavenosti při nové bytové výstavbě, a hospodárné nakládání s rozpočtem MČ (přes miliardu Kč ročně) bez zbytných projektů. Heslo kampaně je „čistá, bezpečná a férová Pětka“.",
+    "priority": [
+      {
+        "oblast": "skolstvi",
+        "nazev": "Dostatečná kapacita školek a škol",
+        "popis": "Zajištění dostatku míst ve školkách a školách jako hlavní povinnosti obce, zejména v rychle rostoucích lokalitách.",
+        "citace": "Dostatek míst ve školkách a školách je hlavní povinností obce.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Kapacita škol závisí na investicích MČ i demografickém vývoji, bez konkrétního čísla v programu."
+        },
+        "zdroj_url": "https://praha5.senprocesko.cz/program"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Podmínka souběžné výstavby občanské vybavenosti",
+        "popis": "Nová bytová výstavba musí být doprovázena souběžným budováním škol, zařízení pro seniory a sportovišť.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Vyžaduje prosazení podmínky v rámci územního plánování a jednání s developery."
+        },
+        "zdroj_url": "https://praha5.senprocesko.cz/program"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Hospodárné nakládání s rozpočtem MČ",
+        "popis": "Program zdůrazňuje, že MČ hospodaří s více než miliardou korun ročně a žádá vyhýbání se zbytným projektům.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o obecný princip rozpočtové kázně plně v kompetenci zastupitelstva MČ."
+        },
+        "zdroj_url": "https://praha5.senprocesko.cz/program"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "SEN 21 je komunálně orientované hnutí bez výrazné celostátní ideologické profilace; program pro Prahu 5 je pragmaticky zaměřený na správu věcí veřejných (školství, bezpečnost, hospodárnost) bez jasného zařazení na klasické ose.",
+    "zdroje": [
+      {
+        "nazev": "SEN PRO PRAHU 5 - program",
+        "url": "https://praha5.senprocesko.cz/program",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (5 ze 41 mandátů) vůči koalici ODS/TOP09/STAN/PRAHA 5 SOBĚ. Lídryně Monika Shaw Salajová, Milan Vrkoč, Svatopluk Bartoň a Henryk Josef Tietjen jsou inkumbenti z roku 2022.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční klub bez účasti v radě MČ neměla koalice přímou výkonnou odpovědnost za vedení Prahy 5 v období 2022-2026; podrobné srovnání s programem z roku 2022 nebylo dohledáno."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu = 1: program formuluje obecná přání (dostatek míst ve školkách, hospodárnost) bez konkrétních čísel či termínů u většiny bodů. doveryhodnost_plneni je null – opoziční klub bez exekutivní odpovědnosti. transparentnost = 2 za zveřejněný program a dohledatelný web, bez dalších zjištěných položek.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "shaw-salajova-monika"
+  ],
+  "mezery_v_datech": [
+    "Program neobsahuje konkrétní čísla ani termíny u většiny bodů.",
+    "Financování kampaně a transparentní účet nebyly dohledány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

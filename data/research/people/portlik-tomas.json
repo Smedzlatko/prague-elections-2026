@@ -1,0 +1,205 @@
+{
+  "slug": "portlik-tomas",
+  "name_key": "portlik-tomas",
+  "cele_jmeno": "Mgr. Tomáš Portlík",
+  "rok_narozeni": 1978,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 12,
+      "poradi": 1
+    },
+    {
+      "assembly_id": "mc-praha-9",
+      "list_cislo": 3,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Tomáš Portlík je starosta MČ Praha 9 a lídr koalice SPOLU pro Prahu (ODS, TOP 09) do komunálních voleb 2026. Do ODS vstoupil v roce 1997, v místní politice Prahy 9 působí od roku 2006 (zastupitel, poté finanční radní), v letech 2010-2021 byl místostarostou a od března 2021 starostou, mandát obhájil ve volbách 2022. Od roku 2018 je zastupitelem hl. m. Prahy. V lednu 2026 byl zvolen 1. místopředsedou ODS (412 z 471 hlasů) a zároveň lídrem ODS pro pražské volby 2026, čímž se stal potenciálním kandidátem na primátora za koalici SPOLU. V dubnovém průzkumu 2025 byl vyhodnocen jako nejpopulárnější pražský starosta.",
+  "vzdelani": null,
+  "profese": "starosta MČ Praha 9",
+  "politicka_historie": [
+    {
+      "od": "1997",
+      "do": null,
+      "funkce": "člen ODS",
+      "organizace": "ODS",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Portl%C3%ADk"
+    },
+    {
+      "od": "2006",
+      "do": "2010",
+      "funkce": "zastupitel MČ Praha 9, finanční radní",
+      "organizace": "MČ Praha 9",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Portl%C3%ADk"
+    },
+    {
+      "od": "2010",
+      "do": "2021-03",
+      "funkce": "místostarosta MČ Praha 9",
+      "organizace": "MČ Praha 9",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Portl%C3%ADk"
+    },
+    {
+      "od": "2021-03",
+      "do": null,
+      "funkce": "starosta MČ Praha 9 (obhájeno ve volbách 2022)",
+      "organizace": "MČ Praha 9",
+      "zdroj_url": "https://www.praha9.cz/tomas-portlik-se-stal-novym-starostou-mc-praha9-vystridal-sveho-stranickeho-kolegu-jana"
+    },
+    {
+      "od": "2018",
+      "do": null,
+      "funkce": "zastupitel hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Portl%C3%ADk"
+    },
+    {
+      "od": "2026-01-17",
+      "do": null,
+      "funkce": "1. místopředseda ODS (412 z 471 hlasů)",
+      "organizace": "ODS",
+      "zdroj_url": "https://www.ods.cz/profil/1831-tomas-portlik"
+    },
+    {
+      "od": "2026-01",
+      "do": null,
+      "funkce": "lídr ODS/SPOLU pro volby do ZHMP 2026",
+      "organizace": "ODS / SPOLU pro Prahu",
+      "zdroj_url": "https://www.ods.cz/profil/1831-tomas-portlik"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Neúplně uvedené vlastnictví nemovitostí v dotazníku o bydlení",
+      "typ": "medialni",
+      "obdobi": "2026-09",
+      "popis": "V dotazníku Mladé fronty Dnes k dostupnosti bydlení Portlík uvedl, že jako fyzická osoba vlastní jen dvě nemovitosti – polovinu rodinného domu a polovinu bytu, obě ve Vysočanech. Deník N zjistil, že vedle toho vlastní (přes svou firmu) ještě tři další pražské byty v hodnotě přes 20 mil. Kč, celkem tedy pět nemovitostí. Protikandidáti (mj. Zdeněk Hřib) jeho vyjádření kritizovali jako zavádějící vzhledem k tématu nedostupnosti bydlení v kampani. Reflex v komentáři označil tento typ „zapomínání“ vlastních bytů za opakující se jev u více kandidátů na primátora v kampani 2026 (viz i kauza Ondřeje Prokopa z ANO).",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Portlík pochybení odmítl; uvedl, že se na něj jako starostu Prahy 9 vztahují přísnější pravidla a majetkové přehledy řádně a včas odevzdává do registru oznámení Ministerstva spravedlnosti podle zákona o střetu zájmů.",
+      "zdroje": [
+        {
+          "nazev": "Deník N: Dvě, nebo pět nemovitostí? Kandidát na pražského primátora Portlík vlastní byty také přes firmu",
+          "url": "https://denikn.cz/2182150/dve-nebo-pet-nemovitosti-kandidat-na-prazskeho-primatora-portlik-vlastni-byty-take-pres-firmu/",
+          "datum": "2026-09-11"
+        },
+        {
+          "nazev": "Reflex.cz: Pražský fenomén: Proč kandidátům na primátora mizí z paměti jejich vlastní byty?",
+          "url": "https://www.reflex.cz/clanek/komentare/138134/prazsky-fenomen-proc-kandidatum-na-primatora-mizi-z-pameti-jejich-vlastni-byty.html",
+          "datum": "2026-09"
+        }
+      ]
+    },
+    {
+      "nazev": "Nepodání majetkového přiznání zastupitele ZHMP podle etického kodexu",
+      "typ": "konflikt_zajmu",
+      "obdobi": "2022-2026",
+      "popis": "Podle Pražského deníku (10. 9. 2026) Portlík patřil mezi zastupitele hl. m. Prahy (společně mj. s primátorem Bohuslavem Svobodou, senátorkou Hanou Kordovou Marvanovou, Milanem Urbanem /SPD/ a dalšími radními SPOLU a STAN), kteří za končící volební období 2022-2026 nikdy nepodali majetkové přiznání podle etického kodexu zastupitelů ZHMP. Zastupitelstvo na to reagovalo usnesením, kterým dotčené zastupitele vyzvalo k okamžitému doplnění přiznání.",
+      "stav": "potvrzeno",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Portlík argumentoval, že coby starosta Prahy 9 podléhá přísnějšímu režimu zákona o střetu zájmů a svá oznámení řádně a včas podává do centrálního registru oznámení Ministerstva spravedlnosti, nikoli do systému etického kodexu ZHMP, a proto podle něj k žádnému pochybení nedošlo.",
+      "zdroje": [
+        {
+          "nazev": "Pražský deník: Část zastupitelů včetně primátora nepodala majetková přiznání za končící období",
+          "url": "https://prazsky.denik.cz/komunalni-volby/cast-zastupitelu-vcetne-primatora-nepodala-majetkova-priznani-za-koncici-obdobi/",
+          "datum": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "nazev": "Svědecká výpověď v kauze Dozimetr k projektu Nové Holešovice",
+      "typ": "verejna_zakazka",
+      "obdobi": "2019; výpověď 2026-05-19",
+      "popis": "Portlík vypovídal 19. 5. 2026 jako svědek (nikoli obviněný) v hlavním líčení kauzy Dozimetr. Popsal, že už v roce 2019 jako zastupitel ZHMP upozorňoval na problémy projektu Nové Holešovice – nevysoutěženou zakázku, spory mezi vlastníky okolních pozemků a nárůst ceny projektu o cca 100 mil. Kč; námitky vznesl na jednání zastupitelstva na podzim 2019. Uvedl, že neměl podezření na konkrétní ovlivňování, ale situaci kolem zakázky popsal jako nepřehlednou.",
+      "stav": "probiha",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Portlík u soudu uvedl: „Neměl jsem podezření, že by tam docházelo k nějakému ovlivňování,“ projekt ale označil za nepřehledný a kritizoval absenci soutěže a nárůst ceny.",
+      "zdroje": [
+        {
+          "nazev": "ČeskéNoviny.cz: Výslechem místopředsedy ODS Portlíka bude pokračovat soud v kauze Dozimetr",
+          "url": "https://www.ceskenoviny.cz/zpravy/vyslechem-mistopredsedy-ods-portlika-bude-pokracovat-soud-v-kauze-dozimetr/2827026",
+          "datum": "2026-05-19"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako dlouholetý starosta Prahy 9 má Portlík výkonnou funkci, u které by šlo plnění slibů hodnotit, ale rešerší se nepodařilo dohledat konkrétní, zdrojovaný seznam jeho slibů z komunálních voleb 2022 na úrovni MČ Praha 9 ani jejich plnění – proto null, s mezerou v datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Praha nemá tempo",
+      "kontext": "Kampaňový slogan Portlíka/SPOLU pro volby 2026, kritizovaný protikandidátem Adamem Scheinherrem (Praha sobě) jako rozporuplný vzhledem k tomu, že ODS vede pražskou radnici přes čtyři roky.",
+      "zdroj_url": "https://denikn.cz/2149412/praha-nema-tempo-kvuli-ods-scheinherr-o-portlikove-sloganu-rizeni-autobusu-i-chybejici-kandidatce/",
+      "datum": "2026-08-10"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Tomáš Portlík",
+      "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Portl%C3%ADk",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "praha9.cz: Tomáš Portlík se stal novým starostou MČ Praha 9",
+      "url": "https://www.praha9.cz/tomas-portlik-se-stal-novym-starostou-mc-praha9-vystridal-sveho-stranickeho-kolegu-jana",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "ods.cz: profil Tomáš Portlík",
+      "url": "https://www.ods.cz/profil/1831-tomas-portlik",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "Deník N: Praha nemá tempo kvůli ODS. Scheinherr o Portlíkově sloganu",
+      "url": "https://denikn.cz/2149412/praha-nema-tempo-kvuli-ods-scheinherr-o-portlikove-sloganu-rizeni-autobusu-i-chybejici-kandidatce/",
+      "datum": "2026-08-10"
+    },
+    {
+      "nazev": "Deník N: Kdo povládne Praze? Ve hře jsou tři hlavní scénáře",
+      "url": "https://denikn.cz/2181769/pakt-s-babisem-nebo-liberalni-sily-proti-ods-rozebirame-kdo-povladne-po-volbach-v-praze/",
+      "datum": "2026-09-13"
+    },
+    {
+      "nazev": "Deník N: Dvě, nebo pět nemovitostí? Kandidát na pražského primátora Portlík vlastní byty také přes firmu",
+      "url": "https://denikn.cz/2182150/dve-nebo-pet-nemovitosti-kandidat-na-prazskeho-primatora-portlik-vlastni-byty-take-pres-firmu/",
+      "datum": "2026-09-11"
+    },
+    {
+      "nazev": "Pražský deník: Část zastupitelů včetně primátora nepodala majetková přiznání za končící období",
+      "url": "https://prazsky.denik.cz/komunalni-volby/cast-zastupitelu-vcetne-primatora-nepodala-majetkova-priznani-za-koncici-obdobi/",
+      "datum": "2026-09-10"
+    },
+    {
+      "nazev": "ČeskéNoviny.cz: Výslechem místopředsedy ODS Portlíka bude pokračovat soud v kauze Dozimetr",
+      "url": "https://www.ceskenoviny.cz/zpravy/vyslechem-mistopredsedy-ods-portlika-bude-pokracovat-soud-v-kauze-dozimetr/2827026",
+      "datum": "2026-05-19"
+    },
+    {
+      "nazev": "Reflex.cz: Pražský fenomén: Proč kandidátům na primátora mizí z paměti jejich vlastní byty?",
+      "url": "https://www.reflex.cz/clanek/komentare/138134/prazsky-fenomen-proc-kandidatum-na-primatora-mizi-z-pameti-jejich-vlastni-byty.html",
+      "datum": "2026-09"
+    }
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obor studia za titulem Mgr.) se nepodařilo dohledat.",
+    "Chybí zdrojovaný přehled konkrétních projektů Prahy 9 za Portlíkova starostování, které by šlo hodnotit jako splněné/nesplněné.",
+    "Přesný rok narození (1978) je odhad z udaného věku 48 let v brífu k říjnu 2026.",
+    "Nebylo ověřeno z registru oznámení Ministerstva spravedlnosti, zda Portlíkovo majetkové přiznání skutečně obsahuje všech pět nemovitostí (jeho tvrzení o řádném odevzdání nebylo nezávisle ověřeno).",
+    "Vstup do ODS (1997), členství v zastupitelstvu/radě Prahy 9 (2006-2021) a nástup do zastupitelstva ZHMP (2018) jsou dosud doloženy jen Wikipedií - nezávislý primární zdroj k těmto konkrétním datům se nepodařilo v čase rešerše dohledat.",
+    "Nebylo dohledáno, zda Portlík mezitím (po usnesení zastupitelstva ZHMP z 9/2026) skutečně doplnil majetkové přiznání podle etického kodexu, které podle Pražského deníku za celé období 2022-2026 nepodal."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

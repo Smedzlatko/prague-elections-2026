@@ -1,0 +1,99 @@
+{
+  "slug": "mc-praha-11-8-hnuti-pro-prahu-11",
+  "assembly_id": "mc-praha-11",
+  "list_cislo": 8,
+  "nazev": "Hnutí pro Prahu 11",
+  "zkratka": "HPP 11",
+  "typ": "strana",
+  "slozeni": ["HPP 11"],
+  "web": "https://www.hpp11.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "HPP 11 – volební program 2026", "url": "https://www.hpp11.cz", "datum": "2026-10-02"}
+    ],
+    "shrnuti": "HPP 11 staví kampaň na hesle „ochrana sídlišť“ a odkazu „19 let osvědčené práce“ – odmítá zahušťování zástavby a velké developerské projekty na Jižním Městě (např. věžové domy v Hájích), slibuje poctivé hospodaření MČ, údržbu a opravy veřejných prostranství a komunikací a zachování kvalitních veřejných služeb pro všechny obyvatele.",
+    "priority": [
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Ochrana zelených ploch před zahušťováním zástavbou",
+        "popis": "Odpor proti nové výstavbě (včetně věžových domů v Hájích), která by podle HPP 11 nebyla úměrná kapacitě škol, zdravotních a dalších služeb v lokalitě.",
+        "citace": "Důsledně bráníme zelené plochy před zahušťováním zástavbou.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "MČ má v územním rozvoji jen omezené pravomoci (je účastníkem řízení, ne vždy rozhoduje sama), výsledek závisí i na magistrátu a stavebním úřadu."},
+        "zdroj_url": "https://www.hpp11.cz"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Poctivé a transparentní hospodaření radnice",
+        "popis": "Slib odpovědného nakládání s rozpočtem MČ a majetkem.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "neoveritelne", "oduvodneni": "Obecný slib bez konkrétních opatření nebo čísel."},
+        "zdroj_url": "https://www.hpp11.cz"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Údržba a opravy veřejných prostranství a komunikací",
+        "popis": "Pokračování údržby chodníků, komunikací a veřejných prostor na sídlišti.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Běžná agenda MČ, kterou si může zajistit z vlastního rozpočtu."},
+        "zdroj_url": "https://www.hpp11.cz"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "HPP 11 je čistě lokální hnutí bez jasného celostátního ideologického zakotvení; profiluje se primárně kauzami územního rozvoje a hospodaření MČ, ne obecnou hodnotovou nebo ekonomickou osou.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "HPP 11 vyhrálo volby 2022 (26,89 %, 11 mandátů) a vedlo koalici s PRAHA 11 SOBĚ, ANO 2011 a ODS; předsedkyně hnutí Šárka Zdeňková byla starostkou od 21. 12. 2022 do svého odvolání zastupitelstvem 7. 12. 2023, poté co koalici vypověděli Piráti. Po odvolání zůstalo HPP 11 nejsilnějším klubem zastupitelstva, ale o starostu přišlo (novým starostou se v červnu 2024 stal Martin Sedeke, ODS).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [
+      {
+        "slib": "Stabilní vedení MČ po celé volební období.",
+        "dukaz": "Starostka Zdeňková byla odvolána necelý rok po zvolení (7. 12. 2023), MČ byla poté bez řádně zvoleného starosty zhruba půl roku.",
+        "zdroj_url": "https://denikn.cz/minuta/1302364/"
+      }
+    ],
+    "shrnuti": "Nejsilnější strana volebního období 2022–2026 ztratila post starostky už po jedenácti měsících v důsledku rozpadu koalice s Piráty; detailní bilanci konkrétních věcných slibů (např. tempo regenerace sídliště) se v rámci této rešerše nepodařilo doložit nad rámec obecného líčení kauzy odvolání."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Odvolání starostky Šárky Zdeňkové",
+      "typ": "stranicky",
+      "obdobi": "2023-12",
+      "popis": "Zastupitelstvo MČ Praha 11 odvolalo starostku Šárku Zdeňkovou (HPP 11) 7. 12. 2023 poměrem 19 z 35 hlasů, poté co koalici vypověděli Piráti. Piráti jako důvod uváděli neřešení dotační kauzy bývalé ubytovny Sandra (riziko ztráty cca 180 mil. Kč), odmítání navýšit dotaci kulturní společnosti Jižní Město (KJM) a chování vůči úřednímu aparátu a koaličním partnerům, které podle nich poškozovalo hospodářské zájmy MČ. Zdeňková tyto důvody odmítla jako vykonstruované a kontrovala, že naopak ona odmítala blíže nespecifikované požadavky pirátského radního Jiřího Dohnala na dary/příspěvky pro KJM na úkor rozpočtu MČ.",
+      "stav": "bez_zaveru",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Zdeňková: „Skutečné důvody odvolání jsou vykonstruované, ve skutečnosti šlo o odstranění nositelky politiky HPP 11.“ Vyjádření Jiřího Dohnala k jejímu protiobvinění se v rámci rešerše nepodařilo dohledat.",
+      "zdroje": [
+        {"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"}
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": 1,
+    "transparentnost": 2,
+    "oduvodneni": "Program je formulován jako obecná hesla bez čísel a termínů (konkrétnost 1). Hodnocení plnění je nízké – klíčový personální slib (stabilní starostka po celé období) byl porušen do roka kvůli rozpadu koalice (důvěryhodnost 1). Transparentnost: zveřejněný program (+1) a dohledatelná kandidátka se stranickou příslušností (+1), ale chybí dohledatelné financování kampaně nebo transparentní účet.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["zdenkova-sarka"],
+  "mezery_v_datech": [
+    "Nebyl dohledán kompletní text volebního programu HPP 11 pro rok 2026 nad rámec stručného shrnutí na webu hnutí.",
+    "Výsledek sporu o dotaci pro KJM a o budoucnost ubytovny Sandra (zda byla dotace cca 180 mil. Kč zachráněna) nebyl dohledán.",
+    "Kdo přesně vedl MČ v mezidobí 12/2023–6/2024 se nepodařilo doložit."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

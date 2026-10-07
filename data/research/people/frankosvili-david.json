@@ -1,0 +1,45 @@
+{
+  "slug": "frankosvili-david",
+  "name_key": "frankosvili-david",
+  "cele_jmeno": "David Frankošvili",
+  "rok_narozeni": 2002,
+  "strana": "AUTO",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 4,
+      "poradi": 5
+    }
+  ],
+  "role": "top5",
+  "profil": "David Frankošvili je projektant, kandiduje za hnutí Motoristé sobě na 5. místě listiny ANO s podporou Motoristů v Praze 7. Žádný další veřejný politický záznam nebyl dohledán – jde o nového kandidáta bez historie v komunální politice.",
+  "vzdelani": null,
+  "profese": "projektant",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez historického záznamu z výkonné funkce.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 24 let v brífu k říjnu 2026 (2002), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o nového kandidáta."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

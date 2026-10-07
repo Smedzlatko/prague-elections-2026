@@ -1,0 +1,66 @@
+{
+  "slug": "zajac-jiri",
+  "name_key": "zajac-jiri",
+  "cele_jmeno": "Jiří Zajac",
+  "rok_narozeni": 1977,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-14",
+      "list_cislo": 8,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Jiří Zajac je starostou MČ Praha 14 za ODS, v čele koalice ODS SPOLU s TOP 09 a Sousedy pro Prahu 14, která v roce 2022 získala 7 mandátů z 31 (20,46 %, nejsilnější subjekt). Ve vlastním volebním materiálu pro rok 2026 shrnuje uplynulé období heslem „Radši plníme než slibujeme“ a jmenuje jako dokončené projekty Dům pro seniory Bojčenkova, družstevní bydlení v Broumarské ulici, polyfunkční dům na Černém Mostě a novou vlakovou zastávku Rajská zahrada.",
+  "vzdelani": null,
+  "profese": "Starosta MČ Praha 14.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "starosta MČ Praha 14",
+      "organizace": "MČ Praha 14",
+      "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako starosta nese hlavní exekutivní odpovědnost za MČ. Vlastní volební materiál dokládá několik dokončených staveb (viz data/research/parties/mc-praha-14-8-ods-spolu-s-top-09-a-sousedy-pro-prahu-1.json), jde ale o tvrzení samotné koalice o sobě, ne o nezávislý audit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Před čtyřmi lety jste nám dali důvěru spravovat naši městskou část. Snažili jsme se jí nezklamat... Radši plníme než slibujeme.",
+      "kontext": "Úvodní slovo starosty ve volebním materiálu ODS SPOLU s TOP 09 a Sousedy pro Prahu 14 pro volby 2026.",
+      "zdroj_url": "https://www.ods.cz/media/content/post/0736/73614.pdf",
+      "datum": "2026-10-02"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "ODS SPOLU s TOP 09 a Sousedy pro Prahu 14 - Priority 2026-2030",
+      "url": "https://www.ods.cz/media/content/post/0736/73614.pdf",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "praha14.cz",
+      "url": "https://www.praha14.cz",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Politická historie Jiřího Zajace před rokem 2022 nebyla dohledána.",
+    "Bilance dokončených projektů vychází z vlastního volebního materiálu, nebyla ověřena nezávislým zdrojem.",
+    "Cíleně ověřeno přes WebSearch (Jiří Zajac Praha 14 kauza/konflikt zájmů/vyšetřování): nebyla dohledána žádná kauza. Jde o doložený nulový nález."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "adamec-tomas",
+  "name_key": "adamec-tomas",
+  "cele_jmeno": "Tomáš Adamec",
+  "rok_narozeni": 1995,
+  "strana": "SPD",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 10, "poradi": 5}],
+  "role": "top5",
+  "profil": "Manažer prodeje v autosalonu podle kandidátní listiny ČSÚ. Bez veřejně dohledaného politického záznamu — jde o kandidáta bez dosavadní zastupitelské funkce.",
+  "vzdelani": null,
+  "profese": "manažer prodeje v autosalonu",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez výkonné funkce nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [{"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"}],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný další veřejný záznam o osobě — u kandidáta bez předchozí politické funkce je to očekávatelné.",
+    "Rok narození odhadnut z uvedeného věku (31 let v roce 2026) v kandidátní listině, nepotvrzen nezávislým zdrojem."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

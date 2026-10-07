@@ -1,0 +1,33 @@
+{
+  "slug": "paclt-adam",
+  "name_key": "paclt-adam",
+  "cele_jmeno": "Adam Paclt",
+  "rok_narozeni": 1984,
+  "strana": "Motoristé sobě",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 14, "poradi": 2}],
+  "role": "top5",
+  "profil": "Podnikatel v oblasti softwaru a kybernetické bezpečnosti. Spolu s dalšími založil a vlastnil firmy eM Client (2006) a APPSEC (2016); mezi lety 2002–2006 obchodní ředitel ve společnosti IceWarp, od roku 2014 se do IceWarpu vrátil jako CEO a spoluvlastník. V roce 2020 podpořil Trikoloru, ve volbách do Poslanecké sněmovny 2025 kandidoval jako dvojka Motoristů sobě za Prahu, ale neuspěl; následně se stal asistentem poslance Miroslava Krejčího. Od února 2026 je místopředsedou Rady vlády pro informační společnost. Je uváděn jako významný finanční dárce strany Motoristé sobě.",
+  "vzdelani": null,
+  "profese": "podnikatel v IT, zakladatel a spolumajitel firem eM Client, APPSEC, IceWarp",
+  "politicka_historie": [
+    {"od": "2020", "do": "2020", "funkce": "podporovatel strany ve volbách", "organizace": "Trikolora", "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Paclt"},
+    {"od": "2025-09", "do": "2025-10", "funkce": "kandidát do Poslanecké sněmovny za Prahu (č. 2)", "organizace": "Motoristé sobě", "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Paclt"},
+    {"od": "2025", "do": null, "funkce": "parlamentní asistent poslance Miroslava Krejčího", "organizace": "Poslanecká sněmovna PČR", "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Paclt"},
+    {"od": "2026-02", "do": null, "funkce": "místopředseda", "organizace": "Rada vlády pro informační společnost", "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Paclt"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez výkonné funkce v samosprávě; vládní funkce (místopředseda Rady vlády pro informační společnost) je čerstvá a neumožňuje hodnocení.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": ["eM Client", "APPSEC", "IceWarp (CEO a spoluvlastník)", "E&S Distribution", "AppToCloud.com", "spolumajitel restaurace v Karlíně"], "registr_oznameni_url": null, "poznamka": "Dle wikipedie je uváděn jako výrazný finanční podporovatel strany Motoristé sobě."},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "Wikipedie – Adam Paclt", "url": "https://cs.wikipedia.org/wiki/Adam_Paclt", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání se nepodařilo dohledat.",
+    "Nepodařilo se ověřit přesný rozsah a výši finanční podpory strany z rejstříkových/transparentních dat kampaně."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "mc-praha-12-10-motoriste-sobe",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 10,
+  "nazev": "Motoristé sobě",
+  "zkratka": "AUTO",
+  "typ": "strana",
+  "slozeni": ["Motoristé sobě"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný program pro Prahu 12 na rok 2026 se nepodařilo dohledat. Lídr Jakub Němec je podle dat ČSÚ zastupitelem MČ zvoleným i v roce 2022 (pozice č. 5, 4034 preferenčních hlasů) — pod jakou listinou tehdy kandidoval (Motoristé sobě jako celostátní strana v roce 2022 ještě neexistovali), se nepodařilo dohledat.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 1.5,
+    "oduvodneni": "Motoristé sobě se celostátně profilují jako pravicové protestní hnutí hájící zájmy řidičů a motoristů; lokální program nebyl dohledán.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nenalezen (konkrétnost 0). Transparentnost: dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["nemec-jakub"],
+  "mezery_v_datech": [
+    "Program Motoristů sobě pro Prahu 12 na rok 2026 nebyl dohledán.",
+    "Nebylo dohledáno, pod jakou listinou kandidoval a byl zvolen Jakub Němec v roce 2022."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

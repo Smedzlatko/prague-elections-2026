@@ -1,0 +1,97 @@
+{
+  "slug": "mc-praha-14-3-starostove-a-nezavisli",
+  "assembly_id": "mc-praha-14",
+  "list_cislo": 3,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "typ": "strana",
+  "slozeni": [
+    "STAN"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "STAN Praha 14 - Volební program 2026-2030",
+        "url": "https://stanpraha14.cz/program/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "STAN v Praze 14 staví program na čtyřech pilířích: klidnější doprava (rezidentní parkování, parkovací domy na Lehovci a Černém Mostě, prodloužení tramvaje do Hutí, prosazování prodloužení metra B), bezpečnější ulice, aktivní stárnutí seniorů a zdravější prostředí.",
+    "priority": [
+      {
+        "oblas": null,
+        "oblast": "doprava",
+        "nazev": "Parkovací dům Rochovská",
+        "popis": "Výstavba moderního parkovacího domu s kapacitou přibližně 160 parkovacích míst.",
+        "citace": "moderní parkovací dům s kapacitou přibližně 160 parkovacích míst",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní číslo kapacity, ale závisí na pozemku a rozpočtu MČ."
+        },
+        "zdroj_url": "https://stanpraha14.cz/program/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Tramvajové propojení po ulici Ocelkova",
+        "popis": "Prosazování nového tramvajového spojení k Černému Mostu.",
+        "citace": "prosazovat tramvajové propojení po ulici Ocelkova",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o investici v gesci hl. m. Prahy a dopravního podniku, MČ na ni má jen omezený vliv."
+        },
+        "zdroj_url": "https://stanpraha14.cz/program/"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Příjmy z parkování zpět lidem na Praze 14",
+        "popis": "Peníze vybrané za parkování mají sloužit lidem, kteří na Praze 14 žijí.",
+        "citace": "Peníze vybrané za parkování musí sloužit lidem, kteří na Praze 14 žijí",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Záleží na rozpočtových pravidlech MČ, ale jde o proveditelný krok v její vlastní gesci."
+        },
+        "zdroj_url": "https://stanpraha14.cz/program/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Jan Liška zastával funkci radního MČ Praha 14 v období 2022-2026, přestože STAN jako samostatná listina v roce 2022 na Praze 14 nekandidovalo (byl zvolen na jiné listině, přesný koaliční mechanismus není doložen).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako radní nesl Liška spoluodpovědnost za chod rady, konkrétní audit jeho kroků se však nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "Program obsahuje pojmenovaná opatření, místy i konkrétní čísla (160 parkovacích míst), bez rozpočtového krytí. Důvěryhodnost plnění: Liška byl radním bez jasně doloženého vlastního resortu či konkrétních prosazených priorit – skóre 2 odráží chybějící doložený přínos, ne prokázané pochybení. Transparentnost +1 za zveřejněný program, +1 za zápisy zastupitelstva, +1 za dohledatelnou funkci lídra (radní, interní auditor).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "liska-jan"
+  ],
+  "mezery_v_datech": [
+    "Nebylo ověřeno, na jaké listině byl Jan Liška zvolen v roce 2022 (STAN samostatně na Praze 14 v tabulce výsledků 2022 nefiguruje) a jak přesně se stal radním.",
+    "Program neuvádí rozpočtové krytí jednotlivých opatření."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

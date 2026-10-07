@@ -1,0 +1,33 @@
+{
+  "slug": "zelenka-pavel",
+  "name_key": "zelenka-pavel",
+  "cele_jmeno": "Pavel Zelenka",
+  "rok_narozeni": 1971,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 1, "poradi": 9}],
+  "role": "inkumbent",
+  "profil": "Pavel Zelenka je grafický designér, v současném volebním období místostarosta MČ Praha 7 pro dopravu, strategické projekty a veřejné zakázky. Pro rok 2026 kandiduje na 9. místě listiny PRAHA 7 SOBĚ.",
+  "vzdelani": null,
+  "profese": "místostarosta MČ Praha 7 pro dopravu a investice, grafický designér",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "místostarosta MČ Praha 7 (doprava, strategické projekty, veřejné zakázky)", "organizace": "MČ Praha 7", "zdroj_url": "https://www.praha7.cz/radnice/voleni-zastupci-mistni-samospravy/rada-mc-praha-7/clenove-rady/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Má výkonnou funkci (místostarosta pro dopravu, relevantní pro napojení Bubny-Zátory a zastávky Praha-Bubny), ale podrobný zdrojovaný seznam jeho slibů a jejich plnění nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha7.cz - Členové rady MČ Praha 7", "url": "https://www.praha7.cz/radnice/voleni-zastupci-mistni-samospravy/rada-mc-praha-7/clenove-rady/", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 55 let v brífu k říjnu 2026 (1971), neověřeno.",
+    "Konkrétní výsledky agendy dopravy a veřejných zakázek nebyly dohledány nad rámec seznamu rady MČ."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "klich-michal",
+  "name_key": "klich-michal",
+  "cele_jmeno": "Ing. Michal Klich",
+  "rok_narozeni": 1970,
+  "strana": "Bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-22",
+      "list_cislo": 6,
+      "poradi": 6
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Ing. Michal Klich je zastupitel/ka MČ Praha 22, v roce 2022 zvolen/a na listině „ANO 2011“ (5. místo, 747 preferenčních hlasů). Pro volby 2026 kandiduje na listině „ANO 2011“ (6. místo). Profesně: kurátor Uhříněveského muzea, zastupitel.",
+  "vzdelani": null,
+  "profese": "kurátor Uhříněveského muzea, zastupitel",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 22 (zvolen/a za ANO 2011)",
+      "organizace": "MČ Praha 22",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 22 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

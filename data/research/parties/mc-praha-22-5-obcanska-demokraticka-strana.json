@@ -1,0 +1,62 @@
+{
+  "slug": "mc-praha-22-5-obcanska-demokraticka-strana",
+  "assembly_id": "mc-praha-22",
+  "list_cislo": 5,
+  "nazev": "Občanská demokratická strana",
+  "zkratka": "ODS",
+  "typ": "strana",
+  "slozeni": [
+    "ODS"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/168843",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Martin Langmajer zastával funkci 1. místostarosty MČ Praha 22 v období 2022-2026 (zvolen 19. 10. 2022 za listinu „Společně pro Prahu 22“, usnesení UZ-35-6/22, poměrem hlasů 15:8:1; na listinu 2026 ale kandiduje jako lídr ODS – jde o personální kontinuitu, ne o kontinuitu volební listiny). Společně pro Prahu 22 bylo jedním ze tří koaličních partnerů (s ANO 2011 a DvacetDvojka+SVOBODNÍ, 15 z 25 mandátů). Doloženo anonymizovaným zápisem z ustavujícího zasedání ZMČ č. 6/2022.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Rozvoj veřejného prostoru a dalších investic MČ (konkrétní znění volebního slibu „Společně pro Prahu 22“ z roku 2022 se nepodařilo dohledat).",
+        "dukaz": "Jako 1. místostarosta nese spoluodpovědnost za společné investice koalice – nový park za radnicí (zahájen 9/2026) a přípravu napojení Kutnohorské/Hostivařské na Pražský okruh (dokončení plán. 2028).",
+        "zdroj_url": "https://www.praha22.cz"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako 1. místostarosta nesl spoluodpovědnost za chod radnice v koalici ANO + Společně pro Prahu 22 + DvacetDvojka+Svobodní (viz data/research/districts/mc-praha-22.json). Konkrétní volební program z roku 2022 ani jeho systematický audit se nepodařilo dohledat – POZOR: listina ODS 2026 je programově i personálně jiný subjekt než „Společně pro Prahu 22“ 2022, byť ji vede tatáž osoba."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program listiny ODS pro 2026 ani program „Společně pro Prahu 22“ z roku 2022 nebyl dohledán, přestože lídr Martin Langmajer je 1. místostarosta MČ (inkumbent). Transparentnost +1 za zápisy zastupitelstva, +1 za dohledatelnou exekutivní funkci lídra. doveryhodnost_plneni=2 (stejné měřítko jako u koaličních partnerů ANO a DvacetDvojka, viz METODIKA.md): bez dohledaného volebního programu nelze provést hodnocení slib-po-slibu, skóre je konzervativním odhadem odvozeným jen z obecně doložené spoluodpovědnosti za realizované/rozjeté projekty koalice. Skóre se vztahuje k osobě/funkci Langmajera v koalici 2022-2026, ne k listině ODS jako takové (ta kandiduje poprvé v této podobě).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "langmajer-martin"
+  ],
+  "mezery_v_datech": [
+    "Program listiny ODS pro volby 2026 nebyl dohledán.",
+    "Program listiny „Společně pro Prahu 22“ z roku 2022 se nepodařilo dohledat (zkoušeno programydovoleb.cz, web MČ, Wayback Machine) - chybí tak podklad pro slib-po-slibu audit konkrétních kroků 1. místostarosty Langmajera v jeho resortu."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

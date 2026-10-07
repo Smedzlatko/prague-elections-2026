@@ -1,0 +1,30 @@
+{
+  "slug": "karel-filip",
+  "name_key": "karel-filip",
+  "cele_jmeno": "Ing. Filip Karel, PhD.",
+  "rok_narozeni": 1981,
+  "strana": "Piráti",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 8, "poradi": 1}],
+  "role": "lidr",
+  "profil": "Filip Karel je projektový manažer, člen Pirátů. V roce 2022 vedl pirátskou listinu v Praze 5, která získala 11,74 % a 6 mandátů, a sám získal mandát zastupitele (3031 preferenčních hlasů). Jako opoziční strana nejsou Piráti podle aktuálního seznamu rady MČ (říjen 2026) součástí vedení MČ. Pro rok 2026 znovu vede listinu jako lídr.",
+  "vzdelani": "Ing., PhD. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "projektový manažer, zastupitel MČ Praha 5",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel MČ Praha 5, lídr klubu Pirátů", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Jako opoziční zastupitel bez funkce v radě MČ nemá přímou výkonnou odpovědnost za vedení Prahy 5; podrobné hodnocení nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha5.cz - Rada MČ Praha 5", "url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 45 let v brífu k říjnu 2026 (1981), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

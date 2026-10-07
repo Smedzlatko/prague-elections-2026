@@ -1,0 +1,52 @@
+{
+  "slug": "motejlova-alena",
+  "name_key": "motejlova-alena",
+  "cele_jmeno": "Ing. Alena Motejlová",
+  "rok_narozeni": 1984,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-21",
+      "list_cislo": 5,
+      "poradi": 3
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Alena Motejlová je členkou radniční koalice ODS a TOP 09 v MČ Praha 21, zastává funkci místostarostky MČ (profesně ekonomka). Zvolena byla v roce 2022 na 3. místě kandidátky ODS a TOP 09 – Společně pro Újezd.",
+  "vzdelani": null,
+  "profese": "místostarostka MČ, ekonomka",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "místostarostka MČ, ekonomka",
+      "organizace": "MČ Praha 21",
+      "zdroj_url": "https://www.praha21.cz"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako člen radniční koalice s výkonnou funkcí nese spoluodpovědnost za chod MČ, podrobný audit konkrétní agendy se však nepodařilo samostatně dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 538949",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní výsledky a agenda v radniční funkci nebyly samostatně dohledány nad rámec kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

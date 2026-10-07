@@ -1,0 +1,63 @@
+{
+  "slug": "mc-praha-7-3-spolu-pro-prahu-7",
+  "assembly_id": "mc-praha-7",
+  "list_cislo": 3,
+  "nazev": "SPOLU PRO PRAHU 7",
+  "zkratka": "SPOLU",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "TOP 09"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Programy do voleb - SPOLU PRO PRAHU 7",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/165148",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Vyhledávání Seznam.cz - program SPOLU pro Prahu 7 2026",
+        "url": "https://search.seznam.cz/?q=%22SPOLU+pro+Prahu+7%22+program+2026+Mairych",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice ODS a TOP 09 navazuje na listinu „Společně pro Prahu 7“, která ve volbách 2022 získala 16,88 % a 5 mandátů a je dosud druhým nejsilnějším klubem v zastupitelstvu (po přejmenování klubu došlo i k personálním změnám). Vlastní web ani samostatný program listiny nebyly přes dostupné zdroje dohledány – celostátní web spolu25.cz se týká výhradně národní koalice, ne lokální kandidátky.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 1,
+    "oduvodneni": "ODS a TOP 09 jsou na celostátní úrovni pravostředové strany (nižší daně, podpora podnikání, konzervativnější ve věcech rozpočtové kázně); u lokální listiny bez vlastního programu odvozeno ze složení.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (5 ze 29 mandátů) vůči samostatně vládnoucí většině PRAHA 7 SOBĚ. Klub zastupitelstva v roce 2022 vedl Josef Neuberg (ODS), dnes vede Petr Mairych; z pětičlenného klubu zůstávají zastupiteli i Jan Ladin a Jiří Hejnic (TOP 09) a Josef Neuberg (ODS), podle webu MČ přibyl v klubu i Tomáš Vavřinec.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční klub bez účasti v radě nemá výkonnou odpovědnost za vedení MČ; detailní srovnání s volebním programem 2022 nebylo dohledáno, protože program nebyl nalezen."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "konkretnost_programu = 0, program nebyl dohledán. doveryhodnost_plneni je null – jde o opoziční klub bez exekutivní odpovědnosti za vedení MČ v období 2022-2026, nesplnění z pozice opozice se dle metodiky nehodnotí proti straně.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "mairych-petr"
+  ],
+  "mezery_v_datech": [
+    "Vlastní volební program listiny pro rok 2026 nebyl dohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"'SPOLU PRO PRAHU 7' Mairych program komunální volby 2026\" a \"Petr Mairych Praha 7 Facebook program ODS TOP09 volby 2026\", plus přímé WebFetch ověření stránky ods.cz/os.praha7/volby2026/komunalni/3815-praha-7 (obsahuje jen kandidátní listinu, žádný program). Dohledán byl pouze celopražský program koalice SPOLU pro Prahu (spoluproprahu26.cz, \"Deset priorit, jeden směr\") - podle instrukcí k rešerši se ale nejedná o vlastní lokální program listiny pro Prahu 7, a nekopíruje se.",
+    "Nebylo ověřeno přesné datum, kdy klub ODS/TOP 09 v zastupitelstvu Prahy 7 vyměnil předsedu z Josefa Neuberga na Petra Mairycha.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „SPOLU pro Prahu 7 ODS TOP 09 program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

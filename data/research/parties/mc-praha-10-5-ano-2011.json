@@ -1,0 +1,52 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 5,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz dohledán. ANO bylo v letech 2022-2026 na Praze 10 v opozici (17,67 %, 9 mandátů). Lídryně Radmila Kleslová byla v letech 2014-2016 starostkou Prahy 10 za ANO.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0.0,
+    "oduvodneni": "ANO se celostátně profiluje jako pragmaticky-centristické hnutí bez pevné ideologické kotvy. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (9 mandátů po volbách 2022), celý tým inkumbentů z roku 2022 (Kleslová, Kopecký, Šímová, Bendová, Kostka, Zběhlík, Novák) kandiduje znovu.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako druhá nejsilnější opoziční strana s 9 mandáty mělo ANO relativně velký vliv na debatu v zastupitelstvu, ale bez exekutivní moci. Zdrojovaný přehled konkrétních iniciativ klubu za období 2022-2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program nedohledán. Plnění slibů nelze hodnotit – klub byl v opozici bez výkonné funkce v daném volebním období.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "kleslova-radmila"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 nebyl dohledán. Zkoušeno: detail listiny na programydovoleb.cz (strana/165162, bez odkazu na vlastní web), doména anobudepraha10.cz (neexistuje), Facebook profil Radmily Kleslové (obsah nečitelný přes WebFetch), web MČ praha10.cz (stránka při načtení přes WebFetch nekompletní/oříznutá).",
+    "Program nedohledán i přes opakovaný WebSearch (ověřeno 2026-10-03): zkoušeno \"ANO Praha 10 Kleslová volební program 2026 facebook\" – nalezeny jen obecné zprávy o celopražské kampani ANO (Hušbauer) a Kleslové jako předsedkyni pražského ANO v Praze 10, žádný lokální programový text.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „ANO 2011 Praha 10 komunální volby 2026 program“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06",
+  "slug": "mc-praha-10-5-ano-2011"
+}

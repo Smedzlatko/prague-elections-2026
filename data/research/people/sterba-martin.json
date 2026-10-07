@@ -1,0 +1,52 @@
+{
+  "cele_jmeno": "Mgr. Martin Štěrba",
+  "rok_narozeni": 1987,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-8",
+      "list_cislo": 6,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Martin Štěrba je zastupitel MČ Praha 8 a předseda kontrolního výboru zastupitelstva za Piráty, profesně marketér a stratég, ředitel hudebního festivalu. Ve volbách 2022 byl zvolen na 1. místě pirátské listiny s 3813 preferenčními hlasy.",
+  "vzdelani": null,
+  "profese": "marketér a stratég, ředitel hudebního festivalu",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 8, předseda kontrolního výboru",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako předseda kontrolního výboru v opozici nemá přímou exekutivní odpovědnost za resort – zdrojovaný přehled jeho konkrétních kontrolních zjištění nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Praha 8 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500208",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu se nepodařilo dohledat další veřejný záznam o osobě."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "sterba-martin",
+  "name_key": "sterba-martin"
+}

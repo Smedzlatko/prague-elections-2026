@@ -1,0 +1,89 @@
+{
+ "slug": "hospodareni",
+ "nazev": "Hospodaření města",
+ "popis": "Rozpočet hl. m. Prahy, zadluženost, PPP projekty a velké investiční akce. Aktuální čísla rozpočtu na rok 2026 se v dostupném čase nepodařilo ověřit u primárního zdroje (praha.eu i navazující weby magistrátu byly technicky nedostupné) – soubor obsahuje jen ověřitelná dílčí fakta a tvrzení stran, zbytek je přiznaná mezera.",
+ "fakta": [
+  {
+   "tvrzeni": "Zastupitelstvo hl. m. Prahy schválilo 11. 12. 2025 rozpočet vlastního hl. m. Prahy na rok 2026 s příjmy 116,35 mld. Kč a výdaji 119,05 mld. Kč. Rozdíl cca 2,7 mld. Kč (schodek) má být kryt z úspor z minulých let (přebytků hospodaření předchozích let).",
+   "hodnota": "příjmy 116,35 mld. Kč / výdaje 119,05 mld. Kč / schodek cca 2,7 mld. Kč (rozpočet 2026)",
+   "zdroj_url": "https://praha.eu/w/schvaleny-rozpocet-vlastniho-hlavniho-mesta-prahy-na-rok-2026",
+   "datum": "2026-10-03"
+  },
+  {
+   "tvrzeni": "V rozpočtu 2026 tvoří běžné (provozní) výdaje 96,02 mld. Kč, investice cca 23,03 mld. Kč. Mezi provozními výdaji jde největší podíl na dopravu (31,05 mld. Kč) a na školství a sport (27,92 mld. Kč).",
+   "hodnota": "běžné výdaje 96,02 mld. Kč (z toho doprava 31,05 mld., školství a sport 27,92 mld.), investice cca 23,03 mld. Kč",
+   "zdroj_url": "https://www.ceskenoviny.cz/zpravy/praha-bude-pristi-rok-hospodarit-s-prijmy-11635-mld-kc-a-vydaji-11905-mld-kc/2759363",
+   "datum": "2026-10-03"
+  },
+  {
+   "tvrzeni": "Zadlužení hlavního města kleslo z cca 33 mld. Kč v roce 2013 na cca 8 mld. Kč koncem roku 2023, zatímco příjmy města za stejné období vzrostly z cca 63 mld. na cca 141 mld. Kč. Dluhová zátěž rozpočtu (podíl splátek dluhu na příjmech) klesla ze 13 % v roce 2021 na 5 % v roce 2024. Náměstek primátora pro finance Zdeněk Kovářík (ODS) uvádí jako bezpečnou hranici zadlužení Prahy cca 60 mld. Kč – město je tedy hluboko pod touto hranicí.",
+   "hodnota": "dluh cca 8 mld. Kč (konec 2023), dluhová zátěž 5 % příjmů (2024), 'bezpečná hranice' dle náměstka 60 mld. Kč",
+   "zdroj_url": "https://www.prazskypatriot.cz/bezpecna-mira-zadluzeni-prahy-60-miliard-korun-rika-namestek-primatora-vyhnanek/",
+   "datum": "2026-10-03"
+  },
+  {
+   "tvrzeni": "Skutečné hospodaření hl. m. Prahy za rok 2025: příjmy 148,14 mld. Kč (115,43 % upraveného rozpočtu), výdaje 123,97 mld. Kč (85,44 %), přebytek 24,17 mld. Kč. Schválený rozpočet 2025 přitom počítal se schodkem 7,25 mld. Kč. Podobně skončil rok 2024 (přebytek 22,96 mld. Kč) i 2023 (přebytek 29,27 mld. Kč).",
+   "hodnota": "přebytek 2025: 24,17 mld. Kč; 2024: 22,96 mld.; 2023: 29,27 mld.",
+   "zdroj_url": "https://praha.eu/documents/d/praha/duvodova-zprava-i-hl-m-praha",
+   "datum": "2026-10-06"
+  },
+  {
+   "tvrzeni": "Kapitálové (investiční) výdaje hl. m. Prahy činily podle Zprávy o plnění rozpočtu 21,39 mld. Kč v roce 2023, 26,54 mld. v roce 2024 a 25,97 mld. v roce 2025. V roce 2025 bylo vyčerpáno jen 65,62 % upraveného investičního rozpočtu (39,57 mld. Kč), tj. o 13,6 mld. Kč méně, než bylo plánováno; město to vysvětluje délkou majetkoprávní, povolovací a zakázkové přípravy a sezónností prací.",
+   "hodnota": "investice 2025: 25,97 mld. Kč = 65,62 % plánu; 2024: 26,54; 2023: 21,39",
+   "zdroj_url": "https://praha.eu/documents/d/praha/duvodova-zprava-i-hl-m-praha",
+   "datum": "2026-10-06"
+  },
+  {
+   "tvrzeni": "Celková výše dluhu hl. m. Prahy včetně příspěvkových organizací města a městských částí činila podle Ministerstva financí k 31. 12. 2024 7,4 mld. Kč.",
+   "hodnota": "7,4 mld. Kč (31. 12. 2024)",
+   "zdroj_url": "https://mf.gov.cz/cs/rozpoctova-politika/uzemni-rozpocty/hospodareni-uzemnich-rozpoctu/zadluzenost-uzemnich-rozpoctu/2024/zadluzenost-uzemnich-rozpoctu-v-roce-2024-61845",
+   "datum": "2025"
+  },
+  {
+   "tvrzeni": "Podle monitoringu Ministerstva financí (zpráva z 24. 7. 2026) činil stav na bankovních účtech hl. m. Prahy včetně příspěvkových organizací 178,6 mld. Kč (meziročně +5 %) a hl. m. Praha za rok 2025 „neprofinancovalo“ 22,9 mld. Kč investic. Hodnocení, že město nevyužilo investiční možnosti, je stanovisko ministerstva, nikoli účetní fakt (stejný dokument zároveň kritizuje i kumulaci úspor); Praha není zařazena mezi obce s vyšší mírou rizika hospodaření.",
+   "hodnota": "účty 178,6 mld. Kč; neprofinancováno 22,9 mld. Kč (2025)",
+   "zdroj_url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/informace-o-monitoringu-hospodareni-uzemnich-samos-64693",
+   "datum": "2026-07-24"
+  }
+ ],
+ "pozice_stran": [
+  {
+   "list_slug": "magistrat-5-praha-sobe",
+   "pozice": "Tvrdí, že v minulém období snížila dluh Prahy na historické minimum, a nyní chce „našetřené“ prostředky (podle vlastního tvrzení cca 175 mld. Kč) investovat do dopravní infrastruktury, škol a bytové výstavby přes nově založený fond průběžného financování.",
+   "citace": "V minulém volebním období jsme snížili zadlužení Prahy na historické minimum. Teď je čas našetřené miliardy investovat! Praha má na účtech 175 miliard, které tam teď leží ladem.",
+   "zdroj_url": "https://www.prahasobe.cz/program"
+  },
+  {
+   "list_slug": "magistrat-12-spolu-pro-prahu",
+   "pozice": "Pražský inovační fond a regulatorní sandbox: Založení Pražského inovačního fondu spojujícího městský, privátní a institucionální kapitál a Pražského regulatorního sandboxu pro testování startupů ve spolupráci s městem.",
+   "zdroj_url": "https://tempoplan.cz"
+  },
+  {
+   "list_slug": "magistrat-14-motoriste-sobe",
+   "pozice": "Odpovědné hospodaření: Investice s jasným přínosem a kontrola výdajů města.",
+   "citace": "Investice s jasným přínosem a kontrola výdajů.",
+   "zdroj_url": "https://motoristesobe.cz/komunalni-volby"
+  }
+ ],
+ "zdroje": [
+  {
+   "nazev": "Praha - Wikipedia (obecný přehled)",
+   "url": "https://cs.wikipedia.org/wiki/Praha",
+   "datum": "2026-10-02"
+  },
+  {
+   "nazev": "Volební program Praha sobě 2026 (PDF)",
+   "url": "https://www.prahasobe.cz/program",
+   "datum": "2026-10-02"
+  }
+ ],
+ "mezery_v_datech": [
+  "Přesná aktuální výše celkového dluhu hl. m. Prahy k roku 2026 (na rozdíl od údaje za konec 2023) nebyla dohledána u primárního zdroje - jen novinářské shrnutí trendu.",
+  "Tvrzení strany Praha sobě o cca 175 mld. Kč 'na účtech' zůstává politickou interpretací vlastní bilance, ne auditovaným údajem - nebylo možné ho porovnat s oficiální výší rezerv/fondů města u primárního zdroje praha.eu.",
+  "Přehled a stav PPP projektů (např. kolem metra D, Vltavské filharmonie) nebyl ověřen.",
+  "Pozice ostatních šesti sledovaných listin (mimo SPOLU a Motoristé, doplněné v pozice_stran) k rozpočtu a hospodaření nebyly dohledány u primárního zdroje programu.",
+  "Přesná výše dluhu k 31. 12. 2025 nebyla dohledána; uvedeno je jen 7,4 mld. Kč k 31. 12. 2024 (MF).",
+  "Pozice listin 7, 9, 10, 16, 22, 24 k hospodaření: v jejich programech zachycených v parties/ není samostatná priorita z oblasti hospodaření, proto tu nejsou uvedeny (nikoli důkaz, že pozici nemají)."
+ ],
+ "posledni_aktualizace": "2026-10-06"
+}

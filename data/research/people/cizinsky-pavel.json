@@ -1,0 +1,86 @@
+{
+  "slug": "cizinsky-pavel",
+  "name_key": "cizinsky-pavel",
+  "cele_jmeno": "Mgr. Pavel Čižinský",
+  "rok_narozeni": 1976,
+  "strana": "Levice",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 13,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Pavel Čižinský je pražský advokát, politolog a lidskoprávní aktivista, od roku 2025 lídr strany Levice v Praze a v roce 2026 vede její celopražskou kandidátku do Zastupitelstva hl. m. Prahy. V letech 2018–2020 byl starostou MČ Praha 1 za nestranické hnutí Praha 1 sobě, v lednu 2020 byl po rozpadu koalice z funkce starosty odvolán. Mandát zastupitele Prahy 1 obhájil i ve volbách 2022 jako lídr Praha 1 sobě. V roce 2025 vstoupil do strany Levice a kandidoval jako její pražský lídr do Poslanecké sněmovny, zvolen nebyl. Je bratrem Jana Čižinského, starosty MČ Praha 7 a lídra hnutí PRAHA SOBĚ, který rovněž kandiduje v komunálních volbách 2026 (na celopražské listině PRAHA SOBĚ i jako lídr Praha 7 sobě) – příbuzenský vztah je doložen jeho biografickým profilem na české Wikipedii. Dříve spolupracoval s Výborem pro lidská práva a organizací na pomoc cizincům, zastupoval levicové aktivisty jako advokát a krátce byl mluvčím iniciativy ProAlt.",
+  "vzdelani": "Právnická fakulta Univerzity Karlovy v Praze, Mgr.",
+  "profese": "advokát",
+  "politicka_historie": [
+    {
+      "od": "2018-11",
+      "do": "2020-01",
+      "funkce": "starosta MČ Praha 1",
+      "organizace": "MČ Praha 1 (hnutí Praha 1 sobě)",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Pavel_Čižinský"
+    },
+    {
+      "od": "2018-11",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 1",
+      "organizace": "MČ Praha 1",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Pavel_Čižinský"
+    },
+    {
+      "od": "2025",
+      "do": null,
+      "funkce": "pražský lídr strany Levice, kandidát do Poslanecké sněmovny za Levici",
+      "organizace": "Levice",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Pavel_Čižinský"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Odvolání z funkce starosty Prahy 1",
+      "popis": "V lednu 2020 byl Čižinský odvolán z funkce starosty MČ Praha 1 poté, co se rozpadla koaliční většina, kterou vedl; nahradil ho Petr Hejma.",
+      "stav": "zastaveno",
+      "hodnoceni": "Čižinský tak nedokončil celé funkční období 2018–2022 v čele radnice, přestože mandát zastupitele si udržel.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org – Pavel Čižinský",
+          "url": "https://cs.wikipedia.org/wiki/Pavel_Čižinský",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako starosta Prahy 1 měl výkonnou funkci necelé 1,5 roku (2018–2020), ale zdrojovaný přehled konkrétních splněných či nesplněných slibů z tohoto období se nepodařilo dohledat; jako řadový zastupitel 2022–2026 bez výkonné funkce plnění slibů hodnotit nelze.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org – Pavel Čižinský",
+      "url": "https://cs.wikipedia.org/wiki/Pavel_Čižinský",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164222",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán zdrojovaný přehled konkrétních kroků/slibů z jeho působení jako starosty Prahy 1 2018–2020.",
+    "Přesný rok narození (1976) je z Wikipedie (3. prosince 1976); u ostatních kandidátů v projektu je rok narození dopočítáván z věku uvedeného v brífu, zde potvrzen přímým zdrojem."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

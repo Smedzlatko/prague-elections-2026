@@ -1,0 +1,59 @@
+{
+  "slug": "slabihoudek-tomas",
+  "name_key": "slabihoudek-tomas",
+  "cele_jmeno": "Ing. Tomáš Slabihoudek",
+  "rok_narozeni": 1978,
+  "strana": "TOP 09",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 12,
+      "poradi": 10
+    },
+    {
+      "assembly_id": "mc-praha-8",
+      "list_cislo": 7,
+      "poradi": 4
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Tomáš Slabihoudek je radní hl. m. Prahy a zastupitel MČ Praha 8, zvolen do ZHMP ve volbách 2022 za SPOLU. Podrobnější veřejně dohledatelný politický životopis (konkrétní resort radního, předchozí funkce) se v dostupné rešerši nepodařilo ověřit nad rámec údajů z brífu ČSÚ.",
+  "vzdelani": null,
+  "profese": "radní hl. m. Prahy, zastupitel MČ Praha 8",
+  "politicka_historie": [
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "radní hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": null
+    },
+    {
+      "od": null,
+      "do": null,
+      "funkce": "zastupitel MČ Praha 8",
+      "organizace": "MČ Praha 8",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Chybí dohledaný resort radního a zdrojovaný přehled konkrétních slibů a jejich plnění.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat, jaký konkrétní resort má Slabihoudek jako radní hl. m. Prahy na starosti.",
+    "Přesný rok narození (1978) je odhad z udaného věku 48 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

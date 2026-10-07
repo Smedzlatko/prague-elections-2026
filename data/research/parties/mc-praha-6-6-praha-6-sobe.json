@@ -1,0 +1,123 @@
+{
+  "slug": "mc-praha-6-6-praha-6-sobe",
+  "assembly_id": "mc-praha-6",
+  "list_cislo": 6,
+  "nazev": "PRAHA 6 SOBĚ",
+  "zkratka": "P6 SOBĚ",
+  "typ": "koalice",
+  "slozeni": [
+    "PRAHA SOBĚ",
+    "Zelení"
+  ],
+  "web": "https://prahasobe.cz/praha6sobe/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "PRAHA 6 SOBĚ - volební program 2026",
+        "url": "https://prahasobe.cz/praha6sobe/program/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice PRAHA SOBĚ a Zelených, součást vládnoucí koalice MČ (12,73 % a 6 mandátů v roce 2022). Program má pět priorit: kvalitní a dostupné školství (rozšíření kapacit MŠ Šmolíkova, Janákova, Juárezova, Bubeníčkova, lepší platy učitelů), zelená a klimaticky odolná čtvrť (výsadba stromů na Evropské, Bělohorské a Ružiňské, revitalizace náměstí Lotyšské a Flemingovo), dostupná veřejná doprava (prodloužení tramvají Malovanka-Strahov a Podbaba-Suchdol, modernizovaná železnice Praha-Kladno s napojením na letiště, chráněná cykloinfrastruktura), transparentní a participativní správa (rozšíření participativního rozpočtu „Nápad pro Šestku“) a dostupné bydlení (dokončení obecních bytů v Rakovnické ulici, „Kontaktní místo pro bydlení“, sociální fond pro rychlou pomoc rodinám v krizi).",
+    "priority": [
+      {
+        "oblast": "skolstvi",
+        "nazev": "Rozšíření kapacit mateřských škol",
+        "popis": "Rozšíření kapacity školek v projektech MŠ Šmolíkova, Janákova, Juárezova a Bubeníčkova, spolu s vyššími platy pro učitele.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o konkrétní jmenované investiční projekty, ale bez uvedených termínů a rozpočtu v dostupném shrnutí programu."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha6sobe/program/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Prodloužení tramvajových linek",
+        "popis": "Prodloužení tramvají na úseky Malovanka-Strahov a Podbaba-Suchdol, modernizace železnice Praha-Kladno s napojením na letiště.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Tramvajové linky a železnice jsou v kompetenci hl. m. Prahy a Správy železnic, nikoliv MČ – realizace závisí na rozhodnutích mimo dosah MČ Praha 6."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha6sobe/program/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Obecní bydlení v Rakovnické ulici a Kontaktní místo pro bydlení",
+        "popis": "Dokončení projektu obecních bytů v Rakovnické ulici a zřízení kontaktního místa pro občany hledající dostupné bydlení, plus sociální fond pro rychlou pomoc rodinám v krizi.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o konkrétní, jmenovaný projekt a novou službu plně v kompetenci MČ."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha6sobe/program/"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Rozšíření participativního rozpočtu „Nápad pro Šestku“",
+        "popis": "Navýšení financí pro participativní rozpočtování a větší zapojení obyvatel do rozhodování o rozvojových projektech.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Participativní rozpočet je nástroj, který MČ již provozuje, rozšíření je plně v její kompetenci."
+        },
+        "zdroj_url": "https://prahasobe.cz/praha6sobe/program/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1,
+    "hodnotova_osa": -2,
+    "oduvodneni": "PRAHA SOBĚ a Zelení jsou liberálně-progresivní subjekty s důrazem na klimatickou agendu, sociální bydlení a participaci; program pro Prahu 6 tomu odpovídá.",
+    "zdroje": [
+      {
+        "nazev": "PRAHA 6 SOBĚ - volební program 2026",
+        "url": "https://prahasobe.cz/praha6sobe/program/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Součást široké vládnoucí koalice (ODS+KDU-ČSL 12, STAN+Zelení 6, PRAHA 6 SOBĚ 6, TOP 09 7 = 23 ze 45 mandátů). Lídryně Mariana Čapková je místostarostkou MČ Praha 6, Petr Palacký (Zelení) je radním pro životní prostředí a klima.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Rozšíření kapacity mateřských škol (MŠ Šmolíkova, Janákova, Juárezova, Bubeníčkova).",
+        "stav": "Registr smluv (Hlídač státu) ukazuje, že přístavba MŠ Janákova je dlouhodobý projekt - smlouva o dílo pochází už z doby před nástupem této koalice (dodatek z prosince 2021) a objekt má za sebou víceleté opravy a úpravy táhnoucí se přes celé období 2022-2026. Nepodařilo se ověřit, že je rozšíření k říjnu 2026 u všech čtyř jmenovaných školek dokončeno - program 2026 je přesto opět nabízí jako prioritu, což nasvědčuje nedokončení.",
+        "zdroj_url": "https://www.hlidacstatu.cz/hledat?q=M%C5%A0%20Janákova%20Praha%206"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice je součástí vedení MČ po celé období 2022-2026 s místostarostenskou i radní funkcí. Investiční projekty, které koalice prosazuje (kapacity MŠ), se podle registru smluv táhnou dlouhodobě a nelze je k říjnu 2026 potvrdit jako dokončené; to, že je stejná priorita opakovaná i v programu pro rok 2026, nasvědčuje nedokončení. Strukturovaný program PRAHA 6 SOBĚ pro rok 2022 (pro přesné srovnání jednotlivých slibů) se nepodařilo dohledat, nezávislé medialní hodnocení plnění rovněž ne."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 3: program jmenuje konkrétní projekty (MŠ Šmolíkova, Rakovnická) a opatření, ale bez systematických čísel či termínů u většiny bodů. doveryhodnost_plneni = 2: koalice byla u moci celé období, ale klíčová opatření (kapacity MŠ) nejsou potvrzeně dokončena a objevují se znovu jako priorita i v programu 2026; bez dokladu o úplném selhání nebo obratu o 180° proto ne 0-1, ale bez dokladu plného naplnění proto ne výš. transparentnost = 3 za zveřejněný program a dohledatelný web, bez dalších zjištěných položek o financování kampaně.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "capkova-mariana"
+  ],
+  "mezery_v_datech": [
+    "Program neobsahuje rozpočtové krytí ani termíny u většiny bodů.",
+    "Strukturovaný program PRAHA 6 SOBĚ pro Prahu 6 pro rok 2022 (pro přesné srovnání slibů) nebyl dohledán.",
+    "Přesný stav dokončení rozšíření kapacit u všech čtyř jmenovaných MŠ nebyl ověřen - k dispozici jen registr smluv."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

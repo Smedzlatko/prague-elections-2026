@@ -1,0 +1,124 @@
+{
+  "slug": "mestan-petr",
+  "name_key": "mestan-petr",
+  "cele_jmeno": "Mgr. Petr Měšťan",
+  "rok_narozeni": null,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-20",
+      "list_cislo": 8,
+      "poradi": 1
+    },
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 12,
+      "poradi": 27
+    }
+  ],
+  "role": "lidr",
+  "profil": "Učitel, starosta MČ Praha 20 (Horní Počernice) za ODS. V roce 2022 obhájil post se ziskem 1263 preferenčních hlasů na listině ODS a TOP 09 s podporou nezávislých kandidátů Horních Počernic (7 mandátů z 25, 24,34 %). Pro volby 2026 vede tutéž listinu (SPOLU – ODS a TOP 09 s podporou nezávislých) a současně kandiduje i na pozici 27 celopražské kandidátky ODS/SPOLU pro Zastupitelstvo hl. m. Prahy. V radničním zpravodaji Hornopočernický zpravodaj pravidelně publikuje „Slovo starosty“ a je uváděn jako „starosta a radní MČ“ u řady aktualit.",
+  "vzdelani": "Mgr.",
+  "profese": "učitel, starosta MČ Praha 20",
+  "politicka_historie": [
+    {
+      "od": "2020-02",
+      "do": "2022-11",
+      "funkce": "starosta MČ Praha 20 (nástup po odvolání starostky Aleny Štrobové kvůli rozpadu koalice)",
+      "organizace": "MČ Praha 20 – Horní Počernice",
+      "zdroj_url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/635868/otresy-na-radnici-prazskych-hornich-pocernic-starostku-odvolali-prahu-20-povede-petr-mestan.html"
+    },
+    {
+      "od": "2022-11",
+      "do": null,
+      "funkce": "starosta MČ Praha 20 (obhájeno ve volbách 2022)",
+      "organizace": "MČ Praha 20 – Horní Počernice",
+      "zdroj_url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Mimoúrovňová křižovatka Beranka a Hornopočernická spojka",
+      "popis": "Napojení Horních Počernic na dálnici D11, odvedení tranzitní dopravy z Náchodské ulice. Stavební povolení na Hornopočernickou spojku vydal pražský magistrát začátkem září 2026, zahájení výstavby plánováno na rok 2027.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Jde o projekt v kompetenci hl. m. Prahy, MČ byla jen připomínkujícím subjektem; starosta sám ve svém textu tuto hranici vlastní zodpovědnosti uvádí.",
+      "zdroje": [
+        {
+          "nazev": "Hornopočernický zpravodaj 10/2026",
+          "url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf",
+          "datum": "2026-09-01"
+        }
+      ]
+    },
+    {
+      "nazev": "Tělocvična v Jívanské ulici",
+      "popis": "Tělocvična v kompetenci MČ, dnes plně využívaná dětmi i sportujícími dospělými.",
+      "stav": "dokonceno",
+      "hodnoceni": null,
+      "zdroje": [
+        {
+          "nazev": "Hornopočernický zpravodaj 10/2026",
+          "url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf",
+          "datum": "2026-09-01"
+        }
+      ]
+    },
+    {
+      "nazev": "Bazén v Robotnici",
+      "popis": "Připravovaný bazén pro žáky MŠ a ZŠ i veřejnost, představený v roce 2026.",
+      "stav": "rozpracovano",
+      "hodnoceni": null,
+      "zdroje": [
+        {
+          "nazev": "Hornopočernický zpravodaj 10/2026",
+          "url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf",
+          "datum": "2026-09-01"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": 3,
+    "oduvodneni": "Jako starosta vedoucí koalici ODS/TOP 09 a Šance pro Počernice (resp. jejich předchůdců) po celé období 2022-2026 nese plnou odpovědnost za chod MČ. Radniční zpravodaj dokládá dokončené (tělocvična) i rozpracované projekty (bazén, napojení na D11), s vlastním přiznáním omezených kompetencí MČ u velkých dopravních staveb. Bez dohledaného psaného volebního programu z roku 2022 nelze měřit přesný poměr vůči konkrétním slibům; zdrojem jsou navíc výhradně vyjádření samotného starosty v periodiku vydávaném MČ.",
+    "priklady": [
+      {
+        "slib": "Tělocvična v Jívanské ulici",
+        "vysledek": "Dokončena a plně vytížena.",
+        "zdroj_url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf"
+      }
+    ]
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Hornopočernická spojka je projekt, který neřeší naše městská část. Podobně jsme mohli jen jako připomínkující subjekt vstoupit do stavby městského okruhu u Běchovic a dalších velkých staveb.",
+      "kontext": "Slovo starosty, Hornopočernický zpravodaj 10/2026 – vymezení kompetencí MČ u nadmístních dopravních staveb.",
+      "zdroj_url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf",
+      "datum": "2026-09-01"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Hornopočernický zpravodaj 10/2026",
+      "url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf",
+      "datum": "2026-09-01"
+    },
+    {
+      "nazev": "Blesk.cz: Otřesy na radnici pražských Horních Počernic: Starostku odvolali, Prahu 20 povede Petr Měšťan",
+      "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/635868/otresy-na-radnici-prazskych-hornich-pocernic-starostku-odvolali-prahu-20-povede-petr-mestan.html",
+      "datum": "2020"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození nebyl dohledán.",
+    "Vlastní psaný volební program listiny pro roky 2022 i 2026 nebyl dohledán.",
+    "Cíleně ověřeno přes WebSearch: Měšťan se stal starostou v únoru 2020 po odvolání starostky Aleny Štrobové a jejích místostarostů poté, co koalice ztratila většinu (dva ze čtyř koaličních subjektů odešly). Nepodařilo se dohledat, zda byl Měšťan přímo účastníkem rozpadlé koalice nebo nastoupil jako zástupce nové většiny. Mimo tuto výměnu vedení nebyla dohledána žádná osobní kauza Petra Měšťana."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

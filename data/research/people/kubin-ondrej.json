@@ -1,0 +1,47 @@
+{
+  "slug": "kubin-ondrej",
+  "name_key": "kubin-ondrej",
+  "cele_jmeno": "Ing. Ondřej Kubín, MBA",
+  "rok_narozeni": null,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-4",
+      "list_cislo": 6,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Starosta MČ Praha 4 za ODS, zvolen v roce 2022 z 1. místa kandidátky. Vedl po celé období 2022-2026 koalici ODS, TOP 09 a ANO 2011 (23 z 45 mandátů). Pro rok 2026 znovu vede koaliční listinu SPOLU pro Prahu 4. Věk podle briefu 44 let.",
+  "vzdelani": "Ekonomické/manažerské vzdělání (Ing., MBA).",
+  "profese": "Starosta MČ Praha 4 (ODS).",
+  "politicka_historie": [
+    {
+      "od": "2022-11",
+      "do": "2026-10",
+      "funkce": "starosta MČ Praha 4",
+      "organizace": "MČ Praha 4",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": 2,
+    "oduvodneni": "Jako starosta nesl politickou odpovědnost za celou koalici (ODS, TOP09, ANO) po celé období 2022-2026. Nezávislé ověření konkrétních výsledků (investice, doprava, energetika) se v rešerši nepodařilo dohledat – web praha4.cz byl při pokusu o ověření blokován ochranou proti botům (CAPTCHA). Skóre je konzervativní odhad, ne zjištění konkrétního pochybení.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Rok narození a přesný obor vzdělání nebyly ověřeny nad rámec briefu.",
+    "Detailní a nezávisle doložená bilance jeho vedení radnice 2022-2026 nebyla ověřena - web praha4.cz byl při pokusu o přístup k seznamu rady a programovému prohlášení blokován CAPTCHou."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

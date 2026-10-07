@@ -1,0 +1,130 @@
+{
+  "assembly_id": "mc-praha-22",
+  "nazev": "Praha 22",
+  "charakteristika": "Uhříněves – okrajová městská část na jihovýchodě Prahy, cca 15 260 obyvatel, 25 mandátů, 8 listin v roce 2026. Historické jádro (bývalé město Uhříněves) obklopené novou rezidenční výstavbou (Hájek, Pitkovice). Volby 2022 byly velmi vyrovnané mezi čtyřmi subjekty (STAN 6, ANO 5, DvacetDvojka+Svobodní 5, Společně pro Prahu 22 5 mandátů); starostou je Tomáš Kaněra (ANO).",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ANO 2011",
+      "Společně pro Prahu 22",
+      "DvacetDvojka + SVOBODNÍ"
+    ],
+    "starosta": {
+      "jmeno": "Bc. Tomáš Kaněra",
+      "strana": "ANO 2011",
+      "slug": "kanera-tomas"
+    },
+    "zdroj_url": "https://www.praha22.cz/data/kontakty/zasedani/zapis-z-jednani-6-2022-1045_1.pdf"
+  },
+  "zmeny_v_obdobi": [
+    "VYŘEŠENO (doloženo anonymizovaným zápisem z ustavujícího zasedání ZMČ č. 6/2022, 19. 10. 2022): Ačkoliv volby 2022 vyhrálo STAN s 6 mandáty z 25, radniční koalici na celé období 2022-2026 uzavřely ANO 2011 (5 mandátů), Společně pro Prahu 22 (5 mandátů) a DvacetDvojka+SVOBODNÍ (5 mandátů) - společně 15 z 25 mandátů. STAN, Praha 22. Naše město a Občanská kandidátka 22 zůstaly v opozici. Tomáš Kaněra (ANO) byl zvolen starostou poměrem hlasů 14 pro (ANO, Společně pro Prahu 22, DvacetDvojka+Svobodní) : 3 proti (STAN) : 7 zdrželo se/nehlasovalo (STAN, Praha 22. Naše město, Občanská kandidátka 22). 1. místostarostou se stal Martin Langmajer (Společně pro Prahu 22, usnesení UZ-35-6/22), místostarostkou Hana Vagenknechtová (DvacetDvojka+Svobodní, usnesení UZ-36-6/22). Radními dále Miroslav Roth a (neuvolněně) Jan Konopásek a Martin Turnovský. Důvod, proč vítěz voleb STAN zůstal mimo koalici, není v zápisu výslovně zaznamenán (zápis je anonymizovaný a neobsahuje jednání o koaličních jednáních mimo ZMČ) - do mezery_v_datech."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Dostavba Pražského okruhu (Kutnohorská/Hostivařská spojka)",
+      "popis": "Web MČ praha22.cz zmiňuje přípravu napojení Kutnohorské/Hostivařské na Pražský okruh s plánovaným dokončením v roce 2028.",
+      "proc_zalezi": "Jde o klíčovou dopravní stavbu, která má odvést tranzitní dopravu z Uhříněvsi a okolních sídel.",
+      "zdroje": [
+        {
+          "nazev": "praha22.cz",
+          "url": "https://www.praha22.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Suburbánní výstavba (Hájek, Pitkovice)",
+      "popis": "Více kandidátů na listinách (např. DvacetDvojka) je spojeno se Spolkem občanů Hájku, což odkazuje na dlouhodobé spory o tempo a podmínky nové výstavby v okrajových lokalitách MČ.",
+      "proc_zalezi": "Nová výstavba v satelitních lokalitách zatěžuje kapacitu škol, dopravy a kanalizace.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 22",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Nový park za radnicí",
+      "popis": "Web MČ avizoval zahájení stavebních prací na novém parku za radnicí od 22. 9. 2026.",
+      "proc_zalezi": "Jde o konkrétní probíhající investici do veřejného prostoru v centru Uhříněvsi.",
+      "zdroje": [
+        {
+          "nazev": "praha22.cz",
+          "url": "https://www.praha22.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Park za radnicí",
+      "stav": "probiha",
+      "popis": "Stavební práce na novém parku za radnicí zahájeny 22. 9. 2026.",
+      "zdroje": [
+        {
+          "nazev": "praha22.cz",
+          "url": "https://www.praha22.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Napojení Kutnohorská/Hostivařská na Pražský okruh",
+      "stav": "pripravuje_se",
+      "popis": "Plánované dokončení v roce 2028.",
+      "zdroje": [
+        {
+          "nazev": "praha22.cz",
+          "url": "https://www.praha22.cz",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [
+    {
+      "nazev": "Svolání mimořádného zasedání zastupitelstva na den komunálních voleb 2022",
+      "popis": "Devět opozičních zastupitelů (STAN a Praha 22 Naše město) požádalo 9. 9. 2022 o svolání mimořádného zasedání k zastavené výstavbě polyfunkčního domu s MŠ v Pitkovicích a k přístavbě ZŠ provozované bez kolaudace. Starosta Tomáš Kaněra (ANO) zasedání svolal na sobotu 24. 9. 2022 – shodou okolností na den komunálních voleb, kdy zastupitelům k večeru zaniká mandát, takže zasedání nemohlo přijímat usnesení. Kaněra to zdůvodnil dodržením zákonné patnáctidenní lhůty pro svolání; opozice to označila za účelový právní trik.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "zdroje": [
+        {
+          "nazev": "Blesk.cz: Uhříněves: Starosta svolal jednání zastupitelů na den voleb. Už nebudou mít mandát",
+          "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/723344/boure-na-radnici-v-uhrinevsi-starosta-svolal-jednani-zastupitelu-na-den-voleb-uz-nebudou-mit-mandat.html",
+          "datum": "2022-09-19"
+        }
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: Praha 22 (Uhříněves)",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538931",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "praha22.cz",
+      "url": "https://www.praha22.cz",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Anonymizovaný zápis z ustavujícího zasedání ZMČ Praha 22 č. 6/2022, 19. 10. 2022",
+      "url": "https://www.praha22.cz/data/kontakty/zasedani/zapis-z-jednani-6-2022-1045_1.pdf",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "Organizační schéma - Rada MČ Praha 22 (seznam členů a politická příslušnost)",
+      "url": "https://www.praha22.cz/urad/organizacni-struktura/organizacni-schema/subjekt-rada-3.html",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Důvod, proč se vítěz voleb 2022 (STAN, 6 mandátů) nestal součástí koalice a zůstal v opozici, není v dostupných zápisech výslovně zaznamenán (koaliční jednání probíhají mimo veřejná zasedání ZMČ).",
+    "Mimo spor o svolání zasedání na den voleb 2022 (viz kontroverze_mc) nebyly dohledány žádné další doložené kauzy MČ ani osobní kauzy starosty Kaněry.",
+    "Ověřeno 6. 10. 2026 (WebSearch: Kaněra + koalice 2022, kauza): doplňující kauza nenalezena. Podle vyhledávače byl Kaněra starostou zvolen již 23. 6. 2021 (původní zdroj neotevřen, neověřeno)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

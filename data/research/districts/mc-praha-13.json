@@ -1,0 +1,99 @@
+{
+  "assembly_id": "mc-praha-13",
+  "nazev": "Praha 13",
+  "charakteristika": "Praha 13 zahrnuje Stodůlky, Nové Butovice a Lužiny v jihozápadní části Prahy, cca 65 600 obyvatel. Rychle se rozvíjela po dokončení trasy metra B do Zličína v roce 1994 a nadále roste – přibývají komerční centra i administrativní budovy díky výhodné poloze u výpadovky na Plzeň. Je spojena s dlouholetým starostou Davidem Vodrážkou (ODS), jedním z nejdéle sloužících pražských starostů (starostou od roku 2002).",
+  "soucasna_koalice": {
+    "obdobi": "2022–2026",
+    "strany": [
+      "ODS",
+      "ANO 2011",
+      "TOP 09",
+      "KDU-ČSL (Společně pro Prahu 13)"
+    ],
+    "starosta": {
+      "jmeno": "Ing. David Vodrážka",
+      "strana": "ODS",
+      "slug": "vodrazka-david"
+    },
+    "zdroj_url": "https://www.e15.cz/vysledky-voleb-a-referend/komunalni-volby/v-prazskych-mestskych-castech-se-rysuji-prvni-koalice-spojenectvi-ods-a-ano-zde-muze-projit-1393471"
+  },
+  "zmeny_v_obdobi": [],
+  "klicova_temata": [
+    {
+      "nazev": "Dlouhodobé vedení Davida Vodrážky",
+      "popis": "David Vodrážka vede radnici Prahy 13 nepřetržitě od roku 2002 a obhájil post i po volbách 2022. Patří mezi nejdéle sloužící pražské starosty.",
+      "proc_zalezi": "Více než 20 let v čele jedné radnice je mimořádně dlouhá doba i v rámci pražských poměrů a zásadně určuje politickou kulturu i bilanci MČ pro volby 2026.",
+      "zdroje": [
+        {
+          "nazev": "MČ Praha 13: Vedení úřadu",
+          "url": "https://www.praha13.cz/urad-mestske-casti/vedeni-uradu/",
+          "datum": "2026-10-06"
+        },
+        {
+          "nazev": "E15: V Praze 13 se už upekla koalice. Vodrážka z ODS bude po 16 letech dále starostou",
+          "url": "https://www.e15.cz/vysledky-voleb-a-referend/komunalni-volby/komunalni-volby-2018/v-praze-13-se-uz-upekla-koalice-vodrazka-z-ods-bude-po-16-letech-dale-starostou-1352084",
+          "datum": "2018-10"
+        }
+      ]
+    },
+    {
+      "nazev": "Koaliční většina 2022–2026",
+      "popis": "Po volbách 2022 vznikla koalice ODS (11 mandátů) s ANO 2011 (6) a koalicí Společně pro Prahu 13 – TOP 09 a KDU-ČSL (2), celkem 19 z 35 mandátů. V opozici zůstaly Zelení a Piráti pro 13 (6), PRAHA 13 SOBĚ (4), SEN 21 pro Prahu 13 (4) a SPD a Trikolora (2). Koalici podle starosty Vodrážky zpečetila závazná koaliční smlouva (E15, 26. 9. 2022). Aktuální vedení úřadu: starosta Vodrážka a místostarostové Petr Zeman, David Zelený, Marcela Plesníková a Ivana Todlová (web MČ, 6. 10. 2026).",
+      "proc_zalezi": "Určuje rozložení sil pro poslední rok funkčního období a výchozí pozici jednotlivých stran do voleb 2026.",
+      "zdroje": [
+        {
+          "nazev": "E15: V pražských městských částech se rýsují první koalice (Praha 13: „Podepsali jsme závaznou koaliční smlouvu“)",
+          "url": "https://www.e15.cz/vysledky-voleb-a-referend/komunalni-volby/v-prazskych-mestskych-castech-se-rysuji-prvni-koalice-spojenectvi-ods-a-ano-zde-muze-projit-1393471",
+          "datum": "2022-09-26"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [],
+  "kontroverze_mc": [
+    {
+      "nazev": "Investice MČ 200 mil. Kč u Key Investments a spor o jejich vrácení",
+      "popis": "MČ v roce 2010 vložila cca 200 mil. Kč do cenných papírů u obchodníka Key Investments a krátce před jeho krachem (na rozdíl od Prahy 6 a 10) celou částku i s úroky dostala zpět. Insolvenční správce výplatu napadl jako zvýhodnění jednoho věřitele. Vrchní soud v roce 2018 rozhodl ve prospěch Prahy 13, Nejvyšší soud ale v roce 2021 toto rozhodnutí zrušil a vrátil věc k novému projednání.",
+      "stav": "probiha",
+      "zavaznost": "stredni",
+      "zdroje": [
+        {
+          "nazev": "praha13.cz: Praha 13 vyhrála soudní řízení v kauze Key Investments",
+          "url": "https://www.praha13.cz/praha-13-vyhrala-soudni-rizeni-v-kauze-key-investments-2/",
+          "datum": "2018-04-23"
+        },
+        {
+          "nazev": "Česká justice: Nejvyšší soud zrušil rozhodnutí Vrchního soudu v Praze v případu Prahy 13 a Key Investments",
+          "url": "https://www.ceska-justice.cz/2021/01/nejvyssi-soud-zrusil-rozhodnuti-vrchniho-soudu-v-praze-v-pripadu-prahy-13-a-key-investments/",
+          "datum": "2021-01"
+        }
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "E15: V pražských městských částech se rýsují první koalice (Praha 13: „Podepsali jsme závaznou koaliční smlouvu“)",
+      "url": "https://www.e15.cz/vysledky-voleb-a-referend/komunalni-volby/v-prazskych-mestskych-castech-se-rysuji-prvni-koalice-spojenectvi-ods-a-ano-zde-muze-projit-1393471",
+      "datum": "2022-09-26"
+    },
+    {
+      "nazev": "MČ Praha 13: Vedení úřadu",
+      "url": "https://www.praha13.cz/urad-mestske-casti/vedeni-uradu/",
+      "datum": "2026-10-06"
+    },
+    {
+      "nazev": "Hlídač státu: David Vodrážka",
+      "url": "https://www.hlidacstatu.cz/osoba/david-vodrazka",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Za volební období 2022–2026 nebyla cíleným WebSearch dohledána žádná nová kauza vedení MČ ani starosty Vodrážky – jediná dohledaná dosud neuzavřená kauza (Key Investments) má kořeny v roce 2010 a soudní spor z ní běží od roku 2012; vzhledem k délce Vodrážkova působení (od 2002) je absence novějších kauz doložený nulový nález, ne mezera v rešerši.",
+    "Konkrétní velké investiční projekty MČ za volební období 2022–2026 nebyly dohledány.",
+    "Nebylo ověřeno, zda došlo k jakékoli změně koalice v průběhu období 2022–2026.",
+    "Citace Wikipedie nahrazeny primárními zdroji 6. 10. 2026. Datum E15 článku z roku 2018 je uvedeno jen měsícem (z URL sekce komunalni-volby-2018), přesný den nebyl ověřen.",
+    "6. 10. 2026 – Hlídač státu (subjekt 00241687) u MČ Praha 13 vykazuje K-Index úroveň C, 6 smluv bez ceny (2,75 %) a 5 smluv těsně pod zadávacím limitem; jde o automatické ukazatele rizika, které neprokazují porušení zákona, proto nejsou vedeny jako kauza. Novější než výše uvedené kauzy MČ nebyly dohledány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-06"
+}

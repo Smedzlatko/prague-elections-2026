@@ -1,0 +1,25 @@
+{
+  "slug": "fort-jiri",
+  "name_key": "fort-jiri",
+  "cele_jmeno": "Jiří Fořt, DiS.",
+  "rok_narozeni": 1978,
+  "strana": "SPD",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 10, "poradi": 2}],
+  "role": "top5",
+  "profil": "Majitel malostranské restaurace a krizový manažer podle kandidátní listiny ČSÚ. Bez veřejně dohledaného politického záznamu v pražské samosprávě před rokem 2026.",
+  "vzdelani": "DiS.",
+  "profese": "majitel restaurace (Malá Strana), krizový manažer",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez výkonné funkce nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": ["restaurace na Malé Straně (dle kandidátní listiny)"], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [{"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"}],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný další veřejný záznam o osobě.",
+    "Rok narození odhadnut z uvedeného věku (48 let v roce 2026) v kandidátní listině, nepotvrzen nezávislým zdrojem."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

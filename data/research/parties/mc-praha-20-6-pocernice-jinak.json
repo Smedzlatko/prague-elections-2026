@@ -1,0 +1,122 @@
+{
+  "slug": "mc-praha-20-6-pocernice-jinak",
+  "assembly_id": "mc-praha-20",
+  "list_cislo": 6,
+  "nazev": "Počernice JINAK",
+  "zkratka": "PJ",
+  "typ": "D",
+  "slozeni": [
+    "NK",
+    "PRO Zdraví"
+  ],
+  "web": "http://www.pocernicejinak.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Počernice JINAK - Program",
+        "url": "http://www.pocernicejinak.cz/index.php?page=program",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Listina nezávislých vedená kreativním manažerem Jiřím Weberschinkem (na listině i dosavadní radní Ladislav Stýblo a zastupitel Martin Velíšek) zveřejnila velmi rozsáhlý program v šesti oblastech – životní prostředí, kultura, vzdělání a sport, doprava, veřejný prostor a výstavba, otevřená radnice/bezpečnost/zdraví. Program jmenuje konkrétní lokální projekty (revitalizace rybníků Eliška a Barbora, lesopark Čertousy, mimoúrovňová křižovatka Beranka, pozice městského architekta a PR manažera úřadu), většinou bez čísel či termínů.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Odklon tranzitu a mimoúrovňová křižovatka Beranka",
+        "popis": "Prosazení odklonu tranzitní dopravy z Náchodské ulice na dálnice D10 a D11 navázané na realizaci mimoúrovňové křižovatky Beranka; zprovoznění radarů na Náchodské, Božanovské a Ve Žlíbku.",
+        "citace": "Aktivně prosadíme odklon tranzitní dopravy z Náchodské ulice na dálnice D10 a D11.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Křižovatka Beranka je nadmístní investiční projekt v gesci Magistrátu hl. m. Prahy a ŘSD, MČ je v programu sama popsána jako vyjednavač, ne investor."
+        },
+        "zdroj_url": "http://www.pocernicejinak.cz/index.php?page=program"
+      },
+      {
+        "oblast": "verejny_prostor",
+        "nazev": "Revitalizace rybníků Eliška a Barbora a lesopark Čertousy",
+        "popis": "Odbahnění rybníku Barbora, instalace kořenové čističky přítoku rybníku Eliška s občerstvením a sociálním zázemím, vznik nového lesoparku u bývalého zámku Čertousy.",
+        "citace": "Podpoříme odbahnění rybníku Barbora a instalaci kořenové čističky přítoku rybníku Eliška.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o konkrétní, jmenovitě uvedené lokální projekty v kompetenci MČ, ale bez rozpočtu a termínu dokončení."
+        },
+        "zdroj_url": "http://www.pocernicejinak.cz/index.php?page=program"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Otevřená radnice – PR manažer a městský architekt",
+        "popis": "Zřízení pozice PR manažera pro transparentní komunikaci úřadu a výběrové řízení na městského architekta, který bude hájit veřejný zájem při výstavbě.",
+        "citace": "Prosadíme výběrové řízení na městského architekta.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Zřízení pracovní pozice v rámci úřadu MČ je plně v pravomoci radnice."
+        },
+        "zdroj_url": "http://www.pocernicejinak.cz/index.php?page=program"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Výjezdová základna záchranky a dostupná lékařská péče",
+        "popis": "Umístění sanitek v lokalitě Počernice Východ u polikliniky pro zkrácení dojezdu záchranářů, pobídky k přitažení pediatrů, zubařů a specialistů, městské byty pro lékaře.",
+        "citace": "zkrátíme čas dojezdu záchranářů",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Umístění výjezdové základny vyžaduje součinnost Zdravotnické záchranné služby hl. m. Prahy, ne jen rozhodnutí MČ."
+        },
+        "zdroj_url": "http://www.pocernicejinak.cz/index.php?page=program"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Nová školní jídelna a moderní prostory ZUŠ",
+        "popis": "Dokončení nové školní jídelny pro FZŠ Chodovická a gymnázium s možností využití i pro seniory, nové prostory pro ZUŠ (cca 1000 žáků) v rámci projektu Beranka.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Projekt navazuje na širší investici Beranka, jejíž harmonogram a financování program nespecifikuje."
+        },
+        "zdroj_url": "http://www.pocernicejinak.cz/index.php?page=program"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu 3: program na pocernicejinak.cz je mimořádně obsáhlý a jmenuje konkrétní lokální projekty a opatření (rybníky Eliška/Barbora, křižovatka Beranka, městský architekt, výjezdová základna záchranky), většina bodů ale postrádá čísla, termíny či rozpočet, proto nejde o skóre 4-5. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026 pod tímto jménem, podle metodiky se nehodnotí nulou, ale null. transparentnost 3: +1 za zveřejněný rozsáhlý program, +1 za funkční web s kandidáty, +1 za dohledatelné profese a politickou historii lídrů (Weberschinke, Stýblo, Velíšek).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "weberschinke-jiri"
+  ],
+  "mezery_v_datech": [
+    "Program neuvádí rozpočtové krytí ani termíny u většiny jmenovaných projektů.",
+    "Přesný subjekt, za který byli Stýblo a Velíšek zvoleni v roce 2022, nebyl nad rámec briefu ověřen."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "mc-praha-12-7-spd-pro-prahu-12-s-podporou-socialni-dem",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 7,
+  "nazev": "SPD pro Prahu 12 s podporou Sociální demokracie a PŘÍSAHA občanské hnutí",
+  "zkratka": "SPD",
+  "typ": "koalice",
+  "slozeni": ["SPD", "SOCDEM", "PŘÍSAHA"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program pro Prahu 12 na rok 2026 se nepodařilo dohledat. Listina nemá mandát z roku 2022 (PŘÍSAHA v roce 2022 v Praze 12 kandidovala samostatně a získala 3,32 % bez mandátu).",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 2,
+    "oduvodneni": "SPD se celostátně profiluje jako národně-konzervativní až pravicově populistická strana; SOCDEM je tradičně levicová, PŘÍSAHA se profiluje protikorupčně bez jasné osy. Kombinace činí lokální ideologické zařazení nejisté.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nenalezen (konkrétnost 0). Bez historie v zastupitelstvu MČ nelze hodnotit důvěryhodnost plnění. Transparentnost: dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["tietz-robert"],
+  "mezery_v_datech": [
+    "Lokální program listiny pro Prahu 12 nebyl dohledán.",
+    "Žádný dosavadní záznam o politické činnosti kandidátů v MČ Praha 12 nebyl nalezen."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

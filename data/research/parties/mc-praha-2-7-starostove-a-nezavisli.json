@@ -1,0 +1,95 @@
+{
+  "slug": "mc-praha-2-7-starostove-a-nezavisli",
+  "assembly_id": "mc-praha-2",
+  "list_cislo": 7,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "typ": "strana",
+  "slozeni": ["STAN"],
+  "web": "https://stanpraha2.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "STAN Praha 2 - Budoucnost Prahy 2 otevřeně, moderně, férově", "url": "https://stanpraha2.cz/", "datum": "2026-10-03"}
+    ],
+    "shrnuti": "STAN Praha 2 vedená Karlem Koželuhem zveřejnila na vlastním webu program v deseti tematických oblastech od bytové politiky přes hospodaření, zeleň, dopravu, veřejný prostor, bezpečnost až po školství a sociální služby. Důraz klade na transparentnost (rozklikávací rozpočet, zveřejňování veřejných zakázek), adaptaci na klima a konkrétní lokální projekty jako obnova Sokolovny v Riegrových sadech nebo Sousedský dům Na Slupi.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Moderní bytová politika",
+        "popis": "Kvalitní a efektivní správa městského bytového fondu včetně startovacího a služebního bydlení, regulace krátkodobého ubytování a snižování energetické náročnosti nemovitostí.",
+        "citace": "Budeme kvalitně a efektivně spravovat městský bytový fond.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Správa bytového fondu je v moci MČ, ale regulace krátkodobého ubytování závisí i na celostátní legislativě."},
+        "zdroj_url": "https://stanpraha2.cz/"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Otevřené a odpovědné hospodaření",
+        "popis": "Vyšší transparentnost veřejných zakázek, online rozklikávací rozpočet radnice, digitalizace agendy a větší zapojení občanů do rozhodování o projektech.",
+        "citace": "Zvýšíme transparentnost veřejných zakázek a zveřejňování informací.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Zveřejňování rozpočtu a zakázek je plně v pravomoci radnice MČ bez nutnosti vnějšího schválení."},
+        "zdroj_url": "https://stanpraha2.cz/"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Město, ve kterém se bude dát dýchat",
+        "popis": "Opatření proti přehřívání města (ochlazovací body, louky pro rodiny), ochrana a obnova stromořadí, lepší hospodaření s dešťovou vodou.",
+        "citace": "Budeme chránit stávající stromy a systematicky obnovovat stromořadí.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Péče o zeleň je v kompetenci MČ, ale velké adaptační investice vyžadují rozpočtové krytí, které program nespecifikuje."},
+        "zdroj_url": "https://stanpraha2.cz/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Promyšlená doprava a veřejný prostor",
+        "popis": "Zpracování generelu dopravy a parkování pro celou Prahu 2, bezpečnější přechody, úpravy tramvajových zastávek, cyklistická infrastruktura.",
+        "citace": "Zpracujeme generel dopravy a parkování pro celou Prahu 2.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Zpracování generelu dopravy je v pravomoci MČ, byť realizace konkrétních opatření může vyžadovat spolupráci s TSK a hl. m. Prahou."},
+        "zdroj_url": "https://stanpraha2.cz/"
+      },
+      {
+        "oblast": "verejny_prostor",
+        "nazev": "Další rozvoj Dvojky",
+        "popis": "Obnova Sokolovny v Riegrových sadech, revitalizace Palackého a Jiráskova náměstí, úpravy okolí Vinohradského divadla.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Jde o konkrétní, jmenovitě uvedené projekty, ale bez termínů a rozpočtu nelze ověřit reálnost harmonogramu."},
+        "zdroj_url": "https://stanpraha2.cz/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0,
+    "oduvodneni": "Celostátní STAN je klasifikováno jako středové, komunálně orientované hnutí; lokální program pro Prahu 2 2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "V roce 2022 získalo 5,05 % a 1 mandát, v opozici. Žádný z kandidátů na listině 2026 (nový lídr Karel Koželuh) není v briefu uveden jako inkumbent 2022.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jediný mandát 2022 patřil jinému zastupiteli než současnému lídrovi; detailní personální kontinuita nebyla ověřena."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "konkretnost_programu 3: program na stanpraha2.cz má deset tematických oblastí s pojmenovanými konkrétními projekty (obnova Sokolovny, Sousedský dům Na Slupi, generel dopravy), ale většina bodů postrádá čísla, termíny či rozpočet. doveryhodnost_plneni: STAN měl v období 2022-2026 jediný mandát v opozici bez výkonné funkce, bilanci plnění vlastních slibů tedy nelze hodnotit (zůstává null). transparentnost: nehodnoceno, protože nebyla provedena rešerše financování kampaně a dohledatelnosti kandidátů nad rámec programu.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["kozeluh-karel"],
+  "mezery_v_datech": ["Program na stanpraha2.cz neobsahuje čísla, termíny ani rozpočtové krytí u většiny bodů.", "Nebylo ověřeno, kdo byl jediným zastupitelem STAN zvoleným v roce 2022 a zda kandiduje i v roce 2026."],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

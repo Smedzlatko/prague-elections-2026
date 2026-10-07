@@ -1,0 +1,74 @@
+{
+  "assembly_id": "mc-praha-16",
+  "nazev": "Praha 16",
+  "charakteristika": "Radotín – okrajová městská část na jihozápadě Prahy při řece Berounce, cca 8 790 obyvatel, 15 mandátů v zastupitelstvu. Bývalá průmyslová obec (cementárna, vápenka) dnes spíše rezidenční lokalita s vlastním historickým jádrem. V komunálních volbách 2022 zde ODS získala absolutní většinu (10 z 15 mandátů), druhá byla koalice Společně pro Radotín (4 mandáty).",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ODS"
+    ],
+    "starosta": {
+      "jmeno": "Mgr. Karel Hanzlík",
+      "strana": "ODS",
+      "slug": "hanzlik-karel"
+    },
+    "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/539601"
+  },
+  "zmeny_v_obdobi": [
+    "ODS měla po volbách 2022 samostatnou většinu (10/15 mandátů), takže ke vzniku koalice v klasickém slova smyslu nemuselo dojít; Karel Hanzlík (ODS) obhájil post starosty, vedle něj místostarosta Miroslav Knotek (ODS)."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Dopravní obslužnost a doprava v klidu",
+      "popis": "Radotín je napojen na železnici (linka S) a autobusy, řeší se kapacita parkování a bezpečnost silničního provozu v osadách kolem centra.",
+      "proc_zalezi": "Okrajová MČ je závislá na kvalitním spojení do centra Prahy a na regulaci tranzitní dopravy přes obec.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 16",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/539601",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Pražský okruh / D0",
+      "popis": "Radotín leží v blízkosti trasy Pražského okruhu (D0), jehož dostavba je dlouhodobým tématem jihozápadního okraje Prahy.",
+      "proc_zalezi": "Dostavba okruhu ovlivňuje tranzitní zátěž i hluk v okolních městských částech.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 16",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/539601",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Suburbánní výstavba a tlak developerů",
+      "popis": "Okrajová MČ s dostupnými pozemky čelí tlaku na novou bytovou výstavbu, což vyvolává spory o kapacitu škol a infrastruktury.",
+      "proc_zalezi": "Nekontrolovaná výstavba zatěžuje kapacitu škol, kanalizace a dopravy v malé obci.",
+      "zdroje": [
+        {
+          "nazev": "programydovoleb.cz: Praha 16",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/539601",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: Praha 16 (Radotín)",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/539601",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Oficiální web praha16.cz nebylo možné ověřit přes WebFetch (chyba TLS certifikátu) - detailní složení rady a konkrétní velké projekty 2022-2026 se nepodařilo dohledat.",
+    "Cíleně ověřeno přes WebSearch (starosta Karel Hanzlík + kauza/konflikt zájmů): nebyla dohledána žádná kauza ani kontroverze starosty ani MČ. Jde o doložený nulový nález, ne jen o mezeru v rešerši.",
+    "Ověřeno 6. 10. 2026 (WebSearch: Karel Hanzlík + kauza, zakázka, vyšetřování, Radotín): žádná kauza nenalezena. Doložený nulový nález."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

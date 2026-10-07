@@ -1,0 +1,159 @@
+{
+  "slug": "magistrat-14-motoriste-sobe",
+  "assembly_id": "magistrat",
+  "list_cislo": 14,
+  "nazev": "Motoristé sobě",
+  "zkratka": "Motoristé",
+  "typ": "strana",
+  "slozeni": [
+    "Motoristé sobě (AUTO)"
+  ],
+  "web": "https://motoristesobe.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Motoristé sobě – Volební program 2025 (PDF)",
+        "url": "https://motoristesobe.cz/wp-content/uploads/Volebni_program-2025_MOTORISTE-SOBE.pdf",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Motoristé sobě – sekce Komunální volby 2026",
+        "url": "https://motoristesobe.cz/komunalni-volby",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Pro Prahu nemá strana samostatný místní program s čísly — vychází z celostátního programu Motoristů, který explicitně zmiňuje Prahu jako příklad města, kde je dopravní situace podle strany „katastrofální“ v důsledku „ideologických zásahů“. Odmítá další omezování parkovacích míst a cyklopruhů, zpoplatnění vjezdu nízkoemisními zónami a plošné snižování rychlostních limitů ve městě. Dále slibuje odpovědné hospodaření a podmínky pro podnikání.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Zastavení omezování parkovacích míst a cyklodopravy",
+        "popis": "Program odmítá další zavádění cyklopruhů na úkor jízdních pruhů a omezování parkovacích míst ve městech, s Prahou uvedenou jako konkrétní příklad.",
+        "citace": "V Praze, ale i v dalších městech se dopravní situace stává katastrofální – důsledkem ideologických zásahů, které ignorují potřeby řidičů. Odmítáme ideologické prosazování cyklodopravy a umělé omezování parkovacích míst ve městech.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Zastavení či rušení konkrétních dopravních opatření je v kompetenci Rady a Zastupitelstva hl. m. Prahy, záleží ale na síle koaličního postavení strany po volbách."
+        },
+        "zdroj_url": "https://motoristesobe.cz/wp-content/uploads/Volebni_program-2025_MOTORISTE-SOBE.pdf"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Odmítnutí nízkoemisních zón",
+        "popis": "Strana nebude podporovat plošné zavádění nízkoemisních zón, které by omezovaly vjezd starších vozidel do centra.",
+        "citace": "Nebudeme podporovat plošné zavádění nízkoemisních zón, které trestají majitele starších, ale stále bezpečných a plně funkčních vozidel.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Zavedení/nezavedení nízkoemisní zóny v centru Prahy je v pravomoci hl. m. Prahy, rozhodnutí je politické."
+        },
+        "zdroj_url": "https://motoristesobe.cz/wp-content/uploads/Volebni_program-2025_MOTORISTE-SOBE.pdf"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Zrušení šikanózního vybírání pokut z radarů",
+        "popis": "Program slibuje, že zisk z provozu městských radarů by měl povinně plynout do Státního fondu dopravní infrastruktury, aby zmizela motivace radnic vydělávat na řidičích, a že každý radar musí mít výstražnou cedulku.",
+        "citace": "Novelizujeme zákon o provozu na pozemních komunikacích tak, aby čistý zisk z provozu městských radarů musel být odveden do Státního fondu dopravní infrastruktury.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o změnu zákona na úrovni Parlamentu ČR, nikoliv o pravomoc pražského zastupitelstva — realizace nezávisí na volbách do ZHMP."
+        },
+        "zdroj_url": "https://motoristesobe.cz/wp-content/uploads/Volebni_program-2025_MOTORISTE-SOBE.pdf"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Odpovědné hospodaření",
+        "popis": "Investice s jasným přínosem a kontrola výdajů města.",
+        "citace": "Investice s jasným přínosem a kontrola výdajů.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétních opatření nebo čísel nelze ověřit."
+        },
+        "zdroj_url": "https://motoristesobe.cz/komunalni-volby"
+      },
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Bezpečná města",
+        "popis": "Veřejný pořádek a ochrana obyvatel jako jedna ze čtyř hlavních priorit.",
+        "citace": "Veřejný pořádek a ochrana obyvatel.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Obecná formulace bez konkrétních opatření."
+        },
+        "zdroj_url": "https://motoristesobe.cz/komunalni-volby"
+      }
+    ]
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 1,
+    "oduvodneni": "Program důsledně odmítá regulace (nízkoemisní zóny, omezování parkování, emisní limity, zákaz spalovacích motorů) a staví na deregulaci a podpoře podnikání a automobilismu — ekonomicky pravicová a deregulační pozice. Hodnotově strana spojuje populistickou rétoriku proti „ideologickým zásahům“ s mírně konzervativním tónem (odpor k „ekologickým“ a „progresivním“ politikám), bez výrazného zaměření na kulturně-hodnotová témata typu rodina/menšiny v pražském programu.",
+    "zdroje": [
+      {
+        "nazev": "Motoristé sobě – Volební program 2025",
+        "url": "https://motoristesobe.cz/wp-content/uploads/Volebni_program-2025_MOTORISTE-SOBE.pdf",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "V ZHMP 2022–2026 nebyla zastoupena — v komunálních volbách 2022 získala v Praze 2,29 % hlasů a žádný mandát. Od podzimu 2025 je strana součástí vládní koalice ČR (s ANO a SPD), což je ale celostátní, nikoliv pražský mandát.",
+    "splnene_sliby": null,
+    "castecne": null,
+    "nesplnene_sliby": null,
+    "shrnuti": "Bez historie v pražské samosprávě nelze hodnotit plnění místních slibů."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Majetková angažovanost lídryně Kláry Sovové ve firmě řešící sanaci toxické zátěže na Šumavě",
+      "typ": "konflikt_zajmu",
+      "obdobi": "2026",
+      "popis": "Investigativní text Deníku N upozornil, že lídryně pražské kandidátky Klára Sovová je majetkově spojena se společností Dekonta, která prováděla průzkumné a sanační práce v souvislosti s únikem toxických látek v NP Šumava — tématem, které zároveň jako ministr komentoval její stranický kolega Igor Červený. Podle serveru Ekolist.cz je Sovová od roku 2000 minoritní akcionářkou s podílem 7,5 % v Dekonta Holding; mandát v dozorčí radě firmy jí skončil v červnu 2026, poté co oznámila kandidaturu do komunálních voleb. Vláda následně rozhodla, že sanaci provede armáda, ne Dekonta. Nejde o trestní ani přestupkové řízení, jde o zjištěnou majetkovou provázanost zveřejněnou investigativní žurnalistikou.",
+      "stav": "bez_zaveru",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Generální ředitel Dekonty Karel Petrželka uvedl, že Sovová jako minoritní akcionářka nikdy nerozhodovala o jednotlivých zakázkách ani o běžném řízení firmy. Sovová sama k tématu v dostupných zdrojích přímo citována není.",
+      "zdroje": [
+        {
+          "nazev": "Deník N – Jedy na Šumavě: Kdo o sudech věděl, komu vyplatili miliony a jak s tím souvisí politička Motoristů",
+          "url": "https://denikn.cz/2177897/jedy-na-sumave-kdo-o-sudech-vedel-komu-vyplatili-miliony-a-jak-s-tim-souvisi-politicka-motoristu/",
+          "datum": "2026-09-08"
+        },
+        {
+          "nazev": "Ekolist.cz – Dekonta, jež zkoumala oblast s jedy na Šumavě, odmítla spojování s politikou",
+          "url": "https://ekolist.cz/cz/zpravodajstvi/zpravy/dekonta-jez-zkoumala-oblast-s-jedy-na-sumave-odmitla-spojovani-s-politikou",
+          "datum": "2026-09-09"
+        },
+        {
+          "nazev": "Aktuálně.cz – Jedy na Šumavě bude likvidovat armáda. Vláda změnila plán s firmou Dekonta",
+          "url": "https://zpravy.aktualne.cz/domaci/jedy-na-sumave-bude-likvidovat-armada-vlada-zmenila-plan-s-firmou-dekonta/r~aaa299188505d1a319bd7c7ef1eac6b2/",
+          "datum": "2026-09"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Konkrétnost 2: program pojmenovává opatření (zrušení omezení parkování, odmítnutí nízkoemisních zón), ale bez čísel a termínů specifických pro Prahu — chybí samostatný pražský program s kvantifikací. Transparentnost 3: celostátní program je zveřejněn (+1), kandidáti na přední místa mají dohledatelné veřejné profily a funkce (+1) a kampaň a financování strany jsou předmětem mediální pozornosti vzhledem k vládní roli strany (+1); dohledatelnost transparentního účtu a smluv specificky pro pražskou kampaň se nepodařilo ověřit.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "sovova-klara"
+  ],
+  "mezery_v_datech": [
+    "Nenalezen samostatný pražský program s konkrétními čísly k parkovacím zónám, zpoplatnění vjezdu, cyklopruhům nebo Městskému okruhu — citace vycházejí z celostátního programu, který Prahu zmiňuje jen jako příklad.",
+    "Nepodařilo se ověřit financování pražské kampaně Motoristů ani transparentní účet specificky pro list č. 14."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

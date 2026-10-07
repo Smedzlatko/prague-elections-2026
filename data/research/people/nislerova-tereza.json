@@ -1,0 +1,123 @@
+{
+  "slug": "nislerova-tereza",
+  "name_key": "nislerova-tereza",
+  "cele_jmeno": "Ing. Tereza Nislerová, MA, MIM",
+  "rok_narozeni": 1984,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 7,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Ekonomka a manažerka narozená v Berouně, vdaná, tři děti. Vystudovala mezinárodní a evropská studia (diplomacii) na VŠE v Praze, program CEMS Master in International Management (včetně studia na HEC Paris) a College of Europe v Bruggách. V letech 2009-2014 pracovala na Generálním ředitelství pro hospodářskou soutěž Evropské komise (posuzování fúzí a státní podpory, vyjednávání přístupových kapitol s Chorvatskem, Černou Horou a Srbskem). Od roku 2014 působí v ORLEN Unipetrol, kde řídí projekty financované EU zaměřené na modernizaci průmyslu a vodíkové technologie – což vyvolává mediální diskusi o možném střetu s její politickou agendou v oblasti životního prostředí; sama to odmítá s tím, že se věnuje technologické modernizaci snižující emise. V komunální politice je od roku 2022 zastupitelkou Prahy 4 a předsedkyní místní pirátské organizace. Kandidovala i do Evropského parlamentu (2024, neúspěšně) a do Poslanecké sněmovny (2025, jako 1. náhradnice). Pro volby 2026 byla zvolena lídryní pražské kandidátky Pirátů.",
+  "vzdelani": "VŠE Praha (mezinárodní a evropská studia - diplomacie), CEMS Master in International Management (vč. HEC Paris), College of Europe Bruggy (2008-2009).",
+  "profese": "Ekonomka, manažerka (ORLEN Unipetrol), dříve Evropská komise.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitelka MČ Praha 4",
+      "organizace": "MČ Praha 4",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tereza_Nislerov%C3%A1"
+    },
+    {
+      "od": "2022",
+      "do": null,
+      "funkce": "předsedkyně místní organizace Pirátů Praha 4",
+      "organizace": "Česká pirátská strana",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tereza_Nislerov%C3%A1"
+    },
+    {
+      "od": "2026",
+      "do": null,
+      "funkce": "lídryně kandidátky Pirátů do Zastupitelstva hl. m. Prahy",
+      "organizace": "Česká pirátská strana",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Tereza_Nislerov%C3%A1"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Kritika za dlouholetou kariéru v PKN Orlen / Orlen Unipetrol a nařčení z „greenwashingu“",
+      "typ": "konflikt_zajmu",
+      "obdobi": "2026-02/2026-10",
+      "popis": "Nislerová jako lídryně pražských Pirátů a kandidátka na primátorku čelí opakované kritice za více než desetiletou manažerskou kariéru v petrochemické skupině PKN Orlen (Orlen Unipetrol), kterou část kritiků (včetně Greenpeace, 2023) označuje za jednoho z největších „greenwasherů“ v EU s plánem investovat do roku 2030 60 % prostředků do fosilních paliv. Bývalý europoslanec Mikuláš Peksa (nyní Volt) ji 5. 2. 2026 veřejně nazval kandidátkou na „vlastní kapitolu v dějinách greenwashingu v českých zemích“ s tím, že má zkušenost se sháněním dotací pro jednu z nejnetransparentnějších fosilních firem v Evropě. Jde o politicko-hodnotový spor o slučitelnost jejího zaměstnání s pirátským environmentálním programem, nikoli o obvinění z protiprávního jednání.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Nislerová konflikt zájmů odmítá; v rozhovoru pro CNN Prima NEWS uvedla, že nejde o ideový střet a že se v Orlen Unipetrolu věnuje modernizačním a dekarbonizačním projektům (např. rozvoj vodíkové mobility), které firmu „posouvají na zelenou cestu“. Lídr pražských Pirátů Zdeněk Hřib ji podpořil s tím, že se jako kandidátka věnuje tématům dostupného bydlení a hospodaření města, nikoli energetice.",
+      "zdroje": [
+        {
+          "nazev": "INFO.CZ: Peksa: Piráti, Orlen, Nislerová a greenwashing",
+          "url": "https://www.info.cz/zpravodajstvi-a-komentare/peksa-pirati-orlen-nislerova-greenwashing",
+          "datum": "2026-02-05"
+        },
+        {
+          "nazev": "CNN Prima NEWS: Pirátka Tereza Nislerová tváří ropného gigantu. Kandidátka na primátorku pracuje pro Orlen",
+          "url": "https://cnn.iprima.cz/piratka-manazerkou-v-orlenu-zkratkovita-kritika-kopu-za-ciste-technologie-tvrdi-nislerova-503451",
+          "datum": "2026-10-02"
+        },
+        {
+          "nazev": "Blesk/Volby 2026: Pokrytectví u Pirátů? Vysílají do voleb manažerku ropného gigantu, Hřib ji brání",
+          "url": "https://volby.blesk.cz/clanek/volby-komunalni-volby/833525/pokrytectvi-u-piratu-vysilaji-do-voleb-manazerku-ropneho-gigantu-hrib-ji-brani.html",
+          "datum": "2026-10-02"
+        },
+        {
+          "nazev": "Deník Referendum: Radek Kubala: Manažerka Orlenu primátorkou Prahy? Piráti mají co vysvětlovat",
+          "url": "https://denikreferendum.cz/clanek/238480-manazerka-orlenu-primatorkou-prahy-pirati-maji-co-vysvetlovat",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Dosud nezastávala výkonnou funkci (radní/náměstkyně) na úrovni magistrátu ani městské části, pouze mandát zastupitelky – podle metodiky bez výkonné funkce nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": "Zaměstnání v ORLEN Unipetrol (petrochemický sektor) je veřejně diskutovaným bodem kvůli možnému napětí s jejím environmentálním programem; sama uvádí, že se věnuje modernizačním a emisně úsporným projektům."
+  },
+  "citace": [
+    {
+      "text": "Zastávám princip přirozené obměny v nějakém logickém časovém období.",
+      "kontext": "Zdůvodnění, proč jako nová lídryně pražských Pirátů v březnu 2026 sestavila kandidátku bez dosavadní náměstkyně primátora Jany Komrskové.",
+      "zdroj_url": "https://prazsky.denik.cz/zpravy_region/pirati-praha-rozkol-nislerova-komrskova-kandidatka-komunalni-volby.html",
+      "datum": "2026-03"
+    },
+    {
+      "text": "Práce na inovativních a ekologických projektech, jako je rozvoj vodíkové mobility.",
+      "kontext": "Vlastní charakteristika práce v Orlen Unipetrolu v reakci na kritiku střetu zájmů s environmentální agendou Pirátů.",
+      "zdroj_url": "https://cnn.iprima.cz/piratka-manazerkou-v-orlenu-zkratkovita-kritika-kopu-za-ciste-technologie-tvrdi-nislerova-503451",
+      "datum": "2026-10-02"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Wikipedie: Tereza Nislerová",
+      "url": "https://cs.wikipedia.org/wiki/Tereza_Nislerov%C3%A1",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Pražský deník: Rozkol Pirátů v Praze? Jednička Nislerová postavila tým, Komrsková mimo hru",
+      "url": "https://prazsky.denik.cz/zpravy_region/pirati-praha-rozkol-nislerova-komrskova-kandidatka-komunalni-volby.html",
+      "datum": "2026-03"
+    },
+    {
+      "nazev": "CNN Prima NEWS: Pirátka Tereza Nislerová tváří ropného gigantu",
+      "url": "https://cnn.iprima.cz/piratka-manazerkou-v-orlenu-zkratkovita-kritika-kopu-za-ciste-technologie-tvrdi-nislerova-503451",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Jako nováčka ve vedoucí roli na magistrátní úrovni nemá dosud dohledatelný výkonný záznam (radní/náměstkyně) - viz plneni_slibu.",
+    "Detailní obsah jejího vlastního programu jako lídryně (nad rámec celopražského programu Pirátů) nebyl samostatně dohledán.",
+    "Čistě biografická fakta (datum narození, přesné datum vstupu do zastupitelstva Prahy 4) zůstávají dosud doložena jen Wikipedií - nezávislý primární zdroj se nepodařilo v čase rešerše dohledat."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

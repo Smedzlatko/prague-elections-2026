@@ -1,0 +1,56 @@
+{
+  "slug": "mc-praha-3-7-strana-zelenych",
+  "assembly_id": "mc-praha-3",
+  "list_cislo": 7,
+  "nazev": "Strana zelených",
+  "zkratka": "Zelení",
+  "typ": "strana",
+  "slozeni": [
+    "Zelení"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -1,
+    "hodnotova_osa": -2,
+    "oduvodneni": "Celostátní Strana zelených je klasifikována jako hodnotově progresivní, s důrazem na environmentální a sociální otázky; lokální program pro Prahu 3 2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "OPRAVA: potvrzeno koaliční smlouvou 2022-2026 (praha3.cz/getFile/id:698762) – Zelení byli čtvrtým koaličním partnerem TOPSTAN+Piráti+PRAHA 3 SOBĚ+Zelení s 1 křeslem v radě (9 celkem): Ondřej Rut byl místostarostou pro bydlení, dopravu a čerpání dotací. V roce 2022 získali 6,72 % a 2 mandáty.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Doprava a uliční prostranství: zóny 30 v rezidenčních oblastech, cyklo-infrastruktura, zachování celkového počtu parkovacích míst na úrovni 2022 (gesce místostarosty Ruta).",
+        "dukaz": "Koaliční smlouva tyto cíle deklaruje jako prioritu přímo v gesci Ruta. Nezávislé ověření rozsahu realizace (kolik zón 30 vzniklo, zda počet parkovacích míst neklesl) se v rešerši nepodařilo dohledat.",
+        "zdroj_url": "https://www.praha3.cz/getFile/id:698762/koalicni-smlova-2022-2026.pdf"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Zelení byli po celé období 2022-2026 nejmenším koaličním partnerem s jedním místostarostenským křeslem (bydlení, doprava, dotace). Nezávisle doložené hodnocení konkrétních výsledků v této gesci nebylo dohledáno."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": null,
+    "oduvodneni": "Program listiny pro 2026 se nepodařilo dohledat. Doveryhodnost_plneni = 2: Zelení drželi po celé období místostarostenské křeslo s konkrétní gescí (doprava/bydlení), koaliční smlouva obsahuje detailní dopravní cíle, ale nezávislé ověření jejich naplnění se v rešerši nepodařilo dohledat – skóre je konzervativní odhad, ne zjištění konkrétního neplnění.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "michalk-zaloudek-matej"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro 2026 se nepodařilo dohledat.",
+    "Nezávisle doložené naplnění dopravních a bytových priorit koaliční smlouvy v gesci místostarosty Ruta 2022-2026 nebylo ověřeno."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

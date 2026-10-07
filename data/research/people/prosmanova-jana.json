@@ -1,0 +1,29 @@
+{
+  "slug": "prosmanova-jana",
+  "name_key": "prosmanova-jana",
+  "cele_jmeno": "Mgr. et Mgr. Jana Prosmanová",
+  "rok_narozeni": 1976,
+  "strana": "bez politické příslušnosti",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-13", "list_cislo": 6, "poradi": 1}],
+  "role": "inkumbent",
+  "profil": "Jana Prosmanová je zastupitelka MČ Praha 13, poradkyně pro mezinárodní vztahy a legislativu, zvolena i v roce 2022 (pozice č. 4, 1853 preferenčních hlasů, tehdy na listině SEN 21 pro Prahu 13 a Společnost proti developerské výstavbě). Pro volby 2026 vede navazující listinu SEN PRO PRAHU 13 s podporou senátora Václava Lásky a Společnosti na ochranu Prokopského údolí.",
+  "vzdelani": null,
+  "profese": "poradkyně pro mezinárodní vztahy a legislativu",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitelka MČ Praha 13 (opozice)", "organizace": "SEN 21 / SOPU", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Působila jako opoziční zastupitelka; bez dohledaného podkladu o konkrétní agendě nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 13 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obory) a přesný rok narození nejsou nezávisle potvrzeny.",
+    "Konkrétní opoziční agenda a výsledky nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

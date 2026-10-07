@@ -1,0 +1,73 @@
+{
+  "slug": "mc-praha-5-5-obcanska-demokraticka-strana",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 5,
+  "nazev": "Občanská demokratická strana",
+  "zkratka": "ODS",
+  "typ": "strana",
+  "slozeni": [
+    "ODS"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Programy do voleb - ODS Praha 5",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164460",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "ODS vede koalici, která po volbách 2022 ovládla Prahu 5 (10 mandátů, společně s TOP 09, STAN a PRAHA 5 SOBĚ 21 ze 41 mandátů) a od dubna 2025 obsazuje i post starosty – Lukáš Herold vystřídal Radku Šimkovou (PRAHA 5 SOBĚ). Samostatný lokální volební program pro rok 2026 nebyl dohledán – stránka ods.cz/praha5 nebyla dostupná a programydovoleb.cz k listině žádný externí program neodkazuje.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2.5,
+    "hodnotova_osa": 1.5,
+    "oduvodneni": "ODS je na celostátní úrovni pravostředová strana (nižší daně, podpora podnikání, rozpočtová kázeň, konzervativnější hodnotové postoje); u lokální listiny bez vlastního programu odvozeno ze složení.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Součást vládnoucí koalice (ODS/TOP09 + STAN + PRAHA 5 SOBĚ, 21 ze 41 mandátů); od dubna 2025 obsazuje post starosty – Lukáš Herold vystřídal Radku Šimkovou (PRAHA 5 SOBĚ). Mezi inkumbenty strany na kandidátce 2026 jsou i radní Zdeněk Doležal a dlouholetí zastupitelé Jan Panenka, Kateřina Poláková a David Nechvátal.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "ODS v průběhu období posílila svou pozici v koalici až k obsazení postu starosty, přesné důvody výměny nebyly nezávisle dohledány. Detailní srovnání s lokálním programem z roku 2022 a jeho plněním nebylo možné provést – program nebyl dohledán ani pro rok 2022, ani pro rok 2026."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Policejní vyšetřování IT zakázek MČ Praha 5 (vazba na kauzu Dozimetr)",
+      "typ": "verejna_zakazka",
+      "obdobi": "2023-2026 (vyšetřování probíhá)",
+      "popis": "Policie prověřuje IT zakázky MČ Praha 5, u kterých figuruje úředník spojovaný s celostátní kauzou Dozimetr. Jde o kauzu úřadu MČ, nikoliv prokázaně o přímou odpovědnost konkrétních zastupitelů ODS – zařazeno zde, protože ODS je od roku 2025 vedoucí stranou koalice a obsazuje post starosty.",
+      "stav": "probiha",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "Deník N: Policie prověřuje IT zakázky Prahy 5 spojené i s úředníkem z kauzy Dozimetr",
+          "url": "https://denikn.cz/2022768/policie-proveruje-it-zakazky-prahy-5-spojene-i-s-urednikem-z-kauzy-dozimetr/",
+          "datum": "2026-04-02"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": null,
+    "oduvodneni": "konkretnost_programu = 0, program nebyl dohledán. doveryhodnost_plneni = 2: strana je od 2025 ve vedení MČ (post starosty), ale probíhající vyšetřování IT zakázek úřadu v tomto období snižuje hodnocení důvěryhodnosti plnění do doby vyjasnění vyšetřování (dle metodiky se neprokázané obvinění nehodnotí jako vina, ale snižuje jistotu hodnocení).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "herold-lukas"
+  ],
+  "mezery_v_datech": [
+    "Lokální volební program ODS pro Prahu 5 (2026 i 2022) nebyl dohledán - web ods.cz/praha5 byl nedostupný (404).",
+    "Přesná role a případná odpovědnost konkrétních zastupitelů ODS v kauze IT zakázek nebyla ověřena."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

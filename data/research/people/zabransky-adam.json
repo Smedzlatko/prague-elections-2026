@@ -1,0 +1,92 @@
+{
+  "slug": "zabransky-adam",
+  "name_key": "zabransky-adam",
+  "cele_jmeno": "Mgr. Adam Zábranský",
+  "rok_narozeni": 1994,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 7,
+      "poradi": 2
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Právník a jeden z nejdéle sloužících pirátských politiků na magistrátu – zastupitelem je od roku 2014, kdy byl ve věku 20 let zvolen z 3. místa pirátské kandidátky a stal se nejmladším členem zastupitelstva. Od listopadu 2018 je radním hl. m. Prahy; postupně měl na starosti bydlení a transparentnost (2018-2023) a od února 2023 majetek, legislativu a transparentnost. Patří mezi klíčové tváře pirátské bytové politiky – zaměřuje se na revizi městského bytového fondu a transparentnější správu městských firem. Ve volbách 2022 obhájil mandát (3. místo, přes 69 tisíc preferenčních hlasů). Ve sněmovních volbách 2025 kandidoval za Piráty na 6. místě pražské kandidátky, ale nebyl zvolen.",
+  "vzdelani": "Právnická fakulta (Mgr.).",
+  "profese": "Právník, radní hl. m. Prahy pro majetek, transparentnost a legislativu.",
+  "politicka_historie": [
+    {
+      "od": "2014-11",
+      "do": "2018-11",
+      "funkce": "zastupitel hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Z%C3%A1bransk%C3%BD"
+    },
+    {
+      "od": "2018-11-15",
+      "do": "2023-02-16",
+      "funkce": "radní hl. m. Prahy pro bydlení a transparentnost",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Z%C3%A1bransk%C3%BD"
+    },
+    {
+      "od": "2023-02-16",
+      "do": null,
+      "funkce": "radní hl. m. Prahy pro majetek, transparentnost a legislativu",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Z%C3%A1bransk%C3%BD"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Oprava a obnova fondu městských bytů",
+      "popis": "Jako radní zodpovědný za majetek/bydlení je spojen s pirátskou bilancí opravy cca 3000 městských bytů a jejich navrácení do užívání (mj. pro učitele, zdravotníky a další klíčové profese) a se založením Pražské developerské společnosti, která má nastartovat novou výstavbu.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Jde o dlouhodobě sledovanou agendu od jeho prvního zvolení radním v roce 2018 (revize městského bytového fondu byla už tehdy jeho hlavní prioritou); číslo 3000 bytů pochází z vlastní kampaňové prezentace strany, nebylo ověřeno nezávislým zdrojem.",
+      "zdroje": [
+        {
+          "nazev": "Piráti Praha: Jak měníme Prahu",
+          "url": "https://praha.pirati.cz/jak-menime-prahu/",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": 3,
+    "oduvodneni": "Dlouhodobě sleduje a prosazuje stejnou agendu (revize bytového fondu, transparentnost majetku), s doloženými dílčími výsledky (opravené byty, nová developerská společnost), ale bez nezávisle ověřeného rozsahu naplnění a bez vyřešení dlouhodobě kritizovaného nedostatku dostupného bydlení v Praze jako celku.",
+    "priklady": [
+      {
+        "slib": "Revidovat a zprůhlednit správu městského bytového fondu",
+        "vysledek": "Podle vlastní bilance opraveno cca 3000 bytů, založena Pražská developerská společnost pro novou výstavbu.",
+        "zdroj_url": "https://praha.pirati.cz/jak-menime-prahu/"
+      }
+    ]
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": "Majetková přiznání veřejných funkcionářů hl. m. Prahy nebyla v rámci této rešerše dohledána a ověřena."
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Wikipedie: Adam Zábranský",
+      "url": "https://cs.wikipedia.org/wiki/Adam_Z%C3%A1bransk%C3%BD",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Piráti Praha: Jak měníme Prahu",
+      "url": "https://praha.pirati.cz/jak-menime-prahu/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Číslo 3000 opravených městských bytů pochází jen z vlastní prezentace strany/kandidáta, nebylo dohledáno v nezávislém médiu nebo auditu.",
+    "Žádné doložené kauzy nebo kontroverze přímo s jeho jménem nebyly v dostupných zdrojích nalezeny."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "zivotni-prostredi",
+  "nazev": "Životní prostředí",
+  "popis": "Odpadové hospodářství, městská zeleň, lokalita Trojmezí, adaptace na klimatickou změnu a kvalita ovzduší. Většinu nezávislých statistik (množství odpadu, míra třídění, kvalita ovzduší) se v dostupném čase nepodařilo dohledat u primárního zdroje – web czso.gov.cz a praha.eu byly technicky nedostupné.",
+  "fakta": [
+    {
+      "tvrzeni": "Náměstkyně primátora pro životní prostředí a klimatický plán byla po celé období 2023-2026 Jana Komrsková, od 22. 6. 2026 vedená jako nestranička (dříve Piráti); portfolio životního prostředí a klimatického plánu zůstalo v jejích rukou i po odchodu ze strany.",
+      "hodnota": "náměstkyně pro životní prostředí: Jana Komrsková",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Praha měla v roce 2024 mezi kraji ČR nejnižší míru třídění využitelného komunálního odpadu (papír, sklo, kovy, plasty, bioodpad, dřevo, textil) – jen 30,03 %, zatímco tři nejlepší kraje vytřídí přibližně polovinu produkovaného odpadu. Množství komunálního odpadu na obyvatele v ČR celkově vzrostlo mezi lety 2023 a 2024 z 497 na 541 kg.",
+      "hodnota": "míra třídění v Praze 30,03 % (2024, nejnižší mezi kraji ČR)",
+      "zdroj_url": "https://www.samosebou.cz/2025/05/28/vysledky-trideni-odpadu-v-cr-jak-jsme-na-tom-za-rok-2024/",
+      "datum": "2026-10-03"
+    },
+    {
+      "tvrzeni": "Spalovna ZEVO Malešice (provozovatel Pražské služby, a.s.) má schválené postupné navýšení kapacity ze stávajících 330 000 tun odpadu ročně na cílových 480 000 t/rok (reálně provozovaná kapacita se odhaduje na cca 400 000 t/rok); Ministerstvo životního prostředí rozšíření schválilo v prosinci 2022, provoz se postupně navyšoval od roku 2023. Součástí záměru je i rozšíření škvárového hospodářství.",
+      "hodnota": "kapacita ZEVO Malešice 330 000 t/rok -> cílově 480 000 t/rok (reálně cca 400 000 t/rok)",
+      "zdroj_url": "https://ekonomickydenik.cz/prazske-sluzby-chteji-spalovat-vic-odpadu-v-malesicich-nove-az-480-tisic-tun-rocne/",
+      "datum": "2026-10-03"
+    },
+    {
+      "tvrzeni": "Praha v roce 2024 vyprodukovala podle ČSÚ nejméně komunálního odpadu na obyvatele ze všech krajů, 361,2 kg na obyvatele (ČR vzrostla produkce o 8,9 %, pokles zaznamenaly jen Praha a Královéhradecký kraj). Údaj se týká produkce, ne míry třídění.",
+      "hodnota": "361,2 kg komunálního odpadu na obyvatele (Praha, 2024)",
+      "zdroj_url": "https://csu.gov.cz/pak/produkce-odpadu-v-pardubickem-kraji-v-roce-2024",
+      "datum": "2026-01-30"
+    },
+    {
+      "tvrzeni": "Systém EKO-KOM uvádí, že průměrný obyvatel ČR vytřídil v roce 2025 do barevných nádob 69,1 kg papíru, plastů, skla, kovů a nápojových kartonů; celkově 90,5 kg (+2,3 kg meziročně) a s dřevem 100,5 kg. Údaj za samotnou Prahu zdroj neuvádí.",
+      "hodnota": "ČR 2025: 90,5 kg vytříděných obalových odpadů na obyvatele",
+      "zdroj_url": "https://www.ekokom.cz/wp-content/uploads/2026/05/TZ_ekokom_vysledky_2025.pdf",
+      "datum": "2026-05-13"
+    },
+    {
+      "tvrzeni": "Cíl koalice vysadit do roku 2026 milion stromů: podle náměstkyně Komrskové (Piráti) bylo k říjnu 2024 vysazeno přes 620 tis. stromů za posledních pět let a pro splnění cíle by Praha musela v každém ze dvou zbývajících let vysadit přes 180 tis. stromů; experti to označili za „málo reálné“. Konečná bilance k říjnu 2026 nebyla dohledána.",
+      "hodnota": "cíl 1 mil. stromů do 2026; stav k říjnu 2024: přes 620 tis.",
+      "zdroj_url": "https://english.radio.cz/prague-struggling-meet-set-goal-one-million-trees-planted-2026-8832918",
+      "datum": "2024-10-27"
+    }
+  ],
+  "pozice_stran": [
+    {
+      "list_slug": "magistrat-5-praha-sobe",
+      "pozice": "Zaměřují se na výsadbu stromů v ulicích, hospodaření s dešťovou vodou, ochranu Trojmezí jako zeleného prostoru, ochranu pražské přírody (Džbán, Vidoule, Prokopské údolí, obora Hvězda), propojování parků podél potoků Botič a Rokytka a ekologické hospodaření na pražských polích.",
+      "citace": "Trojmezí má zůstat zeleným prostorem. Oživíme krajinářskou studii, která na magistrátu skončila v šuplíku, a začneme pracovat na tom, aby se stalo příjemným místem pro odpočinek a volný čas.",
+      "zdroj_url": "https://www.prahasobe.cz/program"
+    },
+    {
+      "list_slug": "magistrat-7-ceska-piratska-strana",
+      "pozice": "Výsadba stromů a zeleně: Zvýšit výsadbu stromů a zeleně v ulicích a na sídlištích, prosazovat zelené střechy a propustné povrchy u nových staveb.",
+      "citace": "sázíme v Praze milion stromů",
+      "zdroj_url": "https://100proprahu.cz/"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Rada hlavního města Prahy - Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Volební program Praha sobě 2026 (PDF)",
+      "url": "https://www.prahasobe.cz/program",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Aktuální kvalita ovzduší v Praze (limitní látky, počet dnů se smogovou situací) nebyla ověřena.",
+    "Konkrétní stav lokality Trojmezí (vlastnické poměry, stupeň rozpracovanosti krajinářské studie, případné developerské tlaky) se podařilo dohledat jen z pohledu jedné politické strany (Praha sobě), ne z nezávislého zdroje.",
+    "Konkrétní opatření městské adaptační strategie na klima (plán adaptace, konkrétní investice) nebyly ověřeny.",
+    "Pozice ostatních osmi sledovaných listin k životnímu prostředí nebyly dohledány u primárního zdroje.",
+    "Aktuální pražský podíl tříděného odpadu za rok 2025 a konečný počet vysazených stromů k 10/2026 nebyly dohledány u primárního zdroje (fakt o 30,03 % za rok 2024 pochází ze sekundárního zdroje samosebou.cz).",
+    "Pozice listin 9, 10, 12, 14, 16, 22, 24 k životnímu prostředí: v programech zachycených v parties/ není samostatná priorita z této oblasti."
+  ],
+  "posledni_aktualizace": "2026-10-06"
+}

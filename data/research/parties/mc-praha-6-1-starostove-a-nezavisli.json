@@ -1,0 +1,127 @@
+{
+  "slug": "mc-praha-6-1-starostove-a-nezavisli",
+  "assembly_id": "mc-praha-6",
+  "list_cislo": 1,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "typ": "strana",
+  "slozeni": [
+    "STAN"
+  ],
+  "web": "https://www.starostove-praha6.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "STAN Praha 6 - volební program 2026",
+        "url": "https://www.starostove-praha6.cz/nas-program/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "STAN s podporou Zelených získal v roce 2022 13,00 % a 6 mandátů a je součástí vládnoucí koalice. Program pro 2026 pokrývá osm oblastí: školství (dostavba ZŠ Dědina a ZŠ Petřiny, úvahy o nové střední škole), zdravotnictví a sociální služby (otevření zmodernizované LDN Drnovská, rekonstrukce Polikliniky Pod Marjánkou), bezpečnost (více městské policie na Hradčanské a Dejvické), dopravu (modernizace železnice do Kladna a na letiště v tunelech, nové tramvajové linky na Strahov a Suchdol, rekonstrukce Vítězného náměstí), zeleň a životní prostředí (retenční nádrže na dešťovou vodu, re-use centrum), bydlení (obecní byty Milady Horákové, Rakovnická, Patočkova/Pyramida, revitalizace Veleslavínského zámku), kulturu (komunitní centra na Petřinách, Veleslavíně a Dědině, dokončení rekonstrukce Kaštanu) a sport (dokončení krytého bazénu Petynka za cca 600 milionů Kč, rekonstrukce fotbalového hřiště s Union Břevnov, skateparky).",
+    "priority": [
+      {
+        "oblast": "sport",
+        "nazev": "Dokončení krytého bazénu Petynka",
+        "popis": "Výstavba krytého bazénu Petynka v odhadované investici cca 600 milionů korun.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o velkou investici s uvedenou částkou, ale bez potvrzeného termínu dokončení v dostupném shrnutí programu."
+        },
+        "zdroj_url": "https://www.starostove-praha6.cz/nas-program/"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Otevření LDN Drnovská a rekonstrukce Polikliniky Pod Marjánkou",
+        "popis": "Zprovoznění zmodernizovaného zařízení dlouhodobé péče LDN Drnovská a rekonstrukce polikliniky pro zdravotní a sociální služby obyvatel.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní jmenovaná zařízení, ale zdravotnická infrastruktura částečně závisí i na kraji/magistrátu."
+        },
+        "zdroj_url": "https://www.starostove-praha6.cz/nas-program/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Rekonstrukce Vítězného náměstí",
+        "popis": "Přestavba centrálního dopravního uzlu MČ – okružní křižovatky a tramvajového uzlu na Vítězném náměstí.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o velký dopravní projekt sdílený s hl. m. Prahou a Dopravním podnikem, dlouhodobě plánovaný bez jasného termínu realizace."
+        },
+        "zdroj_url": "https://www.starostove-praha6.cz/nas-program/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Obecní byty Milady Horákové, Rakovnická, Patočkova/Pyramida",
+        "popis": "Rozšíření kapacity obecního bydlení ve třech jmenovaných lokalitách a revitalizace Veleslavínského zámku.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jmenované konkrétní projekty, ale bez uvedeného rozpočtu a termínů v dostupném shrnutí."
+        },
+        "zdroj_url": "https://www.starostove-praha6.cz/nas-program/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "STAN je komunálně orientovaná, pragmaticky středová strana; program pro Prahu 6 je technokraticko-investiční bez výrazné ideologické profilace, s podporou Zelených na kandidátce.",
+    "zdroje": [
+      {
+        "nazev": "STAN Praha 6 - volební program 2026",
+        "url": "https://www.starostove-praha6.cz/nas-program/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Součást vládnoucí koalice (ODS+KDU-ČSL 12, STAN+Zelení 6, PRAHA 6 SOBĚ 6, TOP 09 7 = 23 ze 45 mandátů). Lídr Petr Prokop je statutárním místostarostou MČ Praha 6 pro kulturu, sport a bezpečnost; dalšími inkumbenty jsou Jan Lacina (radní) a Oldřich Kužílek (pověřenec pro participaci).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Dokončení krytého bazénu Petynka (program 2026 uvádí jako pokračující prioritu, v roce 2022 bylo slibováno zahájení/zprovoznění v tomto volebním období).",
+        "stav": "Stavba nebyla v mandátu 2022-2026 dokončena. Podle registru smluv (Hlídač státu) byla smlouva na stavební realizaci „Dostavba sportovně-rekreačního areálu Petynka“ s firmou OHLA ŽS, a.s. v hodnotě 703 384 479 Kč podepsána až 3. 11. 2025 - tedy téměř na konci volebního období. Projekt tak zůstává ve fázi výstavby, nikoli dokončení.",
+        "zdroj_url": "https://www.hlidacstatu.cz/hledat?q=b%C3%A1z%C3%A9n+Petynka"
+      },
+      {
+        "slib": "Zprovoznění zmodernizované LDN Drnovská.",
+        "stav": "Podle registru smluv jde o dlouhodobě běžící projekt (minimálně 17 smluv za cca 107 mil. Kč, nejnovější z roku 2026) - nepodařilo se ověřit, že byla stavba k říjnu 2026 dokončena a zařízení otevřeno pro pacienty; zdroj pouze dokládá probíhající smluvní vztahy, nikoli datum otevření.",
+        "zdroj_url": "https://www.hlidacstatu.cz/hledat?q=LDN%20Drnovsk%C3%A1"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Strana je součástí vedení MČ s místostarostenskou funkcí po celé období; oba vlajkové investiční projekty spojené se stranou (bazén Petynka, LDN Drnovská) nebyly do konce volebního období 2022-2026 dokončeny, přestože je program 2026 opět nabízí jako priority – u bazénu byla stavební smlouva podepsána až rok před koncem období. Nezávislé srovnání s kompletním programem z roku 2022 nebylo dohledáno, protože žádný strukturovaný program STAN pro Prahu 6 pro rok 2022 nebyl nalezen."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 3: program jmenuje konkrétní projekty a místy čísla (600 milionů za bazén), ale většina bodů bez termínů. doveryhodnost_plneni = 2: strana byla u moci celé období, ale jeden z jejích klíčových investičních slibů (bazén Petynka) se za celé období nedostal dál než k podpisu stavební smlouvy rok před koncem mandátu, a druhý (LDN Drnovská) nelze ověřit jako dokončený; chybí ale důkaz o úplném nesplnění nebo obratu, proto ne 0-1. transparentnost = 3 za zveřejněný, podrobný program a dohledatelný web.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "prokop-petr"
+  ],
+  "mezery_v_datech": [
+    "Program neobsahuje termíny dokončení u většiny projektů.",
+    "Strukturovaný program STAN pro Prahu 6 pro rok 2022 (pro přesné srovnání slibů) nebyl dohledán.",
+    "Přesné datum dokončení/otevření LDN Drnovská se nepodařilo ověřit - k dispozici jen registr smluv, ne tisková zpráva o otevření."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

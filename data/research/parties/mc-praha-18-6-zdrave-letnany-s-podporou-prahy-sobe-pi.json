@@ -1,0 +1,60 @@
+{
+  "slug": "mc-praha-18-6-zdrave-letnany-s-podporou-prahy-sobe-pi",
+  "assembly_id": "mc-praha-18",
+  "list_cislo": 6,
+  "nazev": "Zdravé Letňany s podporou Prahy sobě, Pirátů, Lidovců a Zelených",
+  "zkratka": "Zdravé Letňany",
+  "typ": "D",
+  "slozeni": [
+    "KDU-ČSL",
+    "Zelení",
+    "NK",
+    "Piráti",
+    "PRAHA SOBĚ"
+  ],
+  "web": "https://www.zdraveletnany.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "zdraveletnany.cz",
+        "url": "https://www.zdraveletnany.cz/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Nejsilnější subjekt z voleb 2022 (24,76 %, 7 mandátů), nyní v koaliční podobě s podporou Prahy sobě, Pirátů, KDU-ČSL a Zelených. Vlastní web (zdraveletnany.cz) staví program na třech pilířích: „Fungující Letňany“ (tramvaj, střední škola, odmítnutí nadměrného zahušťování), „Příjemné Letňany“ (komunitní kulturní akce namísto velkých eventů, údržba veřejného prostoru) a „Zdravé Letňany“ (požadavek, aby polovina nových rozvojových ploch byla zeleň). Kampaň kritizuje současné vedení MČ (ANO) s odkazem na „kauzu psího parku“ a kvalitu stravy ve školních jídelnách – nejde o nezávisle doložené kauzy, ale o tvrzení z volební kampaně.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 4,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "michalkova-hadwiger-anna"
+  ],
+  "mezery_v_datech": [
+    "Konkrétní čísla/termíny u slibu tramvaje a střední školy nebyly na webu k dispozici - jde o obecné priority bez rozpočtu nebo harmonogramu.",
+    "Zmínky o 'kauze psího parku' a kvalitě školní stravy jsou jen kampaňová tvrzení opozice, bez nezávislého potvrzení."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

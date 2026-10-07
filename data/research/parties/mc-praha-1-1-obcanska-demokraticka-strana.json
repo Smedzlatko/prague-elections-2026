@@ -1,0 +1,115 @@
+{
+  "slug": "mc-praha-1-1-obcanska-demokraticka-strana",
+  "assembly_id": "mc-praha-1",
+  "list_cislo": 1,
+  "nazev": "Občanská demokratická strana",
+  "zkratka": "ODS",
+  "typ": "strana",
+  "slozeni": [
+    "ODS"
+  ],
+  "web": "https://www.ods-praha1.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "ODS Praha 1 - volební program 2026",
+        "url": "https://www.ods-praha1.cz/Program.html",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Program je rozdělen do pěti hlavních priorit (bezpečné ulice, parkování a doprava, Praha 1 jako domov, čisté a zelenější centrum, špičkové školy a péče) rozepsaných do deseti oblastí: bezpečnost (více strážníků v problémových místech, byty pro policisty v centru), bydlení (zastavení prodeje obecních bytů, startovací byty pro mladé), doprava a parkování (rezidenční režim, parkovací kredity pro řemeslníky), školství (menší třídy, modernizace budov, bezpečnostní audity), zdravotnictví (zachování Nemocnice Na Františku, koordinátor zdravotní péče), obchod a služby (dvě nové prodejny potravin u Malostranského náměstí a Dlouhé ulice), veřejný prostor a zeleň (vytipování míst pro nové stromy, antigraffiti), sociální oblast (domov pro seniory na území Prahy 1) a turismus (regulace krátkodobých pronájmů bez úplného zákazu). Program sám upozorňuje, že neuvádí konkrétní číselné cíle ani přesné termíny pro většinu opatření.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Zastavení prodeje obecních bytů a startovací byty pro mladé",
+        "popis": "Zastavení rozprodeje zbývajícího obecního bytového fondu, vracení prázdných obecních bytů do užívání a rozšíření nabídky startovacích bytů pro mladé lidi.",
+        "citace": "Budeme vracet prázdné obecní byty do užívání.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Správa obecního bytového fondu je plně v kompetenci MČ."
+        },
+        "zdroj_url": "https://www.ods-praha1.cz/Program.html"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Dvě nové prodejny potravin v centru",
+        "popis": "Podpora vzniku dvou nových maloobchodních prodejen potravin – jedné u Malostranského náměstí, druhé u Dlouhé ulice.",
+        "citace": "Podpoříme vznik dvou nových maloobchodních prodejen potravin v centru.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní, měřitelný a lokalizovaný slib, ale realizace závisí i na soukromých provozovatelích, ne jen na MČ."
+        },
+        "zdroj_url": "https://www.ods-praha1.cz/Program.html"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Rezidenční režim parkování a parkovací kredity pro řemeslníky",
+        "popis": "Posílení ochrany rezidentského parkování v obytných ulicích a zavedení parkovacích kreditů pro řemeslníky a služby.",
+        "citace": "Rezidenční režim parkování v obytných ulicích.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Parkovací politika v zónách je v kompetenci MČ ve spolupráci s magistrátem."
+        },
+        "zdroj_url": "https://www.ods-praha1.cz/Program.html"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Zachování a rozvoj Nemocnice Na Františku",
+        "popis": "Zachování Nemocnice Na Františku ve správě MČ a zavedení koordinátora zdravotní péče pro orientaci pacientů v systému.",
+        "citace": "Zachování a rozvoj Nemocnice Na Františku.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Nemocnice je v přímé správě MČ, ale bez konkrétního rozpočtu či investičního plánu v dostupném shrnutí."
+        },
+        "zdroj_url": "https://www.ods-praha1.cz/Program.html"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 1,
+    "oduvodneni": "Celostátní ODS je standardně klasifikována jako pravá strana (ekonomicky liberální, hodnotově umírněně konzervativní); lokální program listiny v Praze 1 pro rok 2026 se nepodařilo dohledat, hodnocení osy je tedy odvozeno z celostátního profilu strany, ne z lokálního programu.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Součást radniční koalice 2022-2026 (vedle TOP 09, Piráti a nezávislí pro Prahu 1, ANO/Staroměstská lípa a REZIDENTI 1), která zvolila starostkou Terezii Radoměřskou (TOP 09) 16 hlasy z 27. ODS měla z voleb 2022 5 mandátů (17,94 %) a v radě obsadila tři křesla: Ing. Tomáš Heres je místostarostou pro finance a majetek, Richard Bureš radním pro investice, IT a bezpečnostní technologie, Mgr. Michal Müller (lídr listiny 2026) radním pro zdravotnictví a nemocnice.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Efektivní správa financí a majetku MČ (gesce místostarosty Herese).",
+        "dukaz": "Opoziční listina PRAHA 1 SOBĚ ve svém programu pro 2026 tvrdí, že MČ Praha 1 má na účtech neinvestovaných 3,3 miliardy Kč a kritizuje podhodnocené nájemní smlouvy a nelegální terasy. Jde o tvrzení konkurenta v kampani vztahující se k celé koalici (ne jmenovitě k ODS), proto se neuvádí jako prokázané nesplnění, ale jako částečně zpochybněný výsledek v přímé gesci ODS.",
+        "zdroj_url": "https://www.praha1sobe.cz/program/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ODS držela po celé období 2022-2026 tři radní křesla včetně místostarosty pro finance a majetek. V rešerši se nepodařilo dohledat nezávisle doložené konkrétní splněné ani nesplněné sliby v gescích financí, investic/IT ani zdravotnictví – ani médii referovanou velkou kauzu, ani konkrétní dokončený projekt připisovaný přímo ODS. Opoziční listina PRAHA 1 SOBĚ ve svém programu obecně kritizuje vedení radnice (např. neinvestované finanční rezervy MČ, stav Nemocnice Na Františku, pronájem Žofína), ale jde o tvrzení konkurenta v kampani, ne o nezávisle ověřený fakt, a navíc se vztahuje k celé koalici, ne jmenovitě k ODS."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu = 2: program (dohledán na ods-praha1.cz) jmenuje konkrétní opatření v deseti oblastech, výjimečně i přesně lokalizovaná (dvě prodejny potravin u konkrétních míst), ale sám přiznává absenci číselných cílů a termínů u většiny bodů. transparentnost = 3 za zveřejněný podrobný program a dohledatelný web místní organizace. Doveryhodnost_plneni = 2 (smíšeno, spíše slabší doložení): ODS držela tři radní posty po celé období, ale v rešerši chybí nezávislý zdroj, který by umožnil přiřadit jmenovitě ODS konkrétní splněné sliby; zároveň nebyla dohledána žádná doložená velká kauza či prokázané porušení slibu, co by odůvodňovalo skóre 0-1. Skóre je proto spíše odhad z mezery v datech než z pozitivního zjištění a mělo by se při další rešerši ověřit přes zápisy rady/zastupitelstva a radniční zpravodaj JEDNA.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "muller-michal"
+  ],
+  "mezery_v_datech": [
+    "Program neobsahuje číselné cíle ani přesné termíny pro většinu opatření (sám to přiznává).",
+    "Detailní a nezávisle doložené plnění slibů ODS z let 2022-2026 na radnici Prahy 1 (gesce financí/majetku, investic/IT, zdravotnictví) nebylo ověřeno - zápisy zastupitelstva a rady ani radniční zpravodaj JEDNA nebyly v rešerši systematicky zpracovány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

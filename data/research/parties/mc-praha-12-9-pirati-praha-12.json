@@ -1,0 +1,80 @@
+{
+  "slug": "mc-praha-12-9-pirati-praha-12",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 9,
+  "nazev": "Piráti Praha 12",
+  "zkratka": "Piráti",
+  "typ": "koalice",
+  "slozeni": ["Piráti", "Volt", "nezávislí"],
+  "web": "https://praha12.pirati.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "Piráti Praha 12 – web", "url": "https://praha12.pirati.cz", "datum": "2026-10-02"}
+    ],
+    "shrnuti": "Piráti Praha 12 slibují vyvážený rozvoj MČ, transparentní zapojení obyvatel do řešení výstavby v lokalitě OC Lavki/OC Labe, zabránění nevhodné vícepodlažní zástavbě v okolí rodinných domů, výstavbu kryté plavecké haly financované z příspěvků developerů, transparentní správu MČ a odpovědnost ve veřejných zakázkách (včetně kontroly právních služeb u zařízení pro seniory).",
+    "priority": [
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Transparentní řešení výstavby OC Labe",
+        "popis": "Řešení rozvoje lokality obchodního centra Labe s transparentní účastí občanů.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "MČ je účastníkem řízení, ale konečné rozhodnutí může být i na magistrátu/stavebním úřadu."},
+        "zdroj_url": "https://praha12.pirati.cz"
+      },
+      {
+        "oblast": "sport",
+        "nazev": "Krytá plavecká hala z příspěvků developerů",
+        "popis": "Výstavba kryté plavecké haly financovaná z developerských příspěvků.",
+        "citace": "Plavání patří k oblíbeným rekreačním pohybovým aktivitám.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "Závisí na výši a vymahatelnosti developerských příspěvků, které MČ sama nemůže zaručit."},
+        "zdroj_url": "https://praha12.pirati.cz"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Transparentní správa a odpovědnost ve veřejných zakázkách",
+        "popis": "Důraz na transparentní zadávání veřejných zakázek, zmiňováno v souvislosti s právními službami u zařízení pro seniory.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Jde o standardní agendu MČ v rámci jejích vlastních pravomocí."},
+        "zdroj_url": "https://praha12.pirati.cz"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2,
+    "oduvodneni": "Piráti se celostátně profilují jako liberální až progresivní strana s důrazem na transparentnost veřejné správy.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Piráti Praha 12 byli v letech 2022–2026 nejsilnější opoziční silou se 8 mandáty z voleb 2022. Lídr Jan Adamec byl starostou MČ Praha 12 v letech 2018–2022 (pod Piráty), ale po volbách 2022 vedení MČ nezískal.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční subjekt nemohla přímo prosazovat vlastní exekutivní agendu po roce 2022; podle metodiky se to nezapočítává proti straně, ale konkrétní opoziční návrhy a jejich osud za období 2022–2026 nebyly v rámci této rešerše dohledány."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Program obsahuje jmenovaná opatření (bazén, participace na OC Labe), ale bez čísel a přesných termínů (konkrétnost 2). Důvěryhodnost plnění nelze hodnotit u opoziční strany bez dohledaného programu z roku 2022. Transparentnost: zveřejněný program (+1), dohledatelná kandidátka (+1), bývalá exekutivní zkušenost lídra coby starosty (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["adamec-jan"],
+  "mezery_v_datech": [
+    "Kompletní text programu pro rok 2026 nebyl z webu stažen celý.",
+    "Konkrétní opoziční agenda a její výsledky za období 2022–2026 nebyly dohledány.",
+    "Důvod, proč Piráti po volbách 2022 (8 mandátů) nebyli přizváni do koalice, nebyl dohledán."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

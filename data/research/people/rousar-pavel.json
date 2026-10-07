@@ -1,0 +1,72 @@
+{
+  "slug": "rousar-pavel",
+  "name_key": "rousar-pavel",
+  "cele_jmeno": "RNDr. Pavel Roušar",
+  "rok_narozeni": 1964,
+  "strana": "Otevřený Újezd – pro dobrý život bez planých slibů",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-21",
+      "list_cislo": 4,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Pavel Roušar je bývalý starosta MČ Praha 21 a dlouholetý zastupitel, profesně se v roce 2026 popisuje jako specialista na umělou inteligenci. Pro volby 2026 vede opoziční listinu Otevřený Újezd – pro dobrý život bez planých slibů, která v roce 2022 získala 1 mandát ze 17 (6,50 %, společně s KDU-ČSL, Soukromníky a Zelenými).",
+  "vzdelani": null,
+  "profese": "Specialista AI, bývalý starosta MČ Praha 21.",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": null,
+      "funkce": "starosta MČ Praha 21 (přesné období se nepodařilo doložit)",
+      "organizace": "MČ Praha 21",
+      "zdroj_url": null
+    },
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 21 (opozice)",
+      "organizace": "MČ Praha 21",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový opoziční zastupitel v období 2022-2026 bez výkonné funkce nelze podle metodiky hodnotit plnění slibů vázané na exekutivní rozhodování; jeho dřívější působení jako starosta nebylo možné časově ani obsahově doložit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Skoro milion korun za neschopnost včas se domluvit. [...] Městská část vysoudila na paní ředitelce 57 475 Kč a za právníky utratila 989 228 Kč. Nikdy jsem s jejím odvoláním nesouhlasil. Neomluvitelné jednání, neomluvitelné výdaje.",
+      "kontext": "Sloupek v předvolebním Újezdském zpravodaji 10/2026, kritika soudního spor s odvolanou ředitelkou Masarykovy ZŠ Hanou Cermonovou (viz data/research/people/hazdra-michal.json, pripady).",
+      "zdroj_url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+      "datum": "2026-09-29"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 538949",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Újezdský zpravodaj 10/2026",
+      "url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+      "datum": "2026-09-29"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné období, kdy byl Pavel Roušar starostou, a důvody konce jeho funkce nebyly dohledány.",
+    "Program listiny pro volby 2026 nebyl dohledán."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

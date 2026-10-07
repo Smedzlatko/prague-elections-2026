@@ -1,0 +1,103 @@
+{
+  "slug": "skolstvi",
+  "nazev": "Školství",
+  "popis": "Kapacity mateřských, základních a zejména středních škol v Praze a dlouhodobý nedostatek míst. Nezávislé statistiky (počty volných míst, naplněnost, odmítnutí žádosti) se v dostupném čase nepodařilo dohledat u primárního zdroje (Magistrát hl. m. Prahy / ČSÚ byly technicky nedostupné) – soubor obsahuje hlavně tvrzení jedné politické strany, což je nutné brát jako jednostranný zdroj.",
+  "fakta": [
+    {
+      "tvrzeni": "Strana Praha sobě (součást koalice 2022-2026, radní pro školství byl v tomto období Antonín Klecanda ze STAN) ve svém volebním programu pro rok 2026 tvrdí, že pražští deváťáci mají v rámci ČR nejmenší šanci dostat se na čtyřletou střední školu s maturitou a že hlavní příčinou je nedostatečná kapacita budov.",
+      "hodnota": "tvrzení o 'nejmenší šanci na maturitní obor' u pražských deváťáků (zdroj: program opoziční strany, NEOVĚŘENO nezávisle u ČSÚ/MŠMT)",
+      "zdroj_url": "https://www.prahasobe.cz/program",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "Radním hl. m. Prahy pro školství a sport byl po celé období 2023-2026 Antonín Klecanda (STAN).",
+      "hodnota": "radní pro školství: Antonín Klecanda (STAN)",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "tvrzeni": "OPRAVA z 6. 10. 2026: původní hodnoty (5,5 / 3,9 / 20,6 tis. míst) nebyly v uvedeném dokumentu IPR (analýza z roku 2019 s daty 2018) nalezeny. Podle aktuální Prognózy obyvatel a veřejné vybavenosti v Praze 2024–2050 (IPR Praha, 05/2025) chybí dnes na základních školách (děti 6–15 let) 6,1 tis. míst podle reálných kapacit, v roce 2030 bude chybět 2,5 tis. a v roce 2050 10,2 tis. míst (varianta PROG). Nejhorší poměry ZŠ i MŠ jsou dle dřívějších analýz IPR v Praze 5, 6, 9 a 10.",
+      "hodnota": "ZŠ: chybí 6,1 tis. míst nyní, 2,5 tis. (2030), 10,2 tis. (2050)",
+      "zdroj_url": "https://iprpraha.cz/assets/files/files/a523af643a0f403fb79df2e6b0954e93.pdf",
+      "datum": "2025-05"
+    },
+    {
+      "tvrzeni": "Tvrzení strany Praha sobě o nejmenší šanci pražských deváťáků na čtyřletý maturitní obor se při nezávislém dohledání potvrzuje směrem: Praha má mezi kraji ČR dlouhodobě nejnižší podíl přijatých uchazečů na střední školy – do čtyřletých a kratších oborů bylo přijato cca 80,2 % uchazečů oproti celorepublikovému průměru 89,8 %; na osmiletá gymnázia/konzervatoria se v Praze dostalo 37 % uchazečů oproti 47,5 % za celou ČR. Celostátně (MŠMT) uspělo v 1. kole přijímacího řízení pro školní rok 2025/26 celkem 93,7 % deváťáků, tři čtvrtiny z nich na školu uvedenou jako první priorita – pražská data jsou tedy výrazně pod celostátním průměrem.",
+      "hodnota": "podíl přijatých do 4letých oborů v Praze cca 80,2 % (ČR průměr 89,8 %), na gymnázia/konzervatoria 37 % (ČR 47,5 %)",
+      "zdroj_url": "https://prazsky.denik.cz/zpravy_region/podil-prijatych-uchazecu-na-stredni-skoly-v-praze-zustava-nejnizsi-v-republice-2.html",
+      "datum": "2026-10-03"
+    },
+    {
+      "tvrzeni": "Podle téže prognózy IPR chybí v pražských mateřských školách (děti 2–6 let) v současnosti necelých 10 tis. míst podle reálných kapacit, v roce 2030 bude chybět 4,1 tis. a v roce 2050 16,7 tis. míst (varianta PROG). Autoři zdůrazňují, že jde o optimistické odhady.",
+      "hodnota": "MŠ: necelých 10 tis. míst nyní; 4,1 tis. (2030); 16,7 tis. (2050)",
+      "zdroj_url": "https://iprpraha.cz/assets/files/files/a523af643a0f403fb79df2e6b0954e93.pdf",
+      "datum": "2025-05"
+    },
+    {
+      "tvrzeni": "Na středních školách (11–20 let) chybí podle IPR dnes 12,2 tis. míst, v roce 2030 bude chybět 18,2 tis. a v roce 2050 12,5 tis. míst (varianta PROG).",
+      "hodnota": "SŠ: chybí 12,2 tis. nyní; 18,2 tis. (2030); 12,5 tis. (2050)",
+      "zdroj_url": "https://iprpraha.cz/assets/files/files/a523af643a0f403fb79df2e6b0954e93.pdf",
+      "datum": "2025-05"
+    },
+    {
+      "tvrzeni": "Kapitálové výdaje Prahy v rozpočtu 2026 činí 23,03 mld. Kč a výdaje na školství a sport 27,92 mld. Kč z provozních výdajů (viz téma Hospodaření); výdaje na školství jsou po dopravě druhou největší provozní kapitolou.",
+      "hodnota": "školství a sport 27,92 mld. Kč provozních výdajů (rozpočet 2026)",
+      "zdroj_url": "https://www.ceskenoviny.cz/zpravy/praha-bude-pristi-rok-hospodarit-s-prijmy-11635-mld-kc-a-vydaji-11905-mld-kc/2759363",
+      "datum": "2025-12-11"
+    }
+  ],
+  "pozice_stran": [
+    {
+      "list_slug": "magistrat-5-praha-sobe",
+      "pozice": "Slibují navýšení kapacit mateřských, základních a zejména středních škol, nákup míst na soukromých školách jako dočasné řešení pro školní rok 2027/28, desetiletý investiční plán pražského školství a dostatek kapacit pro děti se speciálními potřebami. Kritizují radního pro školství Antonína Klecandu (STAN) za nečinnost.",
+      "citace": "Musí skončit každoroční ostuda, kdy deváťáci z Prahy mají v ČR nejmenší šanci se dostat na čtyřletou střední školu s maturitou. [...] Současná koalice nic neřeší a odpovědný radní Klecanda (STAN) se každý rok tváří, že je vše v pořádku.",
+      "zdroj_url": "https://www.prahasobe.cz/program"
+    },
+    {
+      "list_slug": "magistrat-7-ceska-piratska-strana",
+      "pozice": "Školní psycholog do každé školy: Zajistit školního psychologa na každé škole, rozšířit kapacity mateřských a základních škol a zřídit nové pedagogicko-psychologické poradny.",
+      "zdroj_url": "https://program2026.praha.pirati.cz/"
+    },
+    {
+      "list_slug": "magistrat-9-starostove-a-nezavisli",
+      "pozice": "Navýšení kapacit škol a školek podle růstu čtvrtí: Rozšířit kapacity škol a školek podle růstu jednotlivých čtvrtí, posílit podporu pro děti a zlepšit podmínky učitelů.",
+      "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+    },
+    {
+      "list_slug": "magistrat-12-spolu-pro-prahu",
+      "pozice": "Urychlení výstavby středních škol: Okamžitá inventura městských budov a pozemků vhodných pro školy, vyjednání podílu Středočeského kraje na nákladech navyšování kapacit a bezodkladné zahájení nové výstavby a přestaveb.",
+      "zdroj_url": "https://tempoplan.cz"
+    },
+    {
+      "list_slug": "magistrat-22-ano-2011",
+      "pozice": "Kapacity škol a podpora ve školách: Rozšiřovat kapacity škol a školek tam, kde chybí, a plánovat služby současně s novými čtvrtěmi. Podpořit školní psychology a prevenci závislostí, otevřít školní hřiště a tělocvičny po výuce a dotovat kroužky dětem z nízkopříjmových rodin.",
+      "zdroj_url": "https://janhusbauer.cz/#program"
+    },
+    {
+      "list_slug": "magistrat-24-sen-pro-prahu-s-vaclavem-laskou-s-podpo",
+      "pozice": "Řešení nedostatku míst na středních školách: Kritika, že politici „zaspali“ zajištění kapacit, s cílem masivních investic do nových míst na SŠ do roku 2030.",
+      "citace": "Zaspali a včas nezajistili místa na školách.",
+      "zdroj_url": "https://praha.senprocesko.cz/program/"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Rada hlavního města Prahy - Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Volební program Praha sobě 2026 (PDF)",
+      "url": "https://www.prahasobe.cz/program",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesné počty volných/chybějících míst v pražských MŠ (na rozdíl od ZŠ, kde je číslo z IPR Praha k dispozici) pro aktuální školní rok 2026/27 nebyly dohledány u primárního zdroje.",
+    "Investice do nové výstavby škol v jednotlivých městských částech (kromě dílčích zmínek u Prahy 5 a 10) nebyly systematicky ověřeny pro všechny MČ.",
+    "Přesný rok/ročník, ke kterému se vztahují dohledané statistiky přijímacího řízení (cca 2025/26), nebyl porovnán s dřívějšími roky, aby šlo potvrdit dlouhodobý trend, ne jen jeden rok.",
+    "Kapacity ZŠ/MŠ/SŠ jsou odhady IPR za celou Prahu; po jednotlivých MČ (např. Praha 11) nebyla aktuální čísla z prognózy 2024–2050 vytažena. Starší analýza IPR z roku 2019 (data 2018) uváděla, že Praha 11 měla na ZŠ kapacitní přebytek, ale nejde o aktuální stav.",
+    "Počet skutečně nově postavených škol/tříd za období 2022–2026 nebyl dohledán u primárního zdroje."
+  ],
+  "posledni_aktualizace": "2026-10-06"
+}

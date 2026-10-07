@@ -1,0 +1,58 @@
+{
+  "slug": "zdenkova-sarka",
+  "name_key": "zdenkova-sarka",
+  "cele_jmeno": "PhDr. Šárka Zdeňková",
+  "rok_narozeni": 1978,
+  "strana": "Hnutí pro Prahu 11 (HPP 11)",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 24, "poradi": 3},
+    {"assembly_id": "mc-praha-11", "list_cislo": 8, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Socioložka (Filozofická fakulta UK), od roku 2014 zastupitelka MČ Praha 11 za Hnutí pro Prahu 11, radní v letech 2014–2016. Od roku 2022 předsedkyně HPP 11. Po komunálních volbách 2022 byla zvolena starostkou Prahy 11 (21. 12. 2022) v čele koalice HPP 11, Praha 11 sobě, ANO 2011 a ODS. Po vypovězení koalice Piráty ji zastupitelstvo 7. 12. 2023 poměrem 19 z 35 hlasů odvolalo — jako důvody opozice a odstupující koaliční partneři uváděli neřešení kauzy ubytovny Sandra (hrozba ztráty cca 180 mil. Kč dotace), spor o dotaci kulturní společnosti Jižní Město a nevhodné chování k úředníkům; Zdeňková to označila za vykonstruované. Pro komunální volby 2026 vede listinu Hnutí pro Prahu 11 v MČ Praha 11 a kandiduje i na celopražské kandidátce SEN PRO PRAHU jako zástupkyně HPP 11.",
+  "vzdelani": "sociologie, Filozofická fakulta Univerzity Karlovy (PhDr.)",
+  "profese": "socioložka",
+  "politicka_historie": [
+    {"od": "2014-11", "do": "2026", "funkce": "zastupitelka MČ Praha 11", "organizace": "Hnutí pro Prahu 11", "zdroj_url": "https://cs.wikipedia.org/wiki/Šárka_Zdeňková"},
+    {"od": "2014-11", "do": "2016", "funkce": "radní MČ Praha 11", "organizace": "MČ Praha 11", "zdroj_url": "https://cs.wikipedia.org/wiki/Šárka_Zdeňková"},
+    {"od": "2022", "do": null, "funkce": "předsedkyně", "organizace": "Hnutí pro Prahu 11", "zdroj_url": "https://cs.wikipedia.org/wiki/Šárka_Zdeňková"},
+    {"od": "2022-12-21", "do": "2023-12-07", "funkce": "starostka MČ Praha 11", "organizace": "MČ Praha 11", "zdroj_url": "https://cs.wikipedia.org/wiki/Praha_11"}
+  ],
+  "vysledky": [
+    {"nazev": "Funkční období starostky Prahy 11", "popis": "Zvolena starostkou 21. 12. 2022 v čele koalice HPP 11, Praha 11 sobě, ANO 2011 a ODS. Po vypovězení koalice Piráty byla 7. 12. 2023 odvolána zastupitelstvem (19 z 35 hlasů), necelý rok ve funkci. Konkrétní věcné výsledky jejího působení (splněné/nesplněné sliby) se v rámci této rešerše nepodařilo doložit.", "stav": "zastaveno", "hodnoceni": null, "zdroje": [{"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"}]}
+  ],
+  "pripady": [
+    {
+      "nazev": "Odvolání z funkce starostky Prahy 11",
+      "typ": "stranicky",
+      "obdobi": "2023-12",
+      "popis": "Zastupitelstvo MČ Praha 11 odvolalo Zdeňkovou z funkce starostky 7. 12. 2023 poměrem 19 z 35 hlasů, poté co koalici 5. 12. 2023 vypověděli Piráti. Jako důvody opozice a odstupující koaliční partneři uváděli zejména neřešení kauzy bývalé ubytovny Sandra (hrozba ztráty cca 180 mil. Kč dotace), blokování řešení a odmítání navýšit dotaci kulturní společnosti Jižní Město a nevhodné chování vůči úředníkům. MČ byla poté bez řádně zvoleného starosty přibližně půl roku, než byl 13. 6. 2024 zvolen Martin Sedeke (ODS).",
+      "stav": "bez_zaveru",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Zdeňková označila uváděné důvody za „vykonstruované“ a uvedla, že skutečným motivem byla její snaha o transparentní vztahy MČ k městským/kulturním společnostem. Konkrétně tvrdila, že pirátský radní Jiří Dohnal po ní požadoval financování kulturní společnosti Jižní Město (KJM) na úkor rozpočtu MČ a že jeho chování bylo vůči úřadu i koaličním partnerům nevhodné — toto tvrzení nebylo nezávisle potvrzeno ani vyvráceno a Dohnalovo vlastní vyjádření k němu se nepodařilo dohledat. Piráti ve svém oficiálním stanovisku k odvolání naopak uvedli, že pro návrh na odvolání Zdeňkové hlasovali kvůli jejímu „chování poškozujícímu ekonomické zájmy městské části“ a kvůli „neschopnosti řešit financování městských firem“, a popsali ji jako dlouhodobě nevhodně se chovající ke koaličním partnerům — tedy přesný opak toho, co o chování ke koaličním partnerům tvrdila ona o Pirátech.",
+      "zdroje": [
+        {"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"},
+        {"nazev": "Deník N – nový starosta Sedeke", "url": "https://denikn.cz/minuta/1452094/", "datum": "2024-06-13"},
+        {"nazev": "Piráti Praha 11 – Šárka Zdeňková je opět odvolána", "url": "https://praha11.pirati.cz/aktuality/sarka-zdenkova-je-opet-odvolana/", "datum": "2023-12-07"}
+      ]
+    }
+  ],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Funkci starostky vykonávala necelý rok, krátce poté byla odvolána; bez dohledaného podkladu pro hodnocení plnění slibů nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "Wikipedie – Šárka Zdeňková", "url": "https://cs.wikipedia.org/wiki/Šárka_Zdeňková", "datum": "2026-10-02"},
+    {"nazev": "Wikipedie – Praha 11", "url": "https://cs.wikipedia.org/wiki/Praha_11", "datum": "2026-10-02"},
+    {"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"},
+    {"nazev": "Deník N – nový starosta Sedeke", "url": "https://denikn.cz/minuta/1452094/", "datum": "2024-06-13"}
+  ],
+  "mezery_v_datech": [
+    "Dohledáno dodatečně (WebSearch/WebFetch, říjen 2026 – Blesk.cz, 'Zabomyší války na Jižáku...', prosinec 2023): spor o KJM se týkal návrhu Pirátů navýšit dotaci firmě o 2 mil. Kč, který HPP 11/Zdeňková odmítla kvůli podezření na neoprávněné nakládání s dotacemi a vnitřnímu dluhu firmy 3,5 mil. Kč; Zdeňková chtěla nejprve audit, Piráti (místostarostka Böhmová) ji obvinili z toho, že své výhrady nesdělila koaličním partnerům osobně a jednala nekoncepčně. Zdeňková naopak postup Pirátů vnímala jako pokus o destabilizaci koalice.",
+    "Dohledáno dodatečně (WebSearch, říjen 2026): rekonstrukce ubytovny Sandra na bytový dům (174 bytů) byla dokončena, dotace z fondu rozvoje bydlení hl. m. Prahy (373 mil. Kč dotace + 200 mil. Kč půjčka, celkové náklady cca 750 mil. Kč) nebyla ztracena. Zdroj: Pražský patriot/PrahaTV, 'Praha 11 dokončila přestavbu ubytovny Sandra na bytový dům'.",
+    "Kdo přesně vedl MČ v mezidobí mezi odvoláním (12/2023) a zvolením Sedeke (6/2024) nebylo doloženo.",
+    "Zdeňkové protiobvinění vůči pirátskému radnímu Jiřímu Dohnalovi (že požadoval financování KJM na úkor MČ) nebylo nezávisle ověřeno ani vyvráceno; jeho vyjádření nebylo dohledáno — stejná mezera je uvedena i v datech o Dohnalovi (people/dohnal-jiri.json)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

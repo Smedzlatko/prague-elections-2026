@@ -1,0 +1,52 @@
+{
+  "slug": "kratky-jaromir",
+  "name_key": "kratky-jaromir",
+  "cele_jmeno": "Jaromír Krátký",
+  "rok_narozeni": 1978,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-14",
+      "list_cislo": 8,
+      "poradi": 5
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Jaromír Krátký je místostarostou MČ Praha 14 za ODS, zvolen byl v roce 2022 na 5. místě kandidátky ODS SPOLU s TOP 09 a Sousedy pro Prahu 14.",
+  "vzdelani": null,
+  "profese": "Místostarosta MČ Praha 14.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "místostarosta MČ Praha 14",
+      "organizace": "MČ Praha 14",
+      "zdroj_url": "https://www.praha14.cz"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako místostarosta nese spoluodpovědnost za chod radnice, podrobný audit jeho konkrétního resortu se však nepodařilo samostatně dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, obec 547361",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní resort a výsledky práce místostarosty Krátkého nebyly samostatně dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

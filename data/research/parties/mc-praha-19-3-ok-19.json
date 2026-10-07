@@ -1,0 +1,52 @@
+{
+  "slug": "mc-praha-19-3-ok-19",
+  "assembly_id": "mc-praha-19",
+  "list_cislo": 3,
+  "nazev": "OK-19",
+  "zkratka": "OK-19",
+  "typ": "D",
+  "slozeni": [
+    "KDU-ČSL",
+    "NK"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Listina KDU-ČSL a nezávislých, obhajující 3 mandáty z voleb 2022, vedená Vítězslavem Pavlem. Samostatný program nebyl dohledán.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "pavel-vitezslav"
+  ],
+  "mezery_v_datech": [
+    "Program listiny OK-19 nebyl dohledán v dostupných zdrojích nad rámec obecného odkazu na programydovoleb.cz.",
+    "Program nedohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"OK-19\" Kbely program volby 2026 Pavel KDU-ČSL; \"OK-19\" Kbely volby 2026 program priority Pavel Cacáková - nalezeny jen obecné volební výsledky (3 mandáty) a jména kandidátů, žádný vlastní psaný program.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „OK-19 Praha 19 Kbely volební program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

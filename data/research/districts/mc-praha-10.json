@@ -1,0 +1,177 @@
+{
+  "assembly_id": "mc-praha-10",
+  "nazev": "Praha 10",
+  "charakteristika": "Praha 10 zahrnuje Vršovice, Strašnice, Záběhlice, Malešice a část Michle, s téměř 120 tisíci obyvateli je druhou nejlidnatější pražskou městskou částí. Historicky je spojena s větším počtem veřejně známých kauz než ostatní MČ – nejznámější je ztráta stovek milionů korun z majetku MČ v souvislosti s investicemi přes společnost KEY Investments koncem první dekády 21. století a dlouholeté spory o privatizaci obecních bytů. Po volbách 2022 zvítězila koalice Společně pro Prahu 10 (ODS a TOP 09, 27,15 %, 14 mandátů), která s VLASTA a STAN s podporou KDU-ČSL (18,75 %, 10 mandátů) vytvořila vládnoucí koalici v čele se starostou Martinem Valovičem (ODS).",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ODS",
+      "TOP 09",
+      "STAN",
+      "KDU-ČSL"
+    ],
+    "starosta": {
+      "jmeno": "Ing. arch. Martin Valovič",
+      "strana": "ODS",
+      "slug": "valovic-martin"
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Martin_Valovi%C4%8D"
+  },
+  "zmeny_v_obdobi": [
+    "Koalice po volbách 2022 spojila listinu Společně pro Prahu 10 (ODS a TOP 09, 14 mandátů) s listinou VLASTA a STAN s podporou KDU-ČSL (10 mandátů), celkem 24 z 45 mandátů. Pro volby 2026 ODS a TOP 09 kandidují na dvou samostatných listinách (Společně pro Prahu 10 vedená starostou Valovičem a TOP 09 SPOLU S OSOBNOSTMI PRAHY 10 vedená 1. místostarostou Tomášem Pekem), což může signalizovat uvolnění dřívějšího společného bloku, ale přímý zdroj o formálním rozpadu koalice v průběhu volebního období nebyl dohledán.",
+    "Jana Komrsková, bývalá 1. místostarostka Prahy 10 (2018-2022, tehdy za Piráty), po volbách 2022 o tuto funkci přišla, protože se stala součástí opozice (dnes lídryně JSME PRAHA 10, kandidující i na magistrát za nový subjekt JSME PRAHA). Petr Beneš (TEAM, list JSME PRAHA 10) je popisován jako předseda nejaktivnějšího opozičního klubu.",
+    "Renata Chmelová, starostka Prahy 10 v letech 2018-2022 (Praha 10 Sobě), kandiduje ve volbách 2026 na listině Starostové, Vlasta a Lidovci (STAN/Vlasta/KDU-ČSL) bez exekutivní funkce uvedené u jejího jména - potvrzuje to, že po volbách 2022 ztratila post starostky."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Kauza KEY Investments",
+      "popis": "MČ Praha 10 (spolu s Prahou 6 a Prahou 13) v druhé polovině 2000. let svěřila část svých rezervních finančních prostředků společnosti KEY Investments, a.s. k obchodování s cennými papíry. Firma nakupovala vysoce rizikové, veřejně neobchodovatelné cenné papíry, které se ukázaly bezcenné. Praha 10 měla u firmy cca 219 milionů Kč a dostala zpět jen 213 800 Kč. V roce 2011 podala trestní oznámení na vedení firmy (podezření ze zvýhodnění věřitele, protože firma vyplatila peníze jen Praze 13) a žalovala firmu o vyrovnání. V říjnu 2012 vyhlásil Městský soud v Praze na KEY Investments konkurz – pohledávka Prahy 10 ve výši 216,63 milionu Kč nebyla v insolvenčním řízení uznána vůbec a firma už žádný majetek neměla, takže MČ nezískala nic navíc. Trestní řízení proti vedení firmy (předseda představenstva Daniel Brzkovský a členka představenstva Klára Fenstererová) vyvrcholilo odsouzením za podvod: Městský soud v Praze je v prosinci 2016 odsoudil (resp. soud prvního stupně v srpnu 2020 potvrdil viny a tresty), odvolací Vrchní soud rozsudek potvrdil 21. června 2021 (Brzkovský 5 let vězení, Fenstererová 4 roky) a Nejvyšší soud 30. 11. 2023 (rozhodnuto v létě 2023, zveřejněno v listopadu) zamítl jejich dovolání – rozsudek je tedy nyní pravomocný a konečný ve všech instancích. Celková škoda byla vyčíslena na více než 849,2 milionu Kč, mezi poškozenými byly výslovně uvedeny i městské části Praha 6 a Praha 10 (Praha 13 jako jediná obdržela přes 106 milionů Kč ještě před vyhlášením insolvence). Zda a kolik si Praha 10 reálně vymohla zpět, zůstává nejisté: podle Deníku N probíhá navíc samostatný civilní (insolvenční) spor o to, zda výplata přes 106 milionů Kč Praze 13 před zahájením insolvenčního řízení byla nedovoleným zvýhodněním jednoho věřitele (tzv. neúčinný právní úkon) – pokud by soud rozhodl, že ano, musela by Praha 13 peníze vrátit do konkurzní podstaty, z níž by se poměrně rozdělily mezi všechny věřitele včetně Prahy 10 a Prahy 6. Nejvyšší soud v této věci v dubnu 2026 zrušil předchozí rozhodnutí Vrchního soudu v Praze a vrátil mu věc k novému projednání – spor tedy k říjnu 2026 nebyl definitivně rozhodnut.",
+      "proc_zalezi": "Jde o nejvýraznější historickou majetkovou kauzu Prahy 10 – ztráta zhruba 219 milionů Kč z rezerv MČ je i po více než 15 letech připomínána jako symbol špatného hospodaření s obecním majetkem; trestní rozsudek proti manažerům firmy je už pravomocný a konečný, ale otázka, zda a kolik peněz se MČ reálně vrátí, závisí na dosud neskončeném civilním/insolvenčním spor o vrácení plateb vyplacených Praze 13.",
+      "zdroje": [
+        {
+          "nazev": "ČT24: Praha 10 dostala zlomek peněz od Key Investments",
+          "url": "https://ct24.ceskatelevize.cz/clanek/regiony/praha-10-dostala-zlomek-penez-od-key-investments-233438",
+          "datum": "2026-10-03"
+        },
+        {
+          "nazev": "ČT24: Praha 10 žaluje Key Investments kvůli vyrovnání s Prahou 13",
+          "url": "https://ct24.ceskatelevize.cz/clanek/regiony/praha-10-zaluje-key-investments-kvuli-vyrovnani-s-prahou-13-237489",
+          "datum": "2026-10-03"
+        },
+        {
+          "nazev": "Deník: Key Investments, jíž peníze svěřily i Praha 6 a 10, je v konkurzu",
+          "url": "https://www.denik.cz/ekonomika/key-investments-jiz-penize-sverily-i-praha-6-a-10-je-v-konkurzu/",
+          "datum": "2026-10-03"
+        },
+        {
+          "nazev": "ČT24: Soud potvrdil tresty vězení bývalým manažerům společnosti Key Investments",
+          "url": "https://ct24.ceskatelevize.cz/clanek/domaci/soud-potvrdil-tresty-vezeni-byvalym-manazerum-spolecnosti-key-investments-32502",
+          "datum": "2021-06-21"
+        },
+        {
+          "nazev": "Deník N: Nejvyšší soud zamítl dovolání Brzkovského a Fenstererové, rozsudek je pravomocný",
+          "url": "https://denikn.cz/minuta/1296995/",
+          "datum": "2023-11-30"
+        },
+        {
+          "nazev": "Deník N: Nejvyšší soud vrátil spor o 106 milionů Kč pro Prahu 13 k novému projednání",
+          "url": "https://denikn.cz/minuta/2034346/",
+          "datum": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "nazev": "Privatizace obecních bytů",
+      "popis": "Praha 10 dlouhodobě prodávala (privatizovala) byty ve svém vlastnictví nájemníkům i na volném trhu – v registru smluv je zdokumentováno velké množství jednotlivých prodejních smluv (např. prodej bytové jednotky v Taškentské ulici v červnu 2018 za 752 947 Kč) i spolupráce s realitními zprostředkovateli. Podrobnosti o konkrétních kauzách nevýhodného prodeje, podhodnocených cen nebo zvýhodňování konkrétních kupujících se v rámci rešerše nepodařilo dohledat – nalezena byla jen obecná evidence objemu privatizace, ne konkrétní doložené pochybení.",
+      "proc_zalezi": "Privatizace bytového fondu ovlivňuje dostupnost nájemního bydlení v MČ a historicky byla v Praze 10 i jiných MČ terčem podezření z klientelismu při výběru kupujících a stanovování cen.",
+      "zdroje": [
+        {
+          "nazev": "Hlídač státu: vyhledávání privatizace bytů Praha 10",
+          "url": "https://www.hlidacstatu.cz/hledat?q=privatizace+byt%C5%AF+Praha+10",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Prodej pozemku na Bohdalci",
+      "popis": "Proti plánovanému prodeji městského pozemku na Bohdalci vznikl petiční výbor, jehož členky (Markéta Žilinová, Erika Hasmuková) kandidují na listině JSME PRAHA 10. Podrobnosti o tom, kdo pozemek měl kupovat a v jaké fázi se prodej nachází, se nepodařilo z dostupných zdrojů ověřit.",
+      "proc_zalezi": "Nakládání s posledními rozvojovými pozemky MČ je opakovaně politickým tématem mezi radnicí a opozicí, která obviňuje vedení z nevýhodného zbavování se obecního majetku.",
+      "zdroje": [
+        {
+          "nazev": "Brief ČSÚ - kandidátní listiny Praha 10 2026 (uvedené profese kandidátů JSME PRAHA 10)",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500224",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Záchrana Drážní promenády",
+      "popis": "Petice za záchranu Drážní promenády (liniové zeleně podél bývalé railway trasy) stála za vznikem kandidátů na listině PRAHA 10 SOBĚ (David Bouz, Radka Jenka Šubířová, Monika Martišková). Konkrétní stav kauzy (co promenádě hrozilo, zda byla zachráněna) se nepodařilo z dostupných zdrojů dohledat.",
+      "proc_zalezi": "Jde o jeden z mála velkých souvislých zelených prostorů ve vnitřní Praze 10, jehož osud je příkladem střetu mezi rozvojovými záměry a ochranou veřejné zeleně.",
+      "zdroje": [
+        {
+          "nazev": "Brief ČSÚ - kandidátní listiny Praha 10 2026 (uvedené profese kandidátů PRAHA 10 SOBĚ)",
+          "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500224",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Nový Eden",
+      "stav": "probiha",
+      "popis": "Rozvojový/developerský projekt, jehož vnější vztahy a koordinaci má podle dostupného zdroje na starosti starosta Martin Valovič. Podrobnosti o rozsahu a harmonogramu projektu se nepodařilo dohledat.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Martin Valovič",
+          "url": "https://cs.wikipedia.org/wiki/Martin_Valovi%C4%8D",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [
+    {
+      "nazev": "Ztráta prostředků MČ investovaných přes KEY Investments",
+      "typ": "verejna_zakazka",
+      "obdobi": "2007-2021",
+      "popis": "MČ Praha 10 svěřila společnosti KEY Investments, a.s. cca 219 milionů Kč rezervních prostředků k obchodování s cennými papíry; firma nakupovala vysoce rizikové, veřejně neobchodovatelné papíry, které se ukázaly bezcenné. Praha 10 dostala zpět jen 213 800 Kč, podala trestní oznámení (2011) a přihlásila pohledávku 216,63 milionu Kč do insolvenčního řízení (konkurz vyhlášen říjen 2012), ta ale nebyla uznána, protože firma už neměla žádný majetek. Trestní řízení proti vedení firmy (Daniel Brzkovský, Klára Fenstererová) skončilo pravomocným odsouzením za podvod – Městský soud v Praze je odsoudil (2016/2020), Vrchní soud rozsudek potvrdil 21. 6. 2021 (Brzkovský 5 let, Fenstererová 4 roky vězení) a Nejvyšší soud 30. 11. 2023 zamítl jejich dovolání, čímž se rozsudek stal konečným ve všech instancích (celková škoda přes 849,2 milionu Kč, mezi poškozenými výslovně Praha 6 a Praha 10). Zda a kolik se Praze 10 z této škody následně podařilo civilně vymoci, nebylo v dostupných zdrojích doloženo; otevřenou otázkou navíc zůstává samostatný insolvenční spor o to, zda přes 106 milionů Kč vyplacených před konkurzem Praze 13 musí být vráceno do konkurzní podstaty (v dubnu 2026 Nejvyšší soud věc vrátil Vrchnímu soudu k novému projednání) – jeho výsledek by mohl ovlivnit i to, kolik zbývá k rozdělení mezi ostatní poškozené věřitele včetně Prahy 10.",
+      "stav": "odsouzen",
+      "zavaznost": "vysoka",
+      "reakce_dotcene_osoby": null,
+      "zdroje": [
+        {
+          "nazev": "ČT24: Soud potvrdil tresty vězení bývalým manažerům společnosti Key Investments",
+          "url": "https://ct24.ceskatelevize.cz/clanek/domaci/soud-potvrdil-tresty-vezeni-byvalym-manazerum-spolecnosti-key-investments-32502",
+          "datum": "2021-06-21"
+        },
+        {
+          "nazev": "Deník: Key Investments, jíž peníze svěřily i Praha 6 a 10, je v konkurzu",
+          "url": "https://www.denik.cz/ekonomika/key-investments-jiz-penize-sverily-i-praha-6-a-10-je-v-konkurzu/",
+          "datum": "2026-10-03"
+        },
+        {
+          "nazev": "ČT24: Praha 10 dostala zlomek peněz od Key Investments",
+          "url": "https://ct24.ceskatelevize.cz/clanek/regiony/praha-10-dostala-zlomek-penez-od-key-investments-233438",
+          "datum": "2026-10-03"
+        },
+        {
+          "nazev": "Deník N: Nejvyšší soud zamítl dovolání Brzkovského a Fenstererové, rozsudek je pravomocný",
+          "url": "https://denikn.cz/minuta/1296995/",
+          "datum": "2023-11-30"
+        },
+        {
+          "nazev": "Deník N: Nejvyšší soud vrátil spor o 106 milionů Kč pro Prahu 13 k novému projednání",
+          "url": "https://denikn.cz/minuta/2034346/",
+          "datum": "2026-04-15"
+        }
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - výsledky komunálních voleb 2022 a kandidátní listiny 2026 Praha 10",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500224",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Martin Valovič",
+      "url": "https://cs.wikipedia.org/wiki/Martin_Valovi%C4%8D",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Hlídač státu: vyhledávání KEY Investments Praha 10",
+      "url": "https://www.hlidacstatu.cz/hledat?q=KEY+Investments+Praha+10",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebylo ověřeno, zda a kolik se MČ Praha 10 nakonec podařilo vymoci na odsouzených manažerech KEY Investments (Brzkovský, Fenstererová) formou náhrady škody po tom, co se rozsudek stal 30. 11. 2023 konečným (Nejvyšší soud zamítl dovolání) - civilní vymáhání škody nebylo v dostupných zdrojích dohledáno. Opakovaná rešerše (WebSearch, říjen 2026) potvrdila jen to, že Praha 10 se k trestnímu řízení připojila s nárokem na náhradu škody 219 mil. Kč a že mezi cca 45 poškozenými subjekty byla uvedena i Praha 10 a Praha 6 - zda a kolik z přisouzené náhrady škody 849,2 mil. Kč bylo MČ Praha 10 reálně vyplaceno, nebylo dohledáno. Související insolvenční spor o to, zda se přes 106 mil. Kč vyplacených Praze 13 musí vrátit do konkurzní podstaty (a případně rozdělit i mezi další poškozené věřitele včetně Prahy 10), nebyl k říjnu 2026 pravomocně rozhodnut (Nejvyšší soud jej v dubnu 2026 vrátil Vrchnímu soudu). Zkoušeno: hlidacstatu.cz (jen smlouvy o právním poradenství, žádný výsledek vymáhání), denikn.cz fulltext „Key Investments“ (poskytl výše uvedené články o trestním a insolvenčním řízení), justice.cz nebyl pro konkrétní spisovou značku civilního řízení prohledán (rejstřík vyžaduje přesné spisové značky, které se v dostupných zdrojích nepodařilo získat).",
+    "Nebyla dohledána žádná konkrétní doložená kauza nevýhodné privatizace bytů v Praze 10 - jen obecná evidence rozsahu prodejů v registru smluv.",
+    "Nebyl dohledán aktuální stav kauzy pozemku na Bohdalci ani Drážní promenády.",
+    "Nebyly dohledány podrobnosti o personálních změnách v radě MČ Praha 10 v průběhu období 2022-2026 ani přesné datum formálního ukončení společné kandidatury ODS a TOP 09 jako jedné listiny."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

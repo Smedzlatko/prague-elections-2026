@@ -1,0 +1,102 @@
+{
+  "assembly_id": "mc-praha-17",
+  "nazev": "Praha 17",
+  "charakteristika": "Řepy – sídlištní městská část na západním okraji Prahy, cca 23 970 obyvatel, 23 mandátů. Panelové sídliště z 80. let doplněné starší zástavbou. Volby 2022 vyhrálo lokální sdružení Řepští sousedé (7 mandátů), následované ODS (6) a ANO (6); vládní koalici v období 2022-2026 vedla starostka Alena Kopejtková (ODS).",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "ODS",
+      "ŘEPY SOBĚ",
+      "ANO 2011"
+    ],
+    "starosta": {
+      "jmeno": "Mgr. Alena Kopejtková",
+      "strana": "ODS",
+      "slug": "kopejtkova-alena"
+    },
+    "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547174"
+  },
+  "zmeny_v_obdobi": [
+    "Dle dostupných dat ČSÚ k roku 2026 kandiduje na stávající radniční koalici Bořek Černovský (ŘEPY SOBĚ) jako místostarosta - podle briefu zastává funkci místostarosty, ODS a ŘEPY SOBĚ tak byly pravděpodobně koaličními partnery; podrobný průběh jednání a případné změny koalice v průběhu volebního období se v dostupných zdrojích nepodařilo ověřit.",
+    "Předvolební číslo zpravodaje Řepská sedmnáctka (říjen 2026) potvrzuje, že radu MČ v závěru období tvořili starostka Alena Kopejtková (ODS), 1. místostarosta Martin Benkovič (ANO 2011, současně zastupitel hl. m. Prahy), místostarostové Miroslav Šoukal (ANO 2011) a Bořek Černovský (ŘEPY SOBĚ) a radní Monika Čermáková (ODS) – koalice tedy byla tvořena ODS, ŘEPY SOBĚ a ANO 2011."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Doprava a parkování",
+      "popis": "Sídlištní charakter Řep vyvolává spory o kapacitu parkování (placené zóny vs. parkovací domy) a o budoucí trasu tzv. Břevnovské radiály.",
+      "proc_zalezi": "Parkovací kapacita a tranzitní doprava přímo ovlivňují kvalitu života na hustě obydleném sídlišti.",
+      "zdroje": [
+        {
+          "nazev": "stanpraha17.cz: Volební program",
+          "url": "https://stanpraha17.cz/volebni-program/",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Výstavba a infrastruktura",
+      "popis": "Programy místních listin (STAN) zmiňují obavy z nadměrné nové výstavby zatěžující stávající infrastrukturu.",
+      "proc_zalezi": "Při vysoké hustotě obyvatel je kapacita škol, dopravy a zeleně citlivá na jakoukoli další zástavbu.",
+      "zdroje": [
+        {
+          "nazev": "stanpraha17.cz: Volební program",
+          "url": "https://stanpraha17.cz/volebni-program/",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Bezpečnost a bezdomovectví",
+      "popis": "Program STAN zmiňuje požadavek na 24hodinovou služebnu městské policie a řešení bezdomovectví u rybníka Prasečák.",
+      "proc_zalezi": "Bezpečnost veřejného prostoru je opakovaně zmiňovaným tématem v místních programech.",
+      "zdroje": [
+        {
+          "nazev": "stanpraha17.cz: Volební program",
+          "url": "https://stanpraha17.cz/volebni-program/",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [],
+  "kontroverze_mc": [
+    {
+      "nazev": "Policejní šetření podezřelých zakázek na úpravu veřejného prostranství",
+      "popis": "Na základě oznámení hnutí Řepští sousedé policie šetří podezřele vysoké vyúčtování zakázek firmy Sadovnický a zahradnický servis (majitel Martin Chládek) na údržbu veřejného prostranství v Řepích – např. 44 000 Kč za opravu dětských vrátek s vykázanými 197 hodinami práce; firma od radnice v roce 2023 získala zakázky za cca 13 milionů Kč. Mluvčí MČ uvedl, že smlouvy uzavřelo již předchozí vedení radnice. Starostka Kopejtková se nechtěla vyjádřit. Podrobnosti viz people/kopejtkova-alena.json. Podle Blesku interní audit radnice potvrdil nedostatky v dokumentaci.",
+      "stav": "probiha",
+      "zavaznost": "stredni",
+      "zdroje": [
+        {
+          "nazev": "Blesk.cz: Průšvih řepské radnice kvůli podezřelým zakázkám? Za opravu branky zaplatila 44 tisíc, případ řeší policie",
+          "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/805720/prusvih-repske-radnice-kvuli-podezrelym-zakazkam-za-opravu-branky-zaplatila-44-tisic-pripad-resi-policie.html",
+          "datum": "2025-02-05"
+        }
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: Praha 17 (Řepy)",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547174",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "stanpraha17.cz: Volební program",
+      "url": "https://stanpraha17.cz/volebni-program/",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Blesk.cz: Praha 17 má novou starostku: Synkovou nahradila Alena Kopejtková",
+      "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/681187/zmeny-na-radnici-v-repich-jitku-synkovou-nahradila-v-kresle-starostky-alena-kopejtkova.html",
+      "datum": "2021"
+    }
+  ],
+  "mezery_v_datech": [
+    "Oficiální web repy.cz nedával při WebFetch k dispozici detail o složení rady a konkrétní velké projekty 2022-2026.",
+    "Přesné složení koalice 2022-2026 a její případné změny se nepodařilo z dostupných zdrojů ověřit nad rámec údajů v briefu.",
+    "K policejnímu šetření zakázek firmy Sadovnický a zahradnický servis se nepodařilo dohledat zprávu novější než 5. 2. 2025 ani konečný výsledek šetření.",
+    "Ověřeno 6. 10. 2026: případ policejního šetření zakázek (Blesk, 5. 2. 2025) nemá dohledaný novější vývoj – stav ‚probíhá‘ je poslední doložený."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

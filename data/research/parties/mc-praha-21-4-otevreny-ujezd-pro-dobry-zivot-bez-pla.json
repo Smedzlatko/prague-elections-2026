@@ -1,0 +1,102 @@
+{
+  "slug": "mc-praha-21-4-otevreny-ujezd-pro-dobry-zivot-bez-pla",
+  "assembly_id": "mc-praha-21",
+  "list_cislo": 4,
+  "nazev": "Otevřený Újezd – pro dobrý život bez planých slibů",
+  "zkratka": "Otevřený Újezd",
+  "typ": "D",
+  "slozeni": [
+    "KDU-ČSL",
+    "Zelení",
+    "NK",
+    "Soukromníci"
+  ],
+  "web": "https://otevreny-ujezd.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Otevřený Újezd 2026 - Program",
+        "url": "https://otevreny-ujezd.cz/program",
+        "datum": "2026-10-03"
+      },
+      {
+        "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/168848",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Nejmenší opoziční listina vedená bývalým starostou Pavlem Roušarem postavila program na třech pilířích – Opravit (majetek, kontrola rozpracovaných projektů), Pečovat (veřejný prostor, sociální a komunitní služby) a Chránit (ochrana Klánovického lesa a přírodních ploch) – doplněných o „pět pravidel otevřené radnice“ zaměřených na transparentnost rozhodování a veřejných zakázek. Program je formulován převážně jako principy a procesní závazky, bez konkrétních investičních projektů, čísel nebo termínů.",
+    "priority": [
+      {
+        "oblast": "transparentnost",
+        "nazev": "Pět pravidel otevřené radnice",
+        "popis": "Zveřejňování výdajů vedení radnice, sdílení podkladů rozhodnutí před hlasováním (ne po něm), jasné zadání a odpovědnost u veřejných zakázek, zapojování občanů dokud existují reálné varianty, veřejné vysvětlování prosazených i neprosazených kroků.",
+        "citace": "Žádné zlaté klícky. Práce, kterou Újezd opravdu potřebuje.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o procesní pravidla fungování radnice a zastupitelstva, která je v moci zastupitelů samotných prosadit bez vnějšího schvalování."
+        },
+        "zdroj_url": "https://otevreny-ujezd.cz/program"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Opravit – přehled majetku a kontrola projektů",
+        "popis": "Pořízení přehledu svěřeného majetku a plánu pravidelné údržby, kontrola rozpracovaných projektů a jejich skutečných přínosů a náklad, sestavení srozumitelných priorit s obyvateli.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o interní správní opatření, která MČ může zavést vlastním rozhodnutím."
+        },
+        "zdroj_url": "https://otevreny-ujezd.cz/program"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Chránit – ochrana Klánovického lesa",
+        "popis": "Ochrana Klánovického lesa při plánování rozvoje, péče o přístupové cesty a okraje lesa, využití přírodních ploch pro řešení klimatických výzev, spolupráce s okolními institucemi.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Klánovický les je přírodní rezervace v gesci více subjektů (hl. m. Praha, lesy ČR), MČ zde má jen částečný vliv."
+        },
+        "zdroj_url": "https://otevreny-ujezd.cz/program"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Nejmenší opoziční listina v zastupitelstvu MČ Praha 21 (1 mandát z 17 po volbách 2022, vedená bývalým starostou Pavlem Roušarem).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Opoziční zastoupení s jediným mandátem; podrobný audit prosazených návrhů se nepodařilo v rešerši dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu 2: program na otevreny-ujezd.cz/program pojmenovává opatření (přehled majetku, pět pravidel otevřené radnice, ochrana Klánovického lesa), ale bez čísel a termínů – jde převážně o principy a procesní závazky, ne o konkrétní investiční projekty. transparentnost 3: +1 za zveřejněný program, +1 za funkční web, +1 za dostupnou politickou historii lídra (bývalý starosta, dlouholetý zastupitel).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "rousar-pavel"
+  ],
+  "mezery_v_datech": [
+    "Program neuvádí konkrétní investiční projekty, čísla ani termíny - zůstává na úrovni principů a procesních závazků.",
+    "Nebyla dohledána bilance Pavla Roušara jako bývalého starosty (období jeho funkce, důvody odchodu)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "mc-praha-18-4-nas-domov-letnany",
+  "assembly_id": "mc-praha-18",
+  "list_cislo": 4,
+  "nazev": "Náš Domov Letňany",
+  "zkratka": "NDL",
+  "typ": "D",
+  "slozeni": [
+    "NK",
+    "Patrioti ČR"
+  ],
+  "web": "https://www.nasdomovletnany.cz/",
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "nasdomovletnany.cz",
+        "url": "https://www.nasdomovletnany.cz/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Listina nezávislých a Patriotů ČR, obhajující mandát z roku 2022 (lídr David Červenka, dosavadní zastupitel a předseda výboru). Vlastní web (nasdomovletnany.cz) byl dohledán, ale k říjnu 2026 obsahoval jen obecnou misi (zlepšení životního prostředí v Letňanech), registraci spolku a kontakt – bez konkrétního volebního programu s opatřeními.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "cervenka-david"
+  ],
+  "mezery_v_datech": [
+    "Web nasdomovletnany.cz neobsahoval konkrétní volební program s opatřeními, jen obecnou misi spolku."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

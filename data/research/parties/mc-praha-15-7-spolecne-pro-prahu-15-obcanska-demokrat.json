@@ -1,0 +1,141 @@
+{
+  "slug": "mc-praha-15-7-spolecne-pro-prahu-15-obcanska-demokrat",
+  "assembly_id": "mc-praha-15",
+  "list_cislo": 7,
+  "nazev": "Společně pro Prahu 15 (Občanská demokratická strana, TOP 09 a nezávislí kandidáti)",
+  "zkratka": "Společně pro Prahu 15",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "TOP 09"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Společně pro Prahu 15 - Vaše Patnáctka",
+        "url": "https://vasepatnactka.cz/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Vládnoucí koalice vedená starostou Michalem Fischerem staví program na čtyřech pilířích: bezpečné prostředí, čistá a zelená MČ, zdravý a aktivní život, prosperující a efektivní provoz. U Hostivařské přehrady odmítá masivní komerční výstavbu a navrhuje místo ní sociální zázemí a celoroční občerstvení při zachování přírodního charakteru lokality. Prosazuje odklon tranzitní dopravy a rozvoj železnice a veřejné dopravy a staví se proti rozsáhlému rozvojovému záměru Pirátů a Zelených v okolí (desetitisíce nových obyvatel).",
+    "priority": [
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Hostivařská přehrada bez masivní komerční výstavby",
+        "popis": "Namísto velké komerční zástavby vybudovat sociální zázemí a celoroční občerstvení při zachování přírodního charakteru lokality.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Záleží na vlastnických a územně-plánovacích vztazích, MČ má jen částečný vliv."
+        },
+        "zdroj_url": "https://vasepatnactka.cz/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Odklon tranzitní dopravy",
+        "popis": "Podpora odklonu tranzitní dopravy z MČ, rozvoj železnice a veřejné dopravy.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o nadmístní dopravní řešení v gesci hl. m. Prahy a Správy železnic."
+        },
+        "zdroj_url": "https://vasepatnactka.cz/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Odmítnutí velkého rozvojového záměru v okolí OC Vivo",
+        "popis": "Dlouhá jednání vedla k environmentálním ochranám okolí OC Vivo namísto rozsáhlé nové zástavby.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Popisuje již dosažený výsledek vyjednávání, nikoli budoucí slib."
+        },
+        "zdroj_url": "https://vasepatnactka.cz/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Menšinová listina z pohledu volebního výsledku (7 mandátů z 31, 22,64 % – druhá nejsilnější), přesto obsadila post starosty (Michal Fischer) i dvou místostarostů (Michal Frauenterka, Pavel Pešek). Vítězné sdružení Patnáctka náš domov (12 mandátů) neuspělo se žalobou na neplatnost voleb a spolu s Piráty a občany Prahy 15 opustilo ustavující zasedání 9. 11. 2022 na protest proti neschválení procedurálního návrhu; zbylých 16 zastupitelů (Společně pro Prahu 15, ANO 2011, SPD a nezávislí, NEZÁVISLÍ) zvolilo radu v čele s Fischerem.",
+    "splnene_sliby": [
+      {
+        "slib": "Oprava chodníků",
+        "dukaz": "Program 2026 prezentuje dokončenou opravu rozbitých chodníků jako „rok oprav, který změnil Patnáctku“ (tvrzení strany).",
+        "zdroj_url": "https://vasepatnactka.cz/"
+      },
+      {
+        "slib": "Ochrana okolí OC Vivo před velkou zástavbou",
+        "dukaz": "Program uvádí dosažené environmentální ochrany okolí po dlouhých jednáních (tvrzení strany).",
+        "zdroj_url": "https://vasepatnactka.cz/"
+      },
+      {
+        "slib": "Oprava hasičské zbrojnice v Hostivaři na kulturní prostor, rekonstrukce sálu KD Varta, zřízení mezigeneračního centra Gercenka, služebna městské policie na Veronském náměstí.",
+        "dukaz": "Předvolební číslo zpravodaje Hlasatel (9/2026) v příspěvku zastupitele Pavla Klegy (ODS) vyjmenovává tyto dokončené investice z uplynulého období.",
+        "zdroj_url": "https://www.praha15.cz/assets/File.ashx?id_org=80115&id_dokumenty=29552"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Zateplení fasády radnice a přístavba radnice",
+        "dukaz": "Hlasatel 9/2026 uvádí, že zateplení fasády „finišuje“ a přístavba radnice je „v přípravě“ – tedy nedokončeno k závěru období.",
+        "zdroj_url": "https://www.praha15.cz/assets/File.ashx?id_org=80115&id_dokumenty=29552"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Michal Fischer je starostou Prahy 15 od roku 2014 (obhájil posty 2018 a 2022), více než deset let v čele radnice je významný faktor jeho bilance. Vlastní prezentace koalice (program 2026 i zpravodaj Hlasatel) zdůrazňuje dokončené investiční akce (hasičská zbrojnice, KD Varta, Gercenka, služebna MP) a probíhající zateplení radnice; jde ale o tvrzení koalice o sobě samé – nezávislý audit plnění volebního programu z roku 2022 se nepodařilo dohledat. Opoziční Patnáctka náš domov v témže vydání zpravodaje bilanci koalice naopak kritizuje kvůli kauzám předimenzované výstavby a vstřícnosti k developerům – jde o neověřené protitvrzení druhé strany, nikoli doložený fakt."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Zvolení starosty Fischera díky tiché podpoře zastupitelů SPD",
+      "typ": "stranicky",
+      "obdobi": "2022-11",
+      "popis": "Koalice Společně pro Prahu 15 (ODS, TOP 09), ANO 2011 a Nezávislí měla na ustavujícím zasedání 9. 11. 2022 jen 14 ze 31 mandátů a ke zvolení Michala Fischera starostou chyběly dva hlasy, které dodali dva zastupitelé SPD. SPD nebyla formální součástí koaliční smlouvy, ale jako kompenzace získal zastupitel SPD Pavel Frydrych post předsedy kontrolního výboru. Koaliční partner TOP 09 spolupráci se SPD na celostátní úrovni razantně odsoudil.",
+      "stav": "potvrzeno",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Fischer spolupráci s SPD nepopřel: „Já doufám, že budeme v tomto modelu pokračovat třeba i dále.“ (Aktuálně.cz, 10. 11. 2022)",
+      "zdroje": [
+        {
+          "nazev": "Aktuálně.cz: Ke zvolení pomohly starostovi za ODS hlasy SPD. Doufám, že budeme pokračovat, říká",
+          "url": "https://zpravy.aktualne.cz/domaci/praha-15-koalice/r~c6df96ae60e711ed8b4e0cc47ab5f122/?lp=1",
+          "datum": "2022-11-10"
+        },
+        {
+          "nazev": "Blesk/Volby: V Praze 15 se křehká koalice opírá o hlasy z SPD, neobhajitelné, říká Pekarová Adamová, diví se i Pospíšil",
+          "url": "https://volby.blesk.cz/clanek/volby-komunalni-volby/728067/v-praze-15-se-krehka-koalice-opira-o-hlasy-z-spd-neobhajitelne-rika-pekarova-adamova-divi-se-i-pospisil.html",
+          "datum": "2022-11-11"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "Program pojmenovává konkrétní opatření a postoje (odmítnutí komerční výstavby u přehrady, odklon tranzitní dopravy), většinou bez čísel a termínů. Doveryhodnost_plneni 3: radniční zpravodaj dokládá dokončení několika konkrétních investičních akcí slibovaných/prezentovaných koalicí (hasičská zbrojnice, KD Varta, Gercenka, služebna MP), ale jde o zdroj vydávaný samotnou radnicí (zdroj_strana), a některé sliby (zateplení a přístavba radnice) zůstaly k závěru období nedokončené. Transparentnost +1 za zveřejněný program, +1 za zápisy zastupitelstva, +1 za dohledatelné funkce (starosta, dva místostarostové na listině).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "fischer-michal"
+  ],
+  "mezery_v_datech": [
+    "Přesný text koaliční smlouvy 2022–2026 se nepodařilo dohledat; mechanismus vzniku koalice (odchod vítězné Patnáctky náš domov a Pirátů z ustavujícího zasedání) je doložen reportáží zpravodaje Hlasatel 12/2022, ne koaliční smlouvou samotnou.",
+    "Bilance plnění slibů vychází převážně z vlastního zpravodaje MČ (zdroj_strana), nebyla ověřena nezávislým zdrojem (médium, audit)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

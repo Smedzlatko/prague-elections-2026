@@ -1,0 +1,33 @@
+{
+  "slug": "shaw-salajova-monika",
+  "name_key": "shaw-salajova-monika",
+  "cele_jmeno": "Monika Shaw Salajová, M.Sc.",
+  "rok_narozeni": 1987,
+  "strana": "SEN 21",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 24, "poradi": 2},
+    {"assembly_id": "mc-praha-5", "list_cislo": 12, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Monika Shaw Salajová je zastupitelka a manažerka, kandiduje za SEN 21 jako dvojka celopražské listiny SEN PRO PRAHU a zároveň jako lídryně lokální koaliční listiny SEN PRO PRAHU 5 (s podporou senátora Václava Lásky a Společnosti na ochranu Prokopského údolí) v MČ Praha 5. V roce 2022 získala mandát zastupitelky MČ Praha 5 (3159 preferenčních hlasů) na listině Koalice SEN 21 pro Prahu 5 se senátorem Václavem Láskou, která tehdy získala 11,01 % a 5 mandátů. Jako opoziční klub nejsou v aktuálním (říjen 2026) seznamu rady MČ Praha 5 zastoupeni.",
+  "vzdelani": "M.Sc.",
+  "profese": "manažerka, zastupitelka MČ Praha 5",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitelka MČ Praha 5, lídryně klubu SEN 21", "organizace": "MČ Praha 5", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez upřesnění konkrétní zastupitelské funkce a jejího výkonu nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Rok narození odhadnut z uvedeného věku (39 let v roce 2026) v kandidátní listině, nepotvrzen nezávislým zdrojem.",
+    "Konkrétní agenda a výstupy její zastupitelské práce v MČ Praha 5 nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

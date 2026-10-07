@@ -1,0 +1,102 @@
+{
+  "slug": "mc-praha-14-5-nase-ctrnactka",
+  "assembly_id": "mc-praha-14",
+  "list_cislo": 5,
+  "nazev": "NAŠE Čtrnáctka",
+  "zkratka": "N14",
+  "typ": "strana",
+  "slozeni": [
+    "N14"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "NAŠE Čtrnáctka - volební program",
+        "url": "https://nasectrnactka.cz/#program",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "NAŠE Čtrnáctka (vedená místostarostkou Soňou Tománkovou) staví program na deseti bodech: bezpečnost, zelená Praha 14, parkování, doprava, bezbariérovost, volný čas a kultura, sport (areál Čihadla), sociální služby, dostupné bydlení pro mladé rodiny a kapacita škol.",
+    "priority": [
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Navýšení počtu asistentů prevence kriminality na 8",
+        "popis": "Rozšíření týmu asistentů prevence kriminality.",
+        "citace": "zvýšíme počet asistentů na 8",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Personální opatření plně v gesci MČ, vyžaduje jen rozpočtové navýšení."
+        },
+        "zdroj_url": "https://nasectrnactka.cz/#program"
+      },
+      {
+        "oblast": "sport",
+        "nazev": "Dokončení areálu Čihadla",
+        "popis": "Dokončení sportovně-rekreačního komplexu Čihadla včetně bazénu a krytého bazénu.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o dlouhodobě připravovanou investici závislou na stavebním povolení a rozpočtu."
+        },
+        "zdroj_url": "https://nasectrnactka.cz/#program"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Nové vlakové zastávky Jiráskova čtvrť, Jahodnice, Hostavice",
+        "popis": "Prosazování nových železničních zastávek na území MČ.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Závisí na Správě železnic a Českých drahách, MČ na to má jen omezený vliv."
+        },
+        "zdroj_url": "https://nasectrnactka.cz/#program"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "NAŠE Čtrnáctka získala v roce 2022 3 mandáty z 31 (9,93 %); lídryně Soňa Tománková zastává funkci místostarostky MČ Praha 14.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Terminál Černý Most a participativní rozpočet",
+        "dukaz": "Podle vlastního programu 2026 („radši plníme než slibujeme“) koalice/strana odkazuje na dokončení terminálu Černý Most a zavedení participativního rozpočtu jako na své výsledky z období 2022-2026. Jde o tvrzení strany o sobě, nezávisle nepotvrzené, a bez jasného rozlišení zásluhy mezi koaličními partnery.",
+        "zdroj_url": "https://www.nasectrnactka.cz"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako místostarostka nesla Tománková spoluodpovědnost za chod radnice. Program 2026 prezentuje svůj dosavadní přístup jako „radši plníme než slibujeme“ s odkazem na dokončené projekty jako terminál Černý Most a participativní rozpočet, konkrétní slib-po-slibu audit jejího předchozího programu z roku 2022 se však nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "Většina priorit má pojmenovaná opatření, část i čísla (8 asistentů prevence kriminality), bez uvedeného rozpočtového krytí. Důvěryhodnost plnění: strana se odvolává na konkrétní dokončené projekty (terminál Černý Most, participativní rozpočet), ale jde o její vlastní tvrzení bez nezávislého potvrzení, proto skóre 3 (smíšeno), ne vyšší. Transparentnost +1 za zveřejněný program, +1 za zápisy zastupitelstva, +1 za dohledatelnou exekutivní funkci lídryně (místostarostka).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "tomankova-sona"
+  ],
+  "mezery_v_datech": [
+    "Program z roku 2022 a jeho detailní plnění nebyly dohledány.",
+    "Program 2026 neuvádí rozpočtové krytí jednotlivých opatření."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

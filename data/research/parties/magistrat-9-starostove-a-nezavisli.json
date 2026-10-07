@@ -1,0 +1,166 @@
+{
+  "slug": "magistrat-9-starostove-a-nezavisli",
+  "assembly_id": "magistrat",
+  "list_cislo": 9,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "typ": "strana",
+  "slozeni": [
+    "STAN"
+  ],
+  "web": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Starostové.cz: Zastupitelstvo hl. města Prahy",
+        "url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "STAN staví kampaň na pokračování a dokončení rozjetých projektů současné radniční koalice (Metropolitní plán, metro D, humanizace Magistrály) a na kontinuitě vedení svého lídra Petra Hlaváčka v roli radního pro územní rozvoj. Hlavní sliby se týkají výstavby městských bytů pro učitele, zdravotníky a seniory, dokončení dopravních staveb a posílení městské policie.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "2000 nových městských bytů",
+        "popis": "Zahájit výstavbu 2000 městských bytů v připravených lokalitách a nabídnout je přednostně mladým rodinám, seniorům a klíčovým profesím (učitelé, zdravotníci).",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Číslo je uvedeno, ale bez termínu dokončení a bez uvedení rozpočtového krytí; výstavba na městských pozemcích závisí i na stavebním řízení a kapacitě Pražské developerské společnosti."
+        },
+        "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Dokončení metra D, příprava linky E a tramvajových tratí",
+        "popis": "Dokončit stavbu metra D, připravit novou linku E, postavit nové tramvajové tratě na více místech a modernizovat hlavní nádraží v konceptu „metra S“.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Metro D je rozestavěné s vlastním harmonogramem DPP (dokončení částí 2032-2036), takže jde spíše o pokračování existujícího projektu než o nový ověřitelný závazek s vlastním termínem STAN."
+        },
+        "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Navýšení kapacit škol a školek podle růstu čtvrtí",
+        "popis": "Rozšířit kapacity škol a školek podle růstu jednotlivých čtvrtí, posílit podporu pro děti a zlepšit podmínky učitelů.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétních počtů nových míst, škol nebo termínů nelze slib ověřit."
+        },
+        "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Výstavba na městských pozemcích a humanizace Magistrály",
+        "popis": "Stavět tisíce bytů na městských pozemcích, začít stavět Vltavskou filharmonii a humanizovat Severojižní magistrálu.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o navázání na schválený Metropolitní plán a rozpracované projekty (Vltavská filharmonie má vybraného architekta a probíhající přípravu), humanizace Magistrály je dlouhodobě diskutovaný, ale opakovaně odkládaný projekt."
+        },
+        "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+      },
+      {
+        "oblast": "bezpecnost",
+        "nazev": "270 nových strážníků městské policie",
+        "popis": "Posílit složky IZS, doplnit 270 chybějících strážníků městské policie a řešit drogovou problematiku prevencí.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní číslo je uvedeno, ale naplnění závisí na personální situaci na trhu práce (nábor strážníků je dlouhodobě problematický), bez uvedeného termínu."
+        },
+        "zdroj_url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "STAN se celostátně i v Praze prezentuje jako pragmatické, nekonfliktní „starostenské“ hnutí orientované na komunální správu a odbornost spíše než na vyhraněnou ideologii. Z pražského programu (podpora rozvoje, bytové výstavby i městské policie, spolupráce s developery na nových čtvrtích) lze odvodit mírně pravostřednou ekonomickou pozici a mírně liberální (ne výrazně konzervativní ani progresivní) hodnotovou pozici. Jde o nízkou jistotu odhadu, protože strana sama svou ideologickou osu explicitně nedefinuje.",
+    "zdroje": [
+      {
+        "nazev": "Starostové.cz: Zastupitelstvo hl. města Prahy",
+        "url": "https://www.starostove.cz/zastupitelstvo-hl-mesta-prahy",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "STAN byl nejmenším koaličním partnerem pražské koalice SPOLU-Piráti-STAN (5 mandátů z 65 po volbách 2022). Petr Hlaváček zastává od 16. 2. 2023 funkci 1. náměstka primátora pro územní a strategický rozvoj, Antonín Klecanda od stejného data funkci radního pro školství, sport a volnočasové aktivity a od listopadu 2022 i funkci předsedy pražské organizace STAN. V souladu s pravidly férovosti (METODIKA.md, „Společné měřítko u koaličních partnerů“) se tato bilance měří podle Programového prohlášení Rady hl. m. Prahy z června 2023 (týž dokument jako u SPOLU a Pirátů), a pouze v kapitolách odpovídajících vlastním gescím STAN: územní a strategický rozvoj (Hlaváček) a školství, sport a volný čas (Klecanda). Metro D je v gesci dopravy (Piráti), proto se v této bilanci dále neuvádí jako vlastní slib STAN, jen jako kontext.",
+    "splnene_sliby": [
+      {
+        "slib": "Programové prohlášení Rady (2023, kapitola „Praha rozvíjející se“ – územní a strategický rozvoj, resort Hlaváček): „Zasadíme se o dokončení a schválení nového územního plánu, tzv. Metropolitního plánu“ a „vytvoříme podmínky pro jeho pořizování tak, aby bylo možné ho schválit v tomto volebním období“.",
+        "dukaz": "Zastupitelstvo hl. m. Prahy schválilo Metropolitní plán 29. 5. 2026, účinnosti nabývá 1. 9. 2026; plán má podle IPR Praha otevřít prostor až pro 350 tisíc nových bytů, zejména využitím brownfieldů. Hlaváček jako náměstek pro územní rozvoj vedl přípravu týmu více než 200 odborníků. Jde o jediný ze dvou hodnocených závazků STAN, jenž byl nezávisle doložen jako zcela a v termínu splněný.",
+        "zdroj_url": "https://iprpraha.cz/metropolitni-plan-schvalen"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Programové prohlášení Rady (2023, kapitola „Praha rozvíjející se“ – územní a strategický rozvoj, resort Hlaváček, bod „Významné stavby“): „Získáme územní rozhodnutí a připravíme investiční akci Vltavské filharmonie. Zajistíme financování ve spolupráci se státem a soukromým sektorem.“.",
+        "dukaz": "Změna územního plánu umožňující výstavbu byla schválena již v březnu 2021 (před tímto volebním obdobím), v květnu 2022 byl v architektonické soutěži vybrán vítězný návrh (studio Bjarke Ingels Group), v lednu 2024 byla představena upravená studie a na konci roku 2025 projekt získal kladné stanovisko EIA. Samotné zahájení stavby se ale podle odhadů z roku 2022 počítá až na rok 2027, tedy až po konci tohoto volebního období – příprava investiční akce tedy pokročila, ale nebyla dokončena a financování nebylo k volbám 2026 uzavřeno.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Vltavsk%C3%A1_filharmonie"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Měřeno podle Programového prohlášení Rady z června 2023 a jen ve vlastních gescích STAN (územní a strategický rozvoj, školství a sport) je hlavním a nezávisle dobře doloženým úspěchem dovedení dlouho odkládaného Metropolitního plánu ke schválení v květnu 2026 – klíčový osobní projekt lídra Petra Hlaváčka. Druhý hodnocený závazek, příprava Vltavské filharmonie, pokročil (vybraný architekt, kladné EIA), ale zahájení stavby je plánováno až po konci volebního období, proto jde o rozpracovaný, ne splněný slib. To odpovídá přibližně polovině (1 ze 2) nezávisle hodnocených měřitelných závazků splněné zcela, žádný neshledán jako prokazatelně porušený. Metro D je kontinuitou již dříve rozjeté stavby v gesci dopravy (Piráti), proto se zde nepočítá jako slib STAN. Plnění slibu výstavby 2000 městských bytů a progres Pražské developerské společnosti se nepodařilo v dostupných zdrojích nezávisle ověřit (viz mezery_v_datech)."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Kauza Dozimetr a odchod Petra Hlubučka z vedení pražského STAN",
+      "typ": "policejni",
+      "obdobi": "2022-2024",
+      "popis": "Petr Hlubuček, do té doby 1. náměstek primátora a předseda pražské organizace STAN, byl 15. 6. 2022 obviněn policií v rámci Akce Dozimetr spolu s dalšími deseti lidmi z korupce a účasti na organizované zločinecké skupině; v srpnu 2022 byl po složení kauce propuštěn z vazby. V listopadu 2022 ho ve funkci předsedy pražské organizace STAN nahradil Antonín Klecanda. Hnutí STAN Hlubučka v souladu se stanovami vyloučilo, což v listopadu 2024 potvrdil odvolací soud. Hlubuček obvinění odmítl v plném rozsahu. Hlavní líčení u Obvodního soudu pro Prahu 9 běží od září 2025 a k říjnu 2026 nebylo skončeno (jednání nařízena i na říjen, listopad a prosinec 2026).",
+      "stav": "probiha",
+      "zavaznost": "vysoka",
+      "reakce_dotcene_osoby": "Petr Hlubuček svou vinu odmítl v plném rozsahu.",
+      "zdroje": [
+        {
+          "nazev": "Seznam Zprávy: STAN v Praze povede Antonín Klecanda. Spolupráci s ANO si dovede představit",
+          "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-prazske-stan-povede-starosta-kolovrat-antonin-klecanda-219991",
+          "datum": "2023-02-09"
+        },
+        {
+          "nazev": "iROZHLAS: Nabitý soudní týden v kauze Dozimetr. Svědčit mají exředitel DPP, radní Scheinherr i muž přes 'krypťáky'",
+          "url": "https://www.irozhlas.cz/zpravy-domov/nabity-soudni-tyden-v-kauze-dozimetr-svedcit-maji-exreditel-dpp-radni-scheinherr_2606080804_mst",
+          "datum": "2026-06-08"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu=3: většina priorit (byty, strážníci, dopravní stavby) má jmenovaná opatření a část i konkrétní čísla, chybí ale rozpočtové krytí a u většiny priorit i termíny. doveryhodnost_plneni=3: hodnoceno podle Programového prohlášení Rady z června 2023 – stejného dokumentu a stejné přísnosti jako u koaličních partnerů Pirátů a SPOLU – a pouze v gescích, které STAN skutečně měl (územní a strategický rozvoj, školství a sport). Z 2 hodnocených závazků je 1 (schválení Metropolitního plánu) nezávisle doložen jako zcela a v termínu splněný – byť jde z velké části o dokončení projektu rozpracovaného už před rokem 2022 – a 1 (příprava Vltavské filharmonie) je rozpracovaný s reálným, ale nedokončeným postupem; žádný ze dvou neshledán jako porušený. To odpovídá kritériu „splněna přibližně polovina měřitelných slibů“. Dřívější verze této bilance navíc nesprávně počítala s metrem D, které je v gesci dopravy (Piráti), ne STAN – po opravě gesčního zařazení a doplnění druhého vlastního závazku (filharmonie) vychází skóre shodně 3, ale nyní na dvou závazcích skutečně z gesce STAN. Slib výstavby 2000 městských bytů a progres Pražské developerské společnosti se nepodařilo nezávisle ověřit (viz mezery_v_datech), proto se do skóre nepočítají ani kladně, ani záporně. transparentnost=3: zveřejněný program a web (+1), dohledatelné hlasování zastupitelů a tiskové zprávy k Metropolitnímu plánu (+1), dohledatelné životopisy lídrů strany (+1), ale chybí v dostupných zdrojích informace o financování kampaně a transparentním účtu konkrétně pro tuto listinu (0).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "hlavacek-petr"
+  ],
+  "mezery_v_datech": [
+    "Nepodařilo se ověřit, zda a v jaké míře byl splněn slib výstavby 2000 nových městských bytů za volební období 2022-2026.",
+    "Program STAN pro Prahu 2026 nebyl dohledán jako samostatný publikovaný dokument s rozpočtovým krytím - čerpáno z webové prezentace priorit na starostove.cz.",
+    "Aktuální stav trestního řízení v kauze Dozimetr (Petr Hlubuček) k říjnu 2026 nebyl v dostupných zdrojích dohledán - poslední dohledaná informace je z listopadu 2024 (potvrzení vyloučení z STAN odvolacím soudem).",
+    "Nepodařilo se nezávisle ověřit počet skutečně dokončených nebo zahájených bytových jednotek Pražské developerské společnosti (projekty Palmovka, Nové Dvory, Letňany, V Botanice, Vršovice) slíbené v Programovém prohlášení Rady 2023 v gesci Hlaváčka.",
+    "Nepodařilo se dohledat aktuální stav (2023-2026) humanizace Severojižní magistrály, kterou Programové prohlášení Rady 2023 slibuje „podporovat“ v rámci územního rozvoje.",
+    "Nepodařilo se nezávisle ověřit dokončení konkrétních školních staveb uvedených v Programovém prohlášení Rady 2023 v gesci Klecandy jako „v realizaci“ (Základní škola Šeberov, Základní škola U Elektry, přístavba Základní školy Slivenec)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

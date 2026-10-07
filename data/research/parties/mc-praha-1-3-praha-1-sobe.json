@@ -1,0 +1,129 @@
+{
+  "slug": "mc-praha-1-3-praha-1-sobe",
+  "assembly_id": "mc-praha-1",
+  "list_cislo": 3,
+  "nazev": "PRAHA 1 SOBĚ",
+  "zkratka": "PRAHA 1 SOBĚ",
+  "typ": "sdruzeni nezavislych kandidatu",
+  "slozeni": [
+    "NK",
+    "PRAHA SOBĚ",
+    "Zelení"
+  ],
+  "web": "https://www.praha1sobe.cz/program/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "praha1sobe.cz: Volební program 2026",
+        "url": "https://www.praha1sobe.cz/program/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Rozsáhlý desetibodový program zaměřený na regulaci turismu a krátkodobých pronájmů (Airbnb) v historickém centru, bytovou politiku a podporu rodin a seniorů, zklidnění dopravy a prioritu pro pěší a cyklisty, obnovu veřejného prostoru a zeleně, transparentní správu majetku MČ a profesionalizaci radnice. Kriticky poukazuje na neinvestovaných 3,3 miliardy korun na účtech MČ a nedokončené projekty současné koalice.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Regulace krátkodobých pronájmů (Airbnb) v bytech MČ",
+        "popis": "Zastavit pronajímání obecních bytů formou krátkodobých turistických pronájmů a využít stavební úřad k postihu nelegální „hotelizace“ bytového fondu.",
+        "citace": "End Airbnb-type rentals in municipal properties; leverage building authority oversight to combat residential hotelization.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "MČ může regulovat vlastní bytový fond, ale vymáhání u soukromých bytů závisí na změně celoměstské/celostátní legislativy."
+        },
+        "zdroj_url": "https://www.praha1sobe.cz/program/"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Profesionalizace správy majetku MČ",
+        "popis": "Zrušit neprávem podhodnocené nájemní smlouvy a nelegální venkovní terasy, převést správu majetku na profesionální firmu s transparentními kritérii; MČ má na účtech 3,3 miliardy Kč, které podle programu nejsou efektivně investovány.",
+        "citace": "Na účtech MČ leží 3,3 miliardy korun.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o exekutivní rozhodnutí v kompetenci rady a zastupitelstva MČ, ale vyžaduje politickou shodu a čas na výpovědi stávajících smluv."
+        },
+        "zdroj_url": "https://www.praha1sobe.cz/program/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Zóny s omezeným vjezdem (ZTL) na Malé Straně a Starém Městě",
+        "popis": "Zavést italský model zón s omezeným vjezdem vozidel a nahradit nefunkční výsuvné sloupky kamerovým vymáháním.",
+        "citace": "Implement ZTL-style vehicle restriction zones (Italian model) on Malá Strana and Staré Město.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Vyžaduje investici do kamerového systému a koordinaci s magistrátem/policií, ale podobné zóny MČ v minulosti zaváděla."
+        },
+        "zdroj_url": "https://www.praha1sobe.cz/program/"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Domov pro seniory s nepřetržitou péčí",
+        "popis": "Zřídit v rekonstruovaném nebo novém objektu MČ zařízení s nepřetržitou péčí pro seniory a rozšířit kapacitu seniorského taxi.",
+        "citace": "Create dedicated 24/7 care facility (Domov pro seniory) in renovated/new municipal property.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Vyžaduje nalezení vhodné nemovitosti, investiční prostředky a čas na rekonstrukci/stavbu – v programu bez konkrétního termínu ani rozpočtu."
+        },
+        "zdroj_url": "https://www.praha1sobe.cz/program/"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Prosazení cílů Klimatického plánu Prahy na úrovni MČ",
+        "popis": "Systematicky zavádět zeleň a vodní prvky ve veřejném prostoru proti přehřívání, přecházet na teplé LED osvětlení a podporovat SVJ při přechodu na tepelná čerpadla.",
+        "citace": "Implement Prague Climate Plan targets with measurable, economically justified steps.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Program neudává konkrétní čísla ani termíny, jen obecný směr."
+        },
+        "zdroj_url": "https://www.praha1sobe.cz/program/"
+      }
+    ],
+    "oblasti": {
+      "bydleni": "Boj proti hotelizaci bytového fondu, oprava obecních bytů pro rodiny, pomoc seniorům a zranitelným skupinám.",
+      "doprava": "ZTL zóny, priorita pro pěší a cyklisty, regulace zásobování, rezidentní parkování.",
+      "verejny_prostor": "Obnova ulic a náměstí, ochrana vzrostlých stromů, kulturní programy a grantový systém pro místní komunitu.",
+      "transparentnost": "Zveřejňování rozpočtu a investic, participativní rozpočet, digitalizace úředních dokumentů."
+    }
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": -1,
+    "oduvodneni": "PRAHA 1 SOBĚ je lokální odnož celopražského hnutí PRAHA SOBĚ, na listině figurují i členové Zelených – obvykle progresivní, prourbanisticky a environmentálně orientovaná uskupení; bez přečteného textu programu nelze stanovit ekonomickou osu.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Nejsilnější strana voleb 2022 (22,86 %, 7 mandátů), přesto skončila v opozici – starostkou byla zvolena koalice TOP 09+ODS+Piráti+ANO+REZIDENTI1. Lídr listiny 2026 Pavel Marc byl zastupitelem a členem Finančního výboru, Jonáš Felkel předsedou Kontrolního výboru.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční síla s nejvyšším počtem mandátů mohla ovlivňovat agendu zejména přes kontrolní a finanční výbor; detailní bilance konkrétních prosazených/neprosazených opatření nebyla dohledána."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program je rozsáhlý a pokrývá deset tematických oblastí s pojmenovanými konkrétními opatřeními (ZTL zóny, zákaz Airbnb v obecních bytech, domov pro seniory, profesionalizace správy majetku). Většina priorit má konkrétní opatření, část je i adresná (konkrétní ulice, objekty), ale chybí čísla/termíny a rozpočtové krytí u většiny bodů – konkretnost_programu = 3. Doveryhodnost_plneni zůstává null, protože strana byla v letech 2022-2026 v opozici (byla_v_koalici = false) a metodika hodnotí plnění slibů jen u subjektů s exekutivní odpovědností.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "marc-pavel"
+  ],
+  "mezery_v_datech": [
+    "Detailní bilance opoziční činnosti 2022-2026 (co se podařilo prosadit přes kontrolní/finanční výbor) nebyla dohledána.",
+    "Rozpočtové krytí jednotlivých priorit programu nebylo v textu uvedeno ani dohledáno jinde."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "mc-praha-14-6-ceska-levice",
+  "assembly_id": "mc-praha-14",
+  "list_cislo": 6,
+  "nazev": "Česká levice",
+  "zkratka": "Česká levice",
+  "typ": "D",
+  "slozeni": [
+    "SOCDEM",
+    "KSČM",
+    "NK"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Kandidátní listina a profil listiny, programydovoleb.cz",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/170990",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program listiny nebyl dohledán. Oba koaliční partneři (SOCDEM, KSČM) v roce 2022 na Praze 14 neuspěli (2,03 % a 1,88 %, 0 mandátů), listina je proto bez aktuálního zastoupení v zastupitelstvu. Transparentnost +1 za zápisy zastupitelstva.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "podhajsky-frantisek"
+  ],
+  "mezery_v_datech": [
+    "Program listiny nebyl dohledán.",
+    "Listina nemá od roku 2022 mandát, bilanci proto nelze sestavit."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "mc-praha-11-7-vyzva-pro-prahu-11",
+  "assembly_id": "mc-praha-11",
+  "list_cislo": 7,
+  "nazev": "Výzva pro Prahu 11",
+  "zkratka": "VÝZVA",
+  "typ": "koalice",
+  "slozeni": ["VÝZVA", "nezávislí"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný volební program listiny Výzva pro Prahu 11 pro rok 2026 se nepodařilo dohledat — odkaz na program na stránce programydovoleb.cz vedl na prázdnou podstránku. Lídrem je Ladislav Kos, bývalý senátor (2016–2022) za volební obvod zahrnující Prahu 11, který podle dat ČSÚ získal mandát zastupitele i v roce 2022.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Bez dohledaného programu nelze ideologickou osu Výzvy pro Prahu 11 určit.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Listina Výzva pro Prahu 11 jako taková v roce 2022 nekandidovala (v přehledu výsledků ČSÚ 2022 pro Prahu 11 není); lídr Ladislav Kos ale podle dat ČSÚ mandát zastupitele v roce 2022 získal.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Bez dohledaného programu z roku 2022 a bez jasnosti, pod jakou listinou Kos v roce 2022 kandidoval, nelze bilanci sestavit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nenalezen (konkrétnost 0). Transparentnost: dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["kos-ladislav"],
+  "mezery_v_datech": [
+    "Program Výzvy pro Prahu 11 pro rok 2026 nebyl dohledán.",
+    "Nebylo ověřeno, pod jakou listinou kandidoval Ladislav Kos v roce 2022."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "magistrat-23-nase-praha-snk-ed",
+  "assembly_id": "magistrat",
+  "list_cislo": 23,
+  "nazev": "Naše Praha SNK ED",
+  "zkratka": "SNK ED",
+  "typ": "koalice",
+  "slozeni": [
+    "nezávislí kandidáti",
+    "SNK Evropští demokraté"
+  ],
+  "web": "https://snked.cz/",
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "SNK Evropští demokraté – web strany",
+        "url": "https://snked.cz/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "programydovoleb.cz – Naše Praha SNK ED",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164923",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Konkrétní program pro magistrátní listinu Naše Praha SNK ED se nepodařilo dohledat – odkaz na „program“ na agregátoru programydovoleb.cz vede na fotogalerii na webnode.cz bez programového textu a hlavní web SNK ED popisuje jen celostátní profil strany, nikoli pražskou kandidátku. SNK ED je celostátně středopravicová strana založená v roce 2006, působící téměř výhradně na regionální a komunální úrovni (přes 20 krajských a 150 obecních zastupitelů celostátně), v jejímž čele je René Živný. Specifický program listiny vedené Jiřím Benýškem pro Prahu 2026 nebyl ověřen.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "SNK Evropští demokraté se celostátně profilují jako středopravicová strana s důrazem na funkční stát, transparentní správu a modernizaci veřejné administrativy; konkrétní pražský program pro 2026 nebyl k dispozici, hodnocení vychází z celostátního profilu strany.",
+    "zdroje": [
+      {
+        "nazev": "SNK Evropští demokraté – web strany",
+        "url": "https://snked.cz/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Listina v této podobě (Naše Praha SNK ED) nekandidovala na magistrátní úrovni v roce 2022 a nemá mandát v Zastupitelstvu hl. m. Prahy 2022–2026.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Subjekt bez zastupitelského zázemí na magistrátu v období 2022–2026, hodnocení plnění slibů proto není možné."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program pro magistrátní volby 2026 nebyl dohledán v žádné konkrétní podobě – odpovídá stupni 0. Transparentnost: dohledatelní kandidáti na listině s pořadím (+1); zveřejněný pražský program, financování kampaně a transparentní účet nebyly dohledány.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "benysek-jiri"
+  ],
+  "mezery_v_datech": [
+    "Konkrétní program listiny Naše Praha SNK ED pro magistrátní volby 2026 nebyl dohledán – odkaz na programydovoleb.cz vede jen na fotogalerii.",
+    "Vztah lídra Jiřího Benýška k celostátnímu vedení SNK ED (René Živný) nebyl dohledán.",
+    "Program nedohledán i přes opakovaný WebSearch (ověřeno 2026-10-03): zkoušeno \"Naše Praha SNK ED\" program Praha 2026 Benýšek, web snked.cz (jen celostátní profil strany), programydovoleb.cz/strana/164923 (fotogalerie bez textu).",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „Naše Praha SNK ED program volby 2026 zastupitelstvo hl. m. Prahy“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

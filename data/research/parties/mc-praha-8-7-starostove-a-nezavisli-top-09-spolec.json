@@ -1,0 +1,59 @@
+{
+  "assembly_id": "mc-praha-8",
+  "list_cislo": 7,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ + TOP 09 – Společně pro Prahu 8",
+  "zkratka": "STAN+TOP09",
+  "typ": "koalice",
+  "slozeni": [
+    "STAN",
+    "TOP 09"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz dohledán formou odkazu ani textu. Koalice byla v letech 2022-2026 součástí vládnoucí koalice MČ Praha 8 s místostarostou Tomášem Hřebíkem (STAN) a radním pro dopravu Martinem Jedličkou (TOP 09).",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.0,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "STAN a TOP 09 se celostátně profilují jako středopravé, proevropské strany s důrazem na komunální samosprávu a mírně liberálnější hodnotovou orientaci než ODS. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Koaliční partner, místostarosta Tomáš Hřebík (STAN), radní pro dopravu Martin Jedlička (TOP 09); Tomáš Slabihoudek (TOP 09) byl zároveň radním hl. m. Prahy pro kulturu a cestovní ruch.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Rozvoj a transformace okolí stanice metra Palmovka",
+        "dukaz": "Místostarosta Tomáš Hřebík (STAN) v září 2026 vystoupil v diskuzním panelu CAMP (Centrum architektury a městského plánování) o budoucnosti Palmovky společně s místostarostou Nepilem (ANO) – jde o doklad pokračující práce na tématu, ne o doložené dokončení konkrétního projektu.",
+        "zdroj_url": "https://prahain.cz"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice STAN a TOP 09 držela dva resorty v radě MČ (doprava, místostarostenská agenda pro územní rozvoj). Zdrojovaný přehled konkrétních volebních slibů z roku 2022 a jejich úplného naplnění se nepodařilo dohledat; jediným dohledaným dokladem průběžné práce je účast místostarosty Hřebíka na veřejné diskuzi o budoucnosti Palmovky v roce 2026.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program nedohledán (0). Doveryhodnost plnění: koalice STAN+TOP09 drží resorty dopravy a místostarostenskou agendu, ale v dostupných zdrojích se nepodařilo dohledat zdrojovaný přehled konkrétních splněných slibů, jen průběžnou účast na diskuzi o Palmovce. Skóre 2 odráží chybějící doložený konkrétní přínos, ne prokázané pochybení.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "hrebik-tomas"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 nebyl dohledán i přes WebSearch (ověřeno 2026-10-03): zkoušeno \"'Společně pro Prahu 8' STAN TOP 09 Hřebík program komunální volby 2026\" a \"Tomáš Hřebík Praha 8 program priority volby 2026\". Dohledán byl pouze program z roku 2022 (naseosmicka.cz/program-2022/ a blesk.cz článek z 19. 3. 2022) s prioritami: parkování, bezpečnost, dopravní okruhy, ochrana sídlišť před zástavbou CPI, školství, revitalizace Palmovky - jde ale výslovně o program pro volby 2022, ne o samostatně datovaný dokument pro rok 2026, takže program.nalezen zůstává false. Přímé ověření programydovoleb.cz/strana/164004 (WebFetch) potvrdilo, že obsahuje jen seznam kandidátů.",
+    "Chybí zdrojovaný přehled konkrétních výsledků resortu dopravy a místostarosty za období 2022-2026.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „Starostové a nezávislí TOP 09 Společně pro Prahu 8 program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06",
+  "slug": "mc-praha-8-7-starostove-a-nezavisli-top-09-spolec"
+}

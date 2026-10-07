@@ -1,0 +1,50 @@
+{
+  "slug": "mc-praha-18-1-motoriste-sobe",
+  "assembly_id": "mc-praha-18",
+  "list_cislo": 1,
+  "nazev": "Motoristé sobě",
+  "zkratka": "AUTO",
+  "typ": "strana",
+  "slozeni": [
+    "AUTO"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Lokální listina celostátní strany Motoristé sobě, vedená Ivanou Etlíkovou, zastupitelkou MČ Praha 18 (dle briefu bez uvedeného mandátu z roku 2022 u lídryně – viz mezery). Samostatný lokální program pro Letňany nebyl dohledán.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "etlikova-ivana"
+  ],
+  "mezery_v_datech": [
+    "Lokální program Motoristů sobě pro Letňany nebyl dohledán.",
+    "Ivana Etlíková je v briefu uvedena jako 'zastupitelka MČ Praha 18', ale bez značky mandátu 2022 - není jasné, zda jde o mandát získaný v průběhu volebního období (dosazení) nebo chybu/odlišnost evidence."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

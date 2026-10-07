@@ -1,0 +1,128 @@
+{
+  "slug": "cizinsky-jan",
+  "name_key": "cizinsky-jan",
+  "cele_jmeno": "Mgr. Jan Čižinský",
+  "rok_narozeni": 1978,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 5,
+      "poradi": 3
+    },
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 1,
+      "poradi": 1
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Jan Čižinský je historik a středoškolský učitel, od listopadu 2014 starosta MČ Praha 7 a zakladatel komunální iniciativy PRAHA 7 SOBĚ, z níž později vzniklo celopražské hnutí PRAHA SOBĚ. Do roku 2018 byl členem KDU-ČSL (vstup 2003), poté vedl Prahu 7 jako nestraník. V letech 2017-2021 byl poslancem Poslanecké sněmovny. V komunálních volbách 2018 jeho hnutí PRAHA SOBĚ získalo na magistrátu 16,57 % hlasů a Čižinský osobně nejvyšší počet preferenčních hlasů ze všech kandidátů (80 552). V roce 2022 obhájil mandát zastupitele hl. m. Prahy i post starosty Prahy 7, přestože PRAHA SOBĚ skončila na magistrátu v opozici. V letech 2024-2024 krátce i formálně předsedal a pak místopředsedal hnutí PRAHA SOBĚ. Pro rok 2026 kandiduje na obou úrovních – jako #3 na celopražské listině PRAHA SOBĚ a jako lídr PRAHA 7 SOBĚ; podle dostupných zdrojů má zároveň záměr kandidovat v senátních volbách 2026 v obvodu Praha 27 s podporou PRAHA SOBĚ a KDU-ČSL.",
+  "vzdelani": "historie, Mgr. - konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna.",
+  "profese": "starosta MČ Praha 7, historik, středoškolský učitel",
+  "politicka_historie": [
+    {
+      "od": "2003",
+      "do": "2018",
+      "funkce": "člen KDU-ČSL",
+      "organizace": "KDU-ČSL",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Čižinský"
+    },
+    {
+      "od": "2013",
+      "do": null,
+      "funkce": "organizátor místního referenda o nové radnici Prahy 7",
+      "organizace": "občanská iniciativa",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Čižinský"
+    },
+    {
+      "od": "2014-11-20",
+      "do": null,
+      "funkce": "starosta MČ Praha 7 (obhájeno 2018 i 2022)",
+      "organizace": "MČ Praha 7",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Čižinský"
+    },
+    {
+      "od": "2014-10-11",
+      "do": null,
+      "funkce": "zastupitel hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Čižinský"
+    },
+    {
+      "od": "2017",
+      "do": "2021",
+      "funkce": "poslanec Poslanecké sněmovny",
+      "organizace": "Poslanecká sněmovna PČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Čižinský"
+    },
+    {
+      "od": "2024-02",
+      "do": "2024-03",
+      "funkce": "předseda hnutí PRAHA SOBĚ",
+      "organizace": "PRAHA SOBĚ",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Čižinský"
+    },
+    {
+      "od": "2024-05-13",
+      "do": null,
+      "funkce": "místopředseda hnutí PRAHA SOBĚ",
+      "organizace": "PRAHA SOBĚ",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Čižinský"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Vedení MČ Praha 7 tři volební období",
+      "popis": "Jako starosta obhájil post ve volbách 2018 a 2022 s dlouhodobě vysokou podporou místní iniciativy PRAHA 7 SOBĚ; ve volbách 2022 hnutí získalo 52,99 % hlasů a 18 z 29 mandátů, tedy samostatnou většinu bez nutnosti koalice.",
+      "stav": "dokonceno",
+      "hodnoceni": "Dlouhodobá stabilita vedení městské části, ojedinělá v rámci pražských MČ.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org: Jan Čižinský",
+          "url": "https://cs.wikipedia.org/wiki/Jan_Čižinský",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Transformace Bubny-Zátory a otevření nádraží Praha-Bubny",
+      "popis": "Pod jeho vedením MČ pokračuje transformace brownfieldu Bubny-Zátory na novou čtvrť (plán až 25 000 obyvatel, 11 000 bytů); v roce 2025 byla otevřena nová železniční zastávka Praha-Bubny, první nová stanice v Praze za 40 let. Součástí plánu je i Vltavská filharmonie (návrh studia BIG), jejíž výstavba má podle plánu začít kolem roku 2027.",
+      "stav": "rozpracovano",
+      "hodnoceni": "Jde o největší územní transformaci v historii Prahy 7; dílčí milník (nádraží) je hotový, klíčové části (filharmonie, dokončení čtvrti) přesahují toto volební období a částečně závisí na rozhodnutích magistrátu, nejen MČ.",
+      "zdroje": [
+        {
+          "nazev": "Aktuálně.cz: Z města duchů novým srdcem Prahy. Bubny probudí filharmonie i bytová lavina",
+          "url": "https://zpravy.aktualne.cz/domaci/z-mesta-duchu-novym-srdcem-prahy-bubny-probudi-filharmonie-i-bytova-lavina/r~aaa29683ddc39fb680b456f2d608e83a/",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Čižinský má výkonnou funkci (starosta Prahy 7) s dlouhou historií, ale podrobné, zdrojované srovnání jeho slibů z komunálních voleb na úrovni MČ s realitou je mimo rozsah této rešerše zaměřené na magistrát a nebylo dohledáno – přiřazeno null s mezerou v datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Jan Čižinský",
+      "url": "https://cs.wikipedia.org/wiki/Jan_Čižinský",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 48 let v brífu k říjnu 2026 (1978) - nebyl ověřen samostatným zdrojem.",
+    "Plánovaná senátní kandidatura v obvodu Praha 27 pro rok 2026 je zmíněna jen v jednom zdroji (Wikipedie) bez dalšího potvrzení.",
+    "Vlastní web hnutí PRAHA 7 SOBĚ (praha7sobe.cz) byl při rešerši nedostupný, takže detailní volební program a jeho plnění z let 2022-2026 nebyly ověřeny nad rámec obecně známého postupu Bubny-Zátory."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

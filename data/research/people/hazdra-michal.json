@@ -1,0 +1,107 @@
+{
+  "slug": "hazdra-michal",
+  "name_key": "hazdra-michal",
+  "cele_jmeno": "Ing. Michal Hazdra",
+  "rok_narozeni": 1974,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-21",
+      "list_cislo": 5,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Michal Hazdra je starostou MČ Praha 21 (Újezd nad Lesy) a lídrem koalice ODS a TOP 09, která po volbách 2022 získala samostatnou většinu 11 z 17 mandátů (56,75 % hlasů). Podle vlastního sloupku kolegy radního Milana Samce v předvolebním Újezdském zpravodaji (10/2026) nebyl Hazdra starostou od úvodu volebního období – Samec píše, že z funkce starosty odstoupil až v roce 2023, což naznačuje, že Hazdra nastoupil do funkce starosty v průběhu volebního období 2022–2026, nikoli hned po volbách. Profesně se popisuje jako manažer rizik. Podle databáze Hlídač státu je s jeho jménem spojeno přes 400 veřejných zakázek a smluv MČ Praha 21 v souhrnné hodnotě kolem 280 milionů Kč – jde ale o běžné smlouvy městské části jako plátce (stavební práce, pojištění, IT služby), nikoli o doloženou kauzu.",
+  "vzdelani": null,
+  "profese": "Starosta MČ Praha 21, manažer rizik.",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": "2023-11",
+      "funkce": "zastupitel MČ Praha 21 (zvolen 2022; funkce před zvolením starostou nebyla ověřena primárním zdrojem)",
+      "organizace": "MČ Praha 21",
+      "zdroj_url": "https://www.praha21.cz/informace/rada-mestske-casti-praha-21"
+    },
+    {
+      "od": "2023-11",
+      "do": null,
+      "funkce": "starosta MČ Praha 21",
+      "organizace": "MČ Praha 21",
+      "zdroj_url": "https://www.praha21.cz/slovo-starosty/8442-slovo-starosty-prosinec-2"
+    }
+  ],
+  "vysledky": [
+    {
+      "nazev": "Vyjednání cca 300 mil. Kč z rozpočtu hl. m. Prahy, státu a dalších zdrojů pro MČ",
+      "popis": "Podle kolegy zastupitele Richarda Kozy se radě „zejména díky schopnostem pana starosty Hazdry a radního Samce“ podařilo přinést do MČ přes 300 mil. Kč na investice (část realizována, např. fotbalové a volejbalové hřiště; část připravena, např. rekonstrukce Hulické za cca 80 mil. Kč).",
+      "stav": "rozpracovano",
+      "hodnoceni": "Tvrzení kolegy ze stejné koalice (zdroj_strana), nebylo ověřeno nezávisle.",
+      "zdroje": [
+        {
+          "nazev": "Újezdský zpravodaj 10/2026",
+          "url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+          "datum": "2026-09-29"
+        }
+      ]
+    }
+  ],
+  "pripady": [
+    {
+      "nazev": "Soudní spor s odvolanou ředitelkou Masarykovy ZŠ Hanou Cermonovou",
+      "typ": "soudni",
+      "obdobi": "2022/2023–2026",
+      "popis": "Opoziční zastupitel Pavel Roušar (Otevřený Újezd) ve svém sloupku v Újezdském zpravodaji 10/2026 uvádí, že MČ vedla soudní spor s odvolanou ředitelkou školy Hanou Cermonovou poté, co soud prvního stupně dvakrát vyhověl její žalobě; paní Cermonová žalobu nakonec stáhla (dle svého vyjádření kvůli věku, zdraví a nákladům po letech řízení). Podle odpovědi MČ na interpelaci Roušara stála MČ na vymáhání vůči paní ředitelce 57 475 Kč, ale sama vynaložila na právní zastoupení 989 228 Kč. Poznámka k ověření (6. 10. 2026): případ je doložen jediným zdrojem – sloupkem opozičního zastupitele; nezávislé médium ani soudní rozhodnutí se dohledat nepodařilo, a proto je závažnost snížena na nízkou. Čísla o nákladech MČ pocházejí z odpovědi MČ na interpelaci tak, jak ji cituje autor sloupku.",
+      "stav": "urovnano",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Paní Cermonová podle Roušarova sloupku uvedla, že spor stáhla kvůli věku soudců odcházejících do důchodu (opakování dokazování s novým senátem) a vlastnímu zdraví a financím, nikoli proto, že by neměla pravdu – soudci jí podle jejích slov sdělili, že o její pravdě nepochybují.",
+      "zdroje": [
+        {
+          "nazev": "Újezdský zpravodaj 10/2026 – sloupek zastupitele Pavla Roušara (Otevřený Újezd)",
+          "url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+          "datum": "2026-09-29"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako starosta nese hlavní exekutivní odpovědnost za MČ, podrobný slib-po-slibu audit volebního programu ODS a TOP 09 z roku 2022 se však nepodařilo dohledat – viz data/research/parties/mc-praha-21-5-ods-a-top-09-spolecne-pro-ujezd.json.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "praha21.cz - profil starosty",
+      "url": "https://www.praha21.cz/kontakty/hazdra-michal",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Hlídač státu - vyhledávání Michal Hazdra",
+      "url": "https://www.hlidacstatu.cz/hledat?q=Michal+Hazdra",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Újezdský zpravodaj 10/2026",
+      "url": "https://dms.praha21.cz/share/proxy/alfresco-noauth/api/internal/shared/node/dEazw1nxR4a_8V0DMz9UcA/content/2026_10_ujezdsky_zpravodaj.pdf?c=force",
+      "datum": "2026-09-29"
+    },
+    {
+      "nazev": "MČ Praha 21: Slovo starosty – prosinec 2023 (Michal Hazdra)",
+      "url": "https://www.praha21.cz/slovo-starosty/8442-slovo-starosty-prosinec-2",
+      "datum": "2023-12"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přehled 400+ zakázek MČ z Hlídače státu nebyl jednotlivě prověřen na případné konflikty zájmů.",
+    "Rozpor vyřešen 6. 10. 2026: podle vlastního Slova starosty (praha21.cz, prosinec 2023) byl Hazdra zvolen starostou v listopadu 2023 (údaj o 6. 11. 2023 vychází z shrnutí stránky, přesný den nebyl nezávisle ověřen); jeho předchůdce Milan Samec zůstal radním. Do té doby byl Hazdra 1. místostarostou.",
+    "Spor s ředitelkou Masarykovy ZŠ: WebSearch 6. 10. 2026 nenašel žádné nezávislé médium ani rozhodnutí soudu; zůstává jediný (opoziční) zdroj, proto snížená závažnost."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-06"
+}

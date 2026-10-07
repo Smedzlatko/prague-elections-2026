@@ -1,0 +1,95 @@
+{
+  "slug": "kopejtkova-alena",
+  "name_key": "kopejtkova-alena",
+  "cele_jmeno": "Mgr. Alena Kopejtková",
+  "rok_narozeni": 1985,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 12,
+      "poradi": 26
+    },
+    {
+      "assembly_id": "mc-praha-17",
+      "list_cislo": 1,
+      "poradi": 1
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Alena Kopejtková (ODS), právnička (advokátka) původní profesí, byla místostarostkou Prahy 17 (Řepy) a v roce 2021 nahradila ve funkci starostky Jitku Synkovou, která radnici vedla téměř 15 let a byla odvolána. Ve volbách 2022 obhájila post starostky v čele listiny ODS, která zůstala v koalici (7 mandátů z 23). V radě odpovídá mj. za domov s pečovatelskou službou, správu majetku MČ a životní prostředí. Pro volby 2026 vede listinu ODS v Praze 17 a je také na kandidátce SPOLU pro Prahu na magistrát.",
+  "vzdelani": "právnička (advokátka)",
+  "profese": "starostka MČ Praha 17 (Řepy)",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": "2021",
+      "funkce": "místostarostka MČ Praha 17",
+      "organizace": "MČ Praha 17",
+      "zdroj_url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/681187/zmeny-na-radnici-v-repich-jitku-synkovou-nahradila-v-kresle-starostky-alena-kopejtkova.html"
+    },
+    {
+      "od": "2021",
+      "do": null,
+      "funkce": "starostka MČ Praha 17 (nástup po odvolané Jitce Synkové, obhájeno ve volbách 2022)",
+      "organizace": "MČ Praha 17",
+      "zdroj_url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/681187/zmeny-na-radnici-v-repich-jitku-synkovou-nahradila-v-kresle-starostky-alena-kopejtkova.html"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Policejní šetření podezřelých zakázek na úpravu veřejného prostranství (firma Sadovnický a zahradnický servis)",
+      "typ": "policejni",
+      "obdobi": "zakázky uzavřené za předchozího vedení; medializováno a vyšetřováno od 2025",
+      "popis": "Server Blesk.cz na základě oznámení hnutí Řepští sousedé popsal podezřele vysoké vyúčtování zakázek firmy Sadovnický a zahradnický servis (majitel Martin Chládek) na údržbu veřejného prostranství v Řepích – např. 44 000 Kč za opravu dětských vrátek s vykázanými 197 hodinami práce. Firma od radnice v roce 2023 získala zakázky za cca 13 milionů Kč. Mluvčí MČ uvedl, že smlouvy uzavřelo již předchozí vedení radnice (tedy před nástupem Kopejtkové, resp. z období před nebo na počátku jejího starostování). Policie na základě oznámení zahájila šetření. Podle téhož zdroje interní audit potvrdil nedostatky v dokumentaci; policejní mluvčí Richard Hrdina uvedl, že detektivové prověřují, zda nedošlo k trestnému činu či přestupku.",
+      "stav": "probiha",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Starostka Kopejtková (ODS) se k věci odmítla vyjádřit; majitel firmy Martin Chládek se na dotazy serveru také nevyjádřil (Blesk.cz, 5. 2. 2025).",
+      "zdroje": [
+        {
+          "nazev": "Blesk.cz: Průšvih řepské radnice kvůli podezřelým zakázkám? Za opravu branky zaplatila 44 tisíc, případ řeší policie",
+          "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/805720/prusvih-repske-radnice-kvuli-podezrelym-zakazkam-za-opravu-branky-zaplatila-44-tisic-pripad-resi-policie.html",
+          "datum": "2025-02-05"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Kopejtková vede radnici od roku 2021, ale zdrojovaný přehled jejích konkrétních slibů z roku 2022 a jejich plnění se nepodařilo dohledat.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": "https://www.hlidacstatu.cz/osoba/alena-kopejtkova",
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Blesk.cz: Praha 17 má novou starostku: Synkovou nahradila Alena Kopejtková",
+      "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/681187/zmeny-na-radnici-v-repich-jitku-synkovou-nahradila-v-kresle-starostky-alena-kopejtkova.html",
+      "datum": "2021"
+    },
+    {
+      "nazev": "Hlídač státu: Alena Kopejtková",
+      "url": "https://www.hlidacstatu.cz/osoba/alena-kopejtkova",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "prahain.cz: Alena Kopejtková (ODS): Radnice ročně doplácí miliony na služby, které lidem slibuje stát",
+      "url": "https://www.prahain.cz/politika/alena-kopejtkova-ods-radnice-rocne-doplaci-miliony-na-sluzby-ktere-lidem-slibuje-stat-3087.html",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 41 let v briefu k říjnu 2026.",
+    "Přesný měsíc nástupu do funkce starostky v roce 2021 a přesný důvod odvolání předchozí starostky Jitky Synkové nebyly podrobně doloženy (zdroj jen uvádí, že Synková vedla radnici téměř 15 let a byla odvolána).",
+    "K policejnímu šetření zakázek firmy Sadovnický a zahradnický servis (viz pripady) se nepodařilo dohledat žádnou novější zprávu po 5. 2. 2025 — není jasné, zda smlouvy uzavřelo vedení předcházející Kopejtkové, nebo už její vlastní rada; mluvčí MČ uvedl jen obecně 'již minulé vedení'.",
+    "Nepodařilo se dohledat žádnou kauzu přímo a osobně přičítanou Kopejtkové (konflikt zájmů, trestní oznámení) nad rámec výše uvedeného šetření zakázek jejího úřadu.",
+    "Ověřeno 6. 10. 2026 (WebSearch): po 5. 2. 2025 nebyla dohledána žádná zpráva o výsledku policejního šetření ani o změně stavu – případ zůstává ve stavu 'probíhá' bez ověřeného výsledku. Formální status šetření (nejde o obvinění žádné osoby) – případ se netýká osobního jednání starostky."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

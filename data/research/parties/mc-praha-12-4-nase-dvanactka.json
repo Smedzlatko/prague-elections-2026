@@ -1,0 +1,39 @@
+{
+  "slug": "mc-praha-12-4-nase-dvanactka",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 4,
+  "nazev": "Naše Dvanáctka",
+  "zkratka": "MY",
+  "typ": "koalice",
+  "slozeni": ["MY", "nezávislí"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný program nové listiny Naše Dvanáctka pro rok 2026 se nepodařilo dohledat. Lídr Petr Hůla je podle dat ČSÚ zastupitelem MČ Praha 12 zvoleným i v roce 2022 (pozice č. 1, 2044 preferenčních hlasů) — pod jakou listinou tehdy kandidoval, se nepodařilo dohledat.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Bez dohledaného programu nelze ideologickou osu nové listiny určit.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nenalezen (konkrétnost 0). Transparentnost: dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["hula-petr"],
+  "mezery_v_datech": [
+    "Program listiny Naše Dvanáctka pro rok 2026 nebyl dohledán.",
+    "Nebylo dohledáno, pod jakou listinou kandidoval a byl zvolen Petr Hůla v roce 2022."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

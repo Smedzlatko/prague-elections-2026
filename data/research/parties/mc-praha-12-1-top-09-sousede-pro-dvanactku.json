@@ -1,0 +1,46 @@
+{
+  "slug": "mc-praha-12-1-top-09-sousede-pro-dvanactku",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 1,
+  "nazev": "TOP 09 & SOUSEDÉ PRO DVANÁCTKU",
+  "zkratka": "TOP 09",
+  "typ": "koalice",
+  "slozeni": ["TOP 09", "nezávislí"],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program pro Prahu 12 na rok 2026 se nepodařilo dohledat. Lídr Petr Šula je prvním místostarostou MČ (koaliční partner ODS a ANO 2011), lze očekávat návaznost na dosavadní koaliční agendu.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "TOP 09 je celostátně pravicová, ekonomicky liberální strana s umírněnějším hodnotovým profilem; lokální listina v Praze 12 nevybočuje z této linie.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "TOP 09 byla součástí vládnoucí koalice MČ Praha 12 s ODS a ANO 2011 po celé volební období; Petr Šula zastával funkci prvního místostarosty.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako koaliční partner s exekutivní funkcí (1. místostarosta) byla TOP 09 součástí vedení MČ po celé období, ale konkrétní bilanci jejích slibů z roku 2022 se nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program pro rok 2026 nenalezen (konkrétnost 0). Důvěryhodnost plnění: TOP 09 drží post 1. místostarosty po celé období bez zaznamenaného rozpadu koalice, ale zdrojovaný přehled konkrétních splněných slibů z roku 2022 se nepodařilo dohledat. Skóre 2 odráží chybějící doložený vlastní přínos, ne prokázané pochybení. Transparentnost: dohledatelná kandidátka (+1) a jmenovaná exekutivní funkce lídra (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["sula-petr"],
+  "mezery_v_datech": [
+    "Lokální program TOP 09 pro Prahu 12 na rok 2026 nebyl dohledán.",
+    "Bilance plnění slibů TOP 09 v koalici MČ Praha 12 za 2022–2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

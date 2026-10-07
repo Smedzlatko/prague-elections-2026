@@ -1,0 +1,36 @@
+{
+  "slug": "matejkova-kamila",
+  "name_key": "matejkova-kamila",
+  "cele_jmeno": "MgA. Kamila Matějková",
+  "rok_narozeni": 1976,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 5, "poradi": 12},
+    {"assembly_id": "mc-praha-9", "list_cislo": 8, "poradi": 1}
+  ],
+  "role": "inkumbent",
+  "profil": "Kamila Matějková je divadelní produkční, zastupitelka hl. m. Prahy za PRAHA SOBĚ (zvolena 2022) a místostarostka MČ Praha 9 pro sociální oblast, zdravotnictví a sousedské vztahy. Pro rok 2026 kandiduje znovu na magistrátní listině i jako lídryně PRAHA 9 SOBĚ v městské části. Hlubší veřejně dohledaný politický životopis nad rámec dat ČSÚ se nepodařilo najít.",
+  "vzdelani": null,
+  "profese": "místostarostka MČ Praha 9 pro sociální oblast a zdravotnictví, divadelní produkční",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitelka hl. m. Prahy (PRAHA SOBĚ)", "organizace": "Hlavní město Praha", "zdroj_url": null},
+    {"od": "2022", "do": null, "funkce": "místostarostka MČ Praha 9 pro sociální oblast, zdravotnictví a sousedské vztahy", "organizace": "MČ Praha 9", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Má výkonnou funkci (místostarostka), ale podrobný zdrojovaný seznam jejích slibů a jejich plnění nebyl dohledán.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Veřejně dohledaný politický životopis nebyl k dispozici (wikipedie i nasipolitici.cz vrátily chybu/404), profil vychází pouze z údajů v brífu ČSÚ.",
+    "Přesný rok narození je odhad z udaného věku 50 let v brífu k říjnu 2026 (1976), neověřeno samostatným zdrojem.",
+    "Konkrétní výsledky jejího působení jako místostarostky pro sociální oblast nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "melezinek-rudolf",
+  "name_key": "melezinek-rudolf",
+  "cele_jmeno": "Ing. Rudolf Melezinek, MBA",
+  "rok_narozeni": 1969,
+  "strana": "bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 23,
+      "poradi": 3
+    }
+  ],
+  "role": "jiny",
+  "profil": "Rudolf Melezinek je podle vlastního životopisu vedoucí řízení firemních procesů a rizik, kandiduje na třetím místě celopražské listiny Naše Praha SNK ED. Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný veřejně dostupný záznam o jeho politickém působení.",
+  "vzdelani": "vysokoškolské (titul Ing.), MBA, obor neupřesněn v dostupných zdrojích",
+  "profese": "vedoucí řízení firemních procesů a rizik",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – Naše Praha SNK ED",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164923",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku 57 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "mc-praha-1-5-nase-praha-1-ano-2011-a-nezavisli-sta",
+  "assembly_id": "mc-praha-1",
+  "list_cislo": 5,
+  "nazev": "Naše Praha 1 – ANO 2011 a nezávislí, Staroměstská lípa – sdružení občanů a přátel Starého Města a Josefova v Praze, spolek",
+  "zkratka": "Naše Praha 1 - ANO",
+  "typ": "sdruzeni nezavislych kandidatu",
+  "slozeni": [
+    "NK",
+    "ANO",
+    "Staroměstská lípa"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Vyhledávání Seznam.cz - program listiny Naše Praha 1 2026",
+        "url": "https://search.seznam.cz/?q=%22Na%C5%A1e+Praha+1%22+program+2026+ANO+Starom%C4%9Bstsk%C3%A1+l%C3%ADpa",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Spojuje místní spolek Staroměstská lípa (ochrana charakteru historického centra) s hnutím ANO 2011; bez přečteného programu nelze listinu jednoznačně zařadit na celostátní osy.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "V roce 2022 získala 10,20 % a 3 mandáty. Podle zdroje o zvolení starostky Radoměřské byla v listopadu 2022 „ANO“ jmenována jako jedna z pěti koaličních stran (spolu s TOP09, ODS, Piráty a REZIDENTI1). Lídr Ing. Karel Grabein Procházka byl po celé období radním MČ Praha 1 s gescí cestovní ruch, podpora podnikání, obchod, regulace trhů a ekonomická strategie, územní rozvoj.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Boj proti vylidňování centra a regulace turismu/krátkodobých pronájmů (přímá gesce radního Grabeina Procházky – cestovní ruch, podnikání, územní rozvoj).",
+        "dukaz": "Podle charakteristiky MČ (districts/mc-praha-1.json) zůstává vylidňování centra a tlak turismu/Airbnb i na konci volebního období 2022-2026 nevyřešeným klíčovým tématem napříč politickým spektrem – což je v přímé gesci tohoto radního. Nejde o doložené selhání konkrétního opatření, ale o chybějící viditelný pokrok u tématu, za které byl odpovědný.",
+        "zdroj_url": null
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ANO/Staroměstská lípa držela po celé období 2022-2026 jedno radní křeslo (cestovní ruch, podnikání, územní rozvoj) obsazené lídrem Grabeinem Procházkou. V rešerši se nepodařilo dohledat nezávisle doložené konkrétní splněné ani nesplněné sliby v této gesci – klíčová témata Prahy 1 (regulace turismu a krátkodobých pronájmů, vylidňování centra) spadají právě do jeho portfolia, ale zdroj, který by hodnotil výsledky, chybí."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 1,
+    "oduvodneni": "Program se nepodařilo dohledat i přes opakovaný pokus (konkretnost_programu = 0). transparentnost = 1: dohledán transparentní účet listiny (ib.fio.cz/ib/transparent?a=2502004588), ale zveřejněný program a dohledatelný vlastní web chybí. Doveryhodnost_plneni = 2: Grabein Procházka měl po celé období na starosti právě klíčová témata MČ (turismus, podnikání, územní rozvoj), u kterých dle districts/mc-praha-1.json přetrvávají stejné problémy (vylidňování centra, tlak turismu) jako před rokem 2022 – což nenaznačuje výrazný posun k lepšímu, ale bez nezávislého zdroje nelze říct, zda šlo o neplnění slibů nebo o objektivně těžko řešitelný problém mimo kontrolu MČ. Skóre je konzervativní odhad, ne pozitivní zjištění.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "grabein-prochazka-karel"
+  ],
+  "mezery_v_datech": [
+    "Program listiny se nepodařilo dohledat i přes opakovaný pokus: web nasepraha1.cz vede jen na obecný zpravodajský portál nasepraha.cz (nikoli program listiny), programydovoleb.cz/strana/165099 nemá odkaz na vlastní web, vyhledávání přes Seznam.cz nenašlo žádnou stránku s konkrétním programem listiny pro rok 2026, jen rejstřík kandidátů a transparentní účet (ib.fio.cz/ib/transparent?a=2502004588).",
+    "Detailní a nezávisle doložená bilance působení radního Grabeina Procházky 2022-2026 (cestovní ruch, podnikání, územní rozvoj) nebyla ověřena - zápisy rady/zastupitelstva Prahy 1 nebyly v rešerši systematicky zpracovány.",
+    "Program nedohledán i přes opakovaný WebSearch (ověřeno 2026-10-03): vyhledávání opakovaně indexuje článek Pražského patriota „Grabein Procházka: Praha 1 je především domov, ne atrakce pro turisty“ (údajně o jeho postoji k regulaci krátkodobých pronájmů), ale přímý přístup na URL (WebFetch i curl) opakovaně vrací chybu 404 a stránka nebyla ani v archive.org – obsah proto nelze nezávisle ověřit a nebyl použit jako zdroj programu.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „Naše Praha 1 ANO 2011 Staroměstská lípa program 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

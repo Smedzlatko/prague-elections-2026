@@ -1,0 +1,72 @@
+{
+  "slug": "dobes-pavel",
+  "name_key": "dobes-pavel",
+  "cele_jmeno": "Mgr. Pavel Dobeš",
+  "rok_narozeni": 1982,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 9,
+      "poradi": 5
+    },
+    {
+      "assembly_id": "mc-praha-3",
+      "list_cislo": 5,
+      "poradi": 2
+    }
+  ],
+  "role": "top5",
+  "profil": "Narozen v Praze, vystudoval evropská studia na Fakultě sociálních věd UK (2007). Politickou kariéru začal v hnutí Věci veřejné, v roce 2012 se podílel na založení strany LIDEM, kterou téhož roku opustil pro spor s předsedkyní. V letech 2011-2012 byl ministrem dopravy ve vládě Petra Nečase. Od roku 2018 je zastupitelem Prahy 3 za STAN, od června 2021 místostarostou pro územní rozvoj, sport a rozvoj lokality Nákladového nádraží Žižkov. Pro volby 2026 kandiduje na 5. místě pražské kandidátky STAN i znovu na kandidátce v Praze 3.",
+  "vzdelani": "Fakulta sociálních věd UK - evropská studia (2007).",
+  "profese": "Místostarosta Prahy 3 pro územní rozvoj, sport a rozvoj Nákladového nádraží Žižkov.",
+  "politicka_historie": [
+    {
+      "od": "2011-07-01",
+      "do": "2012-12-03",
+      "funkce": "ministr dopravy ČR (vláda Petra Nečase)",
+      "organizace": "Vláda ČR",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Pavel_Dobe%C5%A1_(politik)"
+    },
+    {
+      "od": "2018-10-06",
+      "do": "2021-06",
+      "funkce": "zastupitel MČ Praha 3",
+      "organizace": "MČ Praha 3",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Pavel_Dobe%C5%A1_(politik)"
+    },
+    {
+      "od": "2021-06",
+      "do": null,
+      "funkce": "místostarosta MČ Praha 3 pro územní rozvoj, sport a podporu podnikání",
+      "organizace": "MČ Praha 3",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Pavel_Dobe%C5%A1_(politik)"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Konkrétní, číselně ověřitelné výsledky jeho práce jako místostarosty Prahy 3 (zejména postup přípravy Nákladového nádraží Žižkov) se v dostupných zdrojích nepodařilo dohledat v podrobnější podobě – viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Wikipedie: Pavel Dobeš (politik)",
+      "url": "https://cs.wikipedia.org/wiki/Pavel_Dobe%C5%A1_(politik)",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Konkrétní stav a termíny přípravy rozvoje Nákladového nádraží Žižkov za jeho působení nebyly v dostupných zdrojích ověřeny.",
+    "Žádné doložené kauzy ani kontroverze nebyly v dostupných zdrojích nalezeny."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

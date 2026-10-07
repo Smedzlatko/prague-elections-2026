@@ -1,0 +1,45 @@
+{
+  "slug": "juricova-marketa",
+  "name_key": "juricova-marketa",
+  "cele_jmeno": "Markéta Juřicová",
+  "rok_narozeni": 2000,
+  "strana": "Levice",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 13,
+      "poradi": 2
+    }
+  ],
+  "role": "jiny",
+  "profil": "Markéta Juřicová je podle vlastního životopisu studentka a kandiduje na druhém místě celopražské listiny strany Levice, vedené Pavlem Čižinským. Mimo kandidátní listinu ČSÚ se nepodařilo dohledat žádný veřejně dostupný záznam o jejím předchozím politickém působení.",
+  "vzdelani": "studentka (obor a škola neupřesněny v dostupných zdrojích)",
+  "profese": "studentka",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez výkonné funkce doložené v dostupných zdrojích nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164222",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku 26 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

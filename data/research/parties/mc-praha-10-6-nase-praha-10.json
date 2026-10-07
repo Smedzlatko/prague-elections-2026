@@ -1,0 +1,50 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 6,
+  "nazev": "Naše Praha 10",
+  "zkratka": "HNP",
+  "typ": "koalice",
+  "slozeni": [
+    "HNP",
+    "NPP10-HPLD",
+    "BEZPP"
+  ],
+  "web": "https://hnutinasepraha.cz/praha-10/",
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "hnutinasepraha.cz: Praha 10",
+        "url": "https://hnutinasepraha.cz/praha-10/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Nový subjekt (hnutí Naše Praha) bez mandátu z roku 2022, vedený Ivanou Cabrnochovou – bývalou senátorkou a bývalou místostarostkou a radní Prahy 10 z dřívějších období. Program je na webu k dispozici, konkrétní text se přes WebFetch nepodařilo získat.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Nový subjekt bez jasné celostátní ideologické kotvy a bez dohledaného konkrétního programu – nelze spolehlivě zařadit na osách.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Program existuje na webu, ale konkrétní text se nepodařilo získat. Subjekt jako takový bez mandátu 2022-2026, nelze hodnotit plnění slibů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "cabrnochova-ivana"
+  ],
+  "mezery_v_datech": [
+    "Konkrétní text programu pro rok 2026 nebyl z webu získán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-10-6-nase-praha-10"
+}

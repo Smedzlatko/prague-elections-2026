@@ -1,0 +1,29 @@
+{
+  "slug": "lackova-pavlina",
+  "name_key": "lackova-pavlina",
+  "cele_jmeno": "Pavlína Lacková",
+  "rok_narozeni": 1975,
+  "strana": "ODS",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-7", "list_cislo": 3, "poradi": 14}],
+  "role": "inkumbent",
+  "profil": "Pavlína Lacková je systémová analytička a členka ODS, v roce 2022 získala mandát zastupitelky MČ Praha 7 na listině Společně pro Prahu 7 (2255 preferenčních hlasů). Pro rok 2026 kandiduje na 14. místě nástupnické koaliční listiny SPOLU PRO PRAHU 7.",
+  "vzdelani": null,
+  "profese": "systémová analytička, zastupitelka MČ Praha 7",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitelka MČ Praha 7 (klub Společně pro Prahu 7, resp. SPOLU)", "organizace": "MČ Praha 7", "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Jako opoziční zastupitelka bez funkce v radě MČ nemá přímou výkonnou odpovědnost; podrobné hodnocení nebylo dohledáno.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 51 let v brífu k říjnu 2026 (1975), neověřeno.",
+    "Konkrétní agenda a výstupy jeho zastupitelské práce nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

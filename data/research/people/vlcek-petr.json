@@ -1,0 +1,58 @@
+{
+  "slug": "vlcek-petr",
+  "name_key": "vlcek-petr",
+  "cele_jmeno": "Ing. Petr Vlček",
+  "rok_narozeni": 1979,
+  "strana": "KSČM",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 20,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Petr Vlček je podle vlastního životopisu vědeckovýzkumný pracovník a kandiduje jako lídr koaliční listiny Spojená levice pro Prahu (KSČM, ČSSD, KSČ) v komunálních volbách 2026. Za KSČM. V dostupných zdrojích (Wikipedie, celostátní média) se nepodařilo dohledat samostatný biografický záznam o jeho dřívější politické kariéře nebo veřejných funkcích – jde pravděpodobně o nováčka v čele kandidátky bez předchozí výkonné funkce v pražské komunální politice.",
+  "vzdelani": "vysokoškolské technické/přírodovědné (titul Ing.), obor neupřesněn v dostupných zdrojích",
+  "profese": "vědeckovýzkumný pracovník",
+  "politicka_historie": [
+    {
+      "od": "2026",
+      "do": null,
+      "funkce": "lídr koaliční listiny Spojená levice pro Prahu",
+      "organizace": "KSČM / koalice Spojená levice pro Prahu",
+      "zdroj_url": "https://spojenalevice.cz/"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez dřívější výkonné funkce v komunální ani jiné politice nelze plnění slibů hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164340",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Spojená levice pro Prahu – web koalice",
+      "url": "https://spojenalevice.cz/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu a web koalice se nepodařilo dohledat další veřejně dostupný biografický nebo politický záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku 47 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

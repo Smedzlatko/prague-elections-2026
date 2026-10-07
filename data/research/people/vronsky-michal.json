@@ -1,0 +1,58 @@
+{
+  "slug": "vronsky-michal",
+  "name_key": "vronsky-michal",
+  "cele_jmeno": "Mgr. Michal Vronský",
+  "rok_narozeni": null,
+  "strana": "TOP 09",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-3",
+      "list_cislo": 5,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Zvolen v roce 2022 z 1. místa kandidátky TOP 09. Stal se starostou MČ Praha 3 29. 11. 2022 (koalice TOPSTAN+Piráti+PRAHA 3 SOBĚ+Zelení, 9 křesel v radě) po předchozím starostovi Jiřím Ptáčkovi (TOP 09), který zůstal radním pro životní prostředí. Starostou zůstal po celé období 2022-2026 a pro rok 2026 vede znovu koaliční listinu TOP 09 + Starostové a nezávislí s podporou Žižkov (nejen) sobě. Věk podle briefu 48 let.",
+  "vzdelani": "Magisterské vzdělání (Mgr.), obor neověřen.",
+  "profese": "Starosta MČ Praha 3 (TOP 09).",
+  "politicka_historie": [
+    {
+      "od": "2022-11",
+      "do": "2026-10",
+      "funkce": "starosta MČ Praha 3",
+      "organizace": "MČ Praha 3",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Michal_Vronský"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": 2,
+    "oduvodneni": "Jako starosta odpovídal za naplnění koaliční smlouvy 2022-2026 jako celku, zejména klíčového tématu MČ – Nákladového nádraží Žižkov (gesce místostarosty Dobeše, ale politická odpovědnost vrcholí u starosty). Nezávislé ověření konkrétního pokroku (schválení změny územního plánu Z2600, odkup historické budovy NNŽ) se v rešerši nepodařilo dohledat – skóre je konzervativní odhad, ne zjištění konkrétního pochybení.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Michal Vronský",
+      "url": "https://cs.wikipedia.org/wiki/Michal_Vronský",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "praha3.cz: Koaliční smlouva 2022-2026",
+      "url": "https://www.praha3.cz/getFile/id:698762/koalicni-smlova-2022-2026.pdf",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození a obor vzdělání nebyly ověřeny nad rámec briefu.",
+    "Detailní a nezávisle doložené naplnění koaliční smlouvy 2022-2026 pod jeho vedením (zejména Nákladové nádraží Žižkov) nebylo ověřeno."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

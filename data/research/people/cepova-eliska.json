@@ -1,0 +1,43 @@
+{
+  "slug": "cepova-eliska",
+  "name_key": "cepova-eliska",
+  "cele_jmeno": "Mgr. Eliška Čepová",
+  "rok_narozeni": 1989,
+  "strana": "STAN",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 9,
+      "poradi": 2
+    },
+    {
+      "assembly_id": "mc-praha-10",
+      "list_cislo": 8,
+      "poradi": 3
+    }
+  ],
+  "role": "top5",
+  "profil": "Projektová manažerka, podle dostupných dat ČSÚ kandiduje na 2. místě pražské kandidátky STAN pro Zastupitelstvo hl. m. Prahy a zároveň na kandidátce „Starostové, Vlasta a Lidovci“ pro Prahu 10 (3. místo). Žádný veřejně dohledaný politický záznam před rokem 2026 (dosavadní mandát na úrovni magistrátu ani městské části) nebyl nalezen.",
+  "vzdelani": null,
+  "profese": "Projektová manažerka.",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez dosavadní výkonné funkce nelze hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nebyl dohledán žádný veřejně dostupný životopis, médii zmíněná činnost ani politická historie nad rámec údajů z otevřených dat ČSÚ (jméno, věk, povolání, kandidátní listiny)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,132 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 8,
+  "nazev": "Starostové, Vlasta a Lidovci",
+  "zkratka": "STAN/Vlasta/KDU-ČSL",
+  "typ": "koalice",
+  "slozeni": [
+    "KDU-ČSL",
+    "BEZPP",
+    "STAN"
+  ],
+  "web": "http://www.starostovevlastalidovci.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "vlasta10.cz: Program 2026-2030",
+        "url": "https://www.vlasta10.cz/program/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Koalice navazuje na listinu VLASTA a STAN s podporou KDU-ČSL, která ve volbách 2022 získala 18,75 % a 10 mandátů a byla součástí vedoucí koalice s ODS a TOP 09. Místostarosta David Kašpar (sociální oblast) vede listinu i nadále jako kandidát na starostu; Renata Chmelová, starostka Prahy 10 v letech 2018-2022, kandiduje na listině, dnes jako předsedkyně Výboru pro energetický management. Program pro 2026-2030 je rozdělen na pilíře: bydlení a sociální oblast (Žolčáková), kultura a volný čas (Škochová), finance a transparentní hospodaření (Sedmihradská – dokončení plánu obnovy škol běžícího od 2019, využití 500 mil. Kč od developerů na školy a školky), a strategický rozvoj, participace a digitalizace (Chmelová/Kašpar – obnovení Centra rozvoje Desítky, elektronický zápis do školek, rozvoj aplikace Munipolis).",
+    "priority": [
+      {
+        "oblast": "skolstvi",
+        "nazev": "Dokončení desetiletého plánu obnovy škol a využití 500 mil. Kč od developerů",
+        "popis": "Pokračování systematického plánu obnovy škol a školek běžícího od roku 2019 (Stará strašnická škola, MŠ Bajkalská, přístavby ZŠ Hostýnská a ZŠ Švehlova) a dohled na efektivní využití 500 milionů Kč získaných od developerů na nová místa ve školách a školkách.",
+        "citace": "Budeme dál plnit náš systematický plán obnovy škol a školek, který běží už od roku 2019... dohlédneme na efektivní využití 500 milionů získaných od developerů na nová místa ve školách a školkách.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Konkrétní částka (500 mil. Kč) a návaznost na již běžící program; prostředky od developerů jsou již k dispozici, jde o pokračování zavedené praxe."
+        },
+        "zdroj_url": "https://www.vlasta10.cz/program/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Nová základní škola v Přípotoční a rozšíření dětských skupin",
+        "popis": "Postavení nové základní školy v Přípotoční, rozšíření dětských skupin a podpory pro rodinná centra, obnova hřišť podle potřeb rodin.",
+        "citace": "Rozšíříme dětské skupiny a podporu pro rodinná centra, obnovíme více hřišť podle potřeb rodin a postavíme novou základní školu v Přípotoční.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Konkrétní lokalita a typ stavby, ale bez uvedeného termínu dokončení a rozpočtu."
+        },
+        "zdroj_url": "https://www.vlasta10.cz/program/"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Obnovení Centra rozvoje Desítky a elektronizace úřadu",
+        "popis": "Obnovení Centra rozvoje Desítky jako styčného bodu pro informace o projektech, zavedení jednotného elektronického zápisu do mateřských škol a rozvoj aplikace Munipolis pro hlášení závad.",
+        "citace": "Obnovíme Centrum rozvoje Desítky na radnici, styčný bod pro informace o plánovaných soukromých i městských projektech... zavedeme jednotný, plně elektronický, transparentní a jednoduchý systém zápisů do mateřských škol.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Administrativní/organizační opatření plně v gesci MČ, bez větších rozpočtových nároků."
+        },
+        "zdroj_url": "https://www.vlasta10.cz/program/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": -1.0,
+    "oduvodneni": "STAN a KDU-ČSL tvoří středovou až mírně konzervativní (KDU-ČSL) a liberálně-komunální (STAN, bývalá Praha 10 Sobě) kombinaci. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Koaliční partner ODS/TOP 09, místostarosta David Kašpar (sociální a rodinná politika), radní Milan Maršálek (životní prostředí a udržitelnost), předsedkyně výboru Veronika Žolčáková (sociální a zdravotní).",
+    "splnene_sliby": [
+      {
+        "slib": "Dostavba školky v Bajkalské pro 168 dětí",
+        "dukaz": "Podle vlastní stránky „Plnění volebního programu 2022-2026“ koalice hodnotí tento slib jako 100% splněný. Jde o tvrzení strany o sobě, nepotvrzené nezávislým zdrojem (např. zprávou MČ o otevření školky), ale konzistentní s obecně popsaným plánem obnovy škol od roku 2019.",
+        "zdroj_url": "https://www.vlasta10.cz/program2022/"
+      },
+      {
+        "slib": "Dokončení rekonstrukce Nové strašnické školy a školního hřiště.",
+        "dukaz": "Podle vlastní stránky „Plnění volebního programu 2022-2026“ koalice hodnotí oba sliby jako 100% splněné. Tvrzení strany o sobě, nezávisle nepotvrzené.",
+        "zdroj_url": "https://www.vlasta10.cz/program2022/"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Moderní přístavba a zkapacitnění ZŠ Hostýnská a ZŠ Břečťanová.",
+        "dukaz": "Podle vlastní stránky „Plnění volebního programu 2022-2026“ koalice hodnotí tento slib jako 50% splněný – sama tedy přiznává jen částečné naplnění.",
+        "zdroj_url": "https://www.vlasta10.cz/program2022/"
+      },
+      {
+        "slib": "Dokončení Drážní promenády (4 km liniový park)",
+        "dukaz": "Podle vlastní stránky „Plnění volebního programu 2022-2026“ koalice hodnotí tento slib jako 50% splněný.",
+        "zdroj_url": "https://www.vlasta10.cz/program2022/"
+      },
+      {
+        "slib": "Výstavba tělocvičny při ZŠ Solidarita",
+        "dukaz": "Podle vlastní stránky „Plnění volebního programu 2022-2026“ koalice hodnotí tento slib jako jen 25% splněný – jeden z nejhůře hodnocených vlastních slibů v přehledu.",
+        "zdroj_url": "https://www.vlasta10.cz/program2022/"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Koalice ztratila post starostky (Renata Chmelová byla podle vlastního programového webu z funkce starostky „účelově odvolána“ v červnu 2022, tedy ještě před komunálními volbami), ale zůstala součástí vedení MČ s resorty sociální politiky, životního prostředí a financí (místostarosta Kašpar, radní Maršálek, poslankyně Sedmihradská jako předsedkyně finančního výboru). Strana na vlastním webu zveřejnila bodově velmi podrobnou vlastní sebehodnotící bilanci všech slibů z roku 2022 v procentech plnění (od 25 % do 100 %) – většina položek je hodnocena na 75-100 %, menšina (tělocvična ZŠ Solidarita, revitalizace okolí metra Strašnická, Generel veřejných prostranství) jen na 25 %. Jde výhradně o sebehodnocení strany bez nezávislého externího auditu nebo potvrzení médiem.",
+    "zdroje": [
+      {
+        "nazev": "vlasta10.cz: Plnění volebního programu 2022-2026",
+        "url": "https://www.vlasta10.cz/program2022/",
+        "datum": "2026-10-03"
+      }
+    ]
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 4,
+    "oduvodneni": "Program je konkrétní (částky, lokality, návaznost na existující desetiletý plán), většina priorit má pojmenovaná opatření a část čísla, bez úplného rozpočtového krytí (3). Doveryhodnost plnění: koalice sama zveřejnila mimořádně podrobnou procentní sebehodnotící bilanci všech slibů z roku 2022 – převážně 75-100 %, ale u několika bodů čestně přiznává jen 25 %. Jde o sebehodnocení strany (zdroj_strana), proto samo o sobě neopravňuje k vyššímu skóre než 3 (smíšeno), byť míra detailu a ochota přiznat neúplné splnění je nadstandardní.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "kaspar-david"
+  ],
+  "mezery_v_datech": [
+    "Vlastní procentní bilance plnění programu 2022-2026 nebyla nezávisle (mimo vlastní web strany) ověřena.",
+    "Nebyly dohledány přesné okolnosti „účelového odvolání“ Renaty Chmelové z funkce starostky v červnu 2022."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03",
+  "slug": "mc-praha-10-8-starostove-vlasta-a-lidovci"
+}

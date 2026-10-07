@@ -1,0 +1,114 @@
+{
+  "slug": "mc-praha-3-2-ano-2011",
+  "assembly_id": "mc-praha-3",
+  "list_cislo": 2,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "programydovoleb.cz - ANO 2011 Praha 3 (bez odkazu na vlastní program)",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164440",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Pražský patriot - Hnutí ANO v Praze 3 povede do komunálních voleb Anna Patočková",
+        "url": "https://www.prazskypatriot.cz/hnuti-ano-v-praze-3-povede-do-komunalnich-voleb-anna-patockova/",
+        "datum": "2026-06-08"
+      }
+    ],
+    "shrnuti": "Kampaň ANO Praha 3 pod vedením Anny Patočkové staví na bezpečnosti a kvalitě veřejného prostoru (zejména v dolní části Žižkova), modernizaci a revitalizaci zanedbaných míst včetně rozvojového území Nákladového nádraží Žižkov, dopravní obslužnosti (prodloužení trasy metra D podle původních plánů) a podpoře škol a rodin. Program byl zveřejněn v červnu 2026 při startu kampaně, je formulován jako soubor tematických priorit bez čísel či termínů.",
+    "priority": [
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Více strážníků a lepší koordinace služeb v dolní části Žižkova",
+        "popis": "Dolní Žižkov se dlouhodobě potýká s nepořádkem, drogovou problematikou a nedostatkem strážníků – ANO chce více městské policie v ulicích a lepší koordinaci služeb s viditelnými výsledky.",
+        "citace": "Praha 3 se dlouhodobě potýká s problémy ve spodní části Žižkova, kde obyvatelé upozorňují na nepořádek, drogovou problematiku, nedostatek strážníků a zhoršující se pocit bezpečí.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Navýšení počtu strážníků je v pravomoci MČ/městské policie, ale závisí na rozpočtu a personální kapacitě; bez čísla (kolik strážníků) nelze ověřit plnění."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-v-praze-3-povede-do-komunalnich-voleb-anna-patockova/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Rozvoj Nákladového nádraží Žižkov a prodloužení metra D",
+        "popis": "ANO považuje Nákladové nádraží Žižkov za jednu z největších rozvojových příležitostí Prahy 3 – plánuje s územím počítat pro desítky tisíc nových obyvatel a chce, aby trasa metra D vedla podle původních plánů.",
+        "citace": "prodloužení trasy metra D podle původních plánů",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Rozvoj Nákladového nádraží Žižkov i trasování metra D jsou primárně v kompetenci hl. m. Prahy a Dopravního podniku, ne MČ Praha 3 – samostatně to MČ nemůže realizovat."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-v-praze-3-povede-do-komunalnich-voleb-anna-patockova/"
+      },
+      {
+        "oblast": "verejny_prostor",
+        "nazev": "Více zeleně a rychlejší revitalizace zanedbaných míst",
+        "popis": "Podpora více zeleně, stínu a kvalitních veřejných prostranství spojená s rychlejší revitalizací zanedbaných lokalit.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Běžná agenda MČ v mezích vlastního rozpočtu, ale bez konkrétních lokalit, čísel nebo termínů nelze ověřit plnění."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-v-praze-3-povede-do-komunalnich-voleb-anna-patockova/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Podpora škol a rodin, zaměření na duševní zdraví dětí",
+        "popis": "Posílení podpory škol a modernizace vzdělávání se zaměřením i na duševní zdraví dětí.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Obecně formulovaný slib bez konkrétních opatření nebo rozpočtu, proveditelnost nelze bez dalších detailů ověřit."
+        },
+        "zdroj_url": "https://www.prazskypatriot.cz/hnuti-ano-v-praze-3-povede-do-komunalnich-voleb-anna-patockova/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "Celostátní ANO je obvykle klasifikováno jako středové, programaticky pragmatické hnutí; lokální program pro Prahu 3 2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "V roce 2022 získala 14,96 % a 6 mandátů, v opozici. Inkumbenti Irena Kryštůfková, Michaela Schwarzová, František Sarauer a David Tacl byli zastupiteli.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Čtyři roky v opozici; detailní bilance konkrétních kroků nebyla dohledána."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "konkretnost_programu = 2: program dohledán v mediálním rozhovoru s lídryní (prazskypatriot.cz, 6/2026) – obsahuje pojmenovaná tematická opatření (více strážníků, revitalizace, metro D, podpora škol), ale bez čísel a termínů. transparentnost = 2: zveřejněný program v médiích (+1) a dohledatelná kandidátka s profesním profilem lídryně (+1); transparentní účet listiny a zveřejněné hlasování zastupitelů nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "patockova-anna"
+  ],
+  "mezery_v_datech": [
+    "Vlastní web listiny (domény anopraha3.cz a annapatockova.cz nedostupné) nebyl dohledán - program je znám jen z mediálního rozhovoru, ne z vlastního programového dokumentu hnutí.",
+    "Chybí čísla a termíny u všech programových priorit (např. kolik strážníků navíc, jaký rozpočet na revitalizaci), takže detailní ověřitelnost zůstává nízká."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

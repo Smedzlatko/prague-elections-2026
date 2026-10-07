@@ -1,0 +1,53 @@
+{
+  "slug": "mc-praha-11-2-top-09-a-starostove-a-nezavisli",
+  "assembly_id": "mc-praha-11",
+  "list_cislo": 2,
+  "nazev": "TOP 09 a Starostové a nezávislí",
+  "zkratka": "TOP 09/STAN",
+  "typ": "koalice",
+  "slozeni": [
+    "STAN",
+    "TOP 09"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program koalice TOP 09 a STAN pro Prahu 11 pro rok 2026 se nepodařilo dohledat (stránka programydovoleb.cz k listině neobsahovala odkaz na program, celostátní weby TOP 09 i STAN nebyly dostupné na odpovídajících adresách). Lídr Jakub Lepš je dlouholetým zastupitelem MČ i hl. m. Prahy za TOP 09, lze očekávat návaznost na opoziční agendu z minulého období.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "TOP 09 je celostátně pravicová, ekonomicky liberální strana; STAN se profiluje středově s důrazem na komunální samosprávu a transparentnost. Koalice tak kombinuje pravicovou ekonomickou pozici s mírně liberálnějším hodnotovým rámcem STAN.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "V letech 2022–2026 byla koalice TOP 09 a STAN v opozici vůči vládnoucí koalici HPP 11 / PRAHA 11 SOBĚ / ANO 2011 / ODS, se třemi mandáty z voleb 2022.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční subjekt nemohla přímo prosazovat vlastní exekutivní agendu; podle metodiky se neschopnost realizovat sliby z pozice opozice nezapočítává proti straně, ale bez dohledaného programu z roku 2022 nelze bilanci dále specifikovat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program pro rok 2026 nenalezen (konkrétnost 0). Důvěryhodnost plnění nelze hodnotit u opoziční strany bez dohledaného programu. Transparentnost: pouze dohledatelná kandidátka se stranickou příslušností (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "leps-jakub"
+  ],
+  "mezery_v_datech": [
+    "Lokální program koalice pro Prahu 11 na rok 2026 nebyl dohledán. Zkoušeno: detail listiny na programydovoleb.cz (strana/164084, bez odkazu na program), web MČ praha11.cz (přehled voleb bez odkazů na programy listin), celostátní web top09.cz/regiony/praha/praha-11 (404), stan.cz (redirect na obecný celostátní web bez lokálního obsahu), Facebook stránka „TOP 09 Praha 11“ (dostupný jen název, obsah nečitelný přes WebFetch), nasipolitici.cz (nedostupné – DNS chyba).",
+    "Opoziční agenda a konkrétní návrhy z období 2022–2026 nebyly dohledány.",
+    "Program nedohledán i přes opakovaný WebSearch (ověřeno 2026-10-03): zkoušeno \"TOP 09 STAN Praha 11 2026 kandidátka priority doprava bydlení\" a stránka top09.cz/regiony/praha/regionalni-organizace/praha-11/nova-rada-a-koalice-na-praze-11 (obsahuje jen koaliční smlouvu z roku 2019, ne program 2026). Potvrzeno, že Jakub Lepš byl místostarostou Prahy 11 v letech 2014–2022, od voleb 2022 je zastupitelem hl. m. Prahy (SPOLU) i MČ Praha 11 (TOP 09/STAN) bez exekutivní funkce na úrovni MČ – konzistentní s opoziční rolí uvedenou výše.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „TOP 09 a Starostové a nezávislí Praha 11 program volby 2026; Jakub Lepš Praha 11 kampaň 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

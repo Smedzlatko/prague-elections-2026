@@ -1,0 +1,102 @@
+{
+  "slug": "magistrat-11-gen-s-podporou-verejnosti",
+  "assembly_id": "magistrat",
+  "list_cislo": 11,
+  "nazev": "GEN s podporou veřejnosti",
+  "zkratka": "GEN",
+  "typ": "koalice",
+  "slozeni": ["nezávislí kandidáti", "GEN"],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "programydovoleb.cz – GEN s podporou veřejnosti",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/163860",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Pražský magazín – Strana GEN míří do komunálních voleb 2026",
+        "url": "https://prazsky-magazin.cz/volby/strana-gen-miri-do-komunalnich-voleb-2026/",
+        "datum": "2026-07-01"
+      },
+      {
+        "nazev": "Pražský patriot – Strana GEN vstupuje do pražských voleb",
+        "url": "https://www.prazskypatriot.cz/strana-gen-miri-do-komunalnich-voleb-v-praze-stavi-kandidatky-v-nekolika-mestskych-castech/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Hnutí GEN (předseda Ing. Vojtěch Ryvola, lídr pražské kandidátky Roman Mejstřík) deklaruje program vycházející z „každodenních zkušeností lidí v obcích a městech“: bezpečnost, čistota veřejného prostoru, dostupné bydlení, funkční doprava, kvalitní veřejné služby, podpora místních podnikatelů, transparentní hospodaření a větší zapojení občanů do rozhodování. Jde o obecně formulované priority bez konkrétních opatření, čísel nebo termínů – jediný dohledaný text je tiskové oznámení kandidatury, ne rozpracovaný programový dokument.",
+    "priority": [
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Bezpečnost a čistota veřejného prostoru",
+        "popis": "Deklarovaná priorita bez konkrétních opatření.",
+        "citace": "„bezpečnost, čistota veřejného prostoru“",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Heslo bez konkrétního opatření nelze posoudit na realizovatelnost."
+        },
+        "zdroj_url": "https://prazsky-magazin.cz/volby/strana-gen-miri-do-komunalnich-voleb-2026/"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Dostupné bydlení",
+        "popis": "Deklarovaná priorita bez konkrétních opatření, kvantifikace nebo termínů.",
+        "citace": "„dostupné bydlení“",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Heslo bez konkrétního opatření nelze posoudit na realizovatelnost."
+        },
+        "zdroj_url": "https://prazsky-magazin.cz/volby/strana-gen-miri-do-komunalnich-voleb-2026/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Funkční doprava",
+        "popis": "Deklarovaná priorita bez konkrétních opatření.",
+        "citace": "„funkční doprava“",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Heslo bez konkrétního opatření nelze posoudit na realizovatelnost."
+        },
+        "zdroj_url": "https://prazsky-magazin.cz/volby/strana-gen-miri-do-komunalnich-voleb-2026/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Bez dohledaného programu nebo historie hnutí nelze ideologické zařazení odvodit.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Hnutí GEN nekandidovalo na magistrátní úrovni v roce 2022 pod tímto názvem a nemělo mandát v Zastupitelstvu hl. m. Prahy 2022–2026. Lídr Roman Mejstřík je uváděn jako emeritní radní MČ Praha 6, přesné období této funkce však nebylo dohledáno.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Subjekt bez zastupitelského zázemí na magistrátu v období 2022–2026, hodnocení plnění slibů proto není možné."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Konkrétnost 1: dohledané priority jsou jen obecná přání („dostupné bydlení“, „funkční doprava“) bez jmenovaných opatření, čísel nebo termínů. Transparentnost 2: dohledatelní kandidáti s pořadím (+1) a zveřejněné (byť obecné) priority v médiích (+1); financování kampaně a transparentní účet nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["mejstrik-roman"],
+  "mezery_v_datech": [
+    "Program listiny GEN s podporou veřejnosti pro magistrátní volby 2026 byl dohledán jen v obecné, heslovité podobě (tisková oznámení kandidatury); rozpracovaný programový dokument s konkrétními opatřeními se nepodařilo najít ani přes WebSearch.",
+    "Vlastní web hnutí GEN nebyl dohledán; předseda hnutí je dle médií Ing. Vojtěch Ryvola, vztah k lídrovi pražské kandidátky Romanu Mejstříkovi nebyl blíže ověřen."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

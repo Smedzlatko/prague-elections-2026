@@ -1,0 +1,45 @@
+{
+  "slug": "vavera-jiri",
+  "name_key": "vavera-jiri",
+  "cele_jmeno": "Mgr. Jiří Vavera",
+  "rok_narozeni": 1997,
+  "strana": "BEZPP",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-7",
+      "list_cislo": 6,
+      "poradi": 4
+    }
+  ],
+  "role": "top5",
+  "profil": "Jiří Vavera je právník, bez politické příslušnosti kandiduje na 4. místě koaliční listiny Piráti a Starostové v Praze 7. Žádný další veřejný politický záznam nebyl dohledán – jde o nového kandidáta.",
+  "vzdelani": "právo, Mgr. (konkrétní vysoká škola nebyla v dostupných zdrojích upřesněna)",
+  "profese": "právník",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez historického záznamu z výkonné funkce.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 7 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 29 let v brífu k říjnu 2026 (1997), neověřeno.",
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o nového kandidáta."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

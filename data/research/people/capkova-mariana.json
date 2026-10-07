@@ -1,0 +1,66 @@
+{
+  "slug": "capkova-mariana",
+  "name_key": "capkova-mariana",
+  "cele_jmeno": "Ing. Mariana Čapková, MBA",
+  "rok_narozeni": 1983,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 5,
+      "poradi": 4
+    },
+    {
+      "assembly_id": "mc-praha-6",
+      "list_cislo": 6,
+      "poradi": 1
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Mariana Čapková je ekonomka se zaměřením na mezinárodní vztahy a vzdělávání, od října 2018 zastupitelka hl. m. Prahy za PRAHA SOBĚ a od září 2022 místostarostka MČ Praha 6, kde má na starosti školství a investice do vzdělávání. Na magistrátu předsedá Výboru pro sport a volný čas Zastupitelstva hl. m. Prahy. Profesně dříve působila v Národním úřadu pro kybernetickou bezpečnost a na Ministerstvu zemědělství. Aktivně se věnuje tématu tzv. „spádové turistiky“, kdy rodiny účelově hlásí trvalý pobyt v Praze 6 kvůli přijetí dětí do místních škol.",
+  "vzdelani": "Vysoká škola ekonomická v Praze; University of Nebraska-Lincoln (USA)",
+  "profese": "místostarostka MČ Praha 6 pro školství a investice do vzdělávání, ekonomka",
+  "politicka_historie": [
+    {
+      "od": "2018-10-06",
+      "do": null,
+      "funkce": "zastupitelka hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Mariana_%C4%8Capkov%C3%A1"
+    },
+    {
+      "od": "2022-09-24",
+      "do": null,
+      "funkce": "místostarostka MČ Praha 6 pro školství a investice",
+      "organizace": "MČ Praha 6",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Mariana_%C4%8Capkov%C3%A1"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Má výkonnou funkci (místostarostka pro školství), ale podrobný zdrojovaný seznam jejích slibů a jejich plnění nebyl dohledán – stačí podle instrukcí k rozsahu krátký profil, protože nejde o jednu z hlavně zpracovávaných osob (Scheinherr/Čižinský/Třeštíková).",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Mariana Čapková",
+      "url": "https://cs.wikipedia.org/wiki/Mariana_%C4%8Capkov%C3%A1",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození odhadnut z udaného věku 43 let v brífu (1983), potvrzeno datem narození 8. srpna 1983 z Wikipedie.",
+    "Podrobná bilance jejího působení jako místostarostky pro školství (konkrétní investice, kapacity škol) nebyla v rámci rešerše na magistrát hlouběji zpracována.",
+    "Kauzy/kontroverze nebyly dohledány - možná proto, že neexistují, možná proto, že nejsou medializované; nelze rozlišit."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

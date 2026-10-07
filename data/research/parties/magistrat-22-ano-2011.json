@@ -1,0 +1,249 @@
+{
+  "slug": "magistrat-22-ano-2011",
+  "assembly_id": "magistrat",
+  "list_cislo": 22,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO 2011"
+  ],
+  "web": "https://janhusbauer.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Volební program ANO 2011 pro Prahu 2026 (janhusbauer.cz)",
+        "url": "https://janhusbauer.cz/#program",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "programydovoleb.cz – ANO 2011",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/163898",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Deník N: Pražští politici v kampani řeší, co se stamiliardovou rezervou",
+        "url": "https://denikn.cz/2194546/prazsti-politici-v-kampani-resi-co-se-stamiliardovou-rezervou-kolik-lze-realne-utratit/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Program pražského ANO pod vedením Jana Hušbauera je postavený na obnově sídlišť, městském nájemním bydlení, bezpečnosti a na vymahatelné odpovědnosti úřadu. Nejsilnějším a jediným jasně kvantifikovaným slibem je dosažení tisíce městských bytů ročně do konce volebního období. Program je výrazně konkrétnější v opatřeních pro každodenní život na sídlištích než v otázkách financování velkých investic.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Tisíc městských bytů ročně",
+        "popis": "Výstavba nových městských nájemních bytů s cílem dosáhnout tempa tisíce městských bytů ročně do konce volebního období; zároveň opravit a vrátit do užívání prázdné městské byty.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jediný kvantifikovaný cíl programu, a proto dobře ověřitelný. Tempo tisíce bytů ročně je ale řádově nad dosavadní pražskou praxí a program neuvádí, z jakých zdrojů, na jakých pozemcích a kdo stavbu provede."
+        },
+        "zdroj_url": "https://janhusbauer.cz/#program"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Ochrana městského bytového fondu",
+        "popis": "Zprůhlednit přidělování městských bytů, sledovat jejich zneužívání a chránit bytový fond před spekulativním podnajímáním. U velkých projektů vyjednat jasné příspěvky developerů na školy, parkování a veřejný prostor.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Pravidla přidělování si město stanovuje samo. Vymáhání příspěvků developerů je možné, ale dnes stojí na dobrovolných smlouvách, nikoli na nárokové povinnosti."
+        },
+        "zdroj_url": "https://janhusbauer.cz/#program"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Celopražský program obnovy sídlišť",
+        "popis": "Spustit celoměstský program regenerace sídlišť: chodníky, vnitrobloky, lavičky, hřiště a zeleň. Stanovit jasné standardy údržby, určit odpovědnost a zabránit přehazování agendy mezi odbory. Doplnit stín a vegetaci, obnovit osvětlení.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Odpovídá reálné kompetenci města a MČ a jde o postupně dávkovatelný program. Rozsah a tempo ale závisí na rozpočtu, který program nevyčísluje."
+        },
+        "zdroj_url": "https://janhusbauer.cz/#program"
+      },
+      {
+        "oblast": "bezpecnost",
+        "nazev": "Posílení městské policie a okrskáři",
+        "popis": "Zvýšit přítomnost městské policie ve stanicích metra, na sídlištích a v parcích; v každé městské části zavést známé okrskáře; posílit ostrahu ve večerní a noční MHD. Propojit městskou policii se sociálními pracovníky v problémových lokalitách a nabízet lidem v krizi pomoc s ubytováním, léčbou, doklady a návratem do práce.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Městská policie je přímo v kompetenci města. Limitem je personál: nábor strážníků je dlouhodobě problém a program neuvádí počty ani náklady."
+        },
+        "zdroj_url": "https://janhusbauer.cz/#program"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Koordinátor uzavírek a dokončení Městského okruhu",
+        "popis": "Zavést koordinátora dopravních stavebních prací a zveřejňovat harmonogram uzavírek. Dokončení Městského okruhu označuje program za investiční prioritu, pokračovat má i výstavba metra D.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Koordinace je plně v moci města. Dostavba Městského okruhu je ale projekt na desítky miliard a mnoho let, jehož dokončení v jednom volebním období není reálné; program neuvádí úsek, termín ani cenu."
+        },
+        "zdroj_url": "https://janhusbauer.cz/#program"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Parkovací domy na sídlištích a P+R",
+        "popis": "Stavět parkovací domy na sídlištích a nadstavby nad existujícími parkovišti, rozšířit záchytná parkoviště P+R a nastavit spravedlivé a předvídatelné ceny rezidentního parkování s tím, že se výnosy vrátí zpět do dané lokality.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "V kompetenci města a MČ. Parkovací domy na sídlištích ale dlouhodobě narážejí na ekonomiku (cena místa výrazně přesahuje ochotu platit) a na odpor obyvatel."
+        },
+        "zdroj_url": "https://janhusbauer.cz/#program"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Kapacity škol a podpora ve školách",
+        "popis": "Rozšiřovat kapacity škol a školek tam, kde chybí, a plánovat služby současně s novými čtvrtěmi. Podpořit školní psychology a prevenci závislostí, otevřít školní hřiště a tělocvičny po výuce a dotovat kroužky dětem z nízkopříjmových rodin.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Základní školy spravují MČ, střední školy město; jde o běžnou agendu s jasnými nástroji. Program ale neuvádí počty míst ani objem dotací."
+        },
+        "zdroj_url": "https://janhusbauer.cz/#program"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Transparentní investiční plán s kvartálními reporty",
+        "popis": "Zveřejnit transparentní investiční plán a čtvrtletně reportovat postup: co je hotové, za kolik a s jakým zpožděním. Ke každému úkolu určit konkrétní odpovědnost a nezakrývat ji strukturou odborů.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Plně v moci vedení města a dobře ověřitelné — reporty buď vycházejí, nebo ne."
+        },
+        "zdroj_url": "https://janhusbauer.cz/#program"
+      },
+      {
+        "oblast": "zdravotnictvi",
+        "nazev": "Koordinace rozvoje nemocnic",
+        "popis": "Koordinovat rozvoj nemocnic a parkování u velkých zdravotnických areálů (IKEM, Thomayerova, Motol, Bulovka). Rozšířit služby pro seniory včetně slev v MHD, klubů, poradenství a pobytové i odlehčovací péče.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Většina jmenovaných nemocnic je státní nebo univerzitní, město je nezřizuje a může jen koordinovat dopravu a návazné služby."
+        },
+        "zdroj_url": "https://janhusbauer.cz/#program"
+      }
+    ]
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0.5,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "ANO 2011 se celostátně profiluje jako hnutí bez pevné ideologické kotvy, blíže středu s populistickými a technokratickými prvky; v komunální politice v Praze se v tomto volebním období profiluje především jako opoziční kritik koalice SPOLU, nikoli programově vyhraněná levice/pravice. Hodnoceno s nízkou jistotou.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opozice na pražském magistrátu po celé období 2022–2026 (koalici tvořily SPOLU, Piráti a STAN, primátorem byl Bohuslav Svoboda, ODS).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční strana nemá ANO na magistrátu exekutivní bilanci, kterou by bylo možné hodnotit metodikou „doveryhodnost_plneni“ (proto je toto skóre null). Vnitřní dění hnutí v Praze však bylo v tomto období výrazně narušeno personální krizí: dosavadní lídr a kandidát na primátora Ondřej Prokop v červnu 2026 odstoupil z vedení pražské organizace a z klubu zastupitelů poté, co médiím čelil kritice za nezveřejnění nákupu bytů (včetně bytu v projektu Geosan na Břevnově) v majetkovém přiznání; policie prověřovala i podezření na souvislost s vyšetřovaným bývalým ředitelem Fakultní nemocnice Motol Miloslavem Ludvíkem. Prokop následně oznámil odchod z politiky. Vedení klubu a lídrovství převzal Jan Hušbauer.",
+    "zdroje": [
+      {
+        "nazev": "Deník N: Klub zastupitelů hnutí ANO v Praze povede Jan Hušbauer",
+        "url": "https://denikn.cz/minuta/2110701/",
+        "datum": "2026-06-28"
+      },
+      {
+        "nazev": "Deník N: ANO hledá kandidáta na primátora Prahy. Místo Prokopa jsou zatím ve hře čtyři jména",
+        "url": "https://denikn.cz/2108889/ano-hleda-kandidata-na-primatora-prahy-miste-prokopa-jsou-zatim-ve-hre-ctyri-jmena/",
+        "datum": "2026-06-ne-upřesněno"
+      },
+      {
+        "nazev": "ČTK/Deník N: Pražský lídr ANO a kandidát na primátora Ondřej Prokop hájí nákup svých bytů",
+        "url": "https://denikn.cz/minuta/2100393/",
+        "datum": "2026-06-19"
+      },
+      {
+        "nazev": "Deník N: Vrtěti psem: Bytové družstvo Andreje Babiše",
+        "url": "https://denikn.cz/2104638/vrteti-psem-bartha-prokop-a-mrazova-jako-babisova-antireklama-na-krizi-bydleni/",
+        "datum": "2026-06-25"
+      }
+    ]
+  },
+  "kontroverze": [
+    {
+      "nazev": "Odchod lídra Ondřeje Prokopa po kauze nezveřejněných bytů a vazbě na kauzu Motol/Geosan",
+      "typ": "medialni",
+      "obdobi": "2026-06",
+      "popis": "Server Seznam Zprávy zjistil, že tehdejší lídr pražského ANO a kandidát na primátora Ondřej Prokop nepřiznal v majetkovém přiznání vlastnictví tří pražských družstevních bytů (mj. byt 1+kk za 2,7 mil. Kč na Břevnově); údaje o příjmech se mezi jeho třemi po sobě jdoucími majetkovými přiznáními lišily o miliony korun. Prokop uvedl, že na byty „zapomněl“ a doplnil je do přiznání až po upozornění serveru. Souběžně vyšlo najevo, že Prokop v listopadu 2025 odmítl jako svědek vypovídat na policii v souvislosti s kauzou korupce v Fakultní nemocnici Motol — vyšetřovatelé prověřovali, zda jeho nákup bytu v projektu Geosan na Praze-Břevnově (za cca 20 mil. Kč) souvisí s kauzou, v níž je obviněný bývalý ředitel FN Motol Miloslav Ludvík obviněn, že od firmy Geosan přijal byt jako úplatek. Prokop svůj nákup hájil jako legální a odmítnutí výpovědi zdůvodnil obavou z úniku informací před volbami. V důsledku kauzy přišel o post předsedy kontrolního výboru ZHMP i o místo v dozorčí radě Dopravního podniku a 25. 6. 2026 oznámil rezignaci na kandidaturu na primátora i konec v politice; vedení klubu zastupitelů ANO a roli lídra převzal Jan Hušbauer. Prokop není na kandidátní listině ANO pro volby 2026.",
+      "stav": "probiha",
+      "zavaznost": "vysoka",
+      "reakce_dotcene_osoby": "Prokop nákup bytů hájil jako legální a byty jako „zapomenuté“ („Mě to trklo až teď“), nabídl zaplacení případné pokuty za chybu v přiznání; odmítnutí výpovědi na policii zdůvodnil obavou z úniku informací před volbami, nikoli obavou z vlastního trestního postihu. K říjnu 2026 nebylo z dostupných zdrojů jasné, zda proti němu samotnému bylo zahájeno trestní řízení, nebo zda zůstal jen svědkem.",
+      "zdroje": [
+        {
+          "nazev": "Deník N: Pražský lídr ANO a kandidát na primátora Ondřej Prokop hájí nákup svých bytů",
+          "url": "https://denikn.cz/minuta/2100393/",
+          "datum": "2026-06-19"
+        },
+        {
+          "nazev": "Deník N: Vrtěti psem: Bytové družstvo Andreje Babiše",
+          "url": "https://denikn.cz/2104638/vrteti-psem-bartha-prokop-a-mrazova-jako-babisova-antireklama-na-krizi-bydleni/",
+          "datum": "2026-06-25"
+        },
+        {
+          "nazev": "Deník N: Klub zastupitelů hnutí ANO v Praze povede Jan Hušbauer",
+          "url": "https://denikn.cz/minuta/2110701/",
+          "datum": "2026-06-28"
+        },
+        {
+          "nazev": "ČT24 (dle Seznam Zpráv): Kandidát na pražského primátora Prokop nepřiznal vlastnictví tří bytů",
+          "url": "https://ct24.ceskatelevize.cz/clanek/domaci/kandidat-na-prazskeho-primatora-prokop-nepriznal-vlastnictvi-tri-bytu-pisi-seznam-zpravy-374658",
+          "datum": "2026-06-17"
+        },
+        {
+          "nazev": "Deník: Prokop po aféře s byty končí v politice, vzdal se i kandidatury na primátora",
+          "url": "https://www.denik.cz/regiony/prokop-po-afere-s-byty-konci-v-politice-vzdal-se-i-kandidatury-na-primatora/",
+          "datum": "2026-06-25"
+        },
+        {
+          "nazev": "Forum24: Kandidát na primátora u výslechu, policie prověřovala luxusní byt Ondřeje Prokopa z hnutí ANO",
+          "url": "https://www.forum24.cz/kandidat-na-primatora-u-vyslechu-policie-proverovala-luxusni-byt-ondreje-prokopa-z-hnuti-ano",
+          "datum": "2025-11"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Konkrétnost programu 3/5: většina priorit má pojmenovaná opatření a jedna klíčová priorita (tisíc městských bytů ročně) je kvantifikovaná cílovým číslem i termínem. Rozpočtové krytí ale program neuvádí u žádného bodu a u velkých investic (Městský okruh, metro D) zůstává u obecného „dokončíme/pokračujeme“. Podle metodiky stupeň 3 („většina priorit má konkrétní opatření, část i čísla“). Důvěryhodnost plnění slibů: null — hnutí bylo v letech 2022–2026 na magistrátu v opozici a nemá exekutivní bilanci, kterou by šlo poměřit. Podle metodiky se v takovém případě skóre nepřiřazuje, nulou se netrestá. Transparentnost 2/5: kandidátka i lídr jsou dohledatelní a program je zveřejněný na webu lídra, takže ho lze citovat. Skóre ale snižuje, že program je publikován na osobním webu lídra místo na webu hnutí, a že u bývalého pražského lídra Ondřeje Prokopa vyšla najevo nezveřejněná část majetku v majetkovém přiznání (viz kauzy níže).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "husbauer-jan"
+  ],
+  "mezery_v_datech": [
+    "Chybí doložené číselné sliby k jednotlivým oblastem (doprava, bydlení, školství) - dostupné jsou jen obecné výroky z kampaně.",
+    "Přesné datum publikace článku 'ANO hledá kandidáta na primátora Prahy' nebylo možné z dostupného výpisu určit (jen měsíc červen 2026).",
+    "Nebylo ověřeno, zda nepřiznané tři družstevní byty (Seznam Zprávy) a byt v projektu Geosan na Břevnově (cca 20 mil. Kč, vazba na kauzu Motol/Ludvík) jsou totožné nemovitosti nebo jde o samostatné případy - dostupné zdroje je popisují oddělene.",
+    "Nebylo dohledáno, zda bylo k říjnu 2026 proti Prokopovi samotnému zahájeno trestní řízení v kauze Motol/Geosan, nebo zda zůstal jen svědkem, který odmítl vypovídat."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

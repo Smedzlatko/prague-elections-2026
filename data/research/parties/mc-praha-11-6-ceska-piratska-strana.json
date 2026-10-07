@@ -1,0 +1,115 @@
+{
+  "slug": "mc-praha-11-6-ceska-piratska-strana",
+  "assembly_id": "mc-praha-11",
+  "list_cislo": 6,
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "typ": "strana",
+  "slozeni": [
+    "Piráti"
+  ],
+  "web": "https://praha11.pirati.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Pirátská strana Praha 11 – web",
+        "url": "https://praha11.pirati.cz",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Pirátská Praha 11 se profiluje důrazem na transparentnost a rozhodování podle dat, zklidnění a zabezpečení dopravy pro chodce a seniory (bezpečné chodníky), rychlejší a kvalitnější dopravní spojení ke stanicím metra pro školáky a pracující a řešení přemnožených holubů kolem stanic metra Opatov a Háje. Samostatný kompletní volební program pro rok 2026 (sekce „Volby“) se nepodařilo z webu stáhnout celý.",
+    "priority": [
+      {
+        "oblast": "doprava",
+        "nazev": "Bezpečné chodníky a zklidnění dopravy",
+        "popis": "Zklidnění dopravy a bezpečnější chodníky pro chodce a seniory, zásah proti nebezpečné jízdě na elektrokoloběžkách.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Část opatření (např. regulace koloběžek) je v kompetenci magistrátu, ne jen MČ."
+        },
+        "zdroj_url": "https://praha11.pirati.cz"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Řešení přemnožených holubů u stanic metra",
+        "popis": "Řešení dlouhodobého problému s přemnoženou populací holubů u stanic metra Opatov a Háje, kteří způsobují znečištění.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o dlouhodobě obtížně řešitelný problém i pro jiné pražské MČ; realizovatelnost závisí na metodách regulace a spolupráci s DPP/magistrátem."
+        },
+        "zdroj_url": "https://praha11.pirati.cz"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2,
+    "oduvodneni": "Piráti se celostátně profilují jako liberální až progresivní strana s důrazem na transparentnost veřejné správy a otevřená data; ekonomicky bez výrazného vychýlení.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Piráti byli součástí vládnoucí koalice MČ Praha 11 od prosince 2022 do prosince 2023, se třemi mandáty z voleb 2022; místostarostkou byla Zuzana Böhmová. V prosinci 2023 koalici vypověděli, což vedlo k odvolání starostky Šárky Zdeňkové (HPP 11). V únoru 2024 zastupitelstvo odvolalo i posledního radního Piráty obsazeného, Jiřího Dohnala (radní pro majetek), čímž Piráti ztratili veškeré zastoupení v radě MČ a zůstali v opozici (zdroj: denikn.cz/minuta/1452094/, 13. 6. 2024).",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Vyjednání vyššího daru od developera (YIT Stavo, projekt RIVI Bachova na pozemku MČ) ve prospěch Prahy 11.",
+        "zdroj_strana": true,
+        "zdroje": [
+          {
+            "nazev": "Piráti Praha 11 – Dar od YIT Stavo vyjednal pro Prahu 11 Jiří Dohnal",
+            "url": "https://praha11.pirati.cz/aktuality/dar-od-yit-stavo-vyjednal-pro-prahu-11-jiri-dohnal/",
+            "datum": "2023-12-10"
+          }
+        ],
+        "zdroj_url": "https://praha11.pirati.cz/aktuality/dar-od-yit-stavo-vyjednal-pro-prahu-11-jiri-dohnal/",
+        "dukaz": "Radní Jiří Dohnal vyjednal zvýšení daru z původně nabízeného 1 milionu Kč na 2,8 milionu Kč; konkrétní účel daru (školka, sociální služby, kulturní organizace) nebyl s investorem dohodnut, zastupitelstvo dar schválilo."
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Po roce ve vládnoucí koalici Piráti sami iniciovali její rozpad, s odkazem na neřešení kauzy ubytovny Sandra a dotace pro kulturní společnost Jižní Město ze strany starostky. Doloženým konkrétním výsledkem radního Dohnala z tohoto období je vyjednání vyššího finančního daru od developera YIT Stavo (2,8 mil. Kč), ale jde o zdroj strany; širší bilanci vlastních splněných slibů z pozice místostarostky (Böhmová) se nepodařilo dohledat."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Vypovězení koalice a odvolání starostky Zdeňkové",
+      "typ": "stranicky",
+      "obdobi": "2023-12",
+      "popis": "Piráti v prosinci 2023 vypověděli koaliční smlouvu s HPP 11, PRAHA 11 SOBĚ a ODS, což vedlo k odvolání starostky Šárky Zdeňkové 7. 12. 2023. Jako důvod uváděli neřešení kauzy ubytovny Sandra, blokování navýšení dotace kulturní společnosti Jižní Město a chování Zdeňkové k úřednímu aparátu. Zdeňková následně obvinila pirátského radního Jiřího Dohnala, že požadoval financování KJM na úkor MČ — toto protiobvinění nebylo nezávisle potvrzeno ani vyvráceno.",
+      "stav": "bez_zaveru",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Vyjádření Piráty/Jiřího Dohnala k protiobvinění Zdeňkové se v rámci rešerše nepodařilo dohledat.",
+      "zdroje": [
+        {
+          "nazev": "Deník N – odvolání starostky Prahy 11",
+          "url": "https://denikn.cz/minuta/1302364/",
+          "datum": "2023-12-07"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 3,
+    "oduvodneni": "Program obsahuje jmenovaná opatření (chodníky, regulace holubů), ale bez čísel a termínů (konkrétnost 2). Důvěryhodnost plnění: Piráti měli exekutivní pozici (místostarostka Böhmová) jen zhruba rok (12/2022-12/2023), než sami koalici vypověděli s odkazem na neřešení kauzy ubytovny Sandra a dotace pro Jižní Město – jde o doložený krok, ale zdrojovaný přehled jejich vlastních splněných slibů z tohoto krátkého období se nepodařilo dohledat. Skóre 2 odráží krátké funkční období bez doloženého konkrétního přínosu, ne hodnocení důvodů odchodu z koalice jako takového (ty se podle metodiky nepočítají proti straně, pokud šlo o principiální krok). Transparentnost: zveřejněný program (+1), dohledatelná kandidátka (+1), jmenovaná exekutivní funkce (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "dohnal-jiri"
+  ],
+  "mezery_v_datech": [
+    "Kompletní text volebního programu pro rok 2026 nebyl z webu stažen celý.",
+    "Bilance konkrétních výsledků místostarostky Zuzany Böhmové z let 2022–2023 nebyla dohledána.",
+    "Protiobvinění Zdeňkové vůči Jiřímu Dohnalovi (dary pro KJM) nebylo nezávisle ověřeno."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

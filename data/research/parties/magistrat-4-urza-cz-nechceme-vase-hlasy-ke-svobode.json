@@ -1,0 +1,69 @@
+{
+  "slug": "magistrat-4-urza-cz-nechceme-vase-hlasy-ke-svobode",
+  "assembly_id": "magistrat",
+  "list_cislo": 4,
+  "nazev": "Urza.cz",
+  "zkratka": "Urza.cz",
+  "typ": "strana",
+  "slozeni": ["Nevolte Urza.cz"],
+  "web": "http://www.urza.cz",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "urza.cz – osobní web",
+        "url": "http://www.urza.cz",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "programydovoleb.cz – Urza.cz",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164926",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Jde o jediného kandidáta (Martin Urza), jehož listina explicitně odmítá hlasy voličů: podle vlastního textu „ke svobodě se nelze provolit“ a kandidát předem odmítá jakoukoli politickou funkci, pokud by byl zvolen, protože nechce lidem „nařizovat, jak mají žít“. Jde o anarchokapitalistický performativní akt upozorňující na filozofii osobní svobody, nikoli o standardní volební program s konkrétními opatřeními pro Prahu.",
+    "priority": [
+      {
+        "oblast": "jine",
+        "nazev": "Odmítnutí politické moci",
+        "popis": "Kandidát se programově zavazuje odmítnout jakoukoli politickou funkci, pokud by byl zvolen, protože se stavu proti myšlence, že by měl lidem nařizovat, jak žít.",
+        "citace": "Nechceme vaše hlasy; ke svobodě se nelze provolit. Odmítneme každou politickou funkci; nechceme totiž lidem nařizovat, jak mají žít.",
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o závazek nekonat (odmítnutí funkce), který je snadno ověřitelný, pokud by k situaci došlo – kandidát jej nemusí vůči městu prosazovat, jen dodržet."
+        },
+        "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164926"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 3,
+    "hodnotova_osa": 2,
+    "oduvodneni": "Anarchokapitalistická filozofie odmítající stát a nucenou správu věcí veřejných představuje extrém na pravé straně ekonomické osy a na individualistickém konci hodnotové osy.",
+    "zdroje": [
+      {
+        "nazev": "urza.cz – osobní web",
+        "url": "http://www.urza.cz",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Jde o filozofické prohlášení, nikoli program komunálních opatření ve smyslu metodiky (bydlení, doprava, školství atd.) – nejde tedy posoudit konkrétnost slibů vůči veřejné správě, proto 0. Transparentnost: zveřejněný postoj na vlastním webu (+1), dohledatelný jediný kandidát s jasně uvedeným stanoviskem (+1); financování kampaně a transparentní účet nejsou relevantní, protože kandidát odmítá i samu podstatu volební soutěže o hlasy.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["urza-martin"],
+  "mezery_v_datech": [
+    "Nejde o program v obvyklém smyslu (konkrétní opatření pro město), ale o filozofické prohlášení – hodnocení konkrétnosti programu podle metodiky je proto omezeně vypovídající."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

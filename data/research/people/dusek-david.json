@@ -1,0 +1,30 @@
+{
+  "slug": "dusek-david",
+  "name_key": "dusek-david",
+  "cele_jmeno": "MgA. David Dušek",
+  "rok_narozeni": 1969,
+  "strana": "STAN",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-5", "list_cislo": 11, "poradi": 1}],
+  "role": "lidr",
+  "profil": "David Dušek je místostarosta MČ Praha 5 pro investice za STAN (potvrzeno aktuálním seznamem rady MČ, říjen 2026), předseda správní rady Knihovny Václava Havla, včelař, knižní vydavatel a filmový producent. V roce 2022 získal mandát zastupitele s nejvyšším počtem preferenčních hlasů v klubu (2068). Pro rok 2026 vede listinu STAN jako lídr.",
+  "vzdelani": "MgA. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "místostarosta MČ Praha 5 pro investice, filmový producent, knižní vydavatel",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "místostarosta MČ Praha 5 pro investice", "organizace": "MČ Praha 5", "zdroj_url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Má výkonnou funkci (místostarosta pro investice), ale podrobný zdrojovaný seznam jeho slibů a jejich plnění (konkrétní investiční projekty) nebyl dohledán.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha5.cz - Rada MČ Praha 5", "url": "https://www.praha5.cz/mestska-cast/vedeni-a-organy-mc/rada/", "datum": "2026-10-02"},
+    {"nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Přesný rok narození je odhad z udaného věku 57 let v brífu k říjnu 2026 (1969), neověřeno.",
+    "Konkrétní investiční projekty, za které jako místostarosta odpovídá, nebyly dohledány nad rámec programu STAN zmiňujícího novou ZŠ na Smíchově a lávku Sacre Coeur-Mrázovka."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,58 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 2,
+  "nazev": "TOP 09 SPOLU S OSOBNOSTMI PRAHY 10",
+  "zkratka": "TOP 09",
+  "typ": "koalice",
+  "slozeni": [
+    "TOP 09",
+    "BEZPP"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz dohledán. TOP 09 byla v letech 2022-2026 (jako součást koaliční listiny Společně pro Prahu 10 s ODS, 27,15 %, 14 mandátů) součástí vedoucí koalice; lídr Tomáš Pek byl 1. místostarostou MČ.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": -0.5,
+    "oduvodneni": "TOP 09 se celostátně profiluje jako středopravá, konzervativně-liberální strana s důrazem na rozpočtovou odpovědnost. Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Vedoucí koaliční partner (společně s ODS), 1. místostarosta Tomáš Pek, místostarosta Radek Lojda, radní pro školství Ondřej Počarovský.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Rekonstrukce Vily bratří Čapků",
+        "dukaz": "1. místostarosta Tomáš Pek (TOP 09) oznámil zahájení dlouho připravované rekonstrukce vily, kde žil spisovatel Karel Čapek; po rekonstrukci má objekt sloužit jako muzeum. Jde o zahájení, ne doložené dokončení projektu.",
+        "zdroj_url": "https://www.praha10.cz"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "TOP 09 držela klíčové místostarostenské posty (Pek – 1. místostarosta, Lojda – místostarosta, Počarovský – radní pro školství). Jediným konkrétně dohledaným výsledkem je zahájení rekonstrukce Vily bratří Čapků. Zdrojovaný přehled dalších konkrétních volebních slibů z roku 2022 a jejich plnění se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program nedohledán (0). Doveryhodnost plnění: jediným konkrétně dohledaným výsledkem je zahájení rekonstrukce Vily bratří Čapků, ostatní sliby a výsledky místostarostů Peka a Lojdy a radního Počarovského nejsou zdrojovaně doložené. Skóre 2 odráží omezený doložený přínos, ne prokázané pochybení.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "pek-tomas"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 nebyl dohledán.",
+    "Chybí zdrojovaný přehled konkrétních výsledků 1. místostarosty Peka za období 2022-2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-10-2-top-09-spolu-s-osobnostmi-prahy-10"
+}

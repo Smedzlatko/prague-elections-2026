@@ -1,0 +1,107 @@
+{
+  "slug": "magistrat-21-volte-pravy-blok-stranu-za-snadnou-a-r",
+  "assembly_id": "magistrat",
+  "list_cislo": 21,
+  "nazev": "Volte Pravý Blok",
+  "zkratka": "Pravý Blok",
+  "typ": "strana",
+  "slozeni": ["PB"],
+  "web": "https://www.cibulka.net",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "cibulka.net – web strany",
+        "url": "https://www.cibulka.net",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "programydovoleb.cz – Volte Pravý Blok",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164925",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Strana vedená dlouholetým disidentem Petrem Cibulkou prosazuje snadnou a rychlou odvolatelnost politiků a úředníků přímo občany, nízké daně, vyrovnaný rozpočet, minimalizaci byrokracie, nekorumpovanou policii a justici a prvky přímé demokracie a referend. Program je formulován jako soubor hesel bez konkrétních komunálních opatření pro Prahu, bez čísel a termínů.",
+    "priority": [
+      {
+        "oblast": "transparentnost",
+        "nazev": "Přímá odvolatelnost politiků a úředníků",
+        "popis": "Zavedení mechanismu snadného a rychlého odvolání politiků a státních úředníků přímo občany.",
+        "citace": "stranu za snadnou a rychlou ODVOLATELNOST politiků a státních úředníků PŘÍMO OBČANY",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Mechanismus přímého odvolávání volených zástupců občany není v současném českém právním řádu na komunální úrovni zaveden a jeho zavedení by vyžadovalo změnu zákona o hlavním městě Praze na celostátní úrovni, nikoli rozhodnutí zastupitelstva."
+        },
+        "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164925"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Nízké daně a vyrovnaný rozpočet",
+        "popis": "Požadavek na nízké daně a vyrovnané veřejné rozpočty.",
+        "citace": "za NÍZKÉ daně, VYROVNANÝ rozpočet",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Vyrovnaný rozpočet města je v kompetenci zastupitelstva, ale většinu daní (včetně sazeb) stanovuje stát; program neuvádí konkrétní opatření ani cílová čísla."
+        },
+        "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164925"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 2,
+    "hodnotova_osa": 2.5,
+    "oduvodneni": "Program kombinuje pravicově-ekonomické požadavky (nízké daně, vyrovnaný rozpočet) s konzervativními a národně orientovanými hodnotovými postoji lídra Petra Cibulky (odmítání imigrace, Green Dealu a práv LGBT osob, důraz na národní a mravní obrodu).",
+    "zdroje": [
+      {
+        "nazev": "cs.wikipedia.org – Petr Cibulka",
+        "url": "https://cs.wikipedia.org/wiki/Petr_Cibulka",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Pravý Blok nemá dlouhodobě žádný mandát v Zastupitelstvu hl. m. Prahy; strana a její lídr Petr Cibulka byli ve všech dosavadních volbách (senátní 2008, prezidentské 2013, evropské 2024, sněmovní 2025) neúspěšní.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Strana bez jakéhokoli zastupitelského zázemí v historii, hodnocení plnění slibů proto není možné."
+  },
+  "kontroverze": [
+    {
+      "nazev": "Cibulkovy seznamy – nepřesné údaje o spolupracovnících StB",
+      "typ": "soudni",
+      "obdobi": "1992–2000s",
+      "popis": "Lídr strany Petr Cibulka zveřejnil rozsáhlé seznamy osob označených jako spolupracovníci StB, které podle dostupných zdrojů obsahovaly řadu nepřesných a chybných údajů, což sám přiznal. Za zveřejnění čelil opakovaně žalobám, soudy ve většině případů rozhodly v jeho neprospěch.",
+      "stav": "potvrzeno",
+      "zavaznost": "vysoka",
+      "reakce_dotcene_osoby": "Cibulka nepřesnosti seznamů připustil, zveřejnění ale obhajoval jako nástroj veřejné kontroly bývalého režimu.",
+      "zdroje": [
+        {
+          "nazev": "cs.wikipedia.org – Petr Cibulka",
+          "url": "https://cs.wikipedia.org/wiki/Petr_Cibulka",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 2,
+    "oduvodneni": "Program sestává z obecných hesel bez konkrétních opatření, čísel nebo termínů – odpovídá stupni 1. Transparentnost: zveřejněný program na vlastním webu (+1), dohledatelní kandidáti na listině (+1); financování kampaně a transparentní účet nebyly ověřeny.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["cibulka-petr"],
+  "mezery_v_datech": [
+    "Program neuvádí konkrétní komunální opatření pro Prahu, jen obecné celostátní požadavky.",
+    "Financování kampaně a transparentní účet strany nebyly ověřeny."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

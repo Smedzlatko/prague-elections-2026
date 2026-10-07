@@ -1,0 +1,129 @@
+{
+  "slug": "magistrat-13-levice",
+  "assembly_id": "magistrat",
+  "list_cislo": 13,
+  "nazev": "Levice",
+  "zkratka": "Levice",
+  "typ": "strana",
+  "slozeni": ["Levice"],
+  "web": "https://jsmelevice.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Levice – Volební program pro volby do Zastupitelstva hl. m. Prahy 2026",
+        "url": "https://jsmelevice.cz/volebni-program-pro-volby-do-zastupitelstva-hlavniho-mesta-prahy-2026/",
+        "datum": "2026-09-20"
+      },
+      {
+        "nazev": "programydovoleb.cz – Levice",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164222",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Program Levice pod vedením Pavla Čižinského je z pražských listin jeden z nejpodrobnějších a nejvíce kvantifikovaných, byť bez rozpočtového krytí. Jádrem je bydlení podle vídeňského modelu (dvě třetiny nové developerské výstavby jako dostupné/sociální bydlení, nájmy v obecních bytech omezené na 60 % trhu), masivní výstavba středních škol, postupné zavedení bezplatné MHD pro všechny a rozšíření sociálních a zdravotních služeb. Program je ideologicky nejvýrazněji levicový ze všech pražských listin 2026.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Vídeňský model podílu dostupného bydlení",
+        "popis": "U nové developerské výstavby má dvě třetiny bytů splňovat kritéria dostupného/sociálního bydlení s podporou města; nájmy v obecních bytech omezeny na 60 % tržní ceny s neomezenou dobou nájmu.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Plošné stanovení podílu dostupných bytů u soukromé developerské výstavby přesahuje běžné kompetence města vůči soukromým pozemkům a vyžadovalo by změnu metodiky územního plánování i vyjednávání s developery; bez právní opory v zákoně o obcích je vymahatelnost nejistá."
+        },
+        "zdroj_url": "https://jsmelevice.cz/volebni-program-pro-volby-do-zastupitelstva-hlavniho-mesta-prahy-2026/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Výstavba cca 20 nových středních škol",
+        "popis": "Urychlená výstavba přibližně 20 nových středních škol pomocí modulární (montované) konstrukce, doplněná o bezplatnou přípravu na přijímací zkoušky pro děti z nízkopříjmových rodin.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Střední školství je v kompetenci kraje/města, modulární výstavba je rychlejší než klasická, ale pozemky, kapacita stavebních firem a personální zajištění (učitelé) nejsou v programu řešeny."
+        },
+        "zdroj_url": "https://jsmelevice.cz/volebni-program-pro-volby-do-zastupitelstva-hlavniho-mesta-prahy-2026/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Postupně bezplatná MHD pro všechny Pražany",
+        "popis": "Výrazné zvýšení parkovacích poplatků (progresivně podle hodnoty vozu) s příjmem určeným na dotaci MHD; zprvu bezplatná doprava pro studenty a seniory, v dalším kroku pro všechny obyvatele.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Plně bezplatná MHD pro všechny by znamenala výpadek tržeb v řádu miliard korun ročně; program neuvádí, z čeho bude schodek kromě parkovacích poplatků kryt, ani harmonogram přechodu."
+        },
+        "zdroj_url": "https://jsmelevice.cz/volebni-program-pro-volby-do-zastupitelstva-hlavniho-mesta-prahy-2026/"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Veřejné toalety nejvýše každých 300 metrů",
+        "popis": "Instalace veřejných toalet v hustotě maximálně 300 metrů od sebe ve veřejném prostoru.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Technicky realizovatelné a v kompetenci města/MČ, ale náklady na výstavbu a provoz hustého systému toalet nejsou v programu vyčísleny."
+        },
+        "zdroj_url": "https://jsmelevice.cz/volebni-program-pro-volby-do-zastupitelstva-hlavniho-mesta-prahy-2026/"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Zelené střechy, fasády a solární panely na veřejných budovách",
+        "popis": "Instalace zelených střech a fasád, stínění ulic, solární panely na nepamátkových veřejných budovách a tepelná čerpadla tam, kde je to technicky možné.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Město má přímý vliv na vlastní budovy, realizace závisí na rozpočtu a kapacitě dodavatelů, kterou program neuvádí."
+        },
+        "zdroj_url": "https://jsmelevice.cz/volebni-program-pro-volby-do-zastupitelstva-hlavniho-mesta-prahy-2026/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -2.5,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "Program kombinuje silně redistributivní ekonomickou agendu (regulace nájmů, bezplatná MHD, sociální bydlení) s progresivními hodnotovými pozicemi (podpora menšin, kulturní politika omezující komercializaci veřejného prostoru) – jde o jednu z ideologicky nejvýraznějších levicových listin v pražských volbách 2026.",
+    "zdroje": [
+      {
+        "nazev": "Levice – Volební program",
+        "url": "https://jsmelevice.cz/volebni-program-pro-volby-do-zastupitelstva-hlavniho-mesta-prahy-2026/",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Levice jako celostátní strana vznikla až po volbách 2022 a na magistrátu neměla v období 2022–2026 žádný mandát; lídr Pavel Čižinský byl v tomto období zastupitelem MČ Praha 1 (do Levice vstoupil v roce 2025), nikoli zastupitelem hl. m. Prahy.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Strana bez zastupitelského zázemí na magistrátu v období 2022–2026, hodnocení plnění slibů proto není možné."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 4,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Většina priorit je kvantifikovaná (počet škol, procento dostupných bytů, hustota toalet, strop nájmu v %), ale chybí rozpočtové krytí – odpovídá stupni 4. Transparentnost: zveřejněný program (+1), transparentní účet strany dohledatelný přes rejstřík stran (+1), dohledatelní lídři s životopisy na kandidátní listině (+1); financování kampaně nebylo samostatně ověřeno.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["cizinsky-pavel"],
+  "mezery_v_datech": [
+    "Rozpočtové krytí jednotlivých slibů (zejména bezplatná MHD a výstavba škol) nebylo v programu uvedeno.",
+    "Financování kampaně strany Levice na magistrátní úrovni nebylo samostatně ověřeno."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

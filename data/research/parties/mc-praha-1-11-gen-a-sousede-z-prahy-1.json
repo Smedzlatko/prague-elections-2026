@@ -1,0 +1,50 @@
+{
+  "slug": "mc-praha-1-11-gen-a-sousede-z-prahy-1",
+  "assembly_id": "mc-praha-1",
+  "list_cislo": 11,
+  "nazev": "GEN a sousedé z Prahy 1",
+  "zkratka": "GEN",
+  "typ": "strana",
+  "slozeni": [
+    "GEN"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": null,
+    "priority": [],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Hnutí GEN (spojeno s generační/podnikatelskou profilací) nemá v dostupných zdrojích jasně dohledanou lokální programovou profilaci v Praze 1.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": null,
+    "role": "Lídr Vojtěch Ryvola je radním MČ Praha 1 a byl zvolen v roce 2022 (816 pref. hlasů); podle složení v briefu je mandát 2022 veden pod touto listinou, ačkoliv v tabulce výsledků 2022 „GEN“ samostatně nefiguruje – pravděpodobně kandidoval v rámci listiny „Naše Praha 1 – ANO 2011…“, která získala 3 mandáty. Přesné zařazení nebylo ověřeno.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": null
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program se nepodařilo dohledat.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "ryvola-vojtech"
+  ],
+  "mezery_v_datech": [
+    "Program listiny se nepodařilo dohledat.",
+    "Přesné zařazení mandátu Vojtěcha Ryvoly z roku 2022 (pod jakou tehdejší listinou kandidoval) nebylo ověřeno - v souhrnné tabulce výsledků 2022 'GEN' samostatně nefiguruje."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

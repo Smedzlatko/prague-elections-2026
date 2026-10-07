@@ -1,0 +1,65 @@
+{
+  "slug": "korseska-jan",
+  "name_key": "korseska-jan",
+  "cele_jmeno": "Jan Korseska",
+  "rok_narozeni": null,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-2",
+      "list_cislo": 6,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Zvolen v roce 2022 z 4. místa kandidátky ODS a TOP 09 – Společně pro Prahu 2, působil jako místostarosta. Po jmenování starostky Alexandry Udženija (ODS) náměstkyní primátora hl. m. Prahy pro sociální věci, bydlení a zdravotnictví v únoru 2023 a jejím odchodu z funkce starostky (19. 6. 2023) ji nahradil ve funkci starosty MČ Praha 2. Dnes je starostou s gescí financí a majetku a lídrem koaliční listiny SPOLU pro Prahu 2 pro rok 2026. Věk podle briefu 65 let.",
+  "vzdelani": null,
+  "profese": "Starosta MČ Praha 2 (ODS).",
+  "politicka_historie": [
+    {
+      "od": "2022-11",
+      "do": "2023-06",
+      "funkce": "místostarosta MČ Praha 2",
+      "organizace": "MČ Praha 2",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Jan_Korseska"
+    },
+    {
+      "od": "2023-06",
+      "do": "2026-10",
+      "funkce": "starosta MČ Praha 2 (finance, majetek)",
+      "organizace": "MČ Praha 2",
+      "zdroj_url": "https://www.praha2.cz/rada-mc-praha-2"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": 2,
+    "oduvodneni": "Jako starosta s gescí financí a majetku odpovídal za klíčové kapitoly Programového prohlášení Rady MČ Praha 2 2022-2026 (vyrovnané hospodaření, správa majetku). Nezávislé ověření konkrétního naplnění těchto závazků se v rešerši nepodařilo dohledat – skóre je konzervativní odhad při chybějícím nezávislém zdroji, ne zjištění konkrétního pochybení.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "praha2.cz: Rada MČ Praha 2",
+      "url": "https://www.praha2.cz/rada-mc-praha-2",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "cs.wikipedia.org: Jan Korseska",
+      "url": "https://cs.wikipedia.org/wiki/Jan_Korseska",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození a vzdělání nebyly dohledány nad rámec briefu.",
+    "Detailní a nezávisle doložené naplnění Programového prohlášení rady v gesci financí a majetku 2023-2026 nebylo ověřeno."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

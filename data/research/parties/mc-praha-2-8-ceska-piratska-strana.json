@@ -1,0 +1,95 @@
+{
+  "slug": "mc-praha-2-8-ceska-piratska-strana",
+  "assembly_id": "mc-praha-2",
+  "list_cislo": 8,
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "typ": "strana",
+  "slozeni": [
+    "Piráti"
+  ],
+  "web": "https://praha2.pirati.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "praha2.pirati.cz: Volební program 2026",
+        "url": "https://praha2.pirati.cz/",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Program se soustředí na zastavení prodeje obecních bytů a bytovou strategii do roku 2040, regulaci krátkodobých pronájmů (Airbnb), transparentní investiční plán a online rozklikávací rozpočet, zóny 30 km/h a zklidnění dopravy, a podporu sociálních a školských služeb. Podmiňuje účast v koalici prosazením bytových priorit a vylučuje spolupráci s KSČM, SPD a krajní pravicí.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Zastavit prodej obecních bytů a přijmout bytovou strategii do roku 2040",
+        "popis": "Ukončit prodeje bytového fondu MČ a nahradit je dlouhodobou bytovou strategií; tvrdě postihovat nelegální Airbnb.",
+        "citace": "Byty mají sloužit k bydlení. Ne k podnikání bez povolení.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o rozhodnutí v kompetenci zastupitelstva MČ, ale vyžaduje koaliční většinu, kterou Piráti v letech 2022-2026 neměli."
+        },
+        "zdroj_url": "https://praha2.pirati.cz/"
+      },
+      {
+        "oblast": "transparentnost",
+        "nazev": "Rozklikávací rozpočet a transparentní investiční plán do roku 2040",
+        "popis": "Zavést detailní online rozpočet na úrovni jednotlivých faktur a transparentní ceníkovou mapu pronájmu komerčních prostor.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "vysoka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Technicky nenáročné opatření v kompetenci úřadu MČ, podobné nástroje již zavedly jiné MČ."
+        },
+        "zdroj_url": "https://praha2.pirati.cz/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Zóny 30 km/h v obytných ulicích",
+        "popis": "Systematicky rozšířit zóny 30 km/h a síť chodníků a přechodů, zadržovat dešťovou vodu při rekonstrukcích ulic.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Vyžaduje souhlas magistrátu a policie u hlavních komunikací, MČ může prosazovat jen na vlastních ulicích."
+        },
+        "zdroj_url": "https://praha2.pirati.cz/"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -2,
+    "oduvodneni": "Celostátní Piráti jsou standardně klasifikováni jako hodnotově liberální/progresivní, ekonomicky středoví; lokální program se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "V roce 2022 třetí nejsilnější strana (18,52 %, 7 mandátů), v opozici. Lídryně Magdalena Valdmanová je předsedkyní výboru pro bydlení a bytovou výstavbu ZHMP (celopražská úroveň); Radek Zykan, Martin Altschmied a Lydie Franka Bartošová byli zastupiteli MČ Praha 2.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Čtyři roky v opozici s druhým největším opozičním klubem po PRAHA 2 SOBĚ; detailní bilance konkrétních kroků nebyla dohledána."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program obsahuje konkrétní, pojmenovaná opatření (zastavení prodeje bytů, rozklikávací rozpočet, zóny 30 km/h), většina priorit má konkrétní opatření, ale chybí čísla/termíny u většiny bodů – konkretnost_programu = 3. Doveryhodnost_plneni zůstává null, protože strana byla v letech 2022-2026 v opozici bez exekutivní funkce.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "valdmanova-magdalena"
+  ],
+  "mezery_v_datech": [
+    "Detailní bilance opoziční činnosti pirátského klubu MČ Praha 2 2022-2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

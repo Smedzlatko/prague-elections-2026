@@ -1,0 +1,44 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 3,
+  "nazev": "SDRUŽENÍ PŘÁTEL PRAHY 10",
+  "zkratka": "SPP10",
+  "typ": "koalice",
+  "slozeni": [
+    "LANO",
+    "BEZPP"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Mikro-listina se dvěma kandidáty, z nichž jeden byl registračním úřadem škrtnut. Program se nepodařilo dohledat, listina nemá vlastní web.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Bez dostupného programu nelze listinu zařadit na ideologických osách.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 0,
+    "oduvodneni": "Program nedohledán, chybí web, listina má jen jednoho platného kandidáta.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "jarosova-dita"
+  ],
+  "mezery_v_datech": [
+    "Program ani web listiny nebyly dohledány.",
+    "Nejasný důvod škrtnutí prvního kandidáta registračním úřadem."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-10-3-sdruzeni-pratel-prahy-10"
+}

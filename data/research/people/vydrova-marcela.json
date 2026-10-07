@@ -1,0 +1,52 @@
+{
+  "slug": "vydrova-marcela",
+  "name_key": "vydrova-marcela",
+  "cele_jmeno": "Mgr. Marcela Vydrová, MBA",
+  "rok_narozeni": 1962,
+  "strana": "Svoboda a přímá demokracie (SPD)",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-14",
+      "list_cislo": 1,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Mgr. Marcela Vydrová, MBA je zastupitel/ka MČ Praha 14, v roce 2022 zvolen/a na listině „Svoboda a přímá demokracie (SPD)“ (1. místo, 807 preferenčních hlasů). Pro volby 2026 kandiduje na listině „Svoboda a přímá demokracie pro Prahu 14 s podporou občanského hnutí Přísaha, České strany národně sociální a nezávislých kandidátů“ (1. místo, jako lídr/lídryně listiny). Profesně: pedagog.",
+  "vzdelani": null,
+  "profese": "pedagog",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 14 (zvolen/a za Svoboda a přímá demokracie (SPD))",
+      "organizace": "MČ Praha 14",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 14 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

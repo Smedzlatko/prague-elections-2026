@@ -1,0 +1,50 @@
+{
+  "slug": "mc-praha-5-1-spd-pro-prahu-5-s-podporou-pro-a-nezavis",
+  "assembly_id": "mc-praha-5",
+  "list_cislo": 1,
+  "nazev": "SPD pro Prahu 5 s podporou PRO a nezávislých kandidátů",
+  "zkratka": "SPD",
+  "typ": "koalice",
+  "slozeni": [
+    "SPD",
+    "PRO",
+    "nezávislí kandidáti"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [
+      {
+        "nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026",
+        "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "V roce 2022 kandidovala samotná SPD s podporou Trikolory a získala 4,78 % hlasů, žádný mandát. Pro rok 2026 vede listinu Pavel Spirov s podporou PRO a nezávislých kandidátů. Samostatný program nebyl dohledán.",
+    "priority": null,
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": 2.5,
+    "oduvodneni": "SPD je na celostátní úrovni národně-konzervativní, protiimigrační strana; PRO se profiluje na téma covidových opatření a ochrany svobod. Lokální program s konkrétními tématy pro Prahu 5 nebyl dohledán.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": null,
+    "oduvodneni": "Program nebyl dohledán. Listina nemá mandát z roku 2022 – doveryhodnost_plneni je null.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "spirov-pavel"
+  ],
+  "mezery_v_datech": [
+    "Vlastní volební program listiny nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

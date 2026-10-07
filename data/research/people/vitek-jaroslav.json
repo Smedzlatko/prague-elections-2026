@@ -1,0 +1,53 @@
+{
+  "slug": "vitek-jaroslav",
+  "name_key": "vitek-jaroslav",
+  "cele_jmeno": "Ing. Jaroslav Vítek",
+  "rok_narozeni": 1959,
+  "strana": "bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 19,
+      "poradi": 3
+    }
+  ],
+  "role": "jiny",
+  "profil": "Jaroslav Vítek je podle vlastního životopisu manažer kybernetické bezpečnosti a pověřenec pro ochranu osobních údajů Krajského úřadu Středočeského kraje, dříve emeritní tajemník MČ Praha 1 a člen Sboru dobrovolných hasičů. Kandiduje na třetím místě celopražské koaliční listiny REZIDENTI – REBELOVÉ pro změnu Prahy. Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejně dostupný biografický záznam.",
+  "vzdelani": "vysokoškolské technické (titul Ing.), obor neupřesněn v dostupných zdrojích",
+  "profese": "manažer kybernetické bezpečnosti, bývalý tajemník MČ Praha 1",
+  "politicka_historie": [
+    {
+      "od": null,
+      "do": null,
+      "funkce": "tajemník MČ Praha 1 (emeritní, přesné období nedohledáno)",
+      "organizace": "MČ Praha 1",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164922"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Funkce tajemníka úřadu je úřednická, nikoli politicko-výkonná ve smyslu volených závazků; plnění slibů proto nelze hodnotit.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026 – REZIDENTI – REBELOVÉ pro změnu Prahy",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/strana/164922",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Mimo kandidátní listinu ČSÚ se nepodařilo dohledat další veřejný záznam o osobě.",
+    "Rok narození je odhad z uvedeného věku 67 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

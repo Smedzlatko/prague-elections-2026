@@ -1,0 +1,45 @@
+{
+  "slug": "mc-praha-13-7-zmena-pro-prahu-13-narodni-hnuti",
+  "assembly_id": "mc-praha-13",
+  "list_cislo": 7,
+  "nazev": "Změna pro Prahu 13 – Národní hnutí",
+  "zkratka": "KSČM/ČSSD/Směr",
+  "typ": "koalice",
+  "slozeni": [
+    "KSČM",
+    "ČSSD",
+    "Směr"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program pro Prahu 13 na rok 2026 se nepodařilo dohledat. Žádný z kandidátů listiny podle dat ČSÚ nebyl v roce 2022 zvolen (KSČM tehdy v Praze 13 získala 1,73 % bez mandátu).",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -2,
+    "hodnotova_osa": 1,
+    "oduvodneni": "KSČM a ČSSD jsou tradičně levicové strany; hnutí Směr je nacionalisticky profilované odštěpení ČSSD. Kombinace vytváří levicově-ekonomickou, hodnotově konzervativnější pozici.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": null,
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nenalezen (konkrétnost 0). Bez historie v zastupitelstvu MČ nelze hodnotit důvěryhodnost plnění. Transparentnost: dohledatelná kandidátka (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "blaha-ladislav"
+  ],
+  "mezery_v_datech": [
+    "Lokální program listiny pro Prahu 13 na rok 2026 nebyl dohledán.",
+    "Žádný dosavadní záznam o politické činnosti kandidátů v MČ Praha 13 nebyl nalezen."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

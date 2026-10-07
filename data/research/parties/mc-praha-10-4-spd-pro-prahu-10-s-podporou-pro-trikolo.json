@@ -1,0 +1,55 @@
+{
+  "assembly_id": "mc-praha-10",
+  "list_cislo": 4,
+  "nazev": "SPD pro Prahu 10 s podporou PRO, Trikolory, Přísahy a Svobodných",
+  "zkratka": "SPD",
+  "typ": "koalice",
+  "slozeni": [
+    "SPD",
+    "PRO",
+    "Trikolora",
+    "Přísaha",
+    "Svobodní"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program nebyl na programydovoleb.cz dohledán. Ve volbách 2022 subjekt (SPD, Trikolora a nezávislí kandidáti pro Prahu 10) získal 7,81 % a 4 mandáty, byl v opozici. Lídr Jan Čížek je nový kandidát, inkumbenti z roku 2022 (Šimek, Nerušil, Kopecký) jsou na nižších místech listiny.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.0,
+    "hodnotova_osa": 2.5,
+    "oduvodneni": "SPD se celostátně profiluje jako národně-konzervativní, protiimigrační strana, podpořená dalšími pravicově-populistickými subjekty (Trikolora, Přísaha, Svobodní). Odhad bez lokální citace.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "Opoziční klub (4 mandáty po volbách 2022).",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční strana měla SPD omezený vliv na prosazení priorit. Josef Nerušil (poslanec PČR, zastupitel MČ) je nejviditelnějším inkumbentem listiny. Zdrojovaný přehled konkrétních iniciativ klubu za období 2022-2026 se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 1,
+    "oduvodneni": "Program nedohledán, chybí vlastní web. Plnění slibů nelze hodnotit – klub byl v opozici.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "cizek-jan"
+  ],
+  "mezery_v_datech": [
+    "Program listiny pro rok 2026 nebyl dohledán.",
+    "Nebyl dohledán web listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-10-4-spd-pro-prahu-10-s-podporou-pro-trikolo"
+}

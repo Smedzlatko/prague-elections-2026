@@ -1,0 +1,52 @@
+{
+  "assembly_id": "mc-praha-8",
+  "list_cislo": 3,
+  "nazev": "PATRIOTI PRO PRAHU 8",
+  "zkratka": "Patrioti",
+  "typ": "koalice",
+  "slozeni": [
+    "BEZPP",
+    "Patrioti ČR"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Program listiny se na programydovoleb.cz nepodařilo dohledat – stránka strany neobsahovala odkaz na vlastní web ani text programu. Patrioti ČR na celopražské úrovni prosazují téma bezpečnosti, dopravy a ochrany rodin.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.0,
+    "hodnotova_osa": 2.0,
+    "oduvodneni": "Patrioti ČR se na celostátní/celopražské úrovni profilují jako národně-konzervativní hnutí s důrazem na bezpečnost a tradiční hodnoty. Odhad bez lokální citace k Praze 8.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Lídr listiny Jiří Vítek je místostarostou MČ Praha 8 za Patrioty ČR, součást koaliční vlády ODS, ANO, TOP09/STAN a Patriotů od roku 2022.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Patrioti byli menším koaličním partnerem s místostarostenským křeslem. Konkrétní zdrojovaný přehled jejich volebních slibů z roku 2022 a jejich plnění na úrovni resortu místostarosty Vítka se nepodařilo dohledat.",
+    "zdroje": []
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program nebyl dohledán (0). Doveryhodnost plnění: Patrioti ČR drželi po celé období 2022-2026 místostarostenské křeslo (Jiří Vítek), ale v dostupných zdrojích (web MČ, tisk, Hlídač státu) se nepodařilo dohledat žádné konkrétní, samostatně připsatelné prosazené priority ani naopak dokumentovaný skandál. Skóre 2 odráží chybějící doložený vlastní programový přínos malého koaličního partnera, ne prokázané pochybení. Transparentnost nízká pro chybějící web, ale dohledatelní kandidáti se životopisy na ČSÚ listině.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "vitek-jiri"
+  ],
+  "mezery_v_datech": [
+    "Nebyl dohledán program ani web listiny.",
+    "Nebyl dohledán přehled konkrétních výsledků místostarosty Vítka v resortu, který zastával 2022-2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02",
+  "slug": "mc-praha-8-3-patrioti-pro-prahu-8"
+}

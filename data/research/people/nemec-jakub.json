@@ -1,0 +1,29 @@
+{
+  "slug": "nemec-jakub",
+  "name_key": "nemec-jakub",
+  "cele_jmeno": "Jakub Němec, MBA",
+  "rok_narozeni": 1975,
+  "strana": "Motoristé sobě",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-12", "list_cislo": 10, "poradi": 1}],
+  "role": "inkumbent",
+  "profil": "Jakub Němec je zastupitel MČ Praha 12, podnikatel ve filmovém průmyslu a cestovním ruchu, člen Kontrolního výboru zastupitelstva, zvolen i v roce 2022 (pozice č. 5, 4034 preferenčních hlasů). Pro volby 2026 vede listinu Motoristé sobě.",
+  "vzdelani": null,
+  "profese": "podnikatel (filmový průmysl, cestovní ruch)",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitel MČ Praha 12, člen Kontrolního výboru", "organizace": "nedohledaná listina z roku 2022", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez dohledaného podkladu o jeho konkrétní zastupitelské agendě nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 12 2026", "url": "https://volby.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Pod jakou listinou kandidoval a byl zvolen v roce 2022, nebylo dohledáno (Motoristé sobě jako celostátní strana v roce 2022 ještě neexistovala).",
+    "Vzdělání (obor) nebylo dohledáno."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "ballay-verona",
+  "name_key": "ballay-verona",
+  "cele_jmeno": "Bc. Verona Ballay",
+  "rok_narozeni": 1982,
+  "strana": "PRAHA SOBĚ",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-12", "list_cislo": 11, "poradi": 1}],
+  "role": "inkumbent",
+  "profil": "Verona Ballay je zastupitelka MČ Praha 12 a předsedkyně Kontrolního výboru zastupitelstva, manažerka pro veřejnou správu a vnější vztahy, zvolena i v roce 2022 (pozice č. 2, 1958 preferenčních hlasů). Pro volby 2026 vede listinu PRAHA 12 SOBĚ.",
+  "vzdelani": null,
+  "profese": "manažerka pro veřejnou správu a vnější vztahy",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitelka MČ Praha 12, předsedkyně Kontrolního výboru", "organizace": "PRAHA SOBĚ", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Působila jako opoziční zastupitelka; bez dohledaného podkladu o konkrétní agendě nelze stanovit skóre.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 12 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "PRAHA 12 SOBĚ – web", "url": "https://prahasobe.cz/praha12sobe/", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obor) a přesný rok narození nejsou nezávisle potvrzeny.",
+    "Konkrétní opoziční agenda a výsledky nebyly dohledány."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

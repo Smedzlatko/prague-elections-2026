@@ -1,0 +1,139 @@
+{
+  "assembly_id": "mc-praha-6",
+  "nazev": "Praha 6",
+  "charakteristika": "Praha 6 je severozápadní městská část zahrnující Dejvice, Bubeneč, Břevnov, Střešovice, Veleslavín, Vokovice, Liboc a Ruzyni s pražským letištěm. Je sídlem řady vysokých škol (ČVUT, ČZU) a vilových čtvrtí (Baba, Ořechovka), administrativním centrem je Vítězné náměstí. Politicky je dlouhodobě dominantní ODS, která zde vede radnici bez přerušení od roku 2022 (a dříve).",
+  "soucasna_koalice": {
+    "obdobi": "2022–2026",
+    "strany": [
+      "ODS",
+      "KDU-ČSL",
+      "STAN",
+      "Zelení",
+      "PRAHA SOBĚ",
+      "TOP 09"
+    ],
+    "starosta": {
+      "jmeno": "Mgr. Jakub Stárek",
+      "strana": "ODS",
+      "slug": "starek-jakub"
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Praha_6"
+  },
+  "zmeny_v_obdobi": [
+    "Širokou koalici ODS a KDU-ČSL (12 mandátů), STAN s podporou Zelených (6 mandátů), PRAHA 6 SOBĚ (6 mandátů) a TOP 09 (7 mandátů) tvoří 23 z 45 mandátů. Jakub Stárek byl zvolen starostou 24. října 2022 hlasy 29 z 42 přítomných zastupitelů. Žádný zaznamenaný rozpad koalice v průběhu období 2022-2026 se v dostupných zdrojích nepodařilo dohledat."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Rekonstrukce Vítězného náměstí",
+      "popis": "Dlouhodobě plánovaná přestavba Vítězného náměstí (okružní křižovatka a tramvajový uzel) je klíčovým dopravním a urbanistickým tématem – TOP 09 i JSME PRAHA 6 ji zmiňují v programech, JSME PRAHA 6 výslovně odmítá „nepotřebný obchvat Vítězného náměstí“.",
+      "proc_zalezi": "Jde o centrální dopravní uzel MČ s dopady na tramvajovou dopravu, pěší provoz a charakter okolní zástavby.",
+      "zdroje": [
+        {
+          "nazev": "Program TOP 09 Praha 6",
+          "url": "https://topka6.cz/",
+          "datum": "2026-10-02"
+        },
+        {
+          "nazev": "Program JSME PRAHA 6",
+          "url": "https://www.jsme.team/nase-teamy/praha-6/",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Kapacity škol a „spádová turistika“",
+      "popis": "Radnice pod vedením Jakuba Stárka zavedla v roce 2023 opatření proti tzv. spádové turistice (účelovému hlášení trvalého pobytu dětí mimo skutečné bydliště za účelem přijetí do žádané školy) a řeší dostavbu škol (ZŠ Dědina, ZŠ Petřiny).",
+      "proc_zalezi": "Kapacita škol je dlouhodobě napjatá kvůli vysoké poptávce po bydlení v MČ a je citlivé i politicky (otázka spravedlnosti přijímání dětí).",
+      "zdroje": [
+        {
+          "nazev": "Program STAN Praha 6",
+          "url": "https://www.starostove-praha6.cz/nas-program/",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Bytová politika a svěřený majetek (SNEO)",
+      "popis": "Městská část hospodaří s bytovým fondem prostřednictvím společnosti SNEO, a.s.; v programech zaznívá požadavek na transparentní nakládání s obecními pozemky a byty (JSME PRAHA 6 slibuje forenzní audit hospodaření od roku 2018 a výhradně družstevní bydlení na pozemcích města).",
+      "proc_zalezi": "Nakládání s obecním bytovým fondem a pozemky je dlouhodobě politicky citlivé téma napříč pražskými MČ.",
+      "zdroje": [
+        {
+          "nazev": "Program JSME PRAHA 6",
+          "url": "https://www.jsme.team/nase-teamy/praha-6/",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Krytý bazén Petynka",
+      "stav": "rozpracovano",
+      "popis": "Výstavba krytého bazénu v ceně cca 600 mil. Kč, zmiňovaná jako priorita STAN i TOP 09 pro dokončení.",
+      "zdroje": [
+        {
+          "nazev": "Program TOP 09 Praha 6",
+          "url": "https://topka6.cz/",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "LDN Drnovská a Poliklinika Pod Marjánkou",
+      "stav": "rozpracovano",
+      "popis": "Zdravotnická zařízení zmiňovaná napříč programy (STAN, TOP 09, JSME PRAHA 6) jako potřebující rekonstrukci/dostavbu.",
+      "zdroje": [
+        {
+          "nazev": "Program STAN Praha 6",
+          "url": "https://www.starostove-praha6.cz/nas-program/",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [
+    {
+      "nazev": "Schůzka starosty Stárka se zástupcem myanmarské junty",
+      "typ": "medialni",
+      "obdobi": "2023-09",
+      "popis": "Starosta Jakub Stárek se v září 2023 setkal s Htuannem Naungem, chargé d'affaires Myanmaru v ČR – zemi, jejíž vojenská junta se podle mezinárodních organizací dopouští násilí na civilistech po převratu 2021. Zveřejněná fotografie vyvolala kritiku; podrobnosti viz people/starek-jakub.json.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Stárek se hájil tím, že šlo o místní témata (školy, kulturní akce), nikoliv o politiku.",
+      "zdroje": [
+        {"nazev": "Deník N - Starosta Prahy 6 se sešel s vyslancem junty, která vraždí civilisty", "url": "https://denikn.cz/1247998/starosta-prahy-6-se-sesel-s-vyslancem-junty-ktera-vrazdi-civilisty-mluvili-jsme-o-skolach-a-kulturnich-akcich-rika/", "datum": "2023-10-04"}
+      ]
+    },
+    {
+      "nazev": "Spor o sochu Atatürka",
+      "typ": "medialni",
+      "obdobi": "2023",
+      "popis": "Turecko žádalo o umístění sochy Atatürka v Břevnově; MČ po zvážení (konzultace s ministerstvem zahraničí) instalaci odmítla. Podrobnosti viz people/starek-jakub.json.",
+      "stav": "potvrzeno",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Starosta Stárek: záležitost byla důkladně posouzena, instalace sochy na navrženém místě se nebude realizovat.",
+      "zdroje": [
+        {"nazev": "Deník N - Socha Atatürka na pražských Petřinách stát nebude", "url": "https://denikn.cz/minuta/1212111/", "datum": "2023"}
+      ]
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Praha 6",
+      "url": "https://cs.wikipedia.org/wiki/Praha_6",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "research-kit brief mc-praha-6.md (ČSÚ otevřená data)",
+      "url": "https://volby.gov.cz/",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Dvě doložené, nezávisle medializované kauzy starosty Stárka (schůzka se zástupcem myanmarské junty 2023, spor o sochu Atatürka 2023) jsou uvedeny výše v kontroverze_mc a podrobněji v people/starek-jakub.json – obě mají stav bez_zaveru / potvrzeno a nízkou závažnost (politické/mediální spory, nikoli finanční pochybení). Kauzu ve smyslu konfliktu zájmů, veřejné zakázky nebo hospodaření (např. SNEO, a.s.) se v dostupných zdrojích nepodařilo dohledat.",
+    "Emeritní radní Roman Mejstřík (lídr GEN) - jeho konkrétní působení a bilance v radě MČ Praha 6 (kdy, jaké portfolio) se nepodařilo dohledat nad rámec jeho kandidátního profilu.",
+    "Ondřej Chrást (č. 3 celopražské JSME PRAHA, lídr JSME PRAHA 6) - jeho konkrétní lokální agenda jako zastupitele Prahy 6 (mimo celopražskou/ministerskou kariéru popsanou v people/chrast-ondrej.json) nebyla hlouběji zjištěna."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

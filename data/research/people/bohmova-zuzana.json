@@ -1,0 +1,35 @@
+{
+  "slug": "bohmova-zuzana",
+  "name_key": "bohmova-zuzana",
+  "cele_jmeno": "Mgr. Zuzana Böhmová",
+  "rok_narozeni": 1990,
+  "strana": "Piráti",
+  "kandidatury_2026": [{"assembly_id": "mc-praha-11", "list_cislo": 6, "poradi": 4}],
+  "role": "inkumbent",
+  "profil": "Zuzana Böhmová je středoškolská pedagožka, byla místostarostkou MČ Praha 11 za Piráty v letech 2022–2023 (zvolena zastupitelkou i v roce 2022, pozice č. 1, 2207 preferenčních hlasů). Piráti v prosinci 2023 vypověděli koaliční smlouvu, což vedlo k odvolání starostky Šárky Zdeňkové (HPP 11); poté pirátský klub přešel do opozice.",
+  "vzdelani": null,
+  "profese": "středoškolská pedagožka",
+  "politicka_historie": [
+    {"od": "2022-10", "do": "2026", "funkce": "zastupitelka MČ Praha 11", "organizace": "Piráti", "zdroj_url": null},
+    {"od": "2022-12", "do": "2023-12", "funkce": "místostarostka MČ Praha 11", "organizace": "MČ Praha 11", "zdroj_url": "https://denikn.cz/minuta/1302364/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Zastávala funkci místostarostky jen přibližně rok, než Piráti sami vypověděli koalici; bez dohledaného podkladu o konkrétní agendě nelze stanovit skóre.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Brief kandidátní listiny ČSÚ, MČ Praha 11 2026", "url": "https://volby.cz", "datum": "2026-10-02"},
+    {"nazev": "Deník N – odvolání starostky Prahy 11", "url": "https://denikn.cz/minuta/1302364/", "datum": "2023-12-07"}
+  ],
+  "mezery_v_datech": [
+    "Resort, který měla jako místostarostka na starosti, nebyl dohledán.",
+    "Rok narození odhadnut z udaného věku (36 let v roce 2026)."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

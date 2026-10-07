@@ -1,0 +1,81 @@
+{
+  "assembly_id": "mc-praha-7",
+  "nazev": "Praha 7",
+  "charakteristika": "Praha 7 zahrnuje Holešovice, Letnou a část Bubenče a Troje, má přibližně 48 tisíc obyvatel na ploše necelých 7 km². Je dlouhodobě politicky nejstabilnější pražskou městskou částí – od listopadu 2014 ji nepřetržitě vede Jan Čižinský a jeho hnutí PRAHA 7 SOBĚ (resp. celopražské PRAHA SOBĚ), které ve volbách 2022 získalo rekordních 52,99 % hlasů a 18 z 29 mandátů, tedy ústavní většinu v zastupitelstvu. Městská část je dějištěm největší transformační stavby města – revitalizace brownfieldu Bubny-Zátory a plánované Vltavské filharmonie.",
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "PRAHA 7 SOBĚ"
+    ],
+    "starosta": {
+      "jmeno": "Jan Čižinský",
+      "strana": "PRAHA SOBĚ",
+      "slug": "cizinsky-jan"
+    },
+    "zdroj_url": "https://cs.wikipedia.org/wiki/Praha_7"
+  },
+  "zmeny_v_obdobi": [
+    "PRAHA 7 SOBĚ získala v roce 2022 nadpoloviční většinu mandátů (18 z 29), takže ke stabilní vládě na rozdíl od předchozích období nepotřebovala koaliční partnery - jde o ojedinělý případ v rámci pražských městských částí.",
+    "Nebyla zjištěna žádná zdrojovaná informace o rozpadu koalice nebo personálních změnách ve vedení MČ v průběhu období 2022-2026; mezera v datech."
+  ],
+  "klicova_temata": [
+    {
+      "nazev": "Bubny-Zátory a Vltavská filharmonie",
+      "popis": "Na ploše cca 110 hektarů bývalého nákladového nádraží a průmyslové zóny mezi Holešovicemi a Letnou vzniká nová čtvrť pro až 25 000 obyvatel s 11 000 byty, školami, parky a kancelářemi. Centrální stavbou je Vltavská filharmonie podle návrhu dánského studia Bjarke Ingels Group (BIG) – v roce 2025 byla otevřena nová železniční zastávka Praha-Bubny (první nová stanice v Praze za 40 let), stavba filharmonie samotné má podle plánu začít kolem roku 2027 a dokončena být kolem roku 2033, odhadované náklady přesahují 16 miliard Kč.",
+      "proc_zalezi": "Jde o největší územní transformaci v historii Prahy 7 a jednu z největších v celé Praze; zásadně promění charakter čtvrti, dopravu i cenu bydlení na Holešovicku. Součástí je i spor o podobu Památníku ticha (Memorial of Silence), kde bývalý ředitel Pavel Štingl kritizuje odklon od původního konceptu holokaustové památky k univerzálnímu kulturnímu zařízení.",
+      "zdroje": [
+        {
+          "nazev": "Aktuálně.cz: Z města duchů novým srdcem Prahy. Bubny probudí filharmonie i bytová lavina",
+          "url": "https://zpravy.aktualne.cz/domaci/z-mesta-duchu-novym-srdcem-prahy-bubny-probudi-filharmonie-i-bytova-lavina/r~aaa29683ddc39fb680b456f2d608e83a/",
+          "datum": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "nazev": "Holešovická tržnice",
+      "popis": "Bývalé centrální jatky z konce 19. století (areál oslavil v roce 2025 130 let od založení) funguje jako smíšený prostor farmářských trhů, galerií, gastro provozů a kulturních akcí. Hala 22 s farmářskými trhy se po několikaměsíční odstávce a technických úpravách v roce 2025 vrátila na své původní místo v areálu.",
+      "proc_zalezi": "Tržnice je jedním z center veřejného a komunitního života Prahy 7 a dlouhodobě řešeným tématem rozvoje a nájemních vztahů v městské nemovitosti.",
+      "zdroje": [
+        {
+          "nazev": "Aktuálně.cz - vyhledávání: Holešovická tržnice",
+          "url": "https://www.aktualne.cz/vyhledavani?q=Holešovická+tržnice",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "velke_projekty": [
+    {
+      "nazev": "Transformace Bubny-Zátory",
+      "stav": "probiha",
+      "popis": "Výstavba nové čtvrti na ploše 110 ha, otevření nádraží Praha-Bubny v roce 2025, filharmonie plánována na 2027-2033.",
+      "zdroje": [
+        {
+          "nazev": "Aktuálně.cz: Z města duchů novým srdcem Prahy",
+          "url": "https://zpravy.aktualne.cz/domaci/z-mesta-duchu-novym-srdcem-prahy-bubny-probudi-filharmonie-i-bytova-lavina/r~aaa29683ddc39fb680b456f2d608e83a/",
+          "datum": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "kontroverze_mc": [],
+  "zdroje": [
+    {
+      "nazev": "cs.wikipedia.org: Praha 7",
+      "url": "https://cs.wikipedia.org/wiki/Praha_7",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Brief ČSÚ - výsledky komunálních voleb 2022 Praha 7",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500186",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Nebyla dohledána žádná zdrojovaná, doložená kauza MČ Praha 7 z období 2022-2026 splňující pravidlo 'jen doložené kauzy se stavem' - pokud existuje, nebyla v rámci rešerše (omezené na WebFetch kvůli nefunkčnímu WebSearch) nalezena.",
+    "Detailní rozpočtové a personální změny rady/zastupitelstva Prahy 7 v průběhu volebního období 2022-2026 nebyly dohledány.",
+    "Přesný aktuální stav jednání o Památníku ticha (vyřešeno/nevyřešeno) nebyl ověřen z dalšího zdroje."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

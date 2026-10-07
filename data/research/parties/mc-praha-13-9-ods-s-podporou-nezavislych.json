@@ -1,0 +1,81 @@
+{
+  "slug": "mc-praha-13-9-ods-s-podporou-nezavislych",
+  "assembly_id": "mc-praha-13",
+  "list_cislo": 9,
+  "nazev": "ODS s podporou nezávislých",
+  "zkratka": "ODS",
+  "typ": "koalice",
+  "slozeni": [
+    "ODS",
+    "nezávislí"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program ODS pro Prahu 13 na rok 2026 se v rámci této rešerše nepodařilo dohledat (lokální web nebyl dostupný na vyzkoušených adresách). Lídr David Vodrážka vede radnici MČ nepřetržitě od roku 2002, celý současný tým místostarostů (David Zelený, Petr Zeman) obhajuje mandáty.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 1.5,
+    "hodnotova_osa": 1,
+    "oduvodneni": "ODS je celostátně pravostředová až pravicová strana; lokální listina v Praze 13 nevybočuje z této linie.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "ODS vedla vládnoucí koalici MČ Praha 13 s ANO 2011 a koalicí TOP 09/KDU-ČSL po celé volební období 2022–2026, s 11 mandáty z voleb 2022 (nejsilnější strana). Starostou je David Vodrážka, který radnici vede nepřetržitě od roku 2002.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Nová základní škola ve Stodůlkách (1 152 míst)",
+        "dukaz": "Podle dostupných zpráv je ve Stodůlkách rozestavěna nová základní škola s kapacitou 1 152 míst včetně tělocvičen a sportovišť; přesné datum zahájení/dokončení stavby ani zdroj financování se v rámci rešerše nepodařilo ověřit.",
+        "zdroj_url": "https://www.praha13.cz"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "ODS si po více než 20 letech udržela vedení MČ i ve volebním období 2022–2026 bez zaznamenaného rozpadu koalice. Jediným konkrétně dohledaným probíhajícím projektem je výstavba nové základní školy ve Stodůlkách pro 1 152 žáků; starosta Vodrážka rovněž upozorňuje na blížící se kapacitní limity metra B a nutnost dalších investic do dopravy. Konkrétní bilanci ostatních slibů z roku 2022 se nepodařilo dohledat a žádná doložená kauza z více než dvacetiletého vedení nebyla nalezena, což je vzhledem k délce působení nápadná mezera.",
+    "zdroje": []
+  },
+  "kontroverze": [
+    {
+      "nazev": "Investice MČ 200 mil. Kč u Key Investments a spor o jejich vrácení",
+      "typ": "soudni",
+      "obdobi": "2010; soudní spor 2012–dosud",
+      "popis": "MČ pod vedením starosty Vodrážky (ODS) v roce 2010 vložila cca 200 mil. Kč do cenných papírů u obchodníka Key Investments a krátce před jeho krachem celou částku i s úroky dostala zpět. Insolvenční správce výplatu napadl jako zvýhodnění jednoho věřitele. Vrchní soud v roce 2018 rozhodl ve prospěch Prahy 13, Nejvyšší soud ale v roce 2021 toto rozhodnutí zrušil a vrátil věc k novému projednání.",
+      "stav": "probiha",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Vodrážka k vrácení peněz v roce 2018 uvedl, že MČ získala zpět „částku převyšující 206 mil. Kč, tedy investovanou částku i s úroky“ (praha13.cz, 23. 4. 2018).",
+      "zdroje": [
+        {
+          "nazev": "praha13.cz: Praha 13 vyhrála soudní řízení v kauze Key Investments",
+          "url": "https://www.praha13.cz/praha-13-vyhrala-soudni-rizeni-v-kauze-key-investments-2/",
+          "datum": "2018-04-23"
+        },
+        {
+          "nazev": "Česká justice: Nejvyšší soud zrušil rozhodnutí Vrchního soudu v Praze v případu Prahy 13 a Key Investments",
+          "url": "https://www.ceska-justice.cz/2021/01/nejvyssi-soud-zrusil-rozhodnuti-vrchniho-soudu-v-praze-v-pripadu-prahy-13-a-key-investments/",
+          "datum": "2021-01"
+        }
+      ]
+    }
+  ],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 2,
+    "oduvodneni": "Program pro rok 2026 nenalezen (konkrétnost 0). Důvěryhodnost plnění: po více než 20 letech nepřetržitého vedení bez zaznamenaného rozpadu koalice a s rozestavěným konkrétním investičním projektem (ZŠ Stodůlky) lze předpokládat funkční správu MČ, ale bez zdrojovaného přehledu konkrétních splněných slibů z roku 2022 nelze jít nad střed stupnice. Transparentnost: dohledatelná kandidátka (+1) a jmenovaná exekutivní funkce starosty (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "vodrazka-david"
+  ],
+  "mezery_v_datech": [
+    "Lokální program ODS pro Prahu 13 na rok 2026 nebyl dohledán.",
+    "Bilance plnění slibů ODS v čele MČ Praha 13 za 2022–2026 nebyla dohledána.",
+    "Cíleně ověřeno přes WebSearch: za volební období 2022–2026 nebyla dohledána žádná nová kauza vedení MČ ani starosty Vodrážky. Jediná dohledaná dosud neuzavřená kauza (Key Investments, viz kontroverze) má kořeny v roce 2010."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

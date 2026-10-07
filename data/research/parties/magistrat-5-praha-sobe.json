@@ -1,0 +1,173 @@
+{
+  "slug": "magistrat-5-praha-sobe",
+  "assembly_id": "magistrat",
+  "list_cislo": 5,
+  "nazev": "PRAHA SOBĚ",
+  "zkratka": "PRAHA SOBĚ",
+  "typ": "koalice",
+  "slozeni": [
+    "PRAHA SOBĚ",
+    "KDU-ČSL",
+    "Zelení"
+  ],
+  "web": "https://www.prahasobe.cz/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "prahasobe.cz: kampaň Adama Scheinherra, prvních 100 dní",
+        "url": "https://www.prahasobe.cz/",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org: Tomáš Kaplan (politik) - zvolen lídrem KDU-ČSL do ZHMP, leden 2026",
+        "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Kaplan_(politik)",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "PRAHA SOBĚ kandiduje v roce 2026 jako koalice vlastního hnutí s KDU-ČSL a Zelenými – na listině figurují jak lidé formálně v PRAHA SOBĚ (Scheinherr, Třeštíková, Čižinský, Čapková), tak členové KDU-ČSL (Tomáš Kaplan – pražský předseda KDU-ČSL, Pavel Mareš) a Zelených (Veronika Šmausová). Kampaň staví na obhajobě výsledků z období 2018-2022, kdy hnutí vedlo dopravu na magistrátu, a na kritice současné koalice SPOLU (ODS, TOP 09) za pomalé tempo rozjetých staveb. Klíčové sliby „prvních 100 dní“ zahrnují zrychlení výstavby 8000 městských bytů, obnovení dopravních staveb (okruh Blanka, metro/tramvaje), zahájení plánování metra O, navýšení kapacit středních škol a programy podpory bydlení pro rodiny a studenty.",
+    "priority": [
+      {
+        "oblast": "bydleni",
+        "nazev": "Zrychlení výstavby 8000 městských bytů",
+        "popis": "Mezi pěti hlavními body „prvních 100 dní“ je zrychlení rozjeté výstavby obecních bytů na čísle 8000 jednotek.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Výstavba městských bytů běží i za současné koalice, číslo je ověřitelné, ale závisí na kapacitě stavebních firem a pozemkové politice, kterou nekontroluje jen vedení magistrátu."
+        },
+        "zdroj_url": "https://www.prahasobe.cz/"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Obnovení/zrychlení rozjetých dopravních staveb (okruh Blanka, metro, tramvaje)",
+        "popis": "Program slibuje pokračovat a zrychlit stavby, které hnutí v minulém období samo zahájilo nebo prosazovalo (dostavba okruhu, tramvajové tratě, příprava metra D).",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Sliby nejsou v dostupných zdrojích doloženy konkrétními termíny ani čísly, jde o obecný závazek „zrychlit“."
+        },
+        "zdroj_url": "https://www.prahasobe.cz/"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Zahájení plánování metra O",
+        "popis": "Slib zahájit plánovací fázi nové okružní linky metra O.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o vícedekádový projekt bez vazby na rozpočet nebo harmonogram v dostupných zdrojích; i samo „zahájení plánování“ je snadno splnitelné, ale bez reálného dopadu ve volebním období."
+        },
+        "zdroj_url": "https://www.prahasobe.cz/"
+      },
+      {
+        "oblast": "skolstvi",
+        "nazev": "Navýšení kapacity středních škol",
+        "popis": "Slib rozšířit kapacity středních škol v Praze.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "neoveritelne",
+          "oduvodneni": "Bez konkrétního počtu míst nebo škol nelze ověřit splnění."
+        },
+        "zdroj_url": "https://www.prahasobe.cz/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -1.5,
+    "oduvodneni": "PRAHA SOBĚ je pražské lokální hnutí hlásící se k liberálně-progresivní, komunálně orientované politice (bydlení, veřejný prostor, menšiny, kultura), bez vyhraněné celostátní ekonomické agendy – odhad mírně vlevo od středu. Koaliční partner KDU-ČSL je hodnotově konzervativní, ale na hodnotovou osu zde váží spíše progresivní profil samotného PRAHA SOBĚ a Zelených, proto odhad spíše progresivní s nízkou jistotou kvůli smíšenému složení koalice.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "V letech 2018-2022 byla PRAHA SOBĚ součástí vládnoucí koalice (s Piráty a STAN), Adam Scheinherr byl náměstkem primátora pro dopravu. Po volbách 2022 skončila PRAHA SOBĚ v OPOZICI: navzdory tomu, že Piráti chtěli hnutí do koalice přizvat, zástupci SPOLU (ODS, TOP 09, KDU-ČSL) přítomnost PRAHA SOBĚ v budoucí radě odmítli, a Piráti nakonec přistoupili na tříčlennou koalici SPOLU-Piráti-STAN bez PRAHA SOBĚ. Jednání o koalici byla s téměř pěti měsíci nejdelší v historii Prahy po roce 1989, primátor Bohuslav Svoboda (ODS) byl zvolen až 16. února 2023.",
+    "splnene_sliby": [
+      {
+        "slib": "Rekonstrukce (nikoli demolice) Libeňského mostu",
+        "dukaz": "Scheinherr založil už v roce 2015 iniciativu „Libeňský most Nebourat, Nerozšiřovat“ a jako náměstek pro dopravu (2018-2023) prosadil variantu rekonstrukce místo plánované demolice a výstavby nového mostu.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr"
+      },
+      {
+        "slib": "Nová trojská lávka přes Vltavu po havárii 2017",
+        "dukaz": "Nová ocelová lávka byla zahájena v listopadu 2019 a otevřena 23. října 2020, v období, kdy Scheinherr řídil dopravu na magistrátu.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Trojsk%C3%A1_l%C3%A1vka"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Rekonstrukce Barrandovského mostu",
+        "dukaz": "Scheinherr jako náměstek zahájil rekonstrukci 16. května 2022 (poslední měsíce svého mandátu), samotná stavba (2022-2024) a její dokončení o rok dříve, než bylo plánováno (listopad 2024), ale už za nástupnické koalice SPOLU-Piráti-STAN. Náklady vzrostly z 594,5 mil. Kč na 1,14 mld. Kč.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Barrandovsk%C3%BD_most"
+      },
+      {
+        "slib": "Výstavba Dvoreckého mostu",
+        "dukaz": "Scheinherr jako náměstek zajistil v květnu 2022 stavební povolení a v září 2022 zahájení stavby, ale most byl otevřen až 17.-18. dubna 2026, tedy přes tři roky po jeho odchodu z funkce. Finální náklady (cca 1,45 mld. Kč) překročily plán (1,075 mld. Kč) kvůli geologickým komplikacím v řečišti Vltavy.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Dvoreck%C3%BD_most"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Scheinherrova bilance na dopravě (2018-2023) je smíšená, ale spíše pozitivní v tom, co stihl rozjet: zabránil demolici Libeňského mostu a prosadil jeho rekonstrukci, dotáhl novou trojskou lávku do provozu, a ještě v posledních měsících svého mandátu zahájil rekonstrukci Barrandovského mostu i stavbu Dvoreckého mostu – obojí ale dokončily až nástupnické koalice po jeho odchodu (Barrandovský most 2024, Dvorecký most 2026). Po volbách 2022 PRAHA SOBĚ nezůstala u moci: SPOLU hnutí odmítlo do koalice, Piráti po téměř pětiměsíčních jednáních přistoupili na koalici bez PRAHA SOBĚ. Pro rok 2026 hnutí kandiduje v nové koalici s KDU-ČSL a Zelenými, lídrem pražské KDU-ČSL a čtvrtým/pátým místem na listině je Tomáš Kaplan.",
+    "zdroje": [
+      {
+        "nazev": "cs.wikipedia.org: Adam Scheinherr",
+        "url": "https://cs.wikipedia.org/wiki/Adam_Scheinherr",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org: Zastupitelstvo hlavního města Prahy",
+        "url": "https://cs.wikipedia.org/wiki/Zastupitelstvo_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org: Bohuslav Svoboda",
+        "url": "https://cs.wikipedia.org/wiki/Bohuslav_Svoboda",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org: Dvorecký most",
+        "url": "https://cs.wikipedia.org/wiki/Dvoreck%C3%BD_most",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org: Barrandovský most",
+        "url": "https://cs.wikipedia.org/wiki/Barrandovsk%C3%BD_most",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "cs.wikipedia.org: Trojská lávka",
+        "url": "https://cs.wikipedia.org/wiki/Trojsk%C3%A1_l%C3%A1vka",
+        "datum": "2026-10-02"
+      }
+    ]
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 4,
+    "oduvodneni": "konkretnost_programu=2: „prvních 100 dní“ pojmenovává konkrétní opatření (8000 bytů, metro O, kapacity škol), ale většina bodů je bez termínů a rozpočtového krytí v dostupných zdrojích. doveryhodnost_plneni=3: v dopravní agendě (jediné měřitelné oblasti s historickým záznamem) hnutí dotáhlo část velkých staveb do fáze zahájení/povolení a jednu menší stavbu (trojská lávka) do konce, ale dokončení staveb u Barrandovského a Dvoreckého mostu nastalo už za jiné koalice – hodnoceno jako smíšené, ne jako plné selhání, protože šlo o víceleté stavby přesahující jedno funkční období. transparentnost=4: zveřejněný program, dohledatelní kandidáti s veřejnými životopisy, hlasování zastupitelů dostupné na praha.eu; chybí veřejně dostupné detailní financování kampaně 2026.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "scheinherr-adam",
+    "trestikova-hana",
+    "cizinsky-jan"
+  ],
+  "mezery_v_datech": [
+    "Přesné znění a rozpočtové krytí celého volebního programu PRAHA SOBĚ pro rok 2026 nebylo dohledáno - k dispozici jen kampaňová stránka s 'prvními 100 dny'.",
+    "Podrobnosti o formálním uzavření koaliční smlouvy PRAHA SOBĚ - KDU-ČSL - Zelení pro volby 2026 (datum, podmínky) nebyly dohledány; složení je odvozeno z příslušnosti kandidátů na listině (Kaplan a Mareš - KDU-ČSL, Šmausová - Zelení).",
+    "Nebylo možné ověřit aktuální stav trestního řízení v kauze Dozimetr (viz pripady u Adama Scheinherra) k říjnu 2026 nad rámec stavu z roku 2024."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

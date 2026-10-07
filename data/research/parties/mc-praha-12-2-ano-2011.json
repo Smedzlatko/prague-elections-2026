@@ -1,0 +1,58 @@
+{
+  "slug": "mc-praha-12-2-ano-2011",
+  "assembly_id": "mc-praha-12",
+  "list_cislo": 2,
+  "nazev": "ANO 2011",
+  "zkratka": "ANO",
+  "typ": "strana",
+  "slozeni": [
+    "ANO 2011"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": false,
+    "zdroje": [],
+    "shrnuti": "Samostatný lokální program ANO 2011 pro Prahu 12 na rok 2026 se nepodařilo dohledat. Lídryně Lenka Vedralová je místostarostkou MČ (koaliční partner ODS a TOP 09).",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": 0,
+    "hodnotova_osa": 0.5,
+    "oduvodneni": "ANO 2011 se celostátně profiluje bez jasné ekonomicko-hodnotové osy; lokální program nebyl dohledán.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "ANO 2011 byla součástí vládnoucí koalice MČ Praha 12 s ODS a TOP 09 po celé volební období, s devíti mandáty z voleb 2022 (shodně s ODS); Lenka Vedralová zastávala funkci místostarostky.",
+    "splnene_sliby": [],
+    "castecne": [
+      {
+        "slib": "Pokračování velkých investic MČ (tramvaj do Komořan, nová škola, parkovací domy)",
+        "dukaz": "ANO jako koaliční partner s místostarostenskou funkcí (Vedralová) nese spoluodpovědnost za investiční agendu radnice, kterou pro další roky ohlašuje starosta Kos (ODS) – tramvaj do Komořan, nová škola pro 810 žáků, parkovací domy. Jde o ohlášené plány do příštích let, ne o doložené dokončení v období 2022-2026, a zásluha není v dostupných zdrojích rozlišena mezi koaličními partnery.",
+        "zdroj_url": "https://www.msn.com"
+      }
+    ],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako koaliční partner s exekutivní funkcí byla ANO 2011 součástí vedení MČ po celé období, ale konkrétní bilanci jejích vlastních slibů z roku 2022 se nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 0,
+    "doveryhodnost_plneni": 2,
+    "transparentnost": 2,
+    "oduvodneni": "Program pro rok 2026 nenalezen (konkrétnost 0). Důvěryhodnost plnění: ANO drží post místostarostky po celé období bez zaznamenaného rozpadu koalice, ale zdrojovaný přehled konkrétních splněných slibů z roku 2022 se nepodařilo dohledat. Skóre 2 odráží chybějící doložený vlastní přínos, ne prokázané pochybení. Transparentnost: dohledatelná kandidátka (+1) a jmenovaná exekutivní funkce lídryně (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "vedralova-lenka"
+  ],
+  "mezery_v_datech": [
+    "Lokální program ANO 2011 pro Prahu 12 na rok 2026 nebyl dohledán. Zkoušeno: detail listiny na programydovoleb.cz (strana/170886, bez odkazu na vlastní web), web MČ praha12.cz (sekce Noviny Prahy 12/Volby 2026 bez zveřejněných čísel z podzimu 2026 ani odkazů na programy listin), doména anobudepraha12.cz (neexistuje).",
+    "Bilance plnění slibů ANO v koalici MČ Praha 12 za 2022–2026 nebyla dohledána.",
+    "Program nedohledán i přes opakovaný WebSearch (ověřeno 2026-10-03): zkoušeno \"ANO 2011 Praha 12 Vedralová program 2026 volby\" – nalezen jen celopražský program ANO (lídr Jan Hušbauer: dokončení Městského okruhu, P+R parkoviště, nová nemocnice u FN Královské Vinohrady), který se dle instrukcí nekopíruje jako lokální program Prahy 12 bez dokladu totožnosti.",
+    "Dodatečné ověření 2026-10-06: lokální program nebyl dohledán ani opakovaným WebSearch (dotazy: „ANO 2011 Praha 12 program komunální volby 2026“); výsledky obsahovaly jen výsledky voleb 2022 a celopražské zprávy. Chybějící program neznamená, že jej listina nemá, pouze že není veřejně dohledatelný."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-06"
+}

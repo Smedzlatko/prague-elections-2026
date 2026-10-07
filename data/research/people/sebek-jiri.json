@@ -1,0 +1,60 @@
+{
+  "slug": "sebek-jiri",
+  "name_key": "sebek-jiri",
+  "cele_jmeno": "Bc. Jiří Šebek",
+  "rok_narozeni": null,
+  "strana": "Hnutí Občanů Počernic a NEZÁVISLÍ",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-20",
+      "list_cislo": 1,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Podnikatel, zastupitel MČ Praha 20 zvolený v roce 2022 jako nezávislý kandidát (pořadí 4, 1138 preferenčních hlasů, 4,12 %). Vede nejsilnější listinu z voleb 2022 – Hnutí Občanů Počernic, PRO Počernice a NEZÁVISLÍ (7 mandátů z 25, 24,93 %) – která však zůstala v opozici vůči koalici vedené starostou Petrem Měšťanem (ODS). V radničním zpravodaji Hornopočernický zpravodaj publikuje opoziční příspěvky, např. k měření rychlosti a bezpečnosti silničního provozu v Horních Počernicích.",
+  "vzdelani": "Bc.",
+  "profese": "podnikatel",
+  "politicka_historie": [
+    {
+      "od": "2022-11",
+      "do": null,
+      "funkce": "zastupitel MČ Praha 20 (opozice)",
+      "organizace": "Zastupitelstvo MČ Praha 20",
+      "zdroj_url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitel bez výkonné funkce nelze osobní plnění slibů hodnotit podle metodiky.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [
+    {
+      "text": "Nabízí se proto otázka, proč se v daném seznamu nenachází žádné místo v Horních Počernicích a zda byla možnost jejich zařazení projednávat.",
+      "kontext": "Opoziční komentář k absenci Horních Počernic v seznamu míst pro měření rychlosti vozidel, Hornopočernický zpravodaj 10/2026.",
+      "zdroj_url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf",
+      "datum": "2026-09-01"
+    }
+  ],
+  "zdroje": [
+    {
+      "nazev": "Hornopočernický zpravodaj 10/2026",
+      "url": "https://www.pocernice.cz/app/uploads/2026/09/HPZ_10-2026.pdf",
+      "datum": "2026-09-01"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození a vzdělání (obor) nebyly dohledány.",
+    "Vlastní program listiny pro volby 2026 nebyl dohledán."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

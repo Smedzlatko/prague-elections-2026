@@ -1,0 +1,27 @@
+{
+  "slug": "kastovsky-tomas",
+  "name_key": "kastovsky-tomas",
+  "cele_jmeno": "MUDr. Tomáš Kaštovský, MBA",
+  "rok_narozeni": 1976,
+  "strana": "ODS",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 12, "poradi": 9}],
+  "role": "inkumbent",
+  "profil": "Tomáš Kaštovský je praktický lékař a zastupitel hl. m. Prahy, zvolen ve volbách 2022 za SPOLU. Podrobnější veřejně dohledatelný politický životopis se v dostupné rešerši nepodařilo ověřit nad rámec údajů z brífu ČSÚ.",
+  "vzdelani": "lékařství (MUDr.), MBA",
+  "profese": "praktický lékař",
+  "politicka_historie": [
+    {"od": "2022", "do": null, "funkce": "zastupitel hl. m. Prahy (SPOLU, zvolen přímo)", "organizace": "Hlavní město Praha", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez výkonné (radní/náměstkovské) funkce na magistrátu se plnění slibů jednotlivého zastupitele hodnotit nedá; chybí i dohledaný program.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": "Jako praktický lékař může mít vazby na zdravotnický sektor relevantní pro zdravotní agendu magistrátu, nedohledáno podrobněji."},
+  "citace": [],
+  "zdroje": [],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat samostatný veřejný profil s daty politické historie.",
+    "Přesný rok narození (1976) je odhad z udaného věku 50 let v brífu k říjnu 2026."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "mc-praha-19-2-sdruzeni-nezavislych-kandidatu-kbely-nas",
+  "assembly_id": "mc-praha-19",
+  "list_cislo": 2,
+  "nazev": "Sdružení nezávislých kandidátů Kbely náš domov",
+  "zkratka": "Kbely náš domov",
+  "typ": "M",
+  "slozeni": [
+    "NK"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "Kbely náš domov - náš volební program",
+        "url": "https://kbelynasdomov.info/cel-volebn-program",
+        "datum": "2026-10-03"
+      }
+    ],
+    "shrnuti": "Dominantní lokální hnutí z voleb 2022 (63,09 %, 10 z 19 mandátů), vedené starostkou Ivanou Šestákovou, zveřejnilo rozsáhlý program rozdělený do deseti oblastí (školství, sociální péče, hospodaření, bydlení, životní prostředí, kultura, sport, bezpečnost, energetika, doprava). Slibuje mimo jiné novou budovu ZŠ a střední školu v Kbelích, modernizaci přes 400 obecních bytů, nový bytový dům za Spartakem a dopravní investice (tramvaj do Kbel, nová železniční zastávka Jilemnická, východní obchvat).",
+    "priority": [
+      {
+        "oblast": "skolstvi",
+        "nazev": "Nová budova ZŠ a realizace střední školy v Kbelích",
+        "popis": "Výstavba nové budovy základní školy pro 1. a 2. třídy a realizace střední školy v Kbelích, nová ZUŠ ve spolupráci s VinoHra, modernizace školních budov.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Výstavba škol je v pravomoci MČ/hl. m. Prahy, ale závisí na pozemcích, dotacích a kapacitě investic; program neuvádí termín ani rozpočet."
+        },
+        "zdroj_url": "https://kbelynasdomov.info/cel-volebn-program"
+      },
+      {
+        "oblast": "bydleni",
+        "nazev": "Modernizace obecních bytů a nový bytový dům za Spartakem",
+        "popis": "Modernizace více než 400 obecních bytů a výstavba nového bytového domu za Spartakem, dostupné bydlení pro seniory a mladé rodiny.",
+        "citace": "Modernizace více než 400 obecních bytů",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Jde o majetek MČ, realizace je tedy v její moci, ale chybí termín dokončení a rozpočtové krytí."
+        },
+        "zdroj_url": "https://kbelynasdomov.info/cel-volebn-program"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Dopravní investice – východní obchvat, tramvaj a nová železniční zastávka",
+        "popis": "Východní obchvat (Mladoboleslavská-Novopacká), tramvaj do Kbel, nová železniční zastávka Jilemnická, parkovací dům v Železnobrodské ulici, elektrobusová linka k metru Letňany.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "nizka",
+          "oduvodneni": "Jde o nadmístní investice (tramvaj, železnice, obchvat) závislé na hl. m. Praze, Správě železnic a dalších investorech, které MČ sama nekontroluje."
+        },
+        "zdroj_url": "https://kbelynasdomov.info/cel-volebn-program"
+      },
+      {
+        "oblast": "socialni",
+        "nazev": "Rozšíření sociálních služeb pro seniory",
+        "popis": "Rozšíření terénní péče a právní poradny pro seniory, projekt domu seniorů s pečovatelskou službou, rozšíření Senior Taxi pro seniory nad 80 let.",
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Sociální služby a dům seniorů jsou v kompetenci MČ, ale projekt domu seniorů vyžaduje investiční náklady a pozemek, bez bližší specifikace v programu."
+        },
+        "zdroj_url": "https://kbelynasdomov.info/cel-volebn-program"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Transparentní úřad a participativní rozpočet",
+        "popis": "Moderní, transparentní úřad s digitálními službami, odpovědné hospodaření s dotačními zdroji, pokračování participativního rozpočtu.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Jde o správní opatření plně v moci MČ, bez nutnosti vnějšího schvalování, ale slib je formulován obecně bez měřitelných kritérií."
+        },
+        "zdroj_url": "https://kbelynasdomov.info/cel-volebn-program"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": true,
+    "role": "Se ziskem 10 z 19 mandátů (63,09 %) má Kbely náš domov samostatnou většinu v zastupitelstvu a vládne bez koaličních partnerů; Ivana Šestáková je starostkou, na listině dále kandidují místostarosta Vladimír Olmr a radní Tomáš Haniak a Radek Petráň (oba členové redakční rady zpravodaje Kbelák).",
+    "splnene_sliby": [
+      {
+        "slib": "Klimatizace v MŠ Letců a Albatros, výměna podlahových krytin v MŠ Letců.",
+        "dukaz": "Zpravodaj Kbelák č. 105 (podzim 2026) uvádí dokončené instalace klimatizací a výměnu lina v mateřských školách.",
+        "zdroj_url": "https://www.praha19.cz/app/uploads/2026/09/Kbelak_c.-105_26_KOMPLET-MAKETA-17.8-1.pdf"
+      },
+      {
+        "slib": "Zahájení výstavby nové budovy ZŠ („dvanáctitřídka“) na místě staré družiny.",
+        "dukaz": "Kbelák č. 105: byla zahájena demolice staré budovy družiny (vč. odstranění azbestu) pro stavbu nové 12třídní základní školy po „náročném shánění dotací“; k podzimu 2026 jde o zahájenou, nikoli dokončenou výstavbu.",
+        "zdroj_url": "https://www.praha19.cz/app/uploads/2026/09/Kbelak_c.-105_26_KOMPLET-MAKETA-17.8-1.pdf"
+      }
+    ],
+    "castecne": [
+      {
+        "slib": "Rekonstrukce hřbitovních kolumbárií a elektroinstalací v ZŠ (stará budova)",
+        "dukaz": "Kbelák č. 105: renovace kolumbárií je „před dokončením“, rekonstrukce elektroinstalací ve škole probíhá na dvě etapy a dokončí se až v následujícím roce.",
+        "zdroj_url": "https://www.praha19.cz/app/uploads/2026/09/Kbelak_c.-105_26_KOMPLET-MAKETA-17.8-1.pdf"
+      }
+    ],
+    "nesplnene_sliby": [
+      {
+        "slib": "Revitalizace dětského hřiště v Centrálním parku z dotace Nadace ČEZ.",
+        "dukaz": "Kbelák č. 105: Nadace ČEZ žádost o dotaci zamítla s odůvodněním, že Praha je „bohatá“; MČ musí hledat jiné financování.",
+        "zdroj_url": "https://www.praha19.cz/app/uploads/2026/09/Kbelak_c.-105_26_KOMPLET-MAKETA-17.8-1.pdf"
+      }
+    ],
+    "shrnuti": "Kbely náš domov vládne samostatně (10/19 mandátů) a radniční zpravodaj Kbelák dokládá řadu konkrétních, byť převážně menších investic (školky, škola, hřbitov) a i jeden neúspěch (zamítnutá dotace na hřiště). Jde o zdroj vydávaný samotnou MČ (zdroj_strana) s redakční radou zahrnující starostku a radní, nezávislé médium bilanci nepotvrzuje. Vlastní psaný volební program hnutí pro roky 2022 i 2026 se nepodařilo dohledat."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": 3,
+    "transparentnost": 3,
+    "oduvodneni": "konkretnost_programu 3: program na kbelynasdomov.info/cel-volebn-program obsahuje deset tematických oblastí s řadou pojmenovaných konkrétních opatření (nová ZŠ a SŠ, obchvat, tramvaj, nový bytový dům, biotop v Pralese) a část z nich má i čísla (přes 400 modernizovaných bytů), většina ale postrádá termíny a rozpočtové krytí. doveryhodnost_plneni 3: zpravodaj dokládá směs dokončených, rozpracovaných a jednoho neúspěšného (zamítnutá dotace) projektu bez výrazného obratu, ale zdrojem je výhradně periodikum MČ (zdroj_strana) s redakční radou zahrnující starostku, a program z roku 2022 nebyl dohledán, takže nelze měřit poměr ke konkrétním předchozím slibům. transparentnost 3: +1 za zveřejněný program, +1 za web s kandidáty, +1 za dohledatelné zápisy zastupitelstva MČ.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "sestakova-ivana"
+  ],
+  "mezery_v_datech": [
+    "Program nebyl nalezen na webu kbely.cz (prázdná WordPress stránka), ale na kbelynasdomov.info/cel-volebn-program; nepodařilo se ověřit, zda jde o totožný text jako program z roku 2022, ani rozpočtové krytí uvedených investic.",
+    "Bilance vychází výhradně z radničního zpravodaje Kbelák (zdroj_strana, redakční rada zahrnuje starostku), nebyla ověřena nezávislým zdrojem."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-03"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "kucera-petr",
+  "name_key": "kucera-petr",
+  "cele_jmeno": "Ing. arch. Petr Kučera, Ph.D.",
+  "rok_narozeni": 1985,
+  "strana": "Bez politické příslušnosti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-21",
+      "list_cislo": 2,
+      "poradi": 2
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "Ing. arch. Petr Kučera, Ph.D. je zastupitel/ka MČ Praha 21, v roce 2022 zvolen/a na listině „Nezávislý kandidát“ (4. místo, 592 preferenčních hlasů). Pro volby 2026 kandiduje na listině „STAROSTOVÉ A NEZÁVISLÍ – ÚJEZD ŽIJE“ (2. místo). Profesně: architekt a urbanista, ředitel NKP Vyšehrad, zastupitel Praha 21 od 2022.",
+  "vzdelani": null,
+  "profese": "architekt a urbanista, ředitel NKP Vyšehrad, zastupitel Praha 21 od 2022",
+  "politicka_historie": [
+    {
+      "od": "2022-10",
+      "do": null,
+      "funkce": "zastupitel/ka MČ Praha 21 (zvolen/a za Nezávislý kandidát)",
+      "organizace": "MČ Praha 21",
+      "zdroj_url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako řadový zastupitel/radní bez samostatně ověřené výkonné funkce nebyl v rešerši dohledán dostatečný podklad pro hodnocení plnění slibů; viz mezery_v_datech.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Kandidátní listina ČSÚ / programydovoleb.cz, MČ Praha 21 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/538949",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Hlubší veřejně dohledaný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec dat ČSÚ a kandidátní listiny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

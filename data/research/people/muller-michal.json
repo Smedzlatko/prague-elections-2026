@@ -1,0 +1,36 @@
+{
+  "slug": "muller-michal",
+  "name_key": "muller-michal",
+  "cele_jmeno": "Mgr. Michal Müller",
+  "rok_narozeni": null,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {"assembly_id": "mc-praha-1", "list_cislo": 1, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Advokát, od voleb 2022 radní MČ Praha 1 za ODS s gescí zdravotnictví a nemocnic (mj. dohled nad Nemocnicí Na Františku, kterou MČ zřizuje). V roce 2022 byl zvolen z 4. místa kandidátky ODS, pro rok 2026 vede listinu jako lídr. Věk podle briefu 49 let.",
+  "vzdelani": "Právnické vzdělání (titul Mgr., profese advokát).",
+  "profese": "Advokát; radní MČ Praha 1.",
+  "politicka_historie": [
+    {"od": "2022-11", "do": "2026-10", "funkce": "radní MČ Praha 1 (zdravotnictví, nemocnice)", "organizace": "MČ Praha 1", "zdroj_url": "https://www.praha1.cz/politicka-reprezentace/rada/clenove-rady/"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako radní pro zdravotnictví měl na starosti dohled nad Nemocnicí Na Františku a zdravotní péčí MČ; v rešerši se nepodařilo dohledat nezávislý zdroj hodnotící konkrétní výsledky jeho gesce (dokončené/nedokončené projekty, audit, kauzy). Skóre proto zůstává null, nejde o zjištěnou nulu.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "praha1.cz: Členové rady", "url": "https://www.praha1.cz/politicka-reprezentace/rada/clenove-rady/", "datum": "2026-10-03"}
+  ],
+  "mezery_v_datech": [
+    "Rok narození nebyl v briefu uveden přesně (jen věk 49 let v době sestavení ČSÚ dat), nebyl dohledán ani nezávisle ověřen.",
+    "Detailní bilance jeho konkrétních kroků jako radního pro zdravotnictví 2022-2026 nebyla dohledána - zápisy rady/zastupitelstva Prahy 1 nebyly v rešerši systematicky zpracovány.",
+    "Vzdělání (konkrétní právnická fakulta) a případná angažovanost v advokátní kanceláři nebyly ověřeny."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "patockova-anna",
+  "name_key": "patockova-anna",
+  "cele_jmeno": "Ing. et Ing. Anna Patočková",
+  "rok_narozeni": null,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-3",
+      "list_cislo": 2,
+      "poradi": 1
+    }
+  ],
+  "role": "lidr",
+  "profil": "Projektová manažerka, zastupitelka MČ Praha 3 (dle briefu bez uvedeného inkumbentství z roku 2022 – buď byla zvolena z nižšího místa, nebo doplnila zastupitelstvo během období). Pro rok 2026 vede listinu ANO 2011, která v letech 2022-2026 působila v opozici vůči koalici TOPSTAN+Piráti+PRAHA 3 SOBĚ+Zelení. Věk podle briefu 39 let.",
+  "vzdelani": "Dva inženýrské tituly (Ing. et Ing.), obory neověřeny.",
+  "profese": "Projektová manažerka; zastupitelka MČ Praha 3.",
+  "politicka_historie": [
+    {
+      "od": "2022-11",
+      "do": "2026-10",
+      "funkce": "zastupitelka MČ Praha 3 (opozice)",
+      "organizace": "MČ Praha 3",
+      "zdroj_url": null
+    }
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Jako opoziční zastupitelka bez výkonné funkce v radě MČ nemá podle metodiky přiřazené skóre plnění slibů.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "programydovoleb.cz: ANO 2011 Praha 3 - kandidáti",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500097",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Rok narození, obory vzdělání a přesný okamžik nástupu do zastupitelstva (zda od voleb 2022 nebo jako náhradnice) nebyly ověřeny.",
+    "Program listiny ANO 2011 pro Prahu 3 2026 se nepodařilo dohledat.",
+    "Detailní bilance jejího opozičního působení 2022-2026 nebyla dohledána."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-03"
+}

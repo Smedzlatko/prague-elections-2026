@@ -1,0 +1,185 @@
+{
+  "slug": "vodrazka-david",
+  "name_key": "vodrazka-david",
+  "cele_jmeno": "Ing. David Vodrážka",
+  "rok_narozeni": 1971,
+  "strana": "ODS",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "magistrat",
+      "list_cislo": 12,
+      "poradi": 7
+    },
+    {
+      "assembly_id": "mc-praha-13",
+      "list_cislo": 9,
+      "poradi": 1
+    }
+  ],
+  "role": "inkumbent",
+  "profil": "David Vodrážka je od roku 2002 starostou MČ Praha 13 (přes dvě desetiletí v čele radnice) a dlouholetý člen ODS (od 1998). Na magistrátu je zastupitelem (2006-2010 a znovu od 2018), v letech 2010-2013 byl poslancem PSP ČR a předsedou zahraničního výboru. V letech 2008-2010 byl prvním místopředsedou ODS, dnes je místopředsedou pražské organizace strany. Od března 2010 předsedá dozorčí radě Dopravního podniku hl. m. Prahy.",
+  "vzdelani": null,
+  "profese": "starosta MČ Praha 13",
+  "politicka_historie": [
+    {
+      "od": "1998",
+      "do": null,
+      "funkce": "člen ODS",
+      "organizace": "ODS",
+      "zdroj_url": "https://www.ods.cz/region.prazsky/profil/david-vodrazka"
+    },
+    {
+      "od": "2002",
+      "do": null,
+      "funkce": "starosta MČ Praha 13 (obhájeno 2022)",
+      "organizace": "MČ Praha 13",
+      "zdroj_url": "https://www.praha13.cz/urad-mestske-casti/vedeni-uradu/"
+    },
+    {
+      "od": "2006",
+      "do": "2010",
+      "funkce": "zastupitel hl. m. Prahy, 1. místopředseda klubu ODS",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://www.ods.cz/region.prazsky/profil/david-vodrazka"
+    },
+    {
+      "od": "2008-12",
+      "do": "2010-06",
+      "funkce": "1. místopředseda ODS",
+      "organizace": "ODS",
+      "zdroj_url": "https://www.ods.cz/region.prazsky/profil/david-vodrazka"
+    },
+    {
+      "od": "2010-05",
+      "do": "2013-08",
+      "funkce": "poslanec PSP ČR, předseda zahraničního výboru",
+      "organizace": "Poslanecká sněmovna PČR",
+      "zdroj_url": "https://www.ods.cz/region.prazsky/profil/david-vodrazka"
+    },
+    {
+      "od": "2010-03",
+      "do": null,
+      "funkce": "předseda dozorčí rady Dopravního podniku hl. m. Prahy",
+      "organizace": "DPP",
+      "zdroj_url": "https://www.ods.cz/region.prazsky/profil/david-vodrazka"
+    },
+    {
+      "od": "2018",
+      "do": null,
+      "funkce": "zastupitel hl. m. Prahy",
+      "organizace": "Hlavní město Praha",
+      "zdroj_url": "https://www.hlidacstatu.cz/osoba/david-vodrazka"
+    }
+  ],
+  "vysledky": [],
+  "pripady": [
+    {
+      "nazev": "Trestní oznámení ve věci prodeje pozemků TCP Vidoule za podhodnocenou cenu",
+      "typ": "policejni",
+      "obdobi": "2000–2010 (prodeje); trestní oznámení podáno 2013",
+      "popis": "Hl. m. Praha podalo trestní oznámení na 22 osob z bývalého vedení městské akciové společnosti TCP Vidoule (později Rozvojové projekty Praha), která v letech 2000–2010 uzavřela 34 smluv na prodej pozemků na Vidouli a ve Stodůlkách za zhruba třetinu obvyklé ceny kupujícímu Skanska. Právní zástupce magistrátu škodu odhadl na 346 milionů Kč. Mezi oznámenými je i David Vodrážka, starosta Prahy 13, jako člen tehdejšího vedení společnosti, který měl podepsat část smluv.",
+      "stav": "bez_zaveru",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Vodrážka tehdy pro ČT24 oznámení odmítl jako předvolební taktiku: „Vzhledem k tomu, že je před volbami, tak mě to nepřekvapuje“ (ČT24, 29. 8. 2013). Zdroj e15 jeho vyjádření neobsahuje.",
+      "zdroje": [
+        {
+          "nazev": "e15.cz: Prahu prý připravili o 346 milionů. Vodrážka a spol. čelí trestnímu oznámení",
+          "url": "https://www.e15.cz/domaci/prahu-pry-pripravili-o-346-milionu-vodrazka-a-spol-celi-trestnimu-oznameni-1017265",
+          "datum": "2013-08-29"
+        },
+        {
+          "nazev": "ČT24: Pražští politici napříč stranami čelí trestnímu oznámení kvůli pozemkům",
+          "url": "https://ct24.ceskatelevize.cz/clanek/domaci/prazsti-politici-napric-stranami-celi-trestnimu-oznameni-kvuli-pozemkum-314517",
+          "datum": "2013-08-29"
+        }
+      ]
+    },
+    {
+      "nazev": "Investice 200 mil. Kč do Key Investments a spor o jejich vrácení před krachem firmy",
+      "typ": "soudni",
+      "obdobi": "2010 (investice a výběr); soudní spor 2012–dosud",
+      "popis": "MČ Praha 13 v roce 2010 za starosty Vodrážky vložila cca 200 milionů Kč do cenných papírů u obchodníka Key Investments, který následně o licenci k obchodování s cennými papíry přišel a skončil v insolvenci. Praha 13 na rozdíl od většiny ostatních klientů (vč. Prahy 6 a 10) stihla krátce před krachem získat zpět celou investovanou částku i s úroky (cca 206,9 mil. Kč). Insolvenční správce tuto výplatu napadl u soudu jako zvýhodnění jednoho věřitele na úkor ostatních. Vrchní soud v Praze v dubnu 2018 žalobu správce zamítl a rozhodnutí ve prospěch Prahy 13 potvrdil jako pravomocné, Nejvyšší soud ale v roce 2021 toto rozhodnutí zrušil a vrátil věc k novému projednání, protože podle něj nebylo dostatečně posouzeno, zda výplata nepoškodila ostatní věřitele.",
+      "stav": "probiha",
+      "zavaznost": "stredni",
+      "reakce_dotcene_osoby": "Vodrážka k vrácení peněz v roce 2018 uvedl, že MČ získala zpět „částku převyšující 206 mil. Kč, tedy investovanou částku i s úroky“ (praha13.cz, 23. 4. 2018). K obnovenému řízení po zásahu Nejvyššího soudu (2021) nebylo dohledáno jeho aktuální vyjádření.",
+      "zdroje": [
+        {
+          "nazev": "praha13.cz: Praha 13 vyhrála soudní řízení v kauze Key Investments",
+          "url": "https://www.praha13.cz/praha-13-vyhrala-soudni-rizeni-v-kauze-key-investments-2/",
+          "datum": "2018-04-23"
+        },
+        {
+          "nazev": "Hospodářské noviny (byznys.hn.cz): Další šance pro věřitele Key Investments. Nejvyšší soud chce prověřit, zda jejich peníze nedostala Praha 13",
+          "url": "https://byznys.hn.cz/c1-67867320-nad-prahou-13-se-opet-vznasi-duch-key-investments-proverte-zda-nedostala-penize-na-ukor-ostatnich-veritelu-rekl-nejvyssi-soud",
+          "datum": "2021"
+        },
+        {
+          "nazev": "Česká justice: Nejvyšší soud zrušil rozhodnutí Vrchního soudu v Praze v případu Prahy 13 a Key Investments",
+          "url": "https://www.ceska-justice.cz/2021/01/nejvyssi-soud-zrusil-rozhodnuti-vrchniho-soudu-v-praze-v-pripadu-prahy-13-a-key-investments/",
+          "datum": "2021-01"
+        }
+      ]
+    },
+    {
+      "nazev": "Znemožnění vystoupení občana na zastupitelstvu Prahy 13 (trestní oznámení A. Skondrojanise)",
+      "typ": "medialni",
+      "obdobi": "2009",
+      "popis": "Starosta Vodrážka nechal na zasedání zastupitelstva Prahy 13 po občanovi Aristidisi Skondrojanisovi, který chtěl informovat o petici za zlepšení bezpečnosti na Velké Ohradě, požadovat prokázání trvalého bydliště nebo vlastnictví nemovitosti v MČ; když to neudělal, nebylo mu umožněno vystoupit. Skondrojanis podal trestní oznámení pro porušení osobní důstojnosti.",
+      "stav": "bez_zaveru",
+      "zavaznost": "nizka",
+      "reakce_dotcene_osoby": "Vodrážka s tím, že Skondrojanisovi nebylo umožněno vystoupit, souhlasil a argumentoval, že postup byl v souladu s jednacím řádem zastupitelstva, protože oznamovatel neprokázal vztah k MČ (Deník.cz, HN.cz, 2009).",
+      "zdroje": [
+        {
+          "nazev": "Deník.cz: Starosta Prahy 13 David Vodrážka čelí trestnímu oznámení",
+          "url": "https://www.denik.cz/cesko/starosta-prahy-david-vodrazka-celi-trestnimu-ozna/",
+          "datum": "2009-09-26"
+        },
+        {
+          "nazev": "HN.cz: Vodrážka nenechal vystoupit oponenta. Ten podal trestní oznámení",
+          "url": "https://domaci.hn.cz/c1-38422880-vodrazka-nenechal-vystoupit-oponenta-ten-podal-trestni-oznameni",
+          "datum": "2009"
+        }
+      ]
+    }
+  ],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Vodrážka je přes dvacet let starostou Prahy 13, ale rešerší se nepodařilo dohledat zdrojovaný seznam jeho konkrétních slibů z voleb 2022 na úrovni MČ a jejich plnění.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "ODS: profil David Vodrážka",
+      "url": "https://www.ods.cz/region.prazsky/profil/david-vodrazka",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "MČ Praha 13: Vedení úřadu",
+      "url": "https://www.praha13.cz/urad-mestske-casti/vedeni-uradu/",
+      "datum": "2026-10-03"
+    },
+    {
+      "nazev": "Hlídač státu: David Vodrážka",
+      "url": "https://www.hlidacstatu.cz/osoba/david-vodrazka",
+      "datum": "2026-10-03"
+    }
+  ],
+  "mezery_v_datech": [
+    "Vzdělání (obor) se nepodařilo dohledat.",
+    "Přesný rok narození (1971) je odhad z udaného věku 55 let v brífu k říjnu 2026 (brief k Praze 13 uvádí věk 55, brief k magistrátu uváděl 55 let také — konzistentní).",
+    "Cíleně ověřeno přes WebSearch (hlidacstatu.cz, registr smluv, ČT24, Deník, e15, Pražský deník, HN, Česká justice): za aktuální volební období 2022–2026 nebyla dohledána žádná nová kauza Davida Vodrážky. Dohledané tři případy (prodej pozemků TCP Vidoule, znemožnění vystoupení občana, spor o Key Investments) všechny spadají do let 2009–2013, resp. mají kořeny v letech 2000–2010 — pro posledních cca 13 let (od 2013) se žádná nová kauza nenašla. Je to doložený nulový nález za aktuální období, nikoli mezera v rešerši.",
+    "Dohledané dvě starší trestněprávní věci (prodej pozemků TCP Vidoule z let 2000–2010, trestní oznámení 2013; a znemožnění vystoupení občana na zastupitelstvu 2009) jsou obě bez doloženého výsledku řízení — nepodařilo se najít zprávu o tom, jak byly uzavřeny (odloženo, obžaloba, zastaveno apod.). Uvedeny jsou proto se stavem 'bez_zaveru'.",
+    "U sporu o Key Investments se nepodařilo dohledat výsledek řízení po zrušujícím rozhodnutí Nejvyššího soudu z roku 2021 (novější zprávy o pokračování/ukončení spotu v letech 2022–2026 nebyly nalezeny) — stav je proto uveden jako 'probíhá', s rizikem, že mezitím mohlo dojít k rozhodnutí, které se nedostalo do dohledaných zdrojů.",
+    "Hlídač státu uvádí, že David Vodrážka je zapojen v 7 soukromých firmách a 5 organizacích a sedí v dozorčí radě/představenstvu Pražské energetiky (PRE) jako krajský zastupitel (nikoli jako starosta) – to je legální způsob obcházení zákazu kumulace funkcí pro starosty, dlouhodobě kritizovaný opozicí (Piráti) u pražských energetických firem obecně, ne specificky u Vodrážky. Souhrnná čísla o dotacích (117 dotací, 20,4 mld. Kč) u firem 'navázaných' na něj se vztahují k velkým firmám jako PRE, kde je jedním z mnoha členů dozorčích orgánů — nejde o doklad osobního pochybení, proto se do `pripady[]` nezařazuje.",
+    "Pro volby 2026 vede v MČ Praha 13 listinu č. 9 'ODS s podporou nezávislých' jako lídr (1. místo).",
+    "Doložený nulový nález, ověřeno 6. 10. 2026: (1) WebSearch „Vodrážka kauza / zakázka / konflikt zájmů“ i za rok 2025–2026 – nalezeny jen výše uvedené případy z let 2009–2013 a spor o Key Investments; (2) Hlídač státu, subjekt MČ Praha 13 (IČO 00241687): K-Index úroveň C („částečně příznivé podmínky pro rizikové jednání“), 6 smluv bez uvedené ceny (2,75 %), 5 smluv s cenou těsně pod zadávacím limitem; Hlídač výslovně uvádí, že tyto automatické ukazatele neprokazují porušení zákona; (3) žádná zpráva o trestním stíhání, obžalobě ani rozhodnutí NKÚ či ÚOHS týkající se Vodrážky osobně nebyla v dostupných zdrojích nalezena. Nález tedy neznamená, že kauzy nejsou – jen že se v ověřených zdrojích nenašly."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-06"
+}

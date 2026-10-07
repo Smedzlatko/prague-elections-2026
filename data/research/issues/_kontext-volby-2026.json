@@ -1,0 +1,553 @@
+{
+  "slug": "_kontext-volby-2026",
+  "nazev": "Kontext komunálních voleb 2026 v Praze",
+  "popis": "Volební systém, dosavadní vládnutí 2022-2026, historie výsledků, dostupné předvolební průzkumy, kandidáti na primátora a rozbor možných povolebních koalic.",
+  "volebni_system": {
+    "popis": "Do Zastupitelstva hlavního města Prahy (ZHMP) se volí 65 členů najednou, celá Praha tvoří jediný volební obvod. Souběžně probíhají samostatné volby do zastupitelstev jednotlivých 57 městských částí (obvodem je vždy daná městská část). Volič tedy dostává DVĚ oddělené sady hlasovacích lístků a odevzdává je do dvou oddělených obálek – jednu pro ZHMP, druhou pro svou městskou část.",
+    "mandatu_zhmp": 65,
+    "klauzule": "5 % z celkového počtu platných hlasů pro postup strany/koalice do přerozdělování mandátů v ZHMP (§ 45 zákona č. 491/2001 Sb. ve spojení s obecnou úpravou uzavírací klauzule pro komunální volby).",
+    "panasovani_a_krizkovani": "Volič může buď označit křížkem ve čtverečku v záhlaví sloupce jednu volební stranu (tím dá hlas všem jejím kandidátům v pořadí na lístku), nebo může křížkovat jednotlivé kandidáty napříč různými stranami (panašování), nebo oba způsoby zkombinovat. Nejvyšší počet křížků u jednotlivých kandidátů je omezen počtem volených členů zastupitelstva - pro ZHMP tedy maximálně 65 křížků u kandidátů.",
+    "dva_listky": "Volič dostává a odevzdává samostatný lístek pro volbu do ZHMP a samostatný lístek pro volbu zastupitelstva své městské části - jde o dvě nezávislé volby s různým počtem volených členů i jinými kandidátními listinami.",
+    "zdroje": [
+      {
+        "nazev": "Zákon č. 491/2001 Sb., o volbách do zastupitelstev obcí",
+        "url": "https://www.zakonyprolidi.cz/cs/2001-491",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Zastupitelstvo hlavního města Prahy - Wikipedia",
+        "url": "https://cs.wikipedia.org/wiki/Zastupitelstvo_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+        "datum": "2026-10-02"
+      }
+    ],
+    "mezery_v_datech": [
+      "Přesná formulace a číslo paragrafu pro 5% uzavírací klauzuli nebyly ověřeny doslovnou citací zákona - doporučeno ověřit přesné znění § 45 a navazujících ustanovení před publikací."
+    ]
+  },
+  "soucasna_koalice": {
+    "obdobi": "2022-2026",
+    "strany": [
+      "SPOLU (ODS, TOP 09, KDU-ČSL)",
+      "Piráti",
+      "STAN"
+    ],
+    "primator": {
+      "jmeno": "Bohuslav Svoboda",
+      "strana": "ODS",
+      "od": "2023-02-16"
+    },
+    "popis": "Volby 2022 vyhrála koalice SPOLU pro Prahu (19 mandátů), druhá skončila ANO 2011 (14), třetí Piráti (13), čtvrtá Praha sobě (11), pátá STAN (5). Koaliční smlouva mezi SPOLU, Piráty a STAN byla podepsána až 15. 2. 2023 – jednání trvala téměř pět měsíců od voleb, což bylo v rámci novodobé historie pražské komunální politiky nejdelší vyjednávání. Primátorem se stal Bohuslav Svoboda (ODS).",
+    "slozeni_rady_prosinec_2025": [
+      {
+        "jmeno": "Bohuslav Svoboda",
+        "strana": "ODS",
+        "funkce": "primátor",
+        "resort": "bezpečnost, prevence kriminality, energetika, vnitřní a vnější vztahy"
+      },
+      {
+        "jmeno": "Jaromír Beránek",
+        "strana": "Piráti",
+        "funkce": "náměstek primátora",
+        "resort": "doprava (od prosince 2025)"
+      },
+      {
+        "jmeno": "Petr Hlaváček",
+        "strana": "STAN",
+        "funkce": "náměstek primátora",
+        "resort": "územní rozvoj a územní plán"
+      },
+      {
+        "jmeno": "Jana Komrsková",
+        "strana": "nestranička (do roku 2026 Piráti)",
+        "funkce": "náměstkyně primátora",
+        "resort": "životní prostředí, klimatický plán"
+      },
+      {
+        "jmeno": "Alexandra Udženija",
+        "strana": "ODS",
+        "funkce": "náměstkyně primátora",
+        "resort": "sociální politika, bydlení, zdravotnictví"
+      },
+      {
+        "jmeno": "Michal Hroza",
+        "strana": "TOP 09",
+        "funkce": "radní",
+        "resort": "infrastruktura, technická vybavenost"
+      },
+      {
+        "jmeno": "Antonín Klecanda",
+        "strana": "STAN",
+        "funkce": "radní",
+        "resort": "školství, sport"
+      },
+      {
+        "jmeno": "Zdeněk Kovářík",
+        "strana": "ODS",
+        "funkce": "radní",
+        "resort": "finance, fondy"
+      },
+      {
+        "jmeno": "Daniel Mazur",
+        "strana": "Piráti",
+        "funkce": "radní",
+        "resort": "informatika, Smart City"
+      },
+      {
+        "jmeno": "Adam Zábranský",
+        "strana": "Piráti",
+        "funkce": "radní",
+        "resort": "správa majetku, transparentnost"
+      },
+      {
+        "jmeno": "Tomáš Slabihoudek",
+        "strana": "TOP 09",
+        "funkce": "radní",
+        "resort": "kultura, památková péče (od prosince 2025)"
+      }
+    ],
+    "zmeny_a_rozpady": [
+      {
+        "popis": "Prosinec 2025: personální výměna v radě – Zdeněk Hřib (Piráti) skončil jako první náměstek primátora pro dopravu a nahradil ho Jaromír Beránek (Piráti); Jiří Pospíšil (TOP 09) skončil a nahradil ho Tomáš Slabihoudek (TOP 09).",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy"
+      },
+      {
+        "popis": "Zdeněk Hřib zároveň koncem roku 2025 skončil v představenstvu Pražské energetiky Holding; v červnu 2026 byl uváděn jako předseda dozorčí rady Dopravního podniku Praha. V lednu 2026 obhájil post předsedy České pirátské strany (porazil Davida Witosze).",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib"
+      },
+      {
+        "popis": "Náměstkyně primátora Jana Komrsková (dříve Piráti) je k 22. 6. 2026 v přehledu složení Rady hl. m. Prahy vedena jako nestranička – tedy opustila Pirátskou stranu, ale v radě a ve funkci náměstkyně pro životní prostředí zůstala. Pro volby 2026 following kandiduje jako lídryně listiny JSME PRAHA (č. 16), nikoli za Piráty.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy"
+      },
+      {
+        "popis": "Bohuslav Svoboda oznámil, že se pro volby 2026 nebude znovu ucházet o funkci primátora, kandiduje ale dál jako řadový zastupitel.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Bohuslav_Svoboda"
+      }
+    ],
+    "zdroje": [
+      {
+        "nazev": "Rada hlavního města Prahy - Wikipedia",
+        "url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Zastupitelstvo hlavního města Prahy - Wikipedia",
+        "url": "https://cs.wikipedia.org/wiki/Zastupitelstvo_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Zdeněk Hřib - Wikipedia",
+        "url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib",
+        "datum": "2026-10-02"
+      },
+      {
+        "nazev": "Bohuslav Svoboda - Wikipedia",
+        "url": "https://cs.wikipedia.org/wiki/Bohuslav_Svoboda",
+        "datum": "2026-10-02"
+      }
+    ],
+    "mezery_v_datech": [
+      "Přesné okolnosti a oficiální důvod odchodu Jany Komrskové z Pirátské strany v roce 2026 (vyloučena / sama odešla / proč) se nepodařilo dohledat na primárním zdroji (web Pirátů nebo tiskové zprávy) - web Pirátské strany byl při pokusu o přístup nedostupný. Toto je klíčová mezera, kterou by měl doplnit agent zpracovávající Piráty (list 7) nebo JSME PRAHA (list 16).",
+      "Přesné datum a důvod odchodu Zdeňka Hřiba z pozice náměstka primátora (11. 12. 2025) - podařilo se ověřit přes Wikipedii, ale ne přes tiskovou zprávu Magistrátu ani médium prvního řádu."
+    ]
+  },
+  "historie_vysledku": {
+    "popis": "Výsledky voleb do Zastupitelstva hl. m. Prahy 2010-2022 podle hlavních stran a koalic. Čísla pro 2022 pocházejí z ověřeného podkladu ČSÚ (brief tohoto projektu); čísla pro 2010/2014/2018 se během rešerše podařilo ověřit pouze přes české Wikipedii, protože přímý přístup k volby.gov.cz/ČSÚ (volby.cz) byl technicky nedostupný (přesměrování bez obsahu). DOPORUČENO před publikací ještě ověřit na volby.gov.cz.",
+    "2010": {
+      "ucast_proc": 44.43,
+      "vysledky": [
+        {
+          "strana": "TOP 09",
+          "proc": 30.26,
+          "mandatu": 26
+        },
+        {
+          "strana": "ODS",
+          "proc": 23.1,
+          "mandatu": 20
+        },
+        {
+          "strana": "ČSSD",
+          "proc": 17.85,
+          "mandatu": 14
+        },
+        {
+          "strana": "KSČM",
+          "proc": 6.82,
+          "mandatu": 3
+        }
+      ],
+      "poznamka": "Zastupitelstvo mělo v roce 2010 celkem 63 členů (navýšeno na 65 od voleb 2014). Koalice Zelených/SNK (5,90 %) a Věcí veřejných (5,66 %) překročily 5% klauzuli, ale kvůli dělení mandátů v sedmi volebních obvodech nezískaly žádný mandát.",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Volby_do_Zastupitelstva_hlavn%C3%ADho_m%C4%9Bsta_Prahy_2010"
+    },
+    "2014": {
+      "ucast_proc": 37.72,
+      "vysledky": [
+        {
+          "strana": "ANO 2011",
+          "proc": 22.08,
+          "mandatu": 17
+        },
+        {
+          "strana": "TOP 09",
+          "proc": 20.07,
+          "mandatu": 16
+        },
+        {
+          "strana": "koalice Zelení/KDU-ČSL/Starostové",
+          "proc": 11.22,
+          "mandatu": 8
+        },
+        {
+          "strana": "ODS",
+          "proc": 10.97,
+          "mandatu": 8
+        },
+        {
+          "strana": "ČSSD",
+          "proc": 10.43,
+          "mandatu": 8
+        },
+        {
+          "strana": "KSČM",
+          "proc": 5.91,
+          "mandatu": 4
+        },
+        {
+          "strana": "Česká pirátská strana",
+          "proc": 5.31,
+          "mandatu": 4
+        }
+      ],
+      "poznamka": "Od těchto voleb má ZHMP 65 členů. Druhá nejnižší účast od roku 1989.",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Volby_do_Zastupitelstva_hlavn%C3%ADho_m%C4%9Bsta_Prahy_2014"
+    },
+    "2018": {
+      "ucast_proc": 46.44,
+      "vysledky": [
+        {
+          "strana": "ODS",
+          "proc": 17.87,
+          "mandatu": 14
+        },
+        {
+          "strana": "Česká pirátská strana",
+          "proc": 17.07,
+          "mandatu": 13
+        },
+        {
+          "strana": "Praha sobě",
+          "proc": 16.57,
+          "mandatu": 13
+        },
+        {
+          "strana": "Spojené síly pro Prahu (TOP 09, STAN, KDU-ČSL, nezávislí)",
+          "proc": 16.29,
+          "mandatu": 13
+        },
+        {
+          "strana": "ANO 2011",
+          "proc": 15.37,
+          "mandatu": 12
+        }
+      ],
+      "poznamka": "Vládní koalici po volbách vytvořili Piráti, Praha sobě a Spojené síly pro Prahu (39 z 65 mandátů), ODS a ANO zůstaly v opozici. Praha a Liberec byly jediná krajská města, kde v těchto volbách nevyhrálo ANO 2011.",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Volby_do_Zastupitelstva_hlavn%C3%ADho_m%C4%9Bsta_Prahy_2018"
+    },
+    "2022": {
+      "vysledky": [
+        {
+          "strana": "SPOLU pro Prahu (ODS, TOP 09, KDU-ČSL)",
+          "proc": 24.72,
+          "mandatu": 19
+        },
+        {
+          "strana": "ANO 2011",
+          "proc": 19.33,
+          "mandatu": 14
+        },
+        {
+          "strana": "Česká pirátská strana",
+          "proc": 17.72,
+          "mandatu": 13
+        },
+        {
+          "strana": "PRAHA SOBĚ",
+          "proc": 14.72,
+          "mandatu": 11
+        },
+        {
+          "strana": "STAROSTOVÉ A NEZÁVISLÍ",
+          "proc": 7.76,
+          "mandatu": 5
+        },
+        {
+          "strana": "SPD, Trikolora, Hnutí PES a nezávislí společně pro Prahu",
+          "proc": 5.16,
+          "mandatu": 3
+        },
+        {
+          "strana": "Motoristé sobě",
+          "proc": 2.29,
+          "mandatu": 0
+        },
+        {
+          "strana": "Solidarita - koalice ČSSD, Zelených, Budoucnosti a Idealistů",
+          "proc": 2.01,
+          "mandatu": 0
+        },
+        {
+          "strana": "Komunistická strana Čech a Moravy",
+          "proc": 1.47,
+          "mandatu": 0
+        },
+        {
+          "strana": "Svobodní",
+          "proc": 1.19,
+          "mandatu": 0
+        }
+      ],
+      "poznamka": "Data převzata z ověřeného podkladu projektu (brief magistrat.md), který vychází z otevřených dat ČSÚ. Přímé ověření na volby.gov.cz se v rámci této rešerše nezdařilo kvůli technické nedostupnosti webu.",
+      "zdroj_url": "https://cs.wikipedia.org/wiki/Zastupitelstvo_hlavn%C3%ADho_m%C4%9Bsta_Prahy"
+    },
+    "mezery_v_datech": [
+      "Čísla za 2010, 2014 a 2018 nebyla ověřena přímo na volby.gov.cz (ČSÚ) - pouze přes Wikipedii. Doporučeno ověřit před publikací, zvlášť přesný rozpad mandátů u koalic z roku 2014 a 2018.",
+      "Celkový počet volebních stran/koalic a přesné názvy menších subjektů v jednotlivých letech nebyly ověřovány do detailu."
+    ]
+  },
+  "pruzkumy_2026": {
+    "popis": "Přehled dohledaných předvolebních průzkumů volebních preferencí pro komunální volby do ZHMP 2026. Číslo agentury MEDIAN (ANO 23,3 %, STAN 22,6 %, SPOLU 13,9 %, Praha sobě 12,9 %, Piráti 10,8 %), dříve vedené jako NEOVĚŘENÉ, se při novém pokusu přes WebSearch podařilo OVĚŘIT u více nezávislých zdrojů (médií i české Wikipedie) – viz níže. Dohledány byly i další tři průzkumy (Ipsos, Kantar/ČT, NMS). Agentury STEM, SANEP a PAQ Research nezveřejnily (nebo se nepodařilo dohledat) konkrétní číslo přímo pro komunální volby v Praze 2026 – SANEP uvádí svá pražská data jen „na vyžádání“, bez volně dostupného čísla.",
+    "pruzkumy": [
+      {
+        "agentura": "MEDIAN",
+        "zadavatel": "PrahaIN.cz",
+        "typ": "Volební model pro komunální volby do ZHMP 2026",
+        "datum_sberu": "31. 8. – 3. 9. 2026",
+        "velikost_vzorku": 731,
+        "vysledky": [
+          {"strana": "ANO", "proc": 23.3},
+          {"strana": "STAN", "proc": 22.6},
+          {"strana": "SPOLU pro Prahu (ODS, TOP 09)", "proc": 13.9},
+          {"strana": "Praha sobě", "proc": 12.9},
+          {"strana": "Piráti", "proc": 10.8},
+          {"strana": "SPD", "proc": 5.4},
+          {"strana": "Motoristé sobě", "proc": 5},
+          {"strana": "Spojená levice", "proc": 2.4},
+          {"strana": "ostatní", "proc": 3.7}
+        ],
+        "varovani": "Žebříček primátorských preferencí ve stejném průzkumu: Tomáš Portlík (SPOLU) 13 %, Petr Hlaváček (STAN) 11 %, Jan Hušbauer (ANO) a Adam Scheinherr (Praha sobě) shodně 10 %, Tereza Nislerová (Piráti) 7,2 %.",
+        "zdroj_url": "https://www.ceskenoviny.cz/zpravy/2871396",
+        "dalsi_zdroje": [
+          "https://cs.wikipedia.org/wiki/Volby_do_Zastupitelstva_hlavn%C3%ADho_m%C4%9Bsta_Prahy_2026",
+          "https://zpravy.aktualne.cz/domaci/dva-pruzkumy-dva-primatori-v-praze-jednou-vede-spolu-podruhe-ano/r~aaa29610aacde62075b790fb92324042/"
+        ],
+        "confidence": "vysoka"
+      },
+      {
+        "agentura": "Ipsos",
+        "zadavatel": "koalice SPOLU (ODS)",
+        "typ": "Volební model pro komunální volby do ZHMP 2026, zadaný koalicí SPOLU",
+        "datum_sberu": "srpen 2026 (přesné dny nedohledány)",
+        "velikost_vzorku": 1047,
+        "vysledky": [
+          {"strana": "SPOLU pro Prahu", "proc": 23},
+          {"strana": "STAN", "proc": 17.9},
+          {"strana": "ANO", "proc": 17.6},
+          {"strana": "Piráti", "proc": 11.9},
+          {"strana": "Praha sobě", "proc": 11.9},
+          {"strana": "SPD", "proc": 4.5},
+          {"strana": "Motoristé sobě", "proc": 4}
+        ],
+        "varovani": "Zadavatelem je sama koalice SPOLU – výsledek (SPOLU na 1. místě) je proto nutné číst jako tvrzení zadavatelské strany, ne jako nezávislé měření; srovnej s nezávisle zadaným průzkumem MEDIAN (pro PrahaIN.cz), kde SPOLU skončilo až čtvrté. Číselně se téměř shoduje s hodnotami uvedenými v tabulce české Wikipedie pro „Ipsos“ (SPOLU 23,4 %, STAN 17,9 %, ANO 17,6 %, Piráti 11,9 %, Praha sobě 11,9 %) – jde pravděpodobně o tutéž studii, drobný rozdíl u SPOLU (23 vs. 23,4) je dán zaokrouhlením v různých citacích.",
+        "zdroj_url": "https://zpravy.aktualne.cz/domaci/dva-pruzkumy-dva-primatori-v-praze-jednou-vede-spolu-podruhe-ano/r~aaa29610aacde62075b790fb92324042/",
+        "dalsi_zdroje": [
+          "https://www.forum24.cz/ipsos-volby-v-praze-by-vyhralo-spolu-pred-hnutim-stan-a-ano",
+          "https://cs.wikipedia.org/wiki/Volby_do_Zastupitelstva_hlavn%C3%ADho_m%C4%9Bsta_Prahy_2026"
+        ],
+        "confidence": "vysoka"
+      },
+      {
+        "agentura": "Kantar",
+        "zadavatel": "Česká televize",
+        "typ": "Volební POTENCIÁL (ne odhad výsledku) – % lidí, kteří danou stranu reálně zvažují; hodnoty se proto sčítají výrazně nad 100 %, nejde o projekci mandátů",
+        "datum_sberu": "7. – 17. 9. 2026",
+        "velikost_vzorku": 863,
+        "vysledky": [
+          {"strana": "SPOLU pro Prahu (ODS, TOP 09)", "proc": 35.5},
+          {"strana": "STAROSTOVÉ A NEZÁVISLÍ (STAN)", "proc": 34.5},
+          {"strana": "Piráti", "proc": 21.5},
+          {"strana": "Praha sobě (+ KDU-ČSL, Zelení)", "proc": 20},
+          {"strana": "ANO", "proc": 19.5},
+          {"strana": "SPD pro Prahu (+ další)", "proc": 6.5},
+          {"strana": "SEN pro Prahu", "proc": 5},
+          {"strana": "Motoristé sobě", "proc": 5},
+          {"strana": "Patrioti pro Prahu", "proc": 5},
+          {"strana": "DSZ – Za práva zvířat", "proc": 5},
+          {"strana": "Spojená levice pro Prahu", "proc": 3},
+          {"strana": "Svobodní", "proc": 3}
+        ],
+        "varovani": "Toto NENÍ volební model/odhad výsledku jako u Medianu, Ipsosu či NMS, ale ukazatel „volebního potenciálu“ (kolik % voličů danou stranu vůbec zvažuje) – hodnoty se proto nedají přímo srovnávat s ostatními průzkumy v této sekci ani sčítat na 100 %. Průzkum se zaměřoval i na vnímané priority Pražanů: nejvíc lidi trápí drahé a nedostupné bydlení, dále automobilová doprava a korupce.",
+        "zdroj_url": "https://ct24.ceskatelevize.cz/clanek/regiony/hlavni-mesto-praha/nejvyssi-volebni-potencial-ma-v-hlavnim-meste-spolu-pro-prahu-obyvatele-nejvic-trapi-bydleni-378102",
+        "confidence": "vysoka"
+      },
+      {
+        "agentura": "NMS Market Research",
+        "zadavatel": "Novinky.cz a deník Právo",
+        "typ": "Volební model pro komunální volby do ZHMP 2026 (online panel National Sample)",
+        "datum_sberu": "přibližně 5.–10. 9. 2026 (zdrojový článek uvádí u data rok „2025“, což je nejspíš chyba/nekonzistence v publikaci – podle obsahu a kontextu jde jednoznačně o průzkum k volbám 2026; podle české Wikipedie proběhla ještě dřívější vlna NMS 11.–16. 6. 2026 na vzorku 1078 a druhá zářijová vlna 9.–14. 9. 2026 na vzorku 1051, bez dohledaných výsledků v procentech)",
+        "velikost_vzorku": 1006,
+        "vysledky": [
+          {"strana": "SPOLU pro Prahu", "proc": 25.3},
+          {"strana": "ANO", "proc": 21.7},
+          {"strana": "STAN", "proc": 15.7},
+          {"strana": "Piráti", "proc": 15.4},
+          {"strana": "SPD", "proc": 8},
+          {"strana": "Motoristé sobě", "proc": 5.8},
+          {"strana": "Stačilo!", "proc": 4.9}
+        ],
+        "varovani": "Jde o výsledek „hypotetických voleb, které by se konaly v týdnu následujícím po sběru dat“ (formulace NMS), ne o přímou predikci výsledku 9.–10. 10. 2026.",
+        "zdroj_url": "https://nms.global/cz/volebni-model-praha-koalice-spolu-drzi-v-praze-vedeni-se-stan-a-piraty-svede-boj-o-volice/",
+        "dalsi_zdroje": ["https://cs.wikipedia.org/wiki/Volby_do_Zastupitelstva_hlavn%C3%ADho_m%C4%9Bsta_Prahy_2026"],
+        "confidence": "stredni"
+      }
+    ],
+    "neoverene_nebo_nedohledane": [
+      "SANEP: agentura na svém webu (sanep.cz/pruzkumy/komunalni-volby-praha) avizuje pražská komunální data, ale v rámci WebSearch byla dostupná jen „na vyžádání“ – konkrétní zveřejněné číslo pro volby 2026 se nepodařilo dohledat u primárního zdroje.",
+      "STEM: žádný konkrétní, zveřejněný průzkum přímo pro komunální volby v Praze 2026 se nepodařilo dohledat.",
+      "PAQ Research: žádný konkrétní, zveřejněný průzkum přímo pro komunální volby v Praze 2026 se nepodařilo dohledat.",
+      "Phoenix Research (parlamentnilisty.cz, přelom 4.–5. 2026) zmiňuje SPOLU 24,6 %, ale celý článek je za placenou stěnou a nepodařilo se dohledat vzorek ani plné výsledky – pro nedostatečnost dat zde není uveden jako plná položka."
+    ],
+    "obecne_varovani": "Předvolební průzkumy pro komunální volby mají v ČR historicky nízkou spolehlivost kvůli malým lokálním vzorkům, nízké a proměnlivé účasti a silnému vlivu lokálních osobností, které celostátní modely nezachycují. Výsledky jednotlivých agentur se navíc v září 2026 zásadně liší (Median a NMS/Ipsos/Kantar dávají vedení jiným stranám) – viz článek aktualne.cz „Dva průzkumy, dva primátoři“. Jakékoli číslo je potřeba brát jako orientační, ne jako predikci, a vždy si všímat, kdo je zadavatelem.",
+    "zdroje": [
+      {"nazev": "Median: Komunální volby v Praze by vyhrálo ANO těsně před STAN (České noviny)", "url": "https://www.ceskenoviny.cz/zpravy/2871396", "datum": "2026-10-03"},
+      {"nazev": "Dva průzkumy, dva primátoři. V Praze jednou vede Spolu, podruhé ANO (Aktuálně.cz)", "url": "https://zpravy.aktualne.cz/domaci/dva-pruzkumy-dva-primatori-v-praze-jednou-vede-spolu-podruhe-ano/r~aaa29610aacde62075b790fb92324042/", "datum": "2026-10-03"},
+      {"nazev": "Ipsos: Volby v Praze by vyhrálo SPOLU před hnutím STAN a ANO (Forum24)", "url": "https://www.forum24.cz/ipsos-volby-v-praze-by-vyhralo-spolu-pred-hnutim-stan-a-ano", "datum": "2026-10-03"},
+      {"nazev": "Nejvyšší volební potenciál má v hlavním městě SPOLU pro Prahu (ČT24)", "url": "https://ct24.ceskatelevize.cz/clanek/regiony/hlavni-mesto-praha/nejvyssi-volebni-potencial-ma-v-hlavnim-meste-spolu-pro-prahu-obyvatele-nejvic-trapi-bydleni-378102", "datum": "2026-10-03"},
+      {"nazev": "Volební model Praha: Koalice SPOLU drží v Praze vedení (NMS Market Research)", "url": "https://nms.global/cz/volebni-model-praha-koalice-spolu-drzi-v-praze-vedeni-se-stan-a-piraty-svede-boj-o-volice/", "datum": "2026-10-03"},
+      {"nazev": "Volby do Zastupitelstva hlavního města Prahy 2026 (Wikipedia, tabulka průzkumů)", "url": "https://cs.wikipedia.org/wiki/Volby_do_Zastupitelstva_hlavn%C3%ADho_m%C4%9Bsta_Prahy_2026", "datum": "2026-10-03"}
+    ],
+    "mezery_v_datech": [
+      "Přesné dny sběru dat u Ipsosu (jen „srpen 2026“) se nepodařilo zpřesnit u primárního zdroje.",
+      "Výsledky zářijové a červnové vlny NMS zmíněné českou Wikipedií (9.–14. 9. 2026, 1051 resp.; 11.–16. 6. 2026, 1078 resp.) se nepodařilo dohledat v procentech – jen velikost vzorku a data sběru.",
+      "Rok „2025“ u data sběru v hlavním zdrojovém článku NMS (nms.global) je pravděpodobně chyba v publikaci (viz pole datum_sberu výše) – nepodařilo se dohledat opravu ani jinou citaci, která by rok potvrdila nebo vyvrátila.",
+      "SANEP, STEM a PAQ Research: konkrétní zveřejněné číslo pro komunální volby v Praze 2026 se nepodařilo dohledat u primárního zdroje ani v médiích (viz pole neoverene_nebo_nedohledane)."
+    ]
+  },
+  "kandidati_na_primatora": {
+    "popis": "Formální „kandidát na primátora“ v komunálních volbách neexistuje – primátora volí až nově zvolené zastupitelstvo. V praxi je ale za neformálního kandidáta na primátora považován lídr vítězné (nebo silné koaliční) listiny. Níže uvádíme lídry (pořadí 1) listin s reálnou šancí na mandát podle briefu projektu (ČSÚ, kandidátní listiny 2026); explicitní veřejné deklarace koaličních preferencí a vylučovacích podmínek pro rok 2026 se v dostupném čase podařilo ověřit jen u části z nich – zbytek je nutné doplnit (viz mezery_v_datech).",
+    "lidri_listin": [
+      {
+        "list_slug": "magistrat-5-praha-sobe",
+        "jmeno": "Adam Scheinherr",
+        "strana": "PRAHA SOBĚ",
+        "poznamka": "Ve vlastním volebním programu Praha sobě je výslovně označen jako „náš kandidát na primátora“.",
+        "zdroj_url": "https://www.prahasobe.cz/program"
+      },
+      {
+        "list_slug": "magistrat-7-ceska-piratska-strana",
+        "jmeno": "Tereza Nislerová",
+        "strana": "Piráti",
+        "poznamka": "Lídryně kandidátky Pirátů pro ZHMP 2026 (ne stranický předseda Zdeněk Hřib, který kandiduje na jiném místě listiny).",
+        "zdroj_url": null
+      },
+      {
+        "list_slug": "magistrat-9-starostove-a-nezavisli",
+        "jmeno": "Petr Hlaváček",
+        "strana": "STAN",
+        "poznamka": "Současný náměstek primátora pro územní rozvoj, lídr kandidátky STAN.",
+        "zdroj_url": null
+      },
+      {
+        "list_slug": "magistrat-10-spd-pro-prahu-s-podporou-trikolory-pro",
+        "jmeno": "Milan Urban",
+        "strana": "SPD",
+        "poznamka": null,
+        "zdroj_url": null
+      },
+      {
+        "list_slug": "magistrat-12-spolu-pro-prahu",
+        "jmeno": "Tomáš Portlík",
+        "strana": "ODS (SPOLU)",
+        "poznamka": "Starosta MČ Praha 9, lídr kandidátky SPOLU pro Prahu 2026. Současný primátor Bohuslav Svoboda (ODS) o funkci primátora znovu neusiluje.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Bohuslav_Svoboda"
+      },
+      {
+        "list_slug": "magistrat-14-motoriste-sobe",
+        "jmeno": "Klára Sovová",
+        "strana": "Motoristé sobě",
+        "poznamka": null,
+        "zdroj_url": null
+      },
+      {
+        "list_slug": "magistrat-16-jsme-praha",
+        "jmeno": "Jana Komrsková",
+        "strana": "JSME PRAHA (dříve Piráti)",
+        "poznamka": "Současná náměstkyně primátora pro životní prostředí, v roce 2026 opustila Piráty a vede vlastní listinu JSME PRAHA.",
+        "zdroj_url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy"
+      },
+      {
+        "list_slug": "magistrat-22-ano-2011",
+        "jmeno": "Jan Hušbauer",
+        "strana": "ANO 2011",
+        "poznamka": "Místostarosta MČ Praha 4, předseda kontrolního výboru ZHMP.",
+        "zdroj_url": null
+      },
+      {
+        "list_slug": "magistrat-24-sen-pro-prahu-s-vaclavem-laskou-s-podpo",
+        "jmeno": "Václav Láska",
+        "strana": "SEN 21",
+        "poznamka": "Senátor, předseda hnutí SEN 21.",
+        "zdroj_url": null
+      }
+    ],
+    "mezery_v_datech": [
+      "Explicitní koaliční preference a 'vylučovací podmínky' (s kým jednotlivý lídr NECHCE vládnout) se u většiny lídrů (Nislerová, Hlaváček, Urban, Sovová, Hušbauer, Láska) nepodařilo ověřit u primárního zdroje v dostupném čase - je to prioritní úkol pro agenty zpracovávající jednotlivé parties/*.json a people/*.json, případně pro doplnění při dalším kole rešerše.",
+      "Jméno lídra kandidátky samo o sobě neznamená formální nominaci na primátora - u některých stran (např. Piráti) může být stranický předseda (Hřib) politicky vlivnější než lídr listiny (Nislerová); toto je třeba ověřit v kampani."
+    ]
+  },
+  "moznosti_koalic": {
+    "typ_obsahu": "ANALÝZA, NE OVĚŘENÝ FAKT - jde o spekulativní rozbor možných povolebních uskupení, sestavený kombinací historie (koalice 2018 a 2022), programových rozdílů a částečně dostupných průzkumů. Výsledek voleb 2026 a skutečné vyjednávání se mohou zásadně lišit.",
+    "scenare": [
+      {
+        "nazev": "Pokračování current koalice v obměněném složení (SPOLU + STAN + zbytek Pirátů/JSME PRAHA)",
+        "popis": "Pokud SPOLU, STAN a liberální/zelené subjekty (Piráti, případně nová listina JSME PRAHA Jany Komrskové) dohromady znovu přesáhnou 33 mandátů, je programaticky nejbližší pokračování v duchu koalice 2022-2026 – i když personálně výrazně obměněné (jiný lídr SPOLU, rozštěpení bývalých Pirátů na dvě listiny).",
+        "pravdepodobnost_poznamka": "Záleží na tom, zda JSME PRAHA překročí 5% klauzuli a zda si Piráti a JSME PRAHA vzájemně nevezmou hlasy."
+      },
+      {
+        "nazev": "Koalice ANO + STAN (případně + další)",
+        "popis": "Pokud by se potvrdily trendy z celostátních průzkumů (silné ANO a STAN), nabízela by se aritmeticky koalice ANO + STAN, případně rozšířená o další subjekt pro jistou většinu. Programově by šlo o sblížení dvou stran, které si ale v minulosti navzájem konkurovaly o voliče mimo tradiční pravo-levé dělení.",
+        "pravdepodobnost_poznamka": "Čistě hypotetické - založené na neověřeném (viz pruzkumy_2026) čísle, nikoli na ověřeném zdroji."
+      },
+      {
+        "nazev": "Menšinová vláda / velká koalice",
+        "popis": "Při roztříštěném výsledku (více subjektů kolem 10-20 %) je historicky v Praze obvyklé dlouhé vyjednávání (viz 5 měsíců po volbách 2022) a nelze vyloučit ani netradiční spojení přes politický střed.",
+        "pravdepodobnost_poznamka": "Spekulativní, bez konkrétního opěrného zdroje."
+      }
+    ],
+    "zdroje": [],
+    "mezery_v_datech": [
+      "Tato sekce je z podstaty věci analytická a nemá být čtena jako fakt. Doporučeno doplnit, jakmile budou k dispozici ověřené předvolební průzkumy a oficiální koaliční deklarace jednotlivých stran."
+    ]
+  },
+  "zdroje": [
+    {
+      "nazev": "Zákon č. 491/2001 Sb., o volbách do zastupitelstev obcí",
+      "url": "https://www.zakonyprolidi.cz/cs/2001-491",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Zastupitelstvo hlavního města Prahy - Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/Zastupitelstvo_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Rada hlavního města Prahy - Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/Rada_hlavn%C3%ADho_m%C4%9Bsta_Prahy",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "WebSearch byl pro tuto výzkumnou relaci zcela vyčerpán (sdílený limit napříč agenty) a mnoho primárních webů (mv.gov.cz, praha.eu, volby.gov.cz, iprpraha.cz, czso.cz) bylo při přímém přístupu nedostupných (404 / chyba certifikátu / přesměrování bez obsahu). Většina faktů proto pochází z české Wikipedie nebo přímo z programových PDF jednotlivých stran, nikoli z prvotních úředních zdrojů. Důrazně doporučeno před publikací provést dodatečné ověření u primárních zdrojů, zejména u volebního systému, historie výsledků a průzkumů."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

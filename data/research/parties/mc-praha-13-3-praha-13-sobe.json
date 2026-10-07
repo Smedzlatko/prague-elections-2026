@@ -1,0 +1,78 @@
+{
+  "slug": "mc-praha-13-3-praha-13-sobe",
+  "assembly_id": "mc-praha-13",
+  "list_cislo": 3,
+  "nazev": "PRAHA 13 SOBĚ",
+  "zkratka": "PRAHA 13 SOBĚ",
+  "typ": "koalice",
+  "slozeni": ["PRAHA SOBĚ", "nezávislí"],
+  "web": "https://prahasobe.cz/praha13/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {"nazev": "PRAHA 13 SOBĚ – volební program 2026", "url": "https://prahasobe.cz/praha13/", "datum": "2026-10-02"}
+    ],
+    "shrnuti": "PRAHA 13 SOBĚ slibuje rozvoj MČ bez předimenzovaných staveb, systematický svoz odpadu a úklid ulic (se zodpovědnými pracovníky pro konkrétní lokality a SMS hlášením závad), prioritu stromů a přírodních povrchů před betonem (omezení kácení, více zeleně), podporu seniorů (terénní péče), obnovu místních kulturních tradic a zpravodaje Stodůlecký posel a transparentní hospodaření včetně transparentních výběrových řízení a úspor energie (solární panely na budovách MČ).",
+    "priority": [
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Rozvoj bez předimenzovaných staveb",
+        "popis": "Odpor proti nadměrně velkým developerským projektům nerespektujícím zájmy místních obyvatel.",
+        "citace": "Praha 13 se musí rozvíjet, ovšem ne tak, že budou růst předimenzované stavby.",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "MČ je účastníkem stavebního řízení, ale konečné rozhodnutí má často stavební úřad/magistrát."},
+        "zdroj_url": "https://prahasobe.cz/praha13/"
+      },
+      {
+        "oblast": "zivotni_prostredi",
+        "nazev": "Priorita stromů a přírodních povrchů před betonem",
+        "popis": "Omezení kácení stromů a zvýšení množství zeleně v MČ.",
+        "citace": "Stromy a přírodní povrchy musí mít přednost před betonem.",
+        "merytelne": false,
+        "konkretnost": "nizka",
+        "realizovatelnost": {"hodnoceni": "stredni", "oduvodneni": "MČ má omezený vliv na pozemky, které nevlastní."},
+        "zdroj_url": "https://prahasobe.cz/praha13/"
+      },
+      {
+        "oblast": "hospodareni",
+        "nazev": "Transparentní výběrová řízení a úspory energie",
+        "popis": "Transparentní zadávání veřejných zakázek a instalace solárních panelů na budovách MČ.",
+        "citace": null,
+        "merytelne": true,
+        "konkretnost": "stredni",
+        "realizovatelnost": {"hodnoceni": "vysoka", "oduvodneni": "Jde o opatření v přímé pravomoci MČ nad vlastním majetkem a zadávacími řízeními."},
+        "zdroj_url": "https://prahasobe.cz/praha13/"
+      }
+    ],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": -0.5,
+    "hodnotova_osa": -1,
+    "oduvodneni": "PRAHA SOBĚ se profiluje jako liberálně-komunitní hnutí s důrazem na participaci, životní prostředí a transparentnost.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": "PRAHA 13 SOBĚ byla v letech 2022–2026 v opozici vůči koalici ODS, ANO 2011 a TOP 09/KDU-ČSL, se 4 mandáty z voleb 2022.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Jako opoziční subjekt nemohla přímo prosazovat vlastní exekutivní agendu; konkrétní opoziční návrhy a jejich osud za období 2022–2026 nebyly v rámci této rešerše dohledány."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 3,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Program obsahuje konkrétní opatření (SMS hlášení, solární panely, zodpovědní pracovníci pro lokality), většina bez přesných čísel či termínů, ale jde nad rámec obecných hesel (konkrétnost 3). Důvěryhodnost plnění nelze hodnotit u opoziční strany bez dohledaného programu z roku 2022. Transparentnost: zveřejněný program (+1), dohledatelná kandidátka (+1), vlastní slib transparentních výběrových řízení (+1).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": ["podzemsky-pavel"],
+  "mezery_v_datech": [
+    "Konkrétní opoziční agenda a její výsledky za období 2022–2026 nebyly dohledány."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

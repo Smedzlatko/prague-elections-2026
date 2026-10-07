@@ -1,0 +1,55 @@
+{
+  "slug": "mc-praha-17-7-starostove-a-nezavisli",
+  "assembly_id": "mc-praha-17",
+  "list_cislo": 7,
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "typ": "strana",
+  "slozeni": [
+    "STAN"
+  ],
+  "web": "https://stanpraha17.cz/volebni-program/",
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "stanpraha17.cz: Volební program",
+        "url": "https://stanpraha17.cz/volebni-program/",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Listina STAN s vlastním zveřejněným volebním programem (stanpraha17.cz/volebni-program) – mezi hlavní body patří rozšíření parkovacích kapacit (parkovací domy), retence dešťové vody a výsadba zeleně, sběrný dvůr na Rainerově ulici, 24hodinová služebna městské policie, participativní rozpočet, omezení nadměrné výstavby a snížení počtu dětí ve třídách na max. 26. Na listině kandiduje i Jitka Synková, zvolená v roce 2022 za jiný subjekt.",
+    "priority": [],
+    "oblasti": {}
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": "Program nenalezen nebo bez dostatečné informace k určení ideologické orientace nad rámec deklarovaného zaměření na lokální témata.",
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": false,
+    "role": null,
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Nový subjekt nebo subjekt bez zastoupení v zastupitelstvu 2022-2026 – historický záznam vládnutí nelze posoudit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 1,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 4,
+    "oduvodneni": "konkretnost_programu: program nebyl dohledán nebo obsahuje jen obecná prohlášení. doveryhodnost_plneni: nový subjekt / subjekt bez mandátu v období 2022-2026, podle metodiky se nehodnotí nulou, ale null. transparentnost: hodnoceno podle dostupnosti programu, webu a dohledatelnosti kandidátů.",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "jebousek-ivo"
+  ],
+  "mezery_v_datech": [
+    "Nejasné, zda jde o pokračování koaliční účasti STAN v radě 2022-2026, nebo o nový nástup - v briefu je STAN uveden jako samostatná listina bez vlastního mandátu z roku 2022 (předchozí 'STAROSTOVÉ A NEZÁVISLÍ PRO ŘEPY' měli 2 mandáty, ale žádný z nich není na čele této listiny krom Jitky Synkové na 3. místě)."
+  ],
+  "confidence": "stredni",
+  "posledni_aktualizace": "2026-10-02"
+}

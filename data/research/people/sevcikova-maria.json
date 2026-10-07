@@ -1,0 +1,34 @@
+{
+  "slug": "sevcikova-maria",
+  "name_key": "sevcikova-maria",
+  "cele_jmeno": "Mgr. Mária Ševčíková",
+  "rok_narozeni": 1967,
+  "strana": "ANO 2011",
+  "kandidatury_2026": [
+    {"assembly_id": "magistrat", "list_cislo": 22, "poradi": 2},
+    {"assembly_id": "mc-praha-14", "list_cislo": 9, "poradi": 1}
+  ],
+  "role": "lidr",
+  "profil": "Mária Ševčíková je 1. místostarostka MČ Praha 14 za ANO 2011, kde v roce 2022 vedla kandidátku ANO (1. místo, 1923 preferenčních hlasů) a obhájila mandát zastupitelky. Pro volby 2026 vede listinu ANO 2011 v MČ Praha 14 (1. místo) a zároveň je č. 2 na celopražské kandidátce ANO 2011 pro zastupitelstvo hl. m. Prahy (za lídrem Janem Hušbauerem, který nahradil původního lídra Ondřeje Prokopa po jeho odstoupení v červnu 2026 — viz kauza v data/research/parties pro magistrátní ANO). Podrobnější veřejně dohledatelný politický životopis (vzdělání, dřívější kariéra) se v dostupné rešerši nepodařilo ověřit nad rámec údajů z brífu ČSÚ a stránek MČ Praha 14.",
+  "vzdelani": null,
+  "profese": "1. místostarostka MČ Praha 14",
+  "politicka_historie": [
+    {"od": null, "do": null, "funkce": "1. místostarostka MČ Praha 14", "organizace": "MČ Praha 14", "zdroj_url": null}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Chybí dohledaný zdrojovaný přehled konkrétních slibů a jejich plnění na Praze 14.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": null},
+  "citace": [],
+  "zdroje": [
+    {"nazev": "Kandidátní listina ČSÚ, MČ Praha 14 2026 / programydovoleb.cz obec 547361", "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/547361", "datum": "2026-10-02"},
+    {"nazev": "Praha14.cz", "url": "https://www.praha14.cz", "datum": "2026-10-02"}
+  ],
+  "mezery_v_datech": [
+    "Nepodařilo se dohledat samostatný veřejný profil s daty politické historie (vzdělání, dřívější kariéra, přesné datum nástupu do funkce místostarostky).",
+    "Přesný rok narození (1967) je odhad z udaného věku 59 let v brífu k říjnu 2026.",
+    "Chybí informace o konkrétní agendě (resort), kterou má na Praze 14 na starosti, a o konkrétních projektech, které prosazovala."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

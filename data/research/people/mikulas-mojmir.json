@@ -1,0 +1,28 @@
+{
+  "slug": "mikulas-mojmir",
+  "name_key": "mikulas-mojmir",
+  "cele_jmeno": "Ing. Mojmír Mikuláš",
+  "rok_narozeni": 1968,
+  "strana": "Motoristé sobě",
+  "kandidatury_2026": [{"assembly_id": "magistrat", "list_cislo": 14, "poradi": 3}],
+  "role": "top5",
+  "profil": "Podle kandidátní listiny zastupitel MČ Praha 3, vedoucí oddělení podpory sportu v kabinetu ministra pro sport, prevenci a zdraví, předseda spolku Jedeme AUTEM a předseda SVJ. Širší veřejný záznam se v rámci této rešerše nepodařilo dohledat.",
+  "vzdelani": null,
+  "profese": "úředník (vedoucí oddělení podpory sportu kabinetu ministra), zastupitel MČ Praha 3",
+  "politicka_historie": [
+    {"od": null, "do": null, "funkce": "zastupitel MČ Praha 3", "organizace": "Motoristé sobě", "zdroj_url": "https://volby.cz"},
+    {"od": null, "do": null, "funkce": "vedoucí oddělení podpory sportu kabinetu ministra pro sport, prevenci a zdraví", "organizace": "Vláda ČR", "zdroj_url": "https://volby.cz"}
+  ],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {"skore": null, "oduvodneni": "Bez dohledaného podkladu o výkonu jeho funkcí nelze hodnotit.", "priklady": []},
+  "zajmy_a_majetek": {"firmy": [], "registr_oznameni_url": null, "poznamka": "Předseda spolku Jedeme AUTEM a předseda SVJ dle kandidátní listiny."},
+  "citace": [],
+  "zdroje": [{"nazev": "Kandidátní listina ČSÚ, Magistrát hl. m. Prahy 2026", "url": "https://volby.cz", "datum": "2026-10-02"}],
+  "mezery_v_datech": [
+    "Mimo údaje z kandidátní listiny ČSÚ se nepodařilo dohledat žádný další veřejný záznam o jeho politické činnosti na Praze 3 ani o konkrétní náplni jeho funkce v kabinetu ministra.",
+    "Rok narození odhadnut z uvedeného věku (58 let v roce 2026) v kandidátní listině, nepotvrzen nezávislým zdrojem."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

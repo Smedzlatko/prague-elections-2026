@@ -1,0 +1,49 @@
+{
+  "slug": "jungmannova-marie",
+  "name_key": "jungmannova-marie",
+  "cele_jmeno": "PhDr. Marie Jungmannová",
+  "rok_narozeni": 1957,
+  "strana": "Piráti",
+  "kandidatury_2026": [
+    {
+      "assembly_id": "mc-praha-5",
+      "list_cislo": 8,
+      "poradi": 3
+    }
+  ],
+  "role": "top5",
+  "profil": "Marie Jungmannová je překladatelka s učitelskou praxí, členka Pirátů. V roce 2022 mandát nezískala, žádný další veřejný politický záznam nebyl dohledán. Pro rok 2026 kandiduje na 3. místě pirátské listiny v Praze 5 – podle programu zodpovídá za oblast rodin a seniorů.",
+  "vzdelani": "PhDr. (obor a vysoká škola nebyly v dostupných zdrojích upřesněny)",
+  "profese": "překladatelka, dříve učitelka",
+  "politicka_historie": [],
+  "vysledky": [],
+  "pripady": [],
+  "plneni_slibu": {
+    "skore": null,
+    "oduvodneni": "Bez historického záznamu z výkonné funkce na úrovni MČ.",
+    "priklady": []
+  },
+  "zajmy_a_majetek": {
+    "firmy": [],
+    "registr_oznameni_url": null,
+    "poznamka": null
+  },
+  "citace": [],
+  "zdroje": [
+    {
+      "nazev": "Brief ČSÚ - kandidátní listiny Praha 5 2026",
+      "url": "https://programydovoleb.cz/volby/komunalni-volby/176/obec/500143",
+      "datum": "2026-10-02"
+    },
+    {
+      "nazev": "Piráti Praha 5 - volební program 2026",
+      "url": "https://www.pirati-praha5.cz/program",
+      "datum": "2026-10-02"
+    }
+  ],
+  "mezery_v_datech": [
+    "Žádný další veřejný záznam o politické činnosti nebyl dohledán - jde o novou kandidátku."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}

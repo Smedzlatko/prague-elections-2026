@@ -1,0 +1,99 @@
+{
+  "slug": "mc-praha-14-7-my-pro-prahu-14-pirati-praha-14-sobe",
+  "assembly_id": "mc-praha-14",
+  "list_cislo": 7,
+  "nazev": "MY pro Prahu 14 – Piráti, Praha 14 sobě, Zelení",
+  "zkratka": "MY pro Prahu 14",
+  "typ": "koalice",
+  "slozeni": [
+    "Zelení",
+    "Piráti",
+    "PRAHA SOBĚ"
+  ],
+  "web": null,
+  "program": {
+    "nalezen": true,
+    "zdroje": [
+      {
+        "nazev": "MY pro Prahu 14 - Čtrnáctero",
+        "url": "https://myproprahu14.cz/index.html#ctrnactero",
+        "datum": "2026-10-02"
+      }
+    ],
+    "shrnuti": "Koalice Pirátů, Praha 14 sobě a Zelených předkládá tzv. Čtrnáctero – 14 bodů zaměřených na lepší údržbu veřejného prostoru, dostatečnou kapacitu škol a školek, rezidentní parkovací zóny u metra, výsadbu zeleně kvůli suchu a přívalovým srážkám a podmínku, že nová výstavba musí přinášet i školy, služby a veřejný prostor pro stávající obyvatele.",
+    "priority": [
+      {
+        "oblast": "skolstvi",
+        "nazev": "Dostatečná kapacita škol a školek",
+        "popis": "Zajištění kapacity tak, aby rodiny nemusely každoročně řešit nejistotu s umístěním dětí.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Závisí na investicích do nových kapacit, které MČ může ovlivnit jen částečně."
+        },
+        "zdroj_url": "https://myproprahu14.cz/index.html#ctrnactero"
+      },
+      {
+        "oblast": "doprava",
+        "nazev": "Rezidentní parkovací zóny u stanic metra",
+        "popis": "Zóny mají sloužit především místním obyvatelům, ne dojíždějícím.",
+        "citace": "aby parkování sloužilo především místním",
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "vysoka",
+          "oduvodneni": "Parkovací zóny jsou v přímé gesci MČ a již fungují v dalších městských částech."
+        },
+        "zdroj_url": "https://myproprahu14.cz/index.html#ctrnactero"
+      },
+      {
+        "oblast": "uzemni_rozvoj",
+        "nazev": "Nová výstavba musí přinášet veřejnou vybavenost",
+        "popis": "Developeři mají při nové výstavbě přispívat na školy, služby a veřejný prostor pro stávající obyvatele.",
+        "citace": null,
+        "merytelne": false,
+        "konkretnost": "stredni",
+        "realizovatelnost": {
+          "hodnoceni": "stredni",
+          "oduvodneni": "Vyžaduje vyjednávací sílu MČ v územním řízení a spolupráci s magistrátem."
+        },
+        "zdroj_url": "https://myproprahu14.cz/index.html#ctrnactero"
+      }
+    ],
+    "oblasti": null
+  },
+  "ideologie": {
+    "ekonomicka_osa": null,
+    "hodnotova_osa": null,
+    "oduvodneni": null,
+    "zdroje": []
+  },
+  "bilance_2022_2026": {
+    "byla_v_koalici": null,
+    "role": "Koalice navazuje na dva samostatné subjekty z roku 2022: „Piráti a nezávislí s podporou Zelených“ (3 mandáty, 9,38 %) a „PRAHA 14 SOBĚ“ (4 mandáty, 11,02 %), dohromady tedy 7 z 31 mandátů.",
+    "splnene_sliby": [],
+    "castecne": [],
+    "nesplnene_sliby": [],
+    "shrnuti": "Na kandidátce 2026 je Petr Hukal (poř. 4) uveden jako „bývalý místostarosta Prahy 14 pro dopravu“ – naznačuje to, že během období 2022-2026 přišel o radniční funkci, přesné okolnosti a datum této změny se ale nepodařilo doložit (viz data/research/districts/mc-praha-14.json). Zda byla koalice v radě, nebo v opozici po celé období, nebylo možné jednoznačně ověřit."
+  },
+  "kontroverze": [],
+  "hodnoceni": {
+    "konkretnost_programu": 2,
+    "doveryhodnost_plneni": null,
+    "transparentnost": 3,
+    "oduvodneni": "Program pojmenovává konkrétní opatření (parkovací zóny, podmínky pro developery), většinou ale bez čísel a termínů. Transparentnost +1 za zveřejněný program, +1 za zápisy zastupitelstva, +1 za dohledatelné funkce a politickou historii více kandidátů z první pětky (všichni inkumbenti).",
+    "metodika": "data/research/METODIKA.md"
+  },
+  "lidri": [
+    "zeman-petr"
+  ],
+  "mezery_v_datech": [
+    "Okolnosti a přesné datum odchodu Petra Hukala z funkce místostarosty pro dopravu nebyly doloženy.",
+    "Program neuvádí rozpočtové krytí jednotlivých opatření.",
+    "Nebylo ověřeno, zda byla koalice v letech 2022-2026 součástí rady MČ."
+  ],
+  "confidence": "nizka",
+  "posledni_aktualizace": "2026-10-02"
+}
